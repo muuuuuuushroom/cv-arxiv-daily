@@ -12,6 +12,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#multimodal>Multimodal</a></li>
+    <li><a href=#counting>Counting</a></li>
   </ol>
 </details>
 
@@ -29,6 +30,23 @@
 |**2025-11-18**|**Enhancing Agentic Autonomous Scientific Discovery with Vision-Language Model Capabilities**|Kahaan Gandhi et.al.|[2511.14631](http://arxiv.org/abs/2511.14631)|null|
 |**2025-11-18**|**Is Your VLM for Autonomous Driving Safety-Ready? A Comprehensive Benchmark for Evaluating External and In-Cabin Risks**|Xianhui Meng et.al.|[2511.14592](http://arxiv.org/abs/2511.14592)|null|
 |**2025-11-18**|**OmniZip: Audio-Guided Dynamic Token Compression for Fast Omnimodal Large Language Models**|Keda Tao et.al.|[2511.14582](http://arxiv.org/abs/2511.14582)|null|
+
+<p align=right>(<a href=#updated-on-20251119>back to top</a>)</p>
+
+## Counting
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-11-18**|**2D Gaussians Spatial Transport for Point-supervised Density Regression**|Miao Shang et.al.|[2511.14477](http://arxiv.org/abs/2511.14477)|null|
+|**2025-11-18**|**ArchMap: Arch-Flattening and Knowledge-Guided Vision Language Model for Tooth Counting and Structured Dental Understanding**|Bohan Zhang et.al.|[2511.14336](http://arxiv.org/abs/2511.14336)|null|
+|**2025-11-16**|**Rank-Aware Agglomeration of Foundation Models for Immunohistochemistry Image Cell Counting**|Zuqi Huang et.al.|[2511.12588](http://arxiv.org/abs/2511.12588)|null|
+|**2025-11-12**|**Density Estimation and Crowd Counting**|Balachandra Devarangadi Sunil et.al.|[2511.09723](http://arxiv.org/abs/2511.09723)|null|
+|**2025-10-30**|**Proxemics and Permeability of the Pedestrian Group**|Saleh Albeaik et.al.|[2510.26571](http://arxiv.org/abs/2510.26571)|null|
+|**2025-10-27**|**CountFormer: A Transformer Framework for Learning Visual Repetition and Structure in Class-Agnostic Object Counting**|Md Tanvir Hossain et.al.|[2510.23785](http://arxiv.org/abs/2510.23785)|null|
+|**2025-10-15**|**Real-Time Crowd Counting for Embedded Systems with Lightweight Architecture**|Zhiyuan Zhao et.al.|[2510.13250](http://arxiv.org/abs/2510.13250)|null|
+|**2025-10-02**|**MMDEW: Multipurpose Multiclass Density Estimation in the Wild**|Villanelle O'Reilly et.al.|[2510.02213](http://arxiv.org/abs/2510.02213)|null|
+|**2025-09-29**|**Foggy Crowd Counting: Combining Physical Priors and KAN-Graph**|Yuhao Wang et.al.|[2509.24545](http://arxiv.org/abs/2509.24545)|null|
+|**2025-09-29**|**TP-MVCC: Tri-plane Multi-view Fusion Model for Silkie Chicken Counting**|Sirui Chen et.al.|[2509.24329](http://arxiv.org/abs/2509.24329)|null|
 
 <p align=right>(<a href=#updated-on-20251119>back to top</a>)</p>
 
