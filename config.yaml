@@ -24,6 +24,8 @@ md_wechat_path: './docs/wechat.md'
 keywords:
   "Multimodal":
       filters: ["Multimodal", "Vision and Language", "Vision-Language"]
+  "Counting":
+      filters: ["Counting", "Crowd Counting", "class-agnostic counting"]
     # "SLAM": 
     #     filters: ["SLAM", "Visual Odometry"]
     # "SFM":
