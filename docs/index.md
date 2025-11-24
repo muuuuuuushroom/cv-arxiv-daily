@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.11.21
+## Updated on 2025.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,6 +16,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-21**|**RynnVLA-002: A Unified Vision-Language-Action and World Model**|Jun Cen et.al.|[2511.17502](http://arxiv.org/abs/2511.17502)|null|
+|**2025-11-21**|**HALO: High-Altitude Language-Conditioned Monocular Aerial Exploration and Navigation**|Yuezhan Tao et.al.|[2511.17497](http://arxiv.org/abs/2511.17497)|null|
+|**2025-11-21**|**Downscaling Intelligence: Exploring Perception and Reasoning Bottlenecks in Small Multimodal Models**|Mark Endo et.al.|[2511.17487](http://arxiv.org/abs/2511.17487)|**[link](https://github.com/markendo/downscaling_intelligence)**|
+|**2025-11-21**|**Counterfactual World Models via Digital Twin-conditioned Video Diffusion**|Yiqing Shen et.al.|[2511.17481](http://arxiv.org/abs/2511.17481)|null|
+|**2025-11-21**|**Planning with Sketch-Guided Verification for Physics-Aware Video Generation**|Yidong Huang et.al.|[2511.17450](http://arxiv.org/abs/2511.17450)|null|
+|**2025-11-21**|**MMT-ARD: Multimodal Multi-Teacher Adversarial Distillation for Robust Vision-Language Models**|Yuqi Li et.al.|[2511.17448](http://arxiv.org/abs/2511.17448)|null|
+|**2025-11-21**|**REMSA: An LLM Agent for Foundation Model Selection in Remote Sensing**|Binger Chen et.al.|[2511.17442](http://arxiv.org/abs/2511.17442)|null|
+|**2025-11-21**|**SMILE: A Composite Lexical-Semantic Metric for Question-Answering Evaluation**|Shrikant Kendre et.al.|[2511.17432](http://arxiv.org/abs/2511.17432)|null|
+|**2025-11-21**|**SPEAR-1: Scaling Beyond Robot Demonstrations via 3D Understanding**|Nikolay Nikolov et.al.|[2511.17411](http://arxiv.org/abs/2511.17411)|null|
+|**2025-11-21**|**IndustryNav: Exploring Spatial Reasoning of Embodied Agents in Dynamic Industrial Navigation**|Yifan Li et.al.|[2511.17384](http://arxiv.org/abs/2511.17384)|null|
 |**2025-11-20**|**Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation**|Ziyu Guo et.al.|[2511.16671](http://arxiv.org/abs/2511.16671)|null|
 |**2025-11-20**|**Learning to Think Fast and Slow for Visual Language Models**|Chenyu Lin et.al.|[2511.16670](http://arxiv.org/abs/2511.16670)|null|
 |**2025-11-20**|**Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO**|Junhao Cheng et.al.|[2511.16669](http://arxiv.org/abs/2511.16669)|**[link](https://github.com/KlingTeam/VANS)**|
@@ -41,10 +51,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-11-18**|**2D Gaussians Spatial Transport for Point-supervised Density Regression**|Miao Shang et.al.|[2511.14477](http://arxiv.org/abs/2511.14477)|**[link](https://github.com/infinite0522/GST)**|
+|**2025-11-21**|**Performance Simulations for Kola: Achieving High-Resolution, Visible-Light AO Correction Over a 1 Arcminute Field**|Brianna Peck et.al.|[2511.17488](http://arxiv.org/abs/2511.17488)|null|
+|**2025-11-18**|**2D Gaussians Spatial Transport for Point-supervised Density Regression**|Miao Shang et.al.|[2511.14477](http://arxiv.org/abs/2511.14477)|null|
 |**2025-11-18**|**ArchMap: Arch-Flattening and Knowledge-Guided Vision Language Model for Tooth Counting and Structured Dental Understanding**|Bohan Zhang et.al.|[2511.14336](http://arxiv.org/abs/2511.14336)|null|
 |**2025-11-16**|**Rank-Aware Agglomeration of Foundation Models for Immunohistochemistry Image Cell Counting**|Zuqi Huang et.al.|[2511.12588](http://arxiv.org/abs/2511.12588)|null|
-|**2025-11-12**|**Density Estimation and Crowd Counting**|Balachandra Devarangadi Sunil et.al.|[2511.09723](http://arxiv.org/abs/2511.09723)|**[link](https://github.com/svishwa/crowdcount-cascaded-mtl)**|
+|**2025-11-12**|**Density Estimation and Crowd Counting**|Balachandra Devarangadi Sunil et.al.|[2511.09723](http://arxiv.org/abs/2511.09723)|null|
 |**2025-10-30**|**Proxemics and Permeability of the Pedestrian Group**|Saleh Albeaik et.al.|[2510.26571](http://arxiv.org/abs/2510.26571)|null|
 |**2025-10-27**|**CountFormer: A Transformer Framework for Learning Visual Repetition and Structure in Class-Agnostic Object Counting**|Md Tanvir Hossain et.al.|[2510.23785](http://arxiv.org/abs/2510.23785)|null|
 |**2025-10-15**|**Real-Time Crowd Counting for Embedded Systems with Lightweight Architecture**|Zhiyuan Zhao et.al.|[2510.13250](http://arxiv.org/abs/2510.13250)|null|
