@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.11.24
+## Updated on 2025.11.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-25**|**VibraVerse: A Large-Scale Geometry-Acoustics Alignment Dataset for Physically-Consistent Multimodal Learning**|Bo Pang et.al.|[2511.20422](http://arxiv.org/abs/2511.20422)|null|
+|**2025-11-25**|**NNGPT: Rethinking AutoML with Large Language Models**|Roman Kochnev et.al.|[2511.20333](http://arxiv.org/abs/2511.20333)|null|
+|**2025-11-25**|**ArtiBench and ArtiBrain: Benchmarking Generalizable Vision-Language Articulated Object Manipulation**|Yuhan Wu et.al.|[2511.20330](http://arxiv.org/abs/2511.20330)|null|
+|**2025-11-25**|**Bootstrapping Physics-Grounded Video Generation through VLM-Guided Iterative Self-Refinement**|Yang Liu et.al.|[2511.20280](http://arxiv.org/abs/2511.20280)|null|
+|**2025-11-25**|**ScenarioCLIP: Pretrained Transferable Visual Language Models and Action-Genome Dataset for Natural Scene Analysis**|Advik Sinha et.al.|[2511.20274](http://arxiv.org/abs/2511.20274)|null|
+|**2025-11-25**|**VKnowU: Evaluating Visual Knowledge Understanding in Multimodal LLMs**|Tianxiang Jiang et.al.|[2511.20272](http://arxiv.org/abs/2511.20272)|null|
+|**2025-11-25**|**Rectified Flow for Vision-Aided mmWave V2I Beam Prediction**|Can Zheng et.al.|[2511.20265](http://arxiv.org/abs/2511.20265)|null|
+|**2025-11-25**|**V-Attack: Targeting Disentangled Value Features for Controllable Adversarial Attacks on LVLMs**|Sen Nie et.al.|[2511.20223](http://arxiv.org/abs/2511.20223)|null|
+|**2025-11-25**|**Text-guided Controllable Diffusion for Realistic Camouflage Images Generation**|Yuhang Qian et.al.|[2511.20218](http://arxiv.org/abs/2511.20218)|null|
+|**2025-11-25**|**In-Context Compositional Learning via Sparse Coding Transformer**|Wei Chen et.al.|[2511.20194](http://arxiv.org/abs/2511.20194)|null|
 |**2025-11-21**|**RynnVLA-002: A Unified Vision-Language-Action and World Model**|Jun Cen et.al.|[2511.17502](http://arxiv.org/abs/2511.17502)|null|
 |**2025-11-21**|**HALO: High-Altitude Language-Conditioned Monocular Aerial Exploration and Navigation**|Yuezhan Tao et.al.|[2511.17497](http://arxiv.org/abs/2511.17497)|null|
 |**2025-11-21**|**Downscaling Intelligence: Exploring Perception and Reasoning Bottlenecks in Small Multimodal Models**|Mark Endo et.al.|[2511.17487](http://arxiv.org/abs/2511.17487)|**[link](https://github.com/markendo/downscaling_intelligence)**|
@@ -51,14 +61,15 @@
 |**2025-11-18**|**Is Your VLM for Autonomous Driving Safety-Ready? A Comprehensive Benchmark for Evaluating External and In-Cabin Risks**|Xianhui Meng et.al.|[2511.14592](http://arxiv.org/abs/2511.14592)|null|
 |**2025-11-18**|**OmniZip: Audio-Guided Dynamic Token Compression for Fast Omnimodal Large Language Models**|Keda Tao et.al.|[2511.14582](http://arxiv.org/abs/2511.14582)|null|
 
-<p align=right>(<a href=#updated-on-20251124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251126>back to top</a>)</p>
 
 ## Counting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-24**|**CellFMCount: A Fluorescence Microscopy Dataset, Benchmark, and Methods for Cell Counting**|Abdurahman Ali Mohammed et.al.|[2511.19351](http://arxiv.org/abs/2511.19351)|null|
 |**2025-11-21**|**Performance Simulations for Kola: Achieving High-Resolution, Visible-Light AO Correction Over a 1 Arcminute Field**|Brianna Peck et.al.|[2511.17488](http://arxiv.org/abs/2511.17488)|null|
-|**2025-11-18**|**2D Gaussians Spatial Transport for Point-supervised Density Regression**|Miao Shang et.al.|[2511.14477](http://arxiv.org/abs/2511.14477)|null|
+|**2025-11-24**|**2D Gaussians Spatial Transport for Point-supervised Density Regression**|Miao Shang et.al.|[2511.14477](http://arxiv.org/abs/2511.14477)|null|
 |**2025-11-18**|**ArchMap: Arch-Flattening and Knowledge-Guided Vision Language Model for Tooth Counting and Structured Dental Understanding**|Bohan Zhang et.al.|[2511.14336](http://arxiv.org/abs/2511.14336)|null|
 |**2025-11-16**|**Rank-Aware Agglomeration of Foundation Models for Immunohistochemistry Image Cell Counting**|Zuqi Huang et.al.|[2511.12588](http://arxiv.org/abs/2511.12588)|null|
 |**2025-11-12**|**Density Estimation and Crowd Counting**|Balachandra Devarangadi Sunil et.al.|[2511.09723](http://arxiv.org/abs/2511.09723)|null|
@@ -69,7 +80,7 @@
 |**2025-09-29**|**Foggy Crowd Counting: Combining Physical Priors and KAN-Graph**|Yuhao Wang et.al.|[2509.24545](http://arxiv.org/abs/2509.24545)|null|
 |**2025-09-29**|**TP-MVCC: Tri-plane Multi-view Fusion Model for Silkie Chicken Counting**|Sirui Chen et.al.|[2509.24329](http://arxiv.org/abs/2509.24329)|null|
 
-<p align=right>(<a href=#updated-on-20251124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251126>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
