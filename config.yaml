@@ -20,12 +20,23 @@ md_readme_path: 'README.md'
 md_gitpage_path: './docs/index.md'
 md_wechat_path: './docs/wechat.md'
 
+# project page: https://muuuuuuushroom.github.io/cv-arxiv-daily/
 # keywords to search
 keywords:
   "Multimodal":
-      filters: ["Multimodal", "Vision and Language", "Vision-Language"]
+      filters: ["Multimodal", "Vision and Language", "Vision-Language", "Grounding", "Query-based"]
   "Counting":
-      filters: ["Counting", "Crowd Counting", "class-agnostic counting"]
+      filters: ["Counting", "Crowd Counting", "class-agnostic counting", "referring expression counting"]
+  "Dense Prediction": 
+      filters: ["Dense Prediction", "Semantic Segmentation", "Depth Estimation", "Image Matting", "Object Detection", "Instance Segmentation", "Pose Estimation", "Image Denoising"]
+  "Model Components": 
+      filters: ["Upsampling", "Downsampling", "Encoder-Decoder", "Feature Sampling", "Dynamic Upsampling", "Task-agnostic Upsampling", "Query Group"]
+  "Unified Architectures":
+      filters: ["Unified Perceptual Parsing", "Generalist Vision Model", "One Model for All Tasks", "Universal Image Segmentation", "Multi-task Dense Prediction"]
+  "Mechanism Specific":
+      filters: ["Query-based Learning", "Task Prompts", "Mask Classification", "Transformer Decoder", "Unified Output Space"]
+  "Foundation Models":
+      filters: ["Vision Foundation Models", "Large Vision Models", "Vision Model Scaling", "Scaling Vision Models", "Scaling Laws for Vision Models", "Scaling Vision Transformers", "Scaling Laws for Vision Transformers", "LVM"]
     # "SLAM": 
     #     filters: ["SLAM", "Visual Odometry"]
     # "SFM":
