@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.12.09
+## Updated on 2025.12.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -25,9 +25,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-10**|**Representation Invariance and Allocation: When Subgroup Balance Matters**|Anissa Alloula et.al.|[2512.09496](http://arxiv.org/abs/2512.09496)|null|
+|**2025-12-09**|**Same Content, Different Answers: Cross-Modal Inconsistency in MLLMs**|Angela van Sprang et.al.|[2512.08923](http://arxiv.org/abs/2512.08923)|null|
+|**2025-12-09**|**Aerial Vision-Language Navigation with a Unified Framework for Spatial, Temporal and Embodied Reasoning**|Huilin Xu et.al.|[2512.08639](http://arxiv.org/abs/2512.08639)|null|
+|**2025-12-09**|**Ground Slow, Move Fast: A Dual-System Foundation Model for Generalizable Vision-and-Language Navigation**|Meng Wei et.al.|[2512.08186](http://arxiv.org/abs/2512.08186)|null|
 |**2025-12-08**|**All You Need Are Random Visual Tokens? Demystifying Token Pruning in VLLMs**|Yahong Wang et.al.|[2512.07580](http://arxiv.org/abs/2512.07580)|null|
 |**2025-12-05**|**Distilling Expert Surgical Knowledge: How to train local surgical VLMs for anatomy explanation in Complete Mesocolic Excision**|Lennart Maack et.al.|[2512.05740](http://arxiv.org/abs/2512.05740)|null|
-|**2025-12-05**|**HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies**|Zhiying Du et.al.|[2512.05693](http://arxiv.org/abs/2512.05693)|**[link](https://github.com/ZhiyingDu/HiMoE-VLA)**|
+|**2025-12-05**|**HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies**|Zhiying Du et.al.|[2512.05693](http://arxiv.org/abs/2512.05693)|null|
 |**2025-12-04**|**DraCo: Draft as CoT for Text-to-Image Preview and Rare Concept Generation**|Dongzhi Jiang et.al.|[2512.05112](http://arxiv.org/abs/2512.05112)|**[link](https://github.com/CaraJ7/DraCo)**|
 |**2025-12-04**|**ARM-Thinker: Reinforcing Multimodal Generative Reward Models with Agentic Tool Use and Visual Reasoning**|Shengyuan Ding et.al.|[2512.05111](http://arxiv.org/abs/2512.05111)|**[link](https://github.com/InternLM/ARM-Thinker)**|
 |**2025-12-04**|**STARE-VLA: Progressive Stage-Aware Reinforcement for Fine-Tuning Vision-Language-Action Models**|Feng Xu et.al.|[2512.05107](http://arxiv.org/abs/2512.05107)|null|
@@ -43,12 +47,12 @@
 |**2025-12-03**|**Jina-VLM: Small Multilingual Vision Language Model**|Andreas Koukounas et.al.|[2512.04032](http://arxiv.org/abs/2512.04032)|null|
 |**2025-12-03**|**DIQ-H: Evaluating Hallucination Persistence in VLMs Under Temporal Visual Degradation**|Zexin Lin et.al.|[2512.03992](http://arxiv.org/abs/2512.03992)|null|
 |**2025-12-03**|**TempR1: Improving Temporal Understanding of MLLMs via Temporal-Aware Multi-Task Reinforcement Learning**|Tao Wu et.al.|[2512.03963](http://arxiv.org/abs/2512.03963)|null|
-|**2025-12-03**|**MDE-AgriVLN: Agricultural Vision-and-Language Navigation with Monocular Depth Estimation**|Xiaobei Zhao et.al.|[2512.03958](http://arxiv.org/abs/2512.03958)|**[link](https://github.com/AlexTraveling/MDE-AgriVLN)**|
+|**2025-12-03**|**MDE-AgriVLN: Agricultural Vision-and-Language Navigation with Monocular Depth Estimation**|Xiaobei Zhao et.al.|[2512.03958](http://arxiv.org/abs/2512.03958)|null|
 |**2025-12-03**|**Hierarchical Vision Language Action Model Using Success and Failure Demonstrations**|Jeongeun Park et.al.|[2512.03913](http://arxiv.org/abs/2512.03913)|null|
 |**2025-12-03**|**OmniDexVLG: Learning Dexterous Grasp Generation from Vision Language Model-Guided Grasp Semantics, Taxonomy and Functional Affordance**|Lei Zhang et.al.|[2512.03874](http://arxiv.org/abs/2512.03874)|null|
 |**2025-12-03**|**PULSE: A Unified Multi-Task Architecture for Cardiac Segmentation, Diagnosis, and Few-Shot Cross-Modality Clinical Adaptation**|Hania Ghouse et.al.|[2512.03848](http://arxiv.org/abs/2512.03848)|null|
 |**2025-12-03**|**AdaptVision: Efficient Vision-Language Models via Adaptive Visual Acquisition**|Zichuan Lin et.al.|[2512.03794](http://arxiv.org/abs/2512.03794)|null|
-|**2025-12-02**|**Pianist Transformer: Towards Expressive Piano Performance Rendering via Scalable Self-Supervised Pre-Training**|Hong-Jie You et.al.|[2512.02652](http://arxiv.org/abs/2512.02652)|**[link](https://github.com/yhj137/PianistTransformer)**|
+|**2025-12-02**|**Pianist Transformer: Towards Expressive Piano Performance Rendering via Scalable Self-Supervised Pre-Training**|Hong-Jie You et.al.|[2512.02652](http://arxiv.org/abs/2512.02652)|null|
 |**2025-12-02**|**WISE: Weighted Iterative Society-of-Experts for Robust Multimodal Multi-Agent Debate**|Anoop Cherian et.al.|[2512.02405](http://arxiv.org/abs/2512.02405)|null|
 |**2025-11-30**|**DEJIMA: A Novel Large-scale Japanese Dataset for Image Captioning and Visual Question Answering**|Toshiki Katsube et.al.|[2512.00773](http://arxiv.org/abs/2512.00773)|null|
 |**2025-11-28**|**Bandit Guided Submodular Curriculum for Adaptive Subset Selection**|Prateek Chanda et.al.|[2511.22944](http://arxiv.org/abs/2511.22944)|null|
@@ -115,7 +119,7 @@
 |**2025-11-18**|**Is Your VLM for Autonomous Driving Safety-Ready? A Comprehensive Benchmark for Evaluating External and In-Cabin Risks**|Xianhui Meng et.al.|[2511.14592](http://arxiv.org/abs/2511.14592)|null|
 |**2025-11-18**|**OmniZip: Audio-Guided Dynamic Token Compression for Fast Omnimodal Large Language Models**|Keda Tao et.al.|[2511.14582](http://arxiv.org/abs/2511.14582)|null|
 
-<p align=right>(<a href=#updated-on-20251209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 ## Counting
 
@@ -140,12 +144,22 @@
 |**2025-09-29**|**TP-MVCC: Tri-plane Multi-view Fusion Model for Silkie Chicken Counting**|Sirui Chen et.al.|[2509.24329](http://arxiv.org/abs/2509.24329)|null|
 |**2025-09-26**|**Multi-View Crowd Counting With Self-Supervised Learning**|Hong Mo et.al.|[2509.21918](http://arxiv.org/abs/2509.21918)|null|
 
-<p align=right>(<a href=#updated-on-20251209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 ## Dense Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-10**|**NordFKB: a fine-grained benchmark dataset for geospatial AI in Norway**|Sander Riisøen Jyhne et.al.|[2512.09913](http://arxiv.org/abs/2512.09913)|null|
+|**2025-12-10**|**FastPose-ViT: A Vision Transformer for Real-Time Spacecraft Pose Estimation**|Pierre Ancey et.al.|[2512.09792](http://arxiv.org/abs/2512.09792)|null|
+|**2025-12-10**|**Hands-on Evaluation of Visual Transformers for Object Recognition and Detection**|Dimitrios N. Vlachogiannis et.al.|[2512.09579](http://arxiv.org/abs/2512.09579)|null|
+|**2025-12-10**|**MODA: The First Challenging Benchmark for Multispectral Object Detection in Aerial Images**|Shuaihao Han et.al.|[2512.09489](http://arxiv.org/abs/2512.09489)|null|
+|**2025-12-10**|**A Hierarchical, Model-Based System for High-Performance Humanoid Soccer**|Quanyou Wang et.al.|[2512.09431](http://arxiv.org/abs/2512.09431)|null|
+|**2025-12-10**|**ASSIST-3D: Adapted Scene Synthesis for Class-Agnostic 3D Instance Segmentation**|Shengchao Zhou et.al.|[2512.09364](http://arxiv.org/abs/2512.09364)|null|
+|**2025-12-10**|**Development and Testing for Perception Based Autonomous Landing of a Long-Range QuadPlane**|Ashik E Rasul et.al.|[2512.09343](http://arxiv.org/abs/2512.09343)|null|
+|**2025-12-10**|**ROI-Packing: Efficient Region-Based Compression for Machine Vision**|Md Eimran Hossain Eimon et.al.|[2512.09258](http://arxiv.org/abs/2512.09258)|null|
+|**2025-12-09**|**SIP: Site in Pieces- A Dataset of Disaggregated Construction-Phase 3D Scans for Semantic Segmentation and Scene Understanding**|Seongyong Kim et.al.|[2512.09062](http://arxiv.org/abs/2512.09062)|null|
+|**2025-12-09**|**ConceptPose: Training-Free Zero-Shot Object Pose Estimation using Concept Vectors**|Liming Kuang et.al.|[2512.09056](http://arxiv.org/abs/2512.09056)|null|
 |**2025-12-08**|**UltrasODM: A Dual Stream Optical Flow Mamba Network for 3D Freehand Ultrasound Reconstruction**|Mayank Anand et.al.|[2512.07756](http://arxiv.org/abs/2512.07756)|null|
 |**2025-12-08**|**UnCageNet: Tracking and Pose Estimation of Caged Animal**|Sayak Dutta et.al.|[2512.07712](http://arxiv.org/abs/2512.07712)|null|
 |**2025-12-08**|**An AI-Powered Autonomous Underwater System for Sea Exploration and Scientific Research**|Hamad Almazrouei et.al.|[2512.07652](http://arxiv.org/abs/2512.07652)|null|
@@ -197,7 +211,7 @@
 |**2025-11-26**|**Video Generation Models Are Good Latent Reward Models**|Xiaoyue Mi et.al.|[2511.21541](http://arxiv.org/abs/2511.21541)|null|
 |**2025-11-26**|**CanKD: Cross-Attention-based Non-local operation for Feature-based Knowledge Distillation**|Shizhe Sun et.al.|[2511.21503](http://arxiv.org/abs/2511.21503)|null|
 
-<p align=right>(<a href=#updated-on-20251209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 ## Model Components
 
@@ -254,7 +268,7 @@
 |**2025-09-23**|**CALL: Context-Aware Low-Latency Retrieval in Disk-Based Vector Databases**|Yeonwoo Jeong et.al.|[2509.18670](http://arxiv.org/abs/2509.18670)|null|
 |**2025-09-17**|**Parallelizable Feynman-Kac Models for Universal Probabilistic Programming**|Michele Boreale et.al.|[2509.14092](http://arxiv.org/abs/2509.14092)|null|
 
-<p align=right>(<a href=#updated-on-20251209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 ## Unified Architectures
 
@@ -299,15 +313,16 @@
 |**2025-07-25**|**Multi-Task Dense Prediction Fine-Tuning with Mixture of Fine-Grained Experts**|Yangyang Xu et.al.|[2507.19077](http://arxiv.org/abs/2507.19077)|null|
 |**2025-11-12**|**OpenWorldSAM: Extending SAM2 for Universal Image Segmentation with Language Prompts**|Shiting Xiao et.al.|[2507.05427](http://arxiv.org/abs/2507.05427)|null|
 |**2025-06-12**|**The Optimization Paradox in Clinical AI Multi-Agent Systems**|Suhana Bedi et.al.|[2506.06574](http://arxiv.org/abs/2506.06574)|null|
-|**2025-05-26**|**The Missing Point in Vision Transformers for Universal Image Segmentation**|Sajjad Shahabodini et.al.|[2505.19795](http://arxiv.org/abs/2505.19795)|null|
+|**2025-12-09**|**The Missing Point in Vision Transformers for Universal Image Segmentation**|Sajjad Shahabodini et.al.|[2505.19795](http://arxiv.org/abs/2505.19795)|null|
 |**2025-01-02**|**Evidential Calibrated Uncertainty-Guided Interactive Segmentation paradigm for Ultrasound Images**|Jiang Shang et.al.|[2501.01072](http://arxiv.org/abs/2501.01072)|null|
 
-<p align=right>(<a href=#updated-on-20251209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 ## Mechanism Specific
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-09**|**SegEarth-OV3: Exploring SAM 3 for Open-Vocabulary Semantic Segmentation in Remote Sensing Images**|Kaiyu Li et.al.|[2512.08730](http://arxiv.org/abs/2512.08730)|null|
 |**2025-12-08**|**Towards Accurate UAV Image Perception: Guiding Vision-Language Models with Stronger Task Prompts**|Mingning Guo et.al.|[2512.07302](http://arxiv.org/abs/2512.07302)|null|
 |**2025-12-06**|**DragMesh: Interactive 3D Generation Made Easy**|Tianshan Zhang et.al.|[2512.06424](http://arxiv.org/abs/2512.06424)|null|
 |**2025-12-05**|**Decoding with Structured Awareness: Integrating Directional, Frequency-Spatial, and Structural Attention for Medical Image Segmentation**|Fan Zhang et.al.|[2512.05494](http://arxiv.org/abs/2512.05494)|null|
@@ -357,14 +372,18 @@
 |**2025-11-24**|**Life-IQA: Boosting Blind Image Quality Assessment through GCN-enhanced Layer Interaction and MoE-based Feature Decoupling**|Long Tang et.al.|[2511.19024](http://arxiv.org/abs/2511.19024)|null|
 |**2025-11-21**|**Multi-Agent Pointer Transformer: Seq-to-Seq Reinforcement Learning for Multi-Vehicle Dynamic Pickup-Delivery Problems**|Zengyu Zou et.al.|[2511.17435](http://arxiv.org/abs/2511.17435)|null|
 
-<p align=right>(<a href=#updated-on-20251209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 ## Foundation Models
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-10**|**FlipLLM: Efficient Bit-Flip Attacks on Multimodal LLMs using Reinforcement Learning**|Khurram Khalil et.al.|[2512.09872](http://arxiv.org/abs/2512.09872)|null|
+|**2025-12-10**|**From SAM to DINOv2: Towards Distilling Foundation Models to Lightweight Baselines for Generalized Polyp Segmentation**|Shivanshu Agnihotri et.al.|[2512.09307](http://arxiv.org/abs/2512.09307)|null|
+|**2025-12-09**|**Selfi: Self Improving Reconstruction Engine via 3D Geometric Feature Alignment**|Youming Deng et.al.|[2512.08930](http://arxiv.org/abs/2512.08930)|null|
+|**2025-12-09**|**Repulsor: Accelerating Generative Modeling with a Contrastive Memory Bank**|Shaofeng Zhang et.al.|[2512.08648](http://arxiv.org/abs/2512.08648)|null|
 |**2025-12-08**|**Online Segment Any 3D Thing as Instance Tracking**|Hanshi Wang et.al.|[2512.07599](http://arxiv.org/abs/2512.07599)|null|
-|**2025-12-08**|**VFM-VLM: Vision Foundation Model and Vision Language Model based Visual Comparison for 3D Pose Estimation**|Md Selim Sarowar et.al.|[2512.07215](http://arxiv.org/abs/2512.07215)|null|
+|**2025-12-09**|**VFM-VLM: Vision Foundation Model and Vision Language Model based Visual Comparison for 3D Pose Estimation**|Md Selim Sarowar et.al.|[2512.07215](http://arxiv.org/abs/2512.07215)|null|
 |**2025-12-05**|**SpectraIrisPAD: Leveraging Vision Foundation Models for Spectrally Conditioned Multispectral Iris Presentation Attack Detection**|Raghavendra Ramachandra et.al.|[2512.06103](http://arxiv.org/abs/2512.06103)|null|
 |**2025-12-05**|**Neural Coherence : Find higher performance to out-of-distribution tasks from few samples**|Simon Guiroy et.al.|[2512.05880](http://arxiv.org/abs/2512.05880)|null|
 |**2025-12-05**|**See in Depth: Training-Free Surgical Scene Segmentation with Monocular Depth Priors**|Kunyi Yang et.al.|[2512.05529](http://arxiv.org/abs/2512.05529)|null|
@@ -414,7 +433,7 @@
 |**2025-11-26**|**SAM Guided Semantic and Motion Changed Region Mining for Remote Sensing Change Captioning**|Futian Wang et.al.|[2511.21420](http://arxiv.org/abs/2511.21420)|null|
 |**2025-11-26**|**Do Reasoning Vision-Language Models Inversely Scale in Test-Time Compute? A Distractor-centric Empirical Analysis**|Jiyun Bae et.al.|[2511.21397](http://arxiv.org/abs/2511.21397)|null|
 
-<p align=right>(<a href=#updated-on-20251209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
