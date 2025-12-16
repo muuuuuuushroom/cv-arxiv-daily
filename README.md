@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.12.11
+## Updated on 2025.12.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -25,6 +25,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-14**|**D3D-VLP: Dynamic 3D Vision-Language-Planning Model for Embodied Grounding and Navigation**|Zihan Wang et.al.|[2512.12622](http://arxiv.org/abs/2512.12622)|null|
+|**2025-12-11**|**CLASH: Collaborative Large-Small Hierarchical Framework for Continuous Vision-and-Language Navigation**|Liuyi Wang et.al.|[2512.10360](http://arxiv.org/abs/2512.10360)|null|
+|**2025-12-11**|**User-Feedback-Driven Continual Adaptation for Vision-and-Language Navigation**|Yongqiang Yu et.al.|[2512.10322](http://arxiv.org/abs/2512.10322)|null|
 |**2025-12-10**|**Representation Invariance and Allocation: When Subgroup Balance Matters**|Anissa Alloula et.al.|[2512.09496](http://arxiv.org/abs/2512.09496)|null|
 |**2025-12-09**|**Same Content, Different Answers: Cross-Modal Inconsistency in MLLMs**|Angela van Sprang et.al.|[2512.08923](http://arxiv.org/abs/2512.08923)|null|
 |**2025-12-09**|**Aerial Vision-Language Navigation with a Unified Framework for Spatial, Temporal and Embodied Reasoning**|Huilin Xu et.al.|[2512.08639](http://arxiv.org/abs/2512.08639)|null|
@@ -119,7 +122,7 @@
 |**2025-11-18**|**Is Your VLM for Autonomous Driving Safety-Ready? A Comprehensive Benchmark for Evaluating External and In-Cabin Risks**|Xianhui Meng et.al.|[2511.14592](http://arxiv.org/abs/2511.14592)|null|
 |**2025-11-18**|**OmniZip: Audio-Guided Dynamic Token Compression for Fast Omnimodal Large Language Models**|Keda Tao et.al.|[2511.14582](http://arxiv.org/abs/2511.14582)|null|
 
-<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251216>back to top</a>)</p>
 
 ## Counting
 
@@ -144,12 +147,22 @@
 |**2025-09-29**|**TP-MVCC: Tri-plane Multi-view Fusion Model for Silkie Chicken Counting**|Sirui Chen et.al.|[2509.24329](http://arxiv.org/abs/2509.24329)|null|
 |**2025-09-26**|**Multi-View Crowd Counting With Self-Supervised Learning**|Hong Mo et.al.|[2509.21918](http://arxiv.org/abs/2509.21918)|null|
 
-<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251216>back to top</a>)</p>
 
 ## Dense Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-13**|**BokehDepth: Enhancing Monocular Depth Estimation through Bokeh Generation**|Hangwei Zhang et.al.|[2512.12425](http://arxiv.org/abs/2512.12425)|null|
+|**2025-12-13**|**INDOOR-LiDAR: Bridging Simulation and Reality for Robot-Centric 360 degree Indoor LiDAR Perception -- A Robot-Centric Hybrid Dataset**|Haichuan Li et.al.|[2512.12377](http://arxiv.org/abs/2512.12377)|null|
+|**2025-12-13**|**WeDetect: Fast Open-Vocabulary Object Detection as Retrieval**|Shenghao Fu et.al.|[2512.12309](http://arxiv.org/abs/2512.12309)|null|
+|**2025-12-13**|**OMUDA: Omni-level Masking for Unsupervised Domain Adaptation in Semantic Segmentation**|Yang Ou et.al.|[2512.12303](http://arxiv.org/abs/2512.12303)|null|
+|**2025-12-13**|**Cognitive-YOLO: LLM-Driven Architecture Synthesis from First Principles of Data for Object Detection**|Jiahao Zhao et.al.|[2512.12281](http://arxiv.org/abs/2512.12281)|null|
+|**2025-12-13**|**Audio-Visual Camera Pose Estimationn with Passive Scene Sounds and In-the-Wild Video**|Daniel Adebi et.al.|[2512.12165](http://arxiv.org/abs/2512.12165)|null|
+|**2025-12-13**|**AI-Augmented Pollen Recognition in Optical and Holographic Microscopy for Veterinary Imaging**|Swarn S. Warshaneyan et.al.|[2512.12101](http://arxiv.org/abs/2512.12101)|null|
+|**2025-12-12**|**Enhancing deep learning performance on burned area delineation from SPOT-6/7 imagery for emergency management**|Maria Rodriguez et.al.|[2512.12056](http://arxiv.org/abs/2512.12056)|null|
+|**2025-12-12**|**MatAnyone 2: Scaling Video Matting via a Learned Quality Evaluator**|Peiqing Yang et.al.|[2512.11782](http://arxiv.org/abs/2512.11782)|**[link](https://github.com/pq-yang/MatAnyone2)**|
+|**2025-12-12**|**ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics**|Britton Jordan et.al.|[2512.11773](http://arxiv.org/abs/2512.11773)|null|
 |**2025-12-10**|**NordFKB: a fine-grained benchmark dataset for geospatial AI in Norway**|Sander Riisøen Jyhne et.al.|[2512.09913](http://arxiv.org/abs/2512.09913)|null|
 |**2025-12-10**|**FastPose-ViT: A Vision Transformer for Real-Time Spacecraft Pose Estimation**|Pierre Ancey et.al.|[2512.09792](http://arxiv.org/abs/2512.09792)|null|
 |**2025-12-10**|**Hands-on Evaluation of Visual Transformers for Object Recognition and Detection**|Dimitrios N. Vlachogiannis et.al.|[2512.09579](http://arxiv.org/abs/2512.09579)|null|
@@ -211,7 +224,7 @@
 |**2025-11-26**|**Video Generation Models Are Good Latent Reward Models**|Xiaoyue Mi et.al.|[2511.21541](http://arxiv.org/abs/2511.21541)|null|
 |**2025-11-26**|**CanKD: Cross-Attention-based Non-local operation for Feature-based Knowledge Distillation**|Shizhe Sun et.al.|[2511.21503](http://arxiv.org/abs/2511.21503)|null|
 
-<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251216>back to top</a>)</p>
 
 ## Model Components
 
@@ -265,10 +278,10 @@
 |**2025-11-14**|**RFSoC Based LLRF System Design at ALS**|Qiang Du et.al.|[2510.13192](http://arxiv.org/abs/2510.13192)|null|
 |**2025-10-14**|**Kinematic Kitbashing for Modeling Functional Articulated Objects**|Minghao Guo et.al.|[2510.13048](http://arxiv.org/abs/2510.13048)|null|
 |**2025-10-10**|**Visual Anomaly Detection for Reliable Robotic Implantation of Flexible Microelectrode Array**|Yitong Chen et.al.|[2510.09071](http://arxiv.org/abs/2510.09071)|null|
-|**2025-09-23**|**CALL: Context-Aware Low-Latency Retrieval in Disk-Based Vector Databases**|Yeonwoo Jeong et.al.|[2509.18670](http://arxiv.org/abs/2509.18670)|null|
+|**2025-09-23**|**CALL: Context-Aware Low-Latency Retrieval in Disk-Based Vector Databases**|Yeonwoo Jeong et.al.|[2509.18670](http://arxiv.org/abs/2509.18670)|**[link](https://github.com/akssus12/CALL)**|
 |**2025-09-17**|**Parallelizable Feynman-Kac Models for Universal Probabilistic Programming**|Michele Boreale et.al.|[2509.14092](http://arxiv.org/abs/2509.14092)|null|
 
-<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251216>back to top</a>)</p>
 
 ## Unified Architectures
 
@@ -316,12 +329,14 @@
 |**2025-12-09**|**The Missing Point in Vision Transformers for Universal Image Segmentation**|Sajjad Shahabodini et.al.|[2505.19795](http://arxiv.org/abs/2505.19795)|null|
 |**2025-01-02**|**Evidential Calibrated Uncertainty-Guided Interactive Segmentation paradigm for Ultrasound Images**|Jiang Shang et.al.|[2501.01072](http://arxiv.org/abs/2501.01072)|null|
 
-<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251216>back to top</a>)</p>
 
 ## Mechanism Specific
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-12**|**TransBridge: Boost 3D Object Detection by Scene-Level Completion with Transformer Decoder**|Qinghao Meng et.al.|[2512.11926](http://arxiv.org/abs/2512.11926)|null|
+|**2025-12-12**|**QGEC : Quantum Golay Code Error Correction**|Hideo Mukai et.al.|[2512.11307](http://arxiv.org/abs/2512.11307)|null|
 |**2025-12-09**|**SegEarth-OV3: Exploring SAM 3 for Open-Vocabulary Semantic Segmentation in Remote Sensing Images**|Kaiyu Li et.al.|[2512.08730](http://arxiv.org/abs/2512.08730)|null|
 |**2025-12-08**|**Towards Accurate UAV Image Perception: Guiding Vision-Language Models with Stronger Task Prompts**|Mingning Guo et.al.|[2512.07302](http://arxiv.org/abs/2512.07302)|null|
 |**2025-12-06**|**DragMesh: Interactive 3D Generation Made Easy**|Tianshan Zhang et.al.|[2512.06424](http://arxiv.org/abs/2512.06424)|null|
@@ -372,16 +387,21 @@
 |**2025-11-24**|**Life-IQA: Boosting Blind Image Quality Assessment through GCN-enhanced Layer Interaction and MoE-based Feature Decoupling**|Long Tang et.al.|[2511.19024](http://arxiv.org/abs/2511.19024)|null|
 |**2025-11-21**|**Multi-Agent Pointer Transformer: Seq-to-Seq Reinforcement Learning for Multi-Vehicle Dynamic Pickup-Delivery Problems**|Zengyu Zou et.al.|[2511.17435](http://arxiv.org/abs/2511.17435)|null|
 
-<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251216>back to top</a>)</p>
 
 ## Foundation Models
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-12**|**RePack: Representation Packing of Vision Foundation Model Features Enhances Diffusion Transformer**|Guanfang Dong et.al.|[2512.12083](http://arxiv.org/abs/2512.12083)|null|
+|**2025-12-09**|**Advancing Autonomous Driving System Testing: Demands, Challenges, and Future Directions**|Yihan Liao et.al.|[2512.11887](http://arxiv.org/abs/2512.11887)|null|
+|**2025-12-12**|**VFMF: World Modeling by Forecasting Vision Foundation Model Features**|Gabrijel Boduljak et.al.|[2512.11225](http://arxiv.org/abs/2512.11225)|null|
+|**2025-12-11**|**SoccerMaster: A Vision Foundation Model for Soccer Understanding**|Haolin Yang et.al.|[2512.11016](http://arxiv.org/abs/2512.11016)|null|
+|**2025-12-11**|**BabyVLM-V2: Toward Developmentally Grounded Pretraining and Benchmarking of Vision Foundation Models**|Shengao Wang et.al.|[2512.10932](http://arxiv.org/abs/2512.10932)|null|
 |**2025-12-10**|**FlipLLM: Efficient Bit-Flip Attacks on Multimodal LLMs using Reinforcement Learning**|Khurram Khalil et.al.|[2512.09872](http://arxiv.org/abs/2512.09872)|null|
 |**2025-12-10**|**From SAM to DINOv2: Towards Distilling Foundation Models to Lightweight Baselines for Generalized Polyp Segmentation**|Shivanshu Agnihotri et.al.|[2512.09307](http://arxiv.org/abs/2512.09307)|null|
 |**2025-12-09**|**Selfi: Self Improving Reconstruction Engine via 3D Geometric Feature Alignment**|Youming Deng et.al.|[2512.08930](http://arxiv.org/abs/2512.08930)|null|
-|**2025-12-09**|**Repulsor: Accelerating Generative Modeling with a Contrastive Memory Bank**|Shaofeng Zhang et.al.|[2512.08648](http://arxiv.org/abs/2512.08648)|null|
+|**2025-12-13**|**Repulsor: Accelerating Generative Modeling with a Contrastive Memory Bank**|Shaofeng Zhang et.al.|[2512.08648](http://arxiv.org/abs/2512.08648)|null|
 |**2025-12-08**|**Online Segment Any 3D Thing as Instance Tracking**|Hanshi Wang et.al.|[2512.07599](http://arxiv.org/abs/2512.07599)|null|
 |**2025-12-09**|**VFM-VLM: Vision Foundation Model and Vision Language Model based Visual Comparison for 3D Pose Estimation**|Md Selim Sarowar et.al.|[2512.07215](http://arxiv.org/abs/2512.07215)|null|
 |**2025-12-05**|**SpectraIrisPAD: Leveraging Vision Foundation Models for Spectrally Conditioned Multispectral Iris Presentation Attack Detection**|Raghavendra Ramachandra et.al.|[2512.06103](http://arxiv.org/abs/2512.06103)|null|
@@ -433,7 +453,7 @@
 |**2025-11-26**|**SAM Guided Semantic and Motion Changed Region Mining for Remote Sensing Change Captioning**|Futian Wang et.al.|[2511.21420](http://arxiv.org/abs/2511.21420)|null|
 |**2025-11-26**|**Do Reasoning Vision-Language Models Inversely Scale in Test-Time Compute? A Distractor-centric Empirical Analysis**|Jiyun Bae et.al.|[2511.21397](http://arxiv.org/abs/2511.21397)|null|
 
-<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251216>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
