@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.12.16
+## Updated on 2025.12.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,6 +16,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-16**|**History-Enhanced Two-Stage Transformer for Aerial Vision-and-Language Navigation**|Xichen Ding et.al.|[2512.14222](http://arxiv.org/abs/2512.14222)|null|
+|**2025-12-14**|**DL $^3$ M: A Vision-to-Language Framework for Expert-Level Medical Reasoning through Deep Learning and Large Language Models**|Md. Najib Hasan et.al.|[2512.13742](http://arxiv.org/abs/2512.13742)|null|
+|**2025-12-15**|**Multi-Robot Motion Planning from Vision and Language using Heat-Inspired Diffusion**|Jebeom Chae et.al.|[2512.13090](http://arxiv.org/abs/2512.13090)|null|
 |**2025-12-14**|**D3D-VLP: Dynamic 3D Vision-Language-Planning Model for Embodied Grounding and Navigation**|Zihan Wang et.al.|[2512.12622](http://arxiv.org/abs/2512.12622)|null|
 |**2025-12-11**|**CLASH: Collaborative Large-Small Hierarchical Framework for Continuous Vision-and-Language Navigation**|Liuyi Wang et.al.|[2512.10360](http://arxiv.org/abs/2512.10360)|null|
 |**2025-12-11**|**User-Feedback-Driven Continual Adaptation for Vision-and-Language Navigation**|Yongqiang Yu et.al.|[2512.10322](http://arxiv.org/abs/2512.10322)|null|
@@ -140,6 +143,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-16**|**Segmental Attention Decoding With Long Form Acoustic Encodings**|Pawel Swietojanski et.al.|[2512.14652](http://arxiv.org/abs/2512.14652)|null|
+|**2025-12-16**|**DASP: Self-supervised Nighttime Monocular Depth Estimation with Domain Adaptation of Spatiotemporal Priors**|Yiheng Huang et.al.|[2512.14536](http://arxiv.org/abs/2512.14536)|null|
+|**2025-12-16**|**S2D: Sparse-To-Dense Keymask Distillation for Unsupervised Video Instance Segmentation**|Leon Sick et.al.|[2512.14440](http://arxiv.org/abs/2512.14440)|null|
+|**2025-12-16**|**Score-Based Turbo Message Passing for Plug-and-Play Compressive Imaging**|Chang Cai et.al.|[2512.14435](http://arxiv.org/abs/2512.14435)|null|
+|**2025-12-16**|**DriverGaze360: OmniDirectional Driver Attention with Object-Level Guidance**|Shreedhar Govil et.al.|[2512.14266](http://arxiv.org/abs/2512.14266)|null|
+|**2025-12-16**|**Elastic3D: Controllable Stereo Video Conversion with Guided Latent Decoding**|Nando Metzger et.al.|[2512.14236](http://arxiv.org/abs/2512.14236)|null|
+|**2025-12-16**|**4D-RaDiff: Latent Diffusion for 4D Radar Point Cloud Generation**|Jimmie Kwok et.al.|[2512.14235](http://arxiv.org/abs/2512.14235)|null|
+|**2025-12-16**|**FastDDHPose: Towards Unified, Efficient, and Disentangled 3D Human Pose Estimation**|Qingyuan Cai et.al.|[2512.14162](http://arxiv.org/abs/2512.14162)|null|
+|**2025-12-16**|**CIS-BA: Continuous Interaction Space Based Backdoor Attack for Object Detection in the Real-World**|Shuxin Zhao et.al.|[2512.14158](http://arxiv.org/abs/2512.14158)|null|
+|**2025-12-16**|**Neurosymbolic Inference On Foundation Models For Remote Sensing Text-to-image Retrieval With Complex Queries**|Emanuele Mezzi et.al.|[2512.14102](http://arxiv.org/abs/2512.14102)|null|
 |**2025-12-13**|**BokehDepth: Enhancing Monocular Depth Estimation through Bokeh Generation**|Hangwei Zhang et.al.|[2512.12425](http://arxiv.org/abs/2512.12425)|null|
 |**2025-12-13**|**INDOOR-LiDAR: Bridging Simulation and Reality for Robot-Centric 360 degree Indoor LiDAR Perception -- A Robot-Centric Hybrid Dataset**|Haichuan Li et.al.|[2512.12377](http://arxiv.org/abs/2512.12377)|null|
 |**2025-12-13**|**WeDetect: Fast Open-Vocabulary Object Detection as Retrieval**|Shenghao Fu et.al.|[2512.12309](http://arxiv.org/abs/2512.12309)|null|
@@ -263,7 +276,7 @@ layout: default
 |**2025-11-14**|**RFSoC Based LLRF System Design at ALS**|Qiang Du et.al.|[2510.13192](http://arxiv.org/abs/2510.13192)|null|
 |**2025-10-14**|**Kinematic Kitbashing for Modeling Functional Articulated Objects**|Minghao Guo et.al.|[2510.13048](http://arxiv.org/abs/2510.13048)|null|
 |**2025-10-10**|**Visual Anomaly Detection for Reliable Robotic Implantation of Flexible Microelectrode Array**|Yitong Chen et.al.|[2510.09071](http://arxiv.org/abs/2510.09071)|null|
-|**2025-09-23**|**CALL: Context-Aware Low-Latency Retrieval in Disk-Based Vector Databases**|Yeonwoo Jeong et.al.|[2509.18670](http://arxiv.org/abs/2509.18670)|**[link](https://github.com/akssus12/CALL)**|
+|**2025-09-23**|**CALL: Context-Aware Low-Latency Retrieval in Disk-Based Vector Databases**|Yeonwoo Jeong et.al.|[2509.18670](http://arxiv.org/abs/2509.18670)|null|
 |**2025-09-17**|**Parallelizable Feynman-Kac Models for Universal Probabilistic Programming**|Michele Boreale et.al.|[2509.14092](http://arxiv.org/abs/2509.14092)|null|
 
 ## Unified Architectures
@@ -316,6 +329,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-14**|**Cross-Level Sensor Fusion with Object Lists via Transformer for 3D Object Detection**|Xiangzhong Liu et.al.|[2512.12884](http://arxiv.org/abs/2512.12884)|null|
 |**2025-12-12**|**TransBridge: Boost 3D Object Detection by Scene-Level Completion with Transformer Decoder**|Qinghao Meng et.al.|[2512.11926](http://arxiv.org/abs/2512.11926)|null|
 |**2025-12-12**|**QGEC : Quantum Golay Code Error Correction**|Hideo Mukai et.al.|[2512.11307](http://arxiv.org/abs/2512.11307)|null|
 |**2025-12-09**|**SegEarth-OV3: Exploring SAM 3 for Open-Vocabulary Semantic Segmentation in Remote Sensing Images**|Kaiyu Li et.al.|[2512.08730](http://arxiv.org/abs/2512.08730)|null|
@@ -372,6 +386,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-16**|**A4-Agent: An Agentic Framework for Zero-Shot Affordance Reasoning**|Zixin Zhang et.al.|[2512.14442](http://arxiv.org/abs/2512.14442)|null|
+|**2025-12-15**|**RecTok: Reconstruction Distillation along Rectified Flow**|Qingyu Shi et.al.|[2512.13421](http://arxiv.org/abs/2512.13421)|null|
+|**2025-12-15**|**Harmonizing Generalization and Specialization: Uncertainty-Informed Collaborative Learning for Semi-supervised Medical Image Segmentation**|Wenjing Lu et.al.|[2512.13101](http://arxiv.org/abs/2512.13101)|null|
+|**2025-12-15**|**UniVCD: A New Method for Unsupervised Change Detection in the Open-Vocabulary Era**|Ziqiang Zhu et.al.|[2512.13089](http://arxiv.org/abs/2512.13089)|null|
+|**2025-12-15**|**Light Field Based 6DoF Tracking of Previously Unobserved Objects**|Nikolai Goncharov et.al.|[2512.13007](http://arxiv.org/abs/2512.13007)|null|
 |**2025-12-12**|**RePack: Representation Packing of Vision Foundation Model Features Enhances Diffusion Transformer**|Guanfang Dong et.al.|[2512.12083](http://arxiv.org/abs/2512.12083)|null|
 |**2025-12-09**|**Advancing Autonomous Driving System Testing: Demands, Challenges, and Future Directions**|Yihan Liao et.al.|[2512.11887](http://arxiv.org/abs/2512.11887)|null|
 |**2025-12-12**|**VFMF: World Modeling by Forecasting Vision Foundation Model Features**|Gabrijel Boduljak et.al.|[2512.11225](http://arxiv.org/abs/2512.11225)|null|
