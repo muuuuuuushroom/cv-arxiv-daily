@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.12.21
+## Updated on 2025.12.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,6 +16,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-22**|**Point What You Mean: Visually Grounded Instruction Policy**|Hang Yu et.al.|[2512.18933](http://arxiv.org/abs/2512.18933)|null|
+|**2025-12-19**|**Seeing Justice Clearly: Handwritten Legal Document Translation with OCR and Vision-Language Models**|Shubham Kumar Nigam et.al.|[2512.18004](http://arxiv.org/abs/2512.18004)|**[link](https://github.com/anviksha-lab-iitk/SJC)**|
 |**2025-12-17**|**Seeing Beyond Words: Self-Supervised Visual Learning for Multimodal Large Language Models**|Davide Caffagni et.al.|[2512.15885](http://arxiv.org/abs/2512.15885)|null|
 |**2025-12-10**|**D3G: Diverse Demographic Data Generation Increases Zero-Shot Image Classification Accuracy within Multimodal Models**|Javon Hickmon et.al.|[2512.15747](http://arxiv.org/abs/2512.15747)|null|
 |**2025-12-17**|**An Efficient and Effective Encoder Model for Vision and Language Tasks in the Remote Sensing Domain**|João Daniel Silva et.al.|[2512.15531](http://arxiv.org/abs/2512.15531)|null|
@@ -148,6 +150,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**ORCA: Object Recognition and Comprehension for Archiving Marine Species**|Yuk-Kwan Wong et.al.|[2512.21150](http://arxiv.org/abs/2512.21150)|null|
+|**2025-12-24**|**DexAvatar: 3D Sign Language Reconstruction with Hand and Body Pose Priors**|Kaustubh Kundu et.al.|[2512.21054](http://arxiv.org/abs/2512.21054)|null|
+|**2025-12-24**|**Next-Scale Prediction: A Self-Supervised Approach for Real-World Image Denoising**|Yiwen Shan et.al.|[2512.21038](http://arxiv.org/abs/2512.21038)|null|
+|**2025-12-24**|**Self-supervised Multiplex Consensus Mamba for General Image Fusion**|Yingying Wang et.al.|[2512.20921](http://arxiv.org/abs/2512.20921)|null|
+|**2025-12-23**|**Learning to Sense for Driving: Joint Optics-Sensor-Model Co-Design for Semantic Segmentation**|Reeshad Khan amd John Gauch et.al.|[2512.20815](http://arxiv.org/abs/2512.20815)|null|
+|**2025-12-23**|**A General Purpose Method for Robotic Interception of Non-Cooperative Dynamic Targets**|Tanmay P. Patel et.al.|[2512.20769](http://arxiv.org/abs/2512.20769)|null|
+|**2025-12-23**|**Real-World Adversarial Attacks on RF-Based Drone Detectors**|Omer Gazit et.al.|[2512.20712](http://arxiv.org/abs/2512.20712)|null|
+|**2025-12-23**|**AlignPose: Generalizable 6D Pose Estimation via Multi-view Feature-metric Alignment**|Anna Šárová Mikeštíková et.al.|[2512.20538](http://arxiv.org/abs/2512.20538)|null|
+|**2025-12-23**|**SirenPose: Dynamic Scene Reconstruction via Geometric Supervision**|Kaitong Cai et.al.|[2512.20531](http://arxiv.org/abs/2512.20531)|null|
+|**2025-12-23**|**Bridging Modalities and Transferring Knowledge: Enhanced Multimodal Understanding and Recognition**|Gorjan Radevski et.al.|[2512.20501](http://arxiv.org/abs/2512.20501)|null|
 |**2025-12-18**|**Next-Embedding Prediction Makes Strong Vision Learners**|Sihan Xu et.al.|[2512.16922](http://arxiv.org/abs/2512.16922)|null|
 |**2025-12-18**|**Depth Any Panoramas: A Foundation Model for Panoramic Depth Estimation**|Xin Lin et.al.|[2512.16913](http://arxiv.org/abs/2512.16913)|null|
 |**2025-12-18**|**DenseBEV: Transforming BEV Grid Cells into 3D Objects**|Marius Dähling et.al.|[2512.16818](http://arxiv.org/abs/2512.16818)|null|
@@ -401,6 +413,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**Fast SAM2 with Text-Driven Token Pruning**|Avilasha Mandal et.al.|[2512.21333](http://arxiv.org/abs/2512.21333)|null|
+|**2025-12-24**|**Beyond Weight Adaptation: Feature-Space Domain Injection for Cross-Modal Ship Re-Identification**|Tingfeng Xian et.al.|[2512.20892](http://arxiv.org/abs/2512.20892)|null|
+|**2025-12-23**|**Learning to Reason in 4D: Dynamic Spatial Understanding for Vision Language Models**|Shengchao Zhou et.al.|[2512.20557](http://arxiv.org/abs/2512.20557)|null|
+|**2025-12-23**|**Field-Space Attention for Structure-Preserving Earth System Transformers**|Maximilian Witte et.al.|[2512.20350](http://arxiv.org/abs/2512.20350)|null|
+|**2025-12-23**|**AMoE: Agglomerative Mixture-of-Experts Vision Foundation Model**|Sofian Chaybouti et.al.|[2512.20157](http://arxiv.org/abs/2512.20157)|null|
+|**2025-12-24**|**Foundation Model Priors Enhance Object Focus in Feature Space for Source-Free Object Detection**|Sairam VCR et.al.|[2512.17514](http://arxiv.org/abs/2512.17514)|null|
 |**2025-12-18**|**REGLUE Your Latents with Global and Local Semantics for Entangled Diffusion**|Giorgos Petsangourakis et.al.|[2512.16636](http://arxiv.org/abs/2512.16636)|null|
 |**2025-12-18**|**Causal-Tune: Mining Causal Factors from Vision Foundation Models for Domain Generalized Semantic Segmentation**|Yin Zhang et.al.|[2512.16567](http://arxiv.org/abs/2512.16567)|null|
 |**2025-12-18**|**NGCaptcha: A CAPTCHA Bridging the Past and the Future**|Ziqi Ding et.al.|[2512.16223](http://arxiv.org/abs/2512.16223)|null|
