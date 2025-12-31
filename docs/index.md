@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.12.26
+## Updated on 2025.12.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,6 +16,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-26**|**VL-LN Bench: Towards Long-horizon Goal-oriented Navigation with Active Dialogs**|Wensi Huang et.al.|[2512.22342](http://arxiv.org/abs/2512.22342)|**[link](https://github.com/InternRobotics/VL-LN)**|
+|**2025-12-26**|**LongFly: Long-Horizon UAV Vision-and-Language Navigation with Spatiotemporal Context Integration**|Wen Jiang et.al.|[2512.22010](http://arxiv.org/abs/2512.22010)|null|
 |**2025-12-22**|**Point What You Mean: Visually Grounded Instruction Policy**|Hang Yu et.al.|[2512.18933](http://arxiv.org/abs/2512.18933)|null|
 |**2025-12-19**|**Seeing Justice Clearly: Handwritten Legal Document Translation with OCR and Vision-Language Models**|Shubham Kumar Nigam et.al.|[2512.18004](http://arxiv.org/abs/2512.18004)|**[link](https://github.com/anviksha-lab-iitk/SJC)**|
 |**2025-12-17**|**Seeing Beyond Words: Self-Supervised Visual Learning for Multimodal Large Language Models**|Davide Caffagni et.al.|[2512.15885](http://arxiv.org/abs/2512.15885)|null|
@@ -126,6 +128,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-21**|**TCFormer: A 5M-Parameter Transformer with Density-Guided Aggregation for Weakly-Supervised Crowd Counting**|Qiang Guo et.al.|[2512.22203](http://arxiv.org/abs/2512.22203)|null|
 |**2025-12-18**|**Semi-Supervised Multi-View Crowd Counting by Ranking Multi-View Fusion Models**|Qi Zhang et.al.|[2512.16243](http://arxiv.org/abs/2512.16243)|null|
 |**2025-12-02**|**WSCF-MVCC: Weakly-supervised Calibration-free Multi-view Crowd Counting**|Bin Li et.al.|[2512.02359](http://arxiv.org/abs/2512.02359)|null|
 |**2025-11-28**|**Maritime Activities Observed Through Open-Access Positioning Data: Moving and Stationary Vessels in the Baltic Sea**|Moritz Hütten et.al.|[2511.23016](http://arxiv.org/abs/2511.23016)|null|
@@ -150,6 +153,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-29**|**Image Denoising Using Global and Local Circulant Representation**|Zhaoming Kong et.al.|[2512.23569](http://arxiv.org/abs/2512.23569)|null|
+|**2025-12-29**|**SC-Net: Robust Correspondence Learning via Spatial and Cross-Channel Context**|Shuyuan Lin et.al.|[2512.23473](http://arxiv.org/abs/2512.23473)|null|
+|**2025-12-29**|**MCI-Net: A Robust Multi-Domain Context Integration Network for Point Cloud Registration**|Shuyuan Lin et.al.|[2512.23472](http://arxiv.org/abs/2512.23472)|null|
+|**2025-12-29**|**Automated river gauge plate reading using a hybrid object detection and generative AI framework in the Limpopo River Basin**|Kayathri Vigneswaran et.al.|[2512.23454](http://arxiv.org/abs/2512.23454)|null|
+|**2025-12-29**|**SOFTooth: Semantics-Enhanced Order-Aware Fusion for Tooth Instance Segmentation**|Xiaolan Li et.al.|[2512.23411](http://arxiv.org/abs/2512.23411)|null|
+|**2025-12-29**|**MGCA-Net: Multi-Graph Contextual Attention Network for Two-View Correspondence Learning**|Shuyuan Lin et.al.|[2512.23369](http://arxiv.org/abs/2512.23369)|null|
+|**2025-12-29**|**PCR-ORB: Enhanced ORB-SLAM3 with Point Cloud Refinement Using Deep Learning-Based Dynamic Object Filtering**|Sheng-Kai Chen et.al.|[2512.23318](http://arxiv.org/abs/2512.23318)|null|
+|**2025-12-29**|**YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection**|Xu Lin et.al.|[2512.23273](http://arxiv.org/abs/2512.23273)|null|
+|**2025-12-29**|**AVOID: The Adverse Visual Conditions Dataset with Obstacles for Driving Scene Understanding**|Jongoh Jeong et.al.|[2512.23215](http://arxiv.org/abs/2512.23215)|null|
+|**2025-12-29**|**Task-oriented Learnable Diffusion Timesteps for Universal Few-shot Learning of Dense Tasks**|Changgyoon Oh et.al.|[2512.23210](http://arxiv.org/abs/2512.23210)|null|
 |**2025-12-24**|**ORCA: Object Recognition and Comprehension for Archiving Marine Species**|Yuk-Kwan Wong et.al.|[2512.21150](http://arxiv.org/abs/2512.21150)|null|
 |**2025-12-24**|**DexAvatar: 3D Sign Language Reconstruction with Hand and Body Pose Priors**|Kaustubh Kundu et.al.|[2512.21054](http://arxiv.org/abs/2512.21054)|null|
 |**2025-12-24**|**Next-Scale Prediction: A Self-Supervised Approach for Real-World Image Denoising**|Yiwen Shan et.al.|[2512.21038](http://arxiv.org/abs/2512.21038)|null|
@@ -413,6 +426,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-29**|**Agentic AI-Enhanced Semantic Communications: Foundations, Architecture, and Applications**|Haixiao Gao et.al.|[2512.23294](http://arxiv.org/abs/2512.23294)|null|
+|**2025-12-28**|**Toward Stable Semi-Supervised Remote Sensing Segmentation via Co-Guidance and Co-Fusion**|Yi Zhou et.al.|[2512.23035](http://arxiv.org/abs/2512.23035)|null|
+|**2025-12-26**|**Patch-Discontinuity Mining for Generalized Deepfake Detection**|Huanhuan Yuan et.al.|[2512.22027](http://arxiv.org/abs/2512.22027)|null|
+|**2025-12-26**|**StereoVLA: Enhancing Vision-Language-Action Models with Stereo Vision**|Shengliang Deng et.al.|[2512.21970](http://arxiv.org/abs/2512.21970)|null|
+|**2025-12-26**|**Training-free Conditional Image Embedding Framework Leveraging Large Vision Language Models**|Masayuki Kawarada et.al.|[2512.21860](http://arxiv.org/abs/2512.21860)|null|
+|**2025-12-25**|**Hyperion: Low-Latency Ultra-HD Video Analytics via Collaborative Vision Transformer Inference**|Linyi Jiang et.al.|[2512.21730](http://arxiv.org/abs/2512.21730)|null|
 |**2025-12-24**|**Fast SAM2 with Text-Driven Token Pruning**|Avilasha Mandal et.al.|[2512.21333](http://arxiv.org/abs/2512.21333)|null|
 |**2025-12-24**|**Beyond Weight Adaptation: Feature-Space Domain Injection for Cross-Modal Ship Re-Identification**|Tingfeng Xian et.al.|[2512.20892](http://arxiv.org/abs/2512.20892)|null|
 |**2025-12-23**|**Learning to Reason in 4D: Dynamic Spatial Understanding for Vision Language Models**|Shengchao Zhou et.al.|[2512.20557](http://arxiv.org/abs/2512.20557)|null|
