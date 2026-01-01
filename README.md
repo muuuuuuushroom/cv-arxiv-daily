@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.12.31
+## Updated on 2026.01.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -25,7 +25,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-12-26**|**VL-LN Bench: Towards Long-horizon Goal-oriented Navigation with Active Dialogs**|Wensi Huang et.al.|[2512.22342](http://arxiv.org/abs/2512.22342)|**[link](https://github.com/InternRobotics/VL-LN)**|
+|**2025-12-31**|**VL-LN Bench: Towards Long-horizon Goal-oriented Navigation with Active Dialogs**|Wensi Huang et.al.|[2512.22342](http://arxiv.org/abs/2512.22342)|**[link](https://github.com/InternRobotics/VL-LN)**|
 |**2025-12-26**|**LongFly: Long-Horizon UAV Vision-and-Language Navigation with Spatiotemporal Context Integration**|Wen Jiang et.al.|[2512.22010](http://arxiv.org/abs/2512.22010)|null|
 |**2025-12-22**|**Point What You Mean: Visually Grounded Instruction Policy**|Hang Yu et.al.|[2512.18933](http://arxiv.org/abs/2512.18933)|null|
 |**2025-12-19**|**Seeing Justice Clearly: Handwritten Legal Document Translation with OCR and Vision-Language Models**|Shubham Kumar Nigam et.al.|[2512.18004](http://arxiv.org/abs/2512.18004)|**[link](https://github.com/anviksha-lab-iitk/SJC)**|
@@ -133,7 +133,7 @@
 |**2025-11-18**|**Is Your VLM for Autonomous Driving Safety-Ready? A Comprehensive Benchmark for Evaluating External and In-Cabin Risks**|Xianhui Meng et.al.|[2511.14592](http://arxiv.org/abs/2511.14592)|null|
 |**2025-11-18**|**OmniZip: Audio-Guided Dynamic Token Compression for Fast Omnimodal Large Language Models**|Keda Tao et.al.|[2511.14582](http://arxiv.org/abs/2511.14582)|null|
 
-<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260101>back to top</a>)</p>
 
 ## Counting
 
@@ -160,12 +160,22 @@
 |**2025-09-29**|**TP-MVCC: Tri-plane Multi-view Fusion Model for Silkie Chicken Counting**|Sirui Chen et.al.|[2509.24329](http://arxiv.org/abs/2509.24329)|null|
 |**2025-09-26**|**Multi-View Crowd Counting With Self-Supervised Learning**|Hong Mo et.al.|[2509.21918](http://arxiv.org/abs/2509.21918)|null|
 
-<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260101>back to top</a>)</p>
 
 ## Dense Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-31**|**CREPES-X: Hierarchical Bearing-Distance-Inertial Direct Cooperative Relative Pose Estimation System**|Zhehan Li et.al.|[2512.24688](http://arxiv.org/abs/2512.24688)|null|
+|**2025-12-31**|**FireRescue: A UAV-Based Dataset and Enhanced YOLO Model for Object Detection in Fire Rescue Scenes**|Qingyu Xu et.al.|[2512.24622](http://arxiv.org/abs/2512.24622)|null|
+|**2025-12-31**|**LLHA-Net: A Hierarchical Attention Network for Two-View Correspondence Learning**|Shuyuan Lin et.al.|[2512.24620](http://arxiv.org/abs/2512.24620)|null|
+|**2025-12-31**|**3D Semantic Segmentation for Post-Disaster Assessment**|Nhut Le et.al.|[2512.24593](http://arxiv.org/abs/2512.24593)|null|
+|**2025-12-31**|**SliceLens: Fine-Grained and Grounded Error Slice Discovery for Multi-Instance Vision Tasks**|Wei Zhang et.al.|[2512.24592](http://arxiv.org/abs/2512.24592)|null|
+|**2025-12-30**|**From Static to Dynamic: Evaluating the Perceptual Impact of Dynamic Elements in Urban Scenes Using Generative Inpainting**|Zhiwei Wei et.al.|[2512.24513](http://arxiv.org/abs/2512.24513)|null|
+|**2025-12-30**|**AI-Driven Evaluation of Surgical Skill via Action Recognition**|Yan Meng et.al.|[2512.24411](http://arxiv.org/abs/2512.24411)|null|
+|**2025-12-30**|**Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems**|Song Wang et.al.|[2512.24385](http://arxiv.org/abs/2512.24385)|null|
+|**2025-12-30**|**Geometric Multi-Session Map Merging with Learned Local Descriptors**|Yanlong Ma et.al.|[2512.24384](http://arxiv.org/abs/2512.24384)|null|
+|**2025-12-30**|**MambaSeg: Harnessing Mamba for Accurate and Efficient Image-Event Semantic Segmentation**|Fuqiang Gu et.al.|[2512.24243](http://arxiv.org/abs/2512.24243)|null|
 |**2025-12-29**|**Image Denoising Using Global and Local Circulant Representation**|Zhaoming Kong et.al.|[2512.23569](http://arxiv.org/abs/2512.23569)|null|
 |**2025-12-29**|**SC-Net: Robust Correspondence Learning via Spatial and Cross-Channel Context**|Shuyuan Lin et.al.|[2512.23473](http://arxiv.org/abs/2512.23473)|null|
 |**2025-12-29**|**MCI-Net: A Robust Multi-Domain Context Integration Network for Point Cloud Registration**|Shuyuan Lin et.al.|[2512.23472](http://arxiv.org/abs/2512.23472)|null|
@@ -277,7 +287,7 @@
 |**2025-11-26**|**Video Generation Models Are Good Latent Reward Models**|Xiaoyue Mi et.al.|[2511.21541](http://arxiv.org/abs/2511.21541)|null|
 |**2025-11-26**|**CanKD: Cross-Attention-based Non-local operation for Feature-based Knowledge Distillation**|Shizhe Sun et.al.|[2511.21503](http://arxiv.org/abs/2511.21503)|null|
 
-<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260101>back to top</a>)</p>
 
 ## Model Components
 
@@ -334,7 +344,7 @@
 |**2025-09-23**|**CALL: Context-Aware Low-Latency Retrieval in Disk-Based Vector Databases**|Yeonwoo Jeong et.al.|[2509.18670](http://arxiv.org/abs/2509.18670)|null|
 |**2025-09-17**|**Parallelizable Feynman-Kac Models for Universal Probabilistic Programming**|Michele Boreale et.al.|[2509.14092](http://arxiv.org/abs/2509.14092)|null|
 
-<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260101>back to top</a>)</p>
 
 ## Unified Architectures
 
@@ -377,12 +387,12 @@
 |**2025-09-25**|**One Model for All Tasks: Leveraging Efficient World Models in Multi-Task Planning**|Yuan Pu et.al.|[2509.07945](http://arxiv.org/abs/2509.07945)|null|
 |**2025-08-28**|**Enhancing Mamba Decoder with Bidirectional Interaction in Multi-Task Dense Prediction**|Mang Cao et.al.|[2508.20376](http://arxiv.org/abs/2508.20376)|null|
 |**2025-07-25**|**Multi-Task Dense Prediction Fine-Tuning with Mixture of Fine-Grained Experts**|Yangyang Xu et.al.|[2507.19077](http://arxiv.org/abs/2507.19077)|null|
-|**2025-11-12**|**OpenWorldSAM: Extending SAM2 for Universal Image Segmentation with Language Prompts**|Shiting Xiao et.al.|[2507.05427](http://arxiv.org/abs/2507.05427)|null|
+|**2025-11-12**|**OpenWorldSAM: Extending SAM2 for Universal Image Segmentation with Language Prompts**|Shiting Xiao et.al.|[2507.05427](http://arxiv.org/abs/2507.05427)|**[link](https://github.com/GinnyXiao/OpenWorldSAM)**|
 |**2025-06-12**|**The Optimization Paradox in Clinical AI Multi-Agent Systems**|Suhana Bedi et.al.|[2506.06574](http://arxiv.org/abs/2506.06574)|null|
-|**2025-12-09**|**The Missing Point in Vision Transformers for Universal Image Segmentation**|Sajjad Shahabodini et.al.|[2505.19795](http://arxiv.org/abs/2505.19795)|null|
+|**2025-12-09**|**The Missing Point in Vision Transformers for Universal Image Segmentation**|Sajjad Shahabodini et.al.|[2505.19795](http://arxiv.org/abs/2505.19795)|**[link](https://github.com/sajjad-sh33/ViT-P)**|
 |**2025-01-02**|**Evidential Calibrated Uncertainty-Guided Interactive Segmentation paradigm for Ultrasound Images**|Jiang Shang et.al.|[2501.01072](http://arxiv.org/abs/2501.01072)|null|
 
-<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260101>back to top</a>)</p>
 
 ## Mechanism Specific
 
@@ -441,12 +451,13 @@
 |**2025-11-24**|**Life-IQA: Boosting Blind Image Quality Assessment through GCN-enhanced Layer Interaction and MoE-based Feature Decoupling**|Long Tang et.al.|[2511.19024](http://arxiv.org/abs/2511.19024)|null|
 |**2025-11-21**|**Multi-Agent Pointer Transformer: Seq-to-Seq Reinforcement Learning for Multi-Vehicle Dynamic Pickup-Delivery Problems**|Zengyu Zou et.al.|[2511.17435](http://arxiv.org/abs/2511.17435)|null|
 
-<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260101>back to top</a>)</p>
 
 ## Foundation Models
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-30**|**MotivNet: Evolving Meta-Sapiens into an Emotionally Intelligent Foundation Model**|Rahul Medicharla et.al.|[2512.24231](http://arxiv.org/abs/2512.24231)|null|
 |**2025-12-29**|**Agentic AI-Enhanced Semantic Communications: Foundations, Architecture, and Applications**|Haixiao Gao et.al.|[2512.23294](http://arxiv.org/abs/2512.23294)|null|
 |**2025-12-28**|**Toward Stable Semi-Supervised Remote Sensing Segmentation via Co-Guidance and Co-Fusion**|Yi Zhou et.al.|[2512.23035](http://arxiv.org/abs/2512.23035)|null|
 |**2025-12-26**|**Patch-Discontinuity Mining for Generalized Deepfake Detection**|Huanhuan Yuan et.al.|[2512.22027](http://arxiv.org/abs/2512.22027)|null|
@@ -528,7 +539,7 @@
 |**2025-11-26**|**SAM Guided Semantic and Motion Changed Region Mining for Remote Sensing Change Captioning**|Futian Wang et.al.|[2511.21420](http://arxiv.org/abs/2511.21420)|null|
 |**2025-11-26**|**Do Reasoning Vision-Language Models Inversely Scale in Test-Time Compute? A Distractor-centric Empirical Analysis**|Jiyun Bae et.al.|[2511.21397](http://arxiv.org/abs/2511.21397)|null|
 
-<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260101>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
