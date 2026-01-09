@@ -26,7 +26,7 @@ keywords:
   "Multimodal":
       filters: ["Multimodal", "Vision and Language", "Vision-Language", "Grounding", "Query-based"]
   "Counting":
-      filters: ["Counting", "Crowd Counting", "class-agnostic counting", "referring expression counting"]
+      filters: ["Counting", "Crowd Counting", "class-agnostic counting", "referring expression counting", "multimodal counting"]
   "Dense Prediction": 
       filters: ["Dense Prediction", "Semantic Segmentation", "Depth Estimation", "Image Matting", "Object Detection", "Instance Segmentation", "Pose Estimation", "Image Denoising"]
   "Model Components": 
