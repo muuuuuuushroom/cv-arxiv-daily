@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.01.06
+## Updated on 2026.01.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,11 +16,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-31**|**VLN-MME: Diagnosing MLLMs as Language-guided Visual Navigation agents**|Xunyi Zhao et.al.|[2512.24851](http://arxiv.org/abs/2512.24851)|null|
-|**2026-01-04**|**VL-LN Bench: Towards Long-horizon Goal-oriented Navigation with Active Dialogs**|Wensi Huang et.al.|[2512.22342](http://arxiv.org/abs/2512.22342)|**[link](https://github.com/InternRobotics/VL-LN)**|
+|**2026-01-08**|**SeqWalker: Sequential-Horizon Vision-and-Language Navigation with Hierarchical Planning**|Zebin Han et.al.|[2601.04699](http://arxiv.org/abs/2601.04699)|null|
+|**2026-01-07**|**Predictable Gradient Manifolds in Deep Learning: Temporal Path-Length and Intrinsic Rank as a Complexity Regime**|Anherutowa Calvo et.al.|[2601.04270](http://arxiv.org/abs/2601.04270)|null|
+|**2026-01-07**|**AirNav: A Large-Scale Real-World UAV Vision-and-Language Navigation Dataset with Natural and Diverse Instructions**|Hengxing Cai et.al.|[2601.03707](http://arxiv.org/abs/2601.03707)|null|
+|**2026-01-06**|**Omni2Sound: Towards Unified Video-Text-to-Audio Generation**|Yusheng Dai et.al.|[2601.02731](http://arxiv.org/abs/2601.02731)|null|
+|**2026-01-05**|**PatchAlign3D: Local Feature Alignment for Dense 3D Shape understanding**|Souhail Hadgi et.al.|[2601.02457](http://arxiv.org/abs/2601.02457)|**[link](https://github.com/souhail-hadgi/PatchAlign3D)**|
+|**2026-01-06**|**VLN-MME: Diagnosing MLLMs as Language-guided Visual Navigation agents**|Xunyi Zhao et.al.|[2512.24851](http://arxiv.org/abs/2512.24851)|null|
+|**2026-01-04**|**VL-LN Bench: Towards Long-horizon Goal-oriented Navigation with Active Dialogs**|Wensi Huang et.al.|[2512.22342](http://arxiv.org/abs/2512.22342)|null|
 |**2025-12-26**|**LongFly: Long-Horizon UAV Vision-and-Language Navigation with Spatiotemporal Context Integration**|Wen Jiang et.al.|[2512.22010](http://arxiv.org/abs/2512.22010)|null|
 |**2025-12-22**|**Point What You Mean: Visually Grounded Instruction Policy**|Hang Yu et.al.|[2512.18933](http://arxiv.org/abs/2512.18933)|null|
-|**2025-12-19**|**Seeing Justice Clearly: Handwritten Legal Document Translation with OCR and Vision-Language Models**|Shubham Kumar Nigam et.al.|[2512.18004](http://arxiv.org/abs/2512.18004)|**[link](https://github.com/anviksha-lab-iitk/SJC)**|
+|**2025-12-19**|**Seeing Justice Clearly: Handwritten Legal Document Translation with OCR and Vision-Language Models**|Shubham Kumar Nigam et.al.|[2512.18004](http://arxiv.org/abs/2512.18004)|null|
 |**2025-12-17**|**Seeing Beyond Words: Self-Supervised Visual Learning for Multimodal Large Language Models**|Davide Caffagni et.al.|[2512.15885](http://arxiv.org/abs/2512.15885)|null|
 |**2025-12-10**|**D3G: Diverse Demographic Data Generation Increases Zero-Shot Image Classification Accuracy within Multimodal Models**|Javon Hickmon et.al.|[2512.15747](http://arxiv.org/abs/2512.15747)|null|
 |**2025-12-17**|**An Efficient and Effective Encoder Model for Vision and Language Tasks in the Remote Sensing Domain**|João Daniel Silva et.al.|[2512.15531](http://arxiv.org/abs/2512.15531)|null|
@@ -129,6 +134,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-05**|**Parameter-Efficient Domain Adaption for CSI Crowd-Counting via Self-Supervised Learning with Adapter Modules**|Oliver Custance et.al.|[2601.02203](http://arxiv.org/abs/2601.02203)|null|
 |**2026-01-03**|**Crowded Video Individual Counting Informed by Social Grouping and Spatial-Temporal Displacement Priors**|Hao Lu et.al.|[2601.01192](http://arxiv.org/abs/2601.01192)|null|
 |**2025-12-21**|**TCFormer: A 5M-Parameter Transformer with Density-Guided Aggregation for Weakly-Supervised Crowd Counting**|Qiang Guo et.al.|[2512.22203](http://arxiv.org/abs/2512.22203)|null|
 |**2025-12-18**|**Semi-Supervised Multi-View Crowd Counting by Ranking Multi-View Fusion Models**|Qi Zhang et.al.|[2512.16243](http://arxiv.org/abs/2512.16243)|null|
@@ -155,6 +161,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-08**|**Pixel-Perfect Visual Geometry Estimation**|Gangwei Xu et.al.|[2601.05246](http://arxiv.org/abs/2601.05246)|null|
+|**2026-01-08**|**ObjectForesight: Predicting Future 3D Object Trajectories from Human Videos**|Rustin Soraki et.al.|[2601.05237](http://arxiv.org/abs/2601.05237)|null|
+|**2026-01-08**|**UniLiPs: Unified LiDAR Pseudo-Labeling with Geometry-Grounded Dynamic Scene Decomposition**|Filippo Ghilotti et.al.|[2601.05105](http://arxiv.org/abs/2601.05105)|null|
+|**2026-01-08**|**Scalable neural pushbroom architectures for real-time denoising of hyperspectral images onboard satellites**|Ziyao Yi et.al.|[2601.05020](http://arxiv.org/abs/2601.05020)|null|
+|**2026-01-08**|**TEA: Temporal Adaptive Satellite Image Semantic Segmentation**|Juyuan Kang et.al.|[2601.04956](http://arxiv.org/abs/2601.04956)|null|
+|**2026-01-08**|**Character Detection using YOLO for Writer Identification in multiple Medieval books**|Alessandra Scotto di Freca et.al.|[2601.04834](http://arxiv.org/abs/2601.04834)|null|
+|**2026-01-08**|**Optimization of Deep Learning Models for Radio Galaxy Classification**|Philipp Denzel et.al.|[2601.04773](http://arxiv.org/abs/2601.04773)|null|
+|**2026-01-07**|**Few-Shot LoRA Adaptation of a Flow-Matching Foundation Model for Cross-Spectral Object Detection**|Maxim Clouser et.al.|[2601.04381](http://arxiv.org/abs/2601.04381)|null|
+|**2026-01-07**|**Correcting Autonomous Driving Object Detection Misclassifications with Automated Commonsense Reasoning**|Keegan Kimbrell et.al.|[2601.04271](http://arxiv.org/abs/2601.04271)|null|
+|**2026-01-07**|**Bayesian Monocular Depth Refinement via Neural Radiance Fields**|Arun Muthukkumar et.al.|[2601.03869](http://arxiv.org/abs/2601.03869)|null|
 |**2026-01-05**|**Subimage Overlap Prediction: Task-Aligned Self-Supervised Pretraining For Semantic Segmentation In Remote Sensing Imagery**|Lakshay Sharma et.al.|[2601.01781](http://arxiv.org/abs/2601.01781)|null|
 |**2026-01-05**|**Point-SRA: Self-Representation Alignment for 3D Representation Learning**|Lintong Wei et.al.|[2601.01746](http://arxiv.org/abs/2601.01746)|null|
 |**2026-01-05**|**An AI-guided mechanotyping instrument for fully automated oocyte quality assessment**|Yining Guo et.al.|[2601.01728](http://arxiv.org/abs/2601.01728)|null|
@@ -345,6 +361,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-06**|**Towards Agnostic and Holistic Universal Image Segmentation with Bit Diffusion**|Jakob Lønborg Christensen et.al.|[2601.02881](http://arxiv.org/abs/2601.02881)|null|
 |**2025-12-04**|**EvoIR: Towards All-in-One Image Restoration via Evolutionary Frequency Modulation**|Jiaqi Ma et.al.|[2512.05104](http://arxiv.org/abs/2512.05104)|null|
 |**2025-12-04**|**Setting up for failure: automatic discovery of the neural mechanisms of cognitive errors**|Puria Radmard et.al.|[2512.04808](http://arxiv.org/abs/2512.04808)|null|
 |**2025-12-04**|**MT-Depth: Multi-task Instance feature analysis for the Depth Completion**|Abdul Haseeb Nizamani et.al.|[2512.04734](http://arxiv.org/abs/2512.04734)|null|
@@ -391,6 +408,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-08**|**Driving on Registers**|Ellington Kirby et.al.|[2601.05083](http://arxiv.org/abs/2601.05083)|null|
 |**2026-01-04**|**From Classification to Generation: An Open-Ended Paradigm for Adverse Drug Reaction Prediction Based on Graph-Motif Feature Fusion**|Yuyan Pi et.al.|[2601.01347](http://arxiv.org/abs/2601.01347)|null|
 |**2025-12-14**|**Cross-Level Sensor Fusion with Object Lists via Transformer for 3D Object Detection**|Xiangzhong Liu et.al.|[2512.12884](http://arxiv.org/abs/2512.12884)|null|
 |**2025-12-12**|**TransBridge: Boost 3D Object Detection by Scene-Level Completion with Transformer Decoder**|Qinghao Meng et.al.|[2512.11926](http://arxiv.org/abs/2512.11926)|null|
@@ -449,6 +467,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-08**|**Pixel-Perfect Visual Geometry Estimation**|Gangwei Xu et.al.|[2601.05246](http://arxiv.org/abs/2601.05246)|null|
+|**2026-01-08**|**Atlas 2 -- Foundation models for clinical deployment**|Maximilian Alber et.al.|[2601.05148](http://arxiv.org/abs/2601.05148)|null|
+|**2026-01-08**|**UniLiPs: Unified LiDAR Pseudo-Labeling with Geometry-Grounded Dynamic Scene Decomposition**|Filippo Ghilotti et.al.|[2601.05105](http://arxiv.org/abs/2601.05105)|null|
+|**2026-01-06**|**LLM Agent Framework for Intelligent Change Analysis in Urban Environment using Remote Sensing Imagery**|Zixuan Xiao et.al.|[2601.02757](http://arxiv.org/abs/2601.02757)|null|
+|**2026-01-05**|**Agentic AI in Remote Sensing: Foundations, Taxonomy, and Emerging Systems**|Niloufar Alipour Talemi et.al.|[2601.01891](http://arxiv.org/abs/2601.01891)|null|
 |**2026-01-04**|**Improving Flexible Image Tokenizers for Autoregressive Image Generation**|Zixuan Fu et.al.|[2601.01535](http://arxiv.org/abs/2601.01535)|null|
 |**2026-01-01**|**TotalFM: An Organ-Separated Framework for 3D-CT Vision Foundation Models**|Kohei Yamamoto et.al.|[2601.00260](http://arxiv.org/abs/2601.00260)|null|
 |**2025-12-30**|**MotivNet: Evolving Meta-Sapiens into an Emotionally Intelligent Foundation Model**|Rahul Medicharla et.al.|[2512.24231](http://arxiv.org/abs/2512.24231)|null|
