@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.01.09
+## Updated on 2026.01.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -20,7 +20,7 @@ layout: default
 |**2026-01-07**|**Predictable Gradient Manifolds in Deep Learning: Temporal Path-Length and Intrinsic Rank as a Complexity Regime**|Anherutowa Calvo et.al.|[2601.04270](http://arxiv.org/abs/2601.04270)|null|
 |**2026-01-07**|**AirNav: A Large-Scale Real-World UAV Vision-and-Language Navigation Dataset with Natural and Diverse Instructions**|Hengxing Cai et.al.|[2601.03707](http://arxiv.org/abs/2601.03707)|null|
 |**2026-01-06**|**Omni2Sound: Towards Unified Video-Text-to-Audio Generation**|Yusheng Dai et.al.|[2601.02731](http://arxiv.org/abs/2601.02731)|null|
-|**2026-01-05**|**PatchAlign3D: Local Feature Alignment for Dense 3D Shape understanding**|Souhail Hadgi et.al.|[2601.02457](http://arxiv.org/abs/2601.02457)|**[link](https://github.com/souhail-hadgi/PatchAlign3D)**|
+|**2026-01-05**|**PatchAlign3D: Local Feature Alignment for Dense 3D Shape understanding**|Souhail Hadgi et.al.|[2601.02457](http://arxiv.org/abs/2601.02457)|null|
 |**2026-01-06**|**VLN-MME: Diagnosing MLLMs as Language-guided Visual Navigation agents**|Xunyi Zhao et.al.|[2512.24851](http://arxiv.org/abs/2512.24851)|null|
 |**2026-01-04**|**VL-LN Bench: Towards Long-horizon Goal-oriented Navigation with Active Dialogs**|Wensi Huang et.al.|[2512.22342](http://arxiv.org/abs/2512.22342)|null|
 |**2025-12-26**|**LongFly: Long-Horizon UAV Vision-and-Language Navigation with Spatiotemporal Context Integration**|Wen Jiang et.al.|[2512.22010](http://arxiv.org/abs/2512.22010)|null|
