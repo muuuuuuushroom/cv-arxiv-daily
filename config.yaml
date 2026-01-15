@@ -37,6 +37,8 @@ keywords:
       filters: ["Query-based Learning", "Task Prompts", "Mask Classification", "Transformer Decoder", "Unified Output Space"]
   "Foundation Models":
       filters: ["Vision Foundation Models", "Large Vision Models", "Vision Model Scaling", "Scaling Vision Models", "Scaling Laws for Vision Models", "Scaling Vision Transformers", "Scaling Laws for Vision Transformers", "LVM"]
+  "VTON":
+      filters: ["Virtual Try-On", "VTON", "Clothing Try-On", "3D Virtual Try-On", "Multi-view Virtual Try-On", "Try-On Synthesis"]
     # "SLAM": 
     #     filters: ["SLAM", "Visual Odometry"]
     # "SFM":
