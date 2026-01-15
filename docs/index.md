@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.01.11
+## Updated on 2026.01.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,6 +16,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-13**|**Where Does Vision Meet Language? Understanding and Refining Visual Fusion in MLLMs via Contrastive Attention**|Shezheng Song et.al.|[2601.08151](http://arxiv.org/abs/2601.08151)|null|
+|**2026-01-12**|**When Models Know When They Do Not Know: Calibration, Cascading, and Cleaning**|Chenjie Hao et.al.|[2601.07965](http://arxiv.org/abs/2601.07965)|null|
+|**2026-01-12**|**Reference Games as a Testbed for the Alignment of Model Uncertainty and Clarification Requests**|Manar Ali et.al.|[2601.07820](http://arxiv.org/abs/2601.07820)|null|
+|**2026-01-12**|**GROKE: Vision-Free Navigation Instruction Evaluation via Graph Reasoning on OpenStreetMap**|Farzad Shami et.al.|[2601.07375](http://arxiv.org/abs/2601.07375)|null|
+|**2026-01-11**|**CLIMP: Contrastive Language-Image Mamba Pretraining**|Nimrod Shabtay et.al.|[2601.06891](http://arxiv.org/abs/2601.06891)|null|
+|**2026-01-11**|**SpatialNav: Leveraging Spatial Scene Graphs for Zero-Shot Vision-and-Language Navigation**|Jiwen Zhang et.al.|[2601.06806](http://arxiv.org/abs/2601.06806)|null|
+|**2026-01-10**|**SparseOccVLA: Bridging Occupancy and Vision-Language Models via Sparse Queries for Unified 4D Scene Understanding and Planning**|Chenxu Dang et.al.|[2601.06474](http://arxiv.org/abs/2601.06474)|null|
 |**2026-01-08**|**SeqWalker: Sequential-Horizon Vision-and-Language Navigation with Hierarchical Planning**|Zebin Han et.al.|[2601.04699](http://arxiv.org/abs/2601.04699)|null|
 |**2026-01-07**|**Predictable Gradient Manifolds in Deep Learning: Temporal Path-Length and Intrinsic Rank as a Complexity Regime**|Anherutowa Calvo et.al.|[2601.04270](http://arxiv.org/abs/2601.04270)|null|
 |**2026-01-07**|**AirNav: A Large-Scale Real-World UAV Vision-and-Language Navigation Dataset with Natural and Diverse Instructions**|Hengxing Cai et.al.|[2601.03707](http://arxiv.org/abs/2601.03707)|null|
@@ -161,6 +168,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**COMPOSE: Hypergraph Cover Optimization for Multi-view 3D Human Pose Estimation**|Tony Danjun Wang et.al.|[2601.09698](http://arxiv.org/abs/2601.09698)|null|
+|**2026-01-14**|**AquaFeat+: an Underwater Vision Learning-based Enhancement Method for Object Detection, Classification, and Tracking**|Emanuel da Costa Silva et.al.|[2601.09652](http://arxiv.org/abs/2601.09652)|null|
+|**2026-01-14**|**Towards Robust Cross-Dataset Object Detection Generalization under Domain Specificity**|Ritabrata Chakraborty et.al.|[2601.09497](http://arxiv.org/abs/2601.09497)|null|
+|**2026-01-14**|**Disentangle Object and Non-object Infrared Features via Language Guidance**|Fan Liu et.al.|[2601.09228](http://arxiv.org/abs/2601.09228)|null|
+|**2026-01-14**|**SAM-Aug: Leveraging SAM Priors for Few-Shot Parcel Segmentation in Satellite Time Series**|Kai Hu et.al.|[2601.09110](http://arxiv.org/abs/2601.09110)|null|
+|**2026-01-14**|**Vision Foundation Models for Domain Generalisable Cross-View Localisation in Planetary Ground-Aerial Robotic Teams**|Lachlan Holden et.al.|[2601.09107](http://arxiv.org/abs/2601.09107)|null|
+|**2026-01-13**|**Instance camera focus prediction for crystal agglomeration classification**|Xiaoyu Ji et.al.|[2601.09004](http://arxiv.org/abs/2601.09004)|null|
+|**2026-01-13**|**SAM-pose2seg: Pose-Guided Human Instance Segmentation in Crowds**|Constantin Kolomiiets et.al.|[2601.08982](http://arxiv.org/abs/2601.08982)|null|
+|**2026-01-13**|**3AM: Segment Anything with Geometric Consistency in Videos**|Yang-Che Sun et.al.|[2601.08831](http://arxiv.org/abs/2601.08831)|null|
+|**2026-01-13**|**DentalX: Context-Aware Dental Disease Detection with Radiographs**|Zhi Qin Tan et.al.|[2601.08797](http://arxiv.org/abs/2601.08797)|null|
 |**2026-01-08**|**Pixel-Perfect Visual Geometry Estimation**|Gangwei Xu et.al.|[2601.05246](http://arxiv.org/abs/2601.05246)|null|
 |**2026-01-08**|**ObjectForesight: Predicting Future 3D Object Trajectories from Human Videos**|Rustin Soraki et.al.|[2601.05237](http://arxiv.org/abs/2601.05237)|null|
 |**2026-01-08**|**UniLiPs: Unified LiDAR Pseudo-Labeling with Geometry-Grounded Dynamic Scene Decomposition**|Filippo Ghilotti et.al.|[2601.05105](http://arxiv.org/abs/2601.05105)|null|
@@ -467,6 +484,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**Vision Foundation Models for Domain Generalisable Cross-View Localisation in Planetary Ground-Aerial Robotic Teams**|Lachlan Holden et.al.|[2601.09107](http://arxiv.org/abs/2601.09107)|null|
+|**2026-01-10**|**Quantification and Classification of Carbon Nanotubes in Electron Micrographs using Vision Foundation Models**|Sanjay Pradeep et.al.|[2601.06673](http://arxiv.org/abs/2601.06673)|null|
+|**2026-01-09**|**Boosting Latent Diffusion Models via Disentangled Representation Alignment**|John Page et.al.|[2601.05823](http://arxiv.org/abs/2601.05823)|null|
 |**2026-01-08**|**Pixel-Perfect Visual Geometry Estimation**|Gangwei Xu et.al.|[2601.05246](http://arxiv.org/abs/2601.05246)|null|
 |**2026-01-08**|**Atlas 2 -- Foundation models for clinical deployment**|Maximilian Alber et.al.|[2601.05148](http://arxiv.org/abs/2601.05148)|null|
 |**2026-01-08**|**UniLiPs: Unified LiDAR Pseudo-Labeling with Geometry-Grounded Dynamic Scene Decomposition**|Filippo Ghilotti et.al.|[2601.05105](http://arxiv.org/abs/2601.05105)|null|
@@ -555,6 +575,21 @@ layout: default
 |**2025-11-26**|**Semantic-Enhanced Feature Matching with Learnable Geometric Verification for Cross-Modal Neuron Registration**|Wenwei Li et.al.|[2511.21452](http://arxiv.org/abs/2511.21452)|null|
 |**2025-11-26**|**SAM Guided Semantic and Motion Changed Region Mining for Remote Sensing Change Captioning**|Futian Wang et.al.|[2511.21420](http://arxiv.org/abs/2511.21420)|null|
 |**2025-11-26**|**Do Reasoning Vision-Language Models Inversely Scale in Test-Time Compute? A Distractor-centric Empirical Analysis**|Jiyun Bae et.al.|[2511.21397](http://arxiv.org/abs/2511.21397)|null|
+
+## VTON
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-09**|**LayerGS: Decomposition and Inpainting of Layered 3D Human Avatars via 2D Gaussian Splatting**|Yinghan Xu et.al.|[2601.05853](http://arxiv.org/abs/2601.05853)|null|
+|**2026-01-06**|**VTONQA: A Multi-Dimensional Quality Assessment Dataset for Virtual Try-on**|Xinyi Wei et.al.|[2601.02945](http://arxiv.org/abs/2601.02945)|null|
+|**2026-01-05**|**AlignVTOFF: Texture-Spatial Feature Alignment for High-Fidelity Virtual Try-Off**|Yihan Zhu et.al.|[2601.02038](http://arxiv.org/abs/2601.02038)|null|
+|**2025-12-30**|**FitControler: Toward Fit-Aware Virtual Try-On**|Lu Yang et.al.|[2512.24016](http://arxiv.org/abs/2512.24016)|null|
+|**2025-12-23**|**The devil is in the details: Enhancing Video Virtual Try-On via Keyframe-Driven Details Injection**|Qingdong He et.al.|[2512.20340](http://arxiv.org/abs/2512.20340)|null|
+|**2025-12-17**|**PMMD: A pose-guided multi-view multi-modal diffusion for person generation**|Ziyu Shang et.al.|[2512.15069](http://arxiv.org/abs/2512.15069)|null|
+|**2025-12-08**|**Training-free Clothing Region of Interest Self-correction for Virtual Try-On**|Shengjie Lu et.al.|[2512.07126](http://arxiv.org/abs/2512.07126)|null|
+|**2025-12-05**|**Learning High-Fidelity Cloth Animation via Skinning-Free Image Transfer**|Rong Wang et.al.|[2512.05593](http://arxiv.org/abs/2512.05593)|null|
+|**2025-12-04**|**Not All Birds Look The Same: Identity-Preserving Generation For Birds**|Aaron Sun et.al.|[2512.04485](http://arxiv.org/abs/2512.04485)|null|
+|**2025-11-24**|**Eevee: Towards Close-up High-resolution Video-based Virtual Try-on**|Jianhao Zeng et.al.|[2511.18957](http://arxiv.org/abs/2511.18957)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
