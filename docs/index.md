@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.01.15
+## Updated on 2026.01.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -168,6 +168,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-15**|**Mesh Denoising**|Constantin Vaillant Tenzer et.al.|[2601.10487](http://arxiv.org/abs/2601.10487)|null|
+|**2026-01-15**|**Urban Socio-Semantic Segmentation with Vision-Language Reasoning**|Yu Wang et.al.|[2601.10477](http://arxiv.org/abs/2601.10477)|null|
+|**2026-01-15**|**Beyond Single Prompts: Synergistic Fusion and Arrangement for VICL**|Wenwen Liao et.al.|[2601.10117](http://arxiv.org/abs/2601.10117)|null|
+|**2026-01-15**|**Enhancing Visual In-Context Learning by Multi-Faceted Fusion**|Wenwen Liao et.al.|[2601.10107](http://arxiv.org/abs/2601.10107)|null|
+|**2026-01-14**|**NanoSD: Edge Efficient Foundation Model for Real Time Image Restoration**|Subhajit Sanyal et.al.|[2601.09823](http://arxiv.org/abs/2601.09823)|null|
+|**2026-01-14**|**LCF3D: A Robust and Real-Time Late-Cascade Fusion Framework for 3D Object Detection in Autonomous Driving**|Carlo Sgaravatti et.al.|[2601.09812](http://arxiv.org/abs/2601.09812)|null|
 |**2026-01-14**|**COMPOSE: Hypergraph Cover Optimization for Multi-view 3D Human Pose Estimation**|Tony Danjun Wang et.al.|[2601.09698](http://arxiv.org/abs/2601.09698)|null|
 |**2026-01-14**|**AquaFeat+: an Underwater Vision Learning-based Enhancement Method for Object Detection, Classification, and Tracking**|Emanuel da Costa Silva et.al.|[2601.09652](http://arxiv.org/abs/2601.09652)|null|
 |**2026-01-14**|**Towards Robust Cross-Dataset Object Detection Generalization under Domain Specificity**|Ritabrata Chakraborty et.al.|[2601.09497](http://arxiv.org/abs/2601.09497)|null|
