@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.01.31
+## Updated on 2026.02.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -159,7 +159,7 @@
 |**2025-11-18**|**Is Your VLM for Autonomous Driving Safety-Ready? A Comprehensive Benchmark for Evaluating External and In-Cabin Risks**|Xianhui Meng et.al.|[2511.14592](http://arxiv.org/abs/2511.14592)|null|
 |**2025-11-18**|**OmniZip: Audio-Guided Dynamic Token Compression for Fast Omnimodal Large Language Models**|Keda Tao et.al.|[2511.14582](http://arxiv.org/abs/2511.14582)|null|
 
-<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260201>back to top</a>)</p>
 
 ## Counting
 
@@ -190,7 +190,7 @@
 |**2025-09-29**|**TP-MVCC: Tri-plane Multi-view Fusion Model for Silkie Chicken Counting**|Sirui Chen et.al.|[2509.24329](http://arxiv.org/abs/2509.24329)|null|
 |**2025-09-26**|**Multi-View Crowd Counting With Self-Supervised Learning**|Hong Mo et.al.|[2509.21918](http://arxiv.org/abs/2509.21918)|null|
 
-<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260201>back to top</a>)</p>
 
 ## Dense Prediction
 
@@ -383,7 +383,7 @@
 |**2025-11-26**|**Video Generation Models Are Good Latent Reward Models**|Xiaoyue Mi et.al.|[2511.21541](http://arxiv.org/abs/2511.21541)|null|
 |**2025-11-26**|**CanKD: Cross-Attention-based Non-local operation for Feature-based Knowledge Distillation**|Shizhe Sun et.al.|[2511.21503](http://arxiv.org/abs/2511.21503)|null|
 
-<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260201>back to top</a>)</p>
 
 ## Model Components
 
@@ -441,7 +441,7 @@
 |**2025-09-23**|**CALL: Context-Aware Low-Latency Retrieval in Disk-Based Vector Databases**|Yeonwoo Jeong et.al.|[2509.18670](http://arxiv.org/abs/2509.18670)|null|
 |**2025-09-17**|**Parallelizable Feynman-Kac Models for Universal Probabilistic Programming**|Michele Boreale et.al.|[2509.14092](http://arxiv.org/abs/2509.14092)|null|
 
-<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260201>back to top</a>)</p>
 
 ## Unified Architectures
 
@@ -490,7 +490,7 @@
 |**2025-12-09**|**The Missing Point in Vision Transformers for Universal Image Segmentation**|Sajjad Shahabodini et.al.|[2505.19795](http://arxiv.org/abs/2505.19795)|null|
 |**2025-01-02**|**Evidential Calibrated Uncertainty-Guided Interactive Segmentation paradigm for Ultrasound Images**|Jiang Shang et.al.|[2501.01072](http://arxiv.org/abs/2501.01072)|null|
 
-<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260201>back to top</a>)</p>
 
 ## Mechanism Specific
 
@@ -504,7 +504,7 @@
 |**2026-01-25**|**Cross-Level Sensor Fusion with Object Lists via Transformer for 3D Object Detection**|Xiangzhong Liu et.al.|[2512.12884](http://arxiv.org/abs/2512.12884)|null|
 |**2025-12-12**|**TransBridge: Boost 3D Object Detection by Scene-Level Completion with Transformer Decoder**|Qinghao Meng et.al.|[2512.11926](http://arxiv.org/abs/2512.11926)|null|
 |**2025-12-12**|**QGEC : Quantum Golay Code Error Correction**|Hideo Mukai et.al.|[2512.11307](http://arxiv.org/abs/2512.11307)|null|
-|**2025-12-09**|**SegEarth-OV3: Exploring SAM 3 for Open-Vocabulary Semantic Segmentation in Remote Sensing Images**|Kaiyu Li et.al.|[2512.08730](http://arxiv.org/abs/2512.08730)|**[link](https://github.com/earth-insights/SegEarth-OV-3)**|
+|**2025-12-09**|**SegEarth-OV3: Exploring SAM 3 for Open-Vocabulary Semantic Segmentation in Remote Sensing Images**|Kaiyu Li et.al.|[2512.08730](http://arxiv.org/abs/2512.08730)|null|
 |**2025-12-08**|**Towards Accurate UAV Image Perception: Guiding Vision-Language Models with Stronger Task Prompts**|Mingning Guo et.al.|[2512.07302](http://arxiv.org/abs/2512.07302)|null|
 |**2025-12-06**|**DragMesh: Interactive 3D Generation Made Easy**|Tianshan Zhang et.al.|[2512.06424](http://arxiv.org/abs/2512.06424)|null|
 |**2025-12-05**|**Decoding with Structured Awareness: Integrating Directional, Frequency-Spatial, and Structural Attention for Medical Image Segmentation**|Fan Zhang et.al.|[2512.05494](http://arxiv.org/abs/2512.05494)|null|
@@ -554,7 +554,7 @@
 |**2025-11-24**|**Life-IQA: Boosting Blind Image Quality Assessment through GCN-enhanced Layer Interaction and MoE-based Feature Decoupling**|Long Tang et.al.|[2511.19024](http://arxiv.org/abs/2511.19024)|null|
 |**2025-11-21**|**Multi-Agent Pointer Transformer: Seq-to-Seq Reinforcement Learning for Multi-Vehicle Dynamic Pickup-Delivery Problems**|Zengyu Zou et.al.|[2511.17435](http://arxiv.org/abs/2511.17435)|null|
 
-<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260201>back to top</a>)</p>
 
 ## Foundation Models
 
@@ -667,7 +667,7 @@
 |**2025-11-26**|**SAM Guided Semantic and Motion Changed Region Mining for Remote Sensing Change Captioning**|Futian Wang et.al.|[2511.21420](http://arxiv.org/abs/2511.21420)|null|
 |**2025-11-26**|**Do Reasoning Vision-Language Models Inversely Scale in Test-Time Compute? A Distractor-centric Empirical Analysis**|Jiyun Bae et.al.|[2511.21397](http://arxiv.org/abs/2511.21397)|null|
 
-<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260201>back to top</a>)</p>
 
 ## VTON
 
@@ -689,7 +689,7 @@
 |**2025-12-04**|**Not All Birds Look The Same: Identity-Preserving Generation For Birds**|Aaron Sun et.al.|[2512.04485](http://arxiv.org/abs/2512.04485)|null|
 |**2025-11-24**|**Eevee: Towards Close-up High-resolution Video-based Virtual Try-on**|Jianhao Zeng et.al.|[2511.18957](http://arxiv.org/abs/2511.18957)|null|
 
-<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260201>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.01.31
+## Updated on 2026.02.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -484,7 +484,7 @@ layout: default
 |**2026-01-25**|**Cross-Level Sensor Fusion with Object Lists via Transformer for 3D Object Detection**|Xiangzhong Liu et.al.|[2512.12884](http://arxiv.org/abs/2512.12884)|null|
 |**2025-12-12**|**TransBridge: Boost 3D Object Detection by Scene-Level Completion with Transformer Decoder**|Qinghao Meng et.al.|[2512.11926](http://arxiv.org/abs/2512.11926)|null|
 |**2025-12-12**|**QGEC : Quantum Golay Code Error Correction**|Hideo Mukai et.al.|[2512.11307](http://arxiv.org/abs/2512.11307)|null|
-|**2025-12-09**|**SegEarth-OV3: Exploring SAM 3 for Open-Vocabulary Semantic Segmentation in Remote Sensing Images**|Kaiyu Li et.al.|[2512.08730](http://arxiv.org/abs/2512.08730)|**[link](https://github.com/earth-insights/SegEarth-OV-3)**|
+|**2025-12-09**|**SegEarth-OV3: Exploring SAM 3 for Open-Vocabulary Semantic Segmentation in Remote Sensing Images**|Kaiyu Li et.al.|[2512.08730](http://arxiv.org/abs/2512.08730)|null|
 |**2025-12-08**|**Towards Accurate UAV Image Perception: Guiding Vision-Language Models with Stronger Task Prompts**|Mingning Guo et.al.|[2512.07302](http://arxiv.org/abs/2512.07302)|null|
 |**2025-12-06**|**DragMesh: Interactive 3D Generation Made Easy**|Tianshan Zhang et.al.|[2512.06424](http://arxiv.org/abs/2512.06424)|null|
 |**2025-12-05**|**Decoding with Structured Awareness: Integrating Directional, Frequency-Spatial, and Structural Attention for Medical Image Segmentation**|Fan Zhang et.al.|[2512.05494](http://arxiv.org/abs/2512.05494)|null|
