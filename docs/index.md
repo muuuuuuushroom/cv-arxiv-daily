@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.02.06
+## Updated on 2026.02.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,6 +16,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**Transporting Task Vectors across Different Architectures without Training**|Filippo Rinaldi et.al.|[2602.12952](http://arxiv.org/abs/2602.12952)|null|
+|**2026-02-13**|**CRAFT: Adapting VLA Models to Contact-rich Manipulation via Force-aware Curriculum Fine-tuning**|Yike Zhang et.al.|[2602.12532](http://arxiv.org/abs/2602.12532)|null|
+|**2026-02-12**|**Perceptual Self-Reflection in Agentic Physics Simulation Code Generation**|Prashant Shende et.al.|[2602.12311](http://arxiv.org/abs/2602.12311)|null|
+|**2026-02-11**|**LocoVLM: Grounding Vision and Language for Adapting Versatile Legged Locomotion Policies**|I Made Aswin Nahrendra et.al.|[2602.10399](http://arxiv.org/abs/2602.10399)|null|
+|**2026-02-11**|**Infusion: Shaping Model Behavior by Editing Training Data via Influence Functions**|J Rosser et.al.|[2602.09987](http://arxiv.org/abs/2602.09987)|null|
+|**2026-02-10**|**The Laplacian Mechanism Improves Transformers by Reshaping Token Geometry**|Yuchong Zhang et.al.|[2602.09297](http://arxiv.org/abs/2602.09297)|null|
+|**2026-02-09**|**Barycentric alignment for instance-level comparison of neural representations**|Shreya Saha et.al.|[2602.09225](http://arxiv.org/abs/2602.09225)|null|
+|**2026-02-09**|**Looping Back to Move Forward: Recursive Transformers for Efficient and Flexible Large Multimodal Models**|Ruihan Xu et.al.|[2602.09080](http://arxiv.org/abs/2602.09080)|null|
+|**2026-02-09**|**Diffusion-Inspired Reconfiguration of Transformers for Uncertainty Calibration**|Manh Cuong Dao et.al.|[2602.08920](http://arxiv.org/abs/2602.08920)|null|
+|**2026-02-09**|**Quantization-aware Photonic Homodyne computing for Accelerated Artificial Intelligence and Scientific Simulation**|Lian Zhou et.al.|[2602.08269](http://arxiv.org/abs/2602.08269)|null|
 |**2026-02-05**|**Adaptive Global and Fine-Grained Perceptual Fusion for MLLM Embeddings Compatible with Hard Negative Amplification**|Lexiang Hu et.al.|[2602.05729](http://arxiv.org/abs/2602.05729)|null|
 |**2026-02-05**|**VLN-Pilot: Large Vision-Language Model as an Autonomous Indoor Drone Operator**|Bessie Dominguez-Dager et.al.|[2602.05552](http://arxiv.org/abs/2602.05552)|null|
 |**2026-02-05**|**When Shared Knowledge Hurts: Spectral Over-Accumulation in Model Merging**|Yayuan Li et.al.|[2602.05536](http://arxiv.org/abs/2602.05536)|null|
@@ -163,6 +173,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-08**|**One-Shot Crowd Counting With Density Guidance For Scene Adaptaion**|Jiwei Chen et.al.|[2602.07955](http://arxiv.org/abs/2602.07955)|null|
 |**2026-02-02**|**FSCA-Net: Feature-Separated Cross-Attention Network for Robust Multi-Dataset Training**|Yuehai Chen et.al.|[2602.01540](http://arxiv.org/abs/2602.01540)|null|
 |**2026-01-28**|**RepSFNet : A Single Fusion Network with Structural Reparameterization for Crowd Counting**|Mas Nurul Achmadiah et.al.|[2601.20369](http://arxiv.org/abs/2601.20369)|null|
 |**2026-01-18**|**Video Individual Counting and Tracking from Moving Drones: A Benchmark and Methods**|Yaowu Fan et.al.|[2601.12500](http://arxiv.org/abs/2601.12500)|null|
@@ -193,6 +204,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**Learning Image-based Tree Crown Segmentation from Enhanced Lidar-based Pseudo-labels**|Julius Pesonen et.al.|[2602.13022](http://arxiv.org/abs/2602.13022)|null|
+|**2026-02-13**|**DynaGuide: A Generalizable Dynamic Guidance Framework for Unsupervised Semantic Segmentation**|Boujemaa Guermazi et.al.|[2602.13020](http://arxiv.org/abs/2602.13020)|null|
+|**2026-02-13**|**Robustness of Object Detection of Autonomous Vehicles in Adverse Weather Conditions**|Fox Pettersen et.al.|[2602.12902](http://arxiv.org/abs/2602.12902)|null|
+|**2026-02-13**|**Multi-Task Learning with Additive U-Net for Image Denoising and Classification**|Vikram Lakkavalli et.al.|[2602.12649](http://arxiv.org/abs/2602.12649)|null|
+|**2026-02-13**|**PISHYAR: A Socially Intelligent Smart Cane for Indoor Social Navigation and Multimodal Human-Robot Interaction for Visually Impaired People**|Mahdi Haghighat Joo et.al.|[2602.12597](http://arxiv.org/abs/2602.12597)|null|
+|**2026-02-12**|**Learning to Manipulate Anything: Revealing Data Scaling Laws in Bounding-Box Guided Policies**|Yihao Wu et.al.|[2602.11885](http://arxiv.org/abs/2602.11885)|null|
+|**2026-02-12**|**STVG-R1: Incentivizing Instance-Level Reasoning and Grounding in Videos via Reinforcement Learning**|Xiaowen Zhang et.al.|[2602.11730](http://arxiv.org/abs/2602.11730)|null|
+|**2026-02-12**|**GSO-SLAM: Bidirectionally Coupled Gaussian Splatting and Direct Visual Odometry**|Jiung Yeon et.al.|[2602.11714](http://arxiv.org/abs/2602.11714)|null|
+|**2026-02-12**|**Clutt3R-Seg: Sparse-view 3D Instance Segmentation for Language-grounded Grasping in Cluttered Scenes**|Jeongho Noh et.al.|[2602.11660](http://arxiv.org/abs/2602.11660)|null|
+|**2026-02-12**|**HyperDet: 3D Object Detection with Hyper 4D Radar Point Clouds**|Yichun Xiao et.al.|[2602.11554](http://arxiv.org/abs/2602.11554)|null|
 |**2026-02-05**|**NVS-HO: A Benchmark for Novel View Synthesis of Handheld Objects**|Musawar Ali et.al.|[2602.05822](http://arxiv.org/abs/2602.05822)|null|
 |**2026-02-05**|**FMPose3D: monocular 3D pose estimation via flow matching**|Ti Wang et.al.|[2602.05755](http://arxiv.org/abs/2602.05755)|null|
 |**2026-02-05**|**Depth as Prior Knowledge for Object Detection**|Moussa Kassem Sbeyti et.al.|[2602.05730](http://arxiv.org/abs/2602.05730)|null|
@@ -497,7 +518,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-02-05**|**THOR: Inductive Link Prediction over Hyper-Relational Knowledge Graphs**|Weijian Yu et.al.|[2602.05424](http://arxiv.org/abs/2602.05424)|null|
+|**2026-02-11**|**Integrating Unsupervised and Supervised Learning for the Prediction of Defensive Schemes in American football**|Rouven Michels et.al.|[2602.10784](http://arxiv.org/abs/2602.10784)|null|
+|**2026-02-09**|**GaussianCaR: Gaussian Splatting for Efficient Camera-Radar Fusion**|Santiago Montiel-Marín et.al.|[2602.08784](http://arxiv.org/abs/2602.08784)|null|
+|**2026-02-08**|**LOCA-bench: Benchmarking Language Agents Under Controllable and Extreme Context Growth**|Weihao Zeng et.al.|[2602.07962](http://arxiv.org/abs/2602.07962)|null|
+|**2026-02-07**|**How does longer temporal context enhance multimodal narrative video processing in the brain?**|Prachi Jindal et.al.|[2602.07570](http://arxiv.org/abs/2602.07570)|null|
+|**2026-02-06**|**THOR: Inductive Link Prediction over Hyper-Relational Knowledge Graphs**|Weijian Yu et.al.|[2602.05424](http://arxiv.org/abs/2602.05424)|null|
 |**2026-02-04**|**ARGaze: Autoregressive Transformers for Online Egocentric Gaze Estimation**|Jia Li et.al.|[2602.05132](http://arxiv.org/abs/2602.05132)|null|
 |**2026-02-04**|**SPOT-Occ: Sparse Prototype-guided Transformer for Camera-based 3D Occupancy Prediction**|Suzeyu Chen et.al.|[2602.04240](http://arxiv.org/abs/2602.04240)|null|
 |**2026-01-30**|**Segment Any Events with Language**|Seungjun Lee et.al.|[2601.23159](http://arxiv.org/abs/2601.23159)|null|
@@ -563,6 +588,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**1%>100%: High-Efficiency Visual Adapter with Complex Linear Projection Optimization**|Dongshuo Yin et.al.|[2602.10513](http://arxiv.org/abs/2602.10513)|null|
+|**2026-02-09**|**Improving Reconstruction of Representation Autoencoder**|Siyu Liu et.al.|[2602.08620](http://arxiv.org/abs/2602.08620)|null|
+|**2026-02-09**|**Are Vision Foundation Models Foundational for Electron Microscopy Image Segmentation?**|Caterina Fuster-Barceló et.al.|[2602.08505](http://arxiv.org/abs/2602.08505)|null|
+|**2026-02-10**|**Bi-Adapt: Few-shot Bimanual Adaptation for Novel Categories of 3D Objects via Semantic Correspondence**|Jinxian Zhou et.al.|[2602.08425](http://arxiv.org/abs/2602.08425)|null|
+|**2026-02-11**|**Splat and Distill: Augmenting Teachers with Feed-Forward 3D Reconstruction For 3D-Aware Distillation**|David Shavin et.al.|[2602.06032](http://arxiv.org/abs/2602.06032)|null|
 |**2026-02-05**|**VGGT-Motion: Motion-Aware Calibration-Free Monocular SLAM for Long-Range Consistency**|Zhuang Xiong et.al.|[2602.05508](http://arxiv.org/abs/2602.05508)|null|
 |**2026-02-03**|**Morphe: High-Fidelity Generative Video Streaming with Vision Foundation Model**|Tianyi Gong et.al.|[2602.03529](http://arxiv.org/abs/2602.03529)|null|
 |**2026-02-03**|**Full end-to-end diagnostic workflow automation of 3D OCT via foundation model-driven AI for retinal diseases**|Jinze Zhang et.al.|[2602.03302](http://arxiv.org/abs/2602.03302)|null|
@@ -690,7 +720,7 @@ layout: default
 |**2026-01-23**|**ReWeaver: Towards Simulation-Ready and Topology-Accurate Garment Reconstruction**|Ming Li et.al.|[2601.16672](http://arxiv.org/abs/2601.16672)|null|
 |**2026-01-21**|**Pb4U-GNet: Resolution-Adaptive Garment Simulation via Propagation-before-Update Graph Network**|Aoran Liu et.al.|[2601.15110](http://arxiv.org/abs/2601.15110)|null|
 |**2026-01-20**|**VTONGuard: Automatic Detection and Authentication of AI-Generated Virtual Try-On Content**|Shengyi Wu et.al.|[2601.13951](http://arxiv.org/abs/2601.13951)|null|
-|**2026-01-22**|**GO-MLVTON: Garment Occlusion-Aware Multi-Layer Virtual Try-On with Diffusion Models**|Yang Yu et.al.|[2601.13524](http://arxiv.org/abs/2601.13524)|null|
+|**2026-02-09**|**GO-MLVTON: Garment Occlusion-Aware Multi-Layer Virtual Try-On with Diffusion Models**|Yang Yu et.al.|[2601.13524](http://arxiv.org/abs/2601.13524)|null|
 |**2026-01-09**|**LayerGS: Decomposition and Inpainting of Layered 3D Human Avatars via 2D Gaussian Splatting**|Yinghan Xu et.al.|[2601.05853](http://arxiv.org/abs/2601.05853)|null|
 |**2026-01-06**|**VTONQA: A Multi-Dimensional Quality Assessment Dataset for Virtual Try-on**|Xinyi Wei et.al.|[2601.02945](http://arxiv.org/abs/2601.02945)|null|
 |**2026-01-05**|**AlignVTOFF: Texture-Spatial Feature Alignment for High-Fidelity Virtual Try-Off**|Yihan Zhu et.al.|[2601.02038](http://arxiv.org/abs/2601.02038)|null|
