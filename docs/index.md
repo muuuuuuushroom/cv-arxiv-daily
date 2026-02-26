@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.02.16
+## Updated on 2026.02.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,6 +16,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**Dynamic Symmetric Point Tracking: Tackling Non-ideal Reference in Analog In-memory Training**|Quan Xiao et.al.|[2602.21321](http://arxiv.org/abs/2602.21321)|null|
+|**2026-02-23**|**Decoupling Vision and Language: Codebook Anchored Visual Adaptation**|Jason Wu et.al.|[2602.19449](http://arxiv.org/abs/2602.19449)|null|
+|**2026-02-22**|**Time Series, Vision, and Language: Exploring the Limits of Alignment in Contrastive Representation Spaces**|Pratham Yashwante et.al.|[2602.19367](http://arxiv.org/abs/2602.19367)|null|
+|**2026-02-22**|**Taming Preconditioner Drift: Unlocking the Potential of Second-Order Optimizers for Federated Learning on Non-IID Data**|Junkang Liu et.al.|[2602.19271](http://arxiv.org/abs/2602.19271)|null|
+|**2026-02-22**|**VIGiA: Instructional Video Guidance via Dialogue Reasoning and Retrieval**|Diogo Glória-Silva et.al.|[2602.19146](http://arxiv.org/abs/2602.19146)|**[link](https://github.com/dmgcsilva/vigia)**|
+|**2026-02-21**|**Global Commander and Local Operative: A Dual-Agent Framework for Scene Navigation**|Kaiming Jin et.al.|[2602.18941](http://arxiv.org/abs/2602.18941)|null|
+|**2026-02-20**|**Communication-Efficient Personalized Adaptation via Federated-Local Model Merging**|Yinan Zou et.al.|[2602.18658](http://arxiv.org/abs/2602.18658)|null|
+|**2026-02-19**|**When Vision Overrides Language: Evaluating and Mitigating Counterfactual Failures in VLAs**|Yu Fang et.al.|[2602.17659](http://arxiv.org/abs/2602.17659)|null|
+|**2026-02-19**|**RoboGene: Boosting VLA Pre-training via Diversity-Driven Agentic Framework for Real-World Task Generation**|Yixue Zhang et.al.|[2602.16444](http://arxiv.org/abs/2602.16444)|null|
+|**2026-02-17**|**Learning to Retrieve Navigable Candidates for Efficient Vision-and-Language Navigation**|Shutian Gu et.al.|[2602.15724](http://arxiv.org/abs/2602.15724)|null|
 |**2026-02-13**|**Transporting Task Vectors across Different Architectures without Training**|Filippo Rinaldi et.al.|[2602.12952](http://arxiv.org/abs/2602.12952)|null|
 |**2026-02-13**|**CRAFT: Adapting VLA Models to Contact-rich Manipulation via Force-aware Curriculum Fine-tuning**|Yike Zhang et.al.|[2602.12532](http://arxiv.org/abs/2602.12532)|null|
 |**2026-02-12**|**Perceptual Self-Reflection in Agentic Physics Simulation Code Generation**|Prashant Shende et.al.|[2602.12311](http://arxiv.org/abs/2602.12311)|null|
@@ -204,6 +214,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-25**|**PatchDenoiser: Parameter-efficient multi-scale patch learning and fusion denoiser for medical images**|Jitindra Fartiyal et.al.|[2602.21987](http://arxiv.org/abs/2602.21987)|null|
+|**2026-02-25**|**Dream-SLAM: Dreaming the Unseen for Active SLAM in Dynamic Environments**|Xiangqi Meng et.al.|[2602.21967](http://arxiv.org/abs/2602.21967)|null|
+|**2026-02-25**|**Protein Graph Neural Networks for Heterogeneous Cryo-EM Reconstruction**|Jonathan Krook et.al.|[2602.21915](http://arxiv.org/abs/2602.21915)|null|
+|**2026-02-25**|**EndoDDC: Learning Sparse to Dense Reconstruction for Endoscopic Robotic Navigation via Diffusion Depth Completion**|Yinheng Lin et.al.|[2602.21893](http://arxiv.org/abs/2602.21893)|null|
+|**2026-02-25**|**SAPNet++: Evolving Point-Prompted Instance Segmentation with Semantic and Spatial Awareness**|Zhaoyang Wei et.al.|[2602.21762](http://arxiv.org/abs/2602.21762)|null|
+|**2026-02-25**|**Structure-to-Image: Zero-Shot Depth Estimation in Colonoscopy via High-Fidelity Sim-to-Real Adaptation**|Juan Yang et.al.|[2602.21740](http://arxiv.org/abs/2602.21740)|null|
+|**2026-02-25**|**Assessing airborne laser scanning and aerial photogrammetry for deep learning-based stand delineation**|Håkon Næss Sandum et.al.|[2602.21709](http://arxiv.org/abs/2602.21709)|null|
+|**2026-02-25**|**Tokenizing Semantic Segmentation with RLE**|Abhineet Singh et.al.|[2602.21627](http://arxiv.org/abs/2602.21627)|null|
+|**2026-02-25**|**Unified Unsupervised and Sparsely-Supervised 3D Object Detection by Semantic Pseudo-Labeling and Prototype Learning**|Yushen He et.al.|[2602.21484](http://arxiv.org/abs/2602.21484)|null|
+|**2026-02-24**|**Event-Aided Sharp Radiance Field Reconstruction for Fast-Flying Drones**|Rong Zou et.al.|[2602.21101](http://arxiv.org/abs/2602.21101)|null|
 |**2026-02-13**|**Learning Image-based Tree Crown Segmentation from Enhanced Lidar-based Pseudo-labels**|Julius Pesonen et.al.|[2602.13022](http://arxiv.org/abs/2602.13022)|null|
 |**2026-02-13**|**DynaGuide: A Generalizable Dynamic Guidance Framework for Unsupervised Semantic Segmentation**|Boujemaa Guermazi et.al.|[2602.13020](http://arxiv.org/abs/2602.13020)|null|
 |**2026-02-13**|**Robustness of Object Detection of Autonomous Vehicles in Adverse Weather Conditions**|Fox Pettersen et.al.|[2602.12902](http://arxiv.org/abs/2602.12902)|null|
@@ -518,6 +538,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**m^3TrackFormer: Transformer-based mmWave Multi-Target Tracking with Lost Target Re-Acquisition Capability**|Tongkai Li et.al.|[2602.18254](http://arxiv.org/abs/2602.18254)|null|
+|**2026-02-18**|**Automated Histopathology Report Generation via Pyramidal Feature Extraction and the UNI Foundation Model**|Ahmet Halici et.al.|[2602.16422](http://arxiv.org/abs/2602.16422)|null|
+|**2026-02-24**|**DriveMamba: Task-Centric Scalable State Space Model for Efficient End-to-End Autonomous Driving**|Haisheng Su et.al.|[2602.13301](http://arxiv.org/abs/2602.13301)|null|
 |**2026-02-11**|**Integrating Unsupervised and Supervised Learning for the Prediction of Defensive Schemes in American football**|Rouven Michels et.al.|[2602.10784](http://arxiv.org/abs/2602.10784)|null|
 |**2026-02-09**|**GaussianCaR: Gaussian Splatting for Efficient Camera-Radar Fusion**|Santiago Montiel-Marín et.al.|[2602.08784](http://arxiv.org/abs/2602.08784)|null|
 |**2026-02-08**|**LOCA-bench: Benchmarking Language Agents Under Controllable and Extreme Context Growth**|Weihao Zeng et.al.|[2602.07962](http://arxiv.org/abs/2602.07962)|null|
@@ -588,6 +611,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-25**|**Axial-Centric Cross-Plane Attention for 3D Medical Image Classification**|Doyoung Park et.al.|[2602.21636](http://arxiv.org/abs/2602.21636)|null|
+|**2026-02-24**|**Scaling Vision Transformers: Evaluating DeepSpeed for Image-Centric Workloads**|Huy Trinh et.al.|[2602.21081](http://arxiv.org/abs/2602.21081)|null|
+|**2026-02-24**|**Estimation of Confidence Bounds in Binary Classification using Wilson Score Kernel Density Estimation**|Thorbjørn Mosekjær Iversen et.al.|[2602.20947](http://arxiv.org/abs/2602.20947)|null|
+|**2026-02-24**|**Probing and Bridging Geometry-Interaction Cues for Affordance Reasoning in Vision Foundation Models**|Qing Zhang et.al.|[2602.20501](http://arxiv.org/abs/2602.20501)|null|
+|**2026-02-23**|**Rethinking LoRA for Privacy-Preserving Federated Learning in Large Models**|Jin Liu et.al.|[2602.19926](http://arxiv.org/abs/2602.19926)|null|
+|**2026-02-24**|**Brewing Stronger Features: Dual-Teacher Distillation for Multispectral Earth Observation**|Filip Wolf et.al.|[2602.19863](http://arxiv.org/abs/2602.19863)|null|
+|**2026-02-23**|**Seeing Clearly, Reasoning Confidently: Plug-and-Play Remedies for Vision Language Model Blindness**|Xin Hu et.al.|[2602.19615](http://arxiv.org/abs/2602.19615)|null|
+|**2026-02-22**|**US-JEPA: A Joint Embedding Predictive Architecture for Medical Ultrasound**|Ashwath Radhachandran et.al.|[2602.19322](http://arxiv.org/abs/2602.19322)|null|
+|**2026-02-22**|**WildOS: Open-Vocabulary Object Search in the Wild**|Hardik Shah et.al.|[2602.19308](http://arxiv.org/abs/2602.19308)|null|
+|**2026-02-21**|**Frame2Freq: Spectral Adapters for Fine-Grained Video Understanding**|Thinesh Thiyakesan Ponbagavathi et.al.|[2602.18977](http://arxiv.org/abs/2602.18977)|null|
 |**2026-02-11**|**1%>100%: High-Efficiency Visual Adapter with Complex Linear Projection Optimization**|Dongshuo Yin et.al.|[2602.10513](http://arxiv.org/abs/2602.10513)|null|
 |**2026-02-09**|**Improving Reconstruction of Representation Autoencoder**|Siyu Liu et.al.|[2602.08620](http://arxiv.org/abs/2602.08620)|null|
 |**2026-02-09**|**Are Vision Foundation Models Foundational for Electron Microscopy Image Segmentation?**|Caterina Fuster-Barceló et.al.|[2602.08505](http://arxiv.org/abs/2602.08505)|null|
@@ -714,6 +747,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**CORAL: Correspondence Alignment for Improved Virtual Try-On**|Jiyoung Kim et.al.|[2602.17636](http://arxiv.org/abs/2602.17636)|null|
+|**2026-02-18**|**DressWild: Feed-Forward Pose-Agnostic Garment Sewing Pattern Generation from In-the-Wild Images**|Zeng Tao et.al.|[2602.16502](http://arxiv.org/abs/2602.16502)|null|
+|**2026-02-16**|**OmniVTON++: Training-Free Universal Virtual Try-On with Principal Pose Guidance**|Zhaotong Yang et.al.|[2602.14552](http://arxiv.org/abs/2602.14552)|null|
 |**2026-01-30**|**Neural Clothing Tryer: Customized Virtual Try-On via Semantic Enhancement and Controlling Diffusion Model**|Zhijing Yang et.al.|[2601.22838](http://arxiv.org/abs/2601.22838)|null|
 |**2026-01-30**|**OpenVTON-Bench: A Large-Scale High-Resolution Benchmark for Controllable Virtual Try-On Evaluation**|Jin Li et.al.|[2601.22725](http://arxiv.org/abs/2601.22725)|null|
 |**2026-01-23**|**GlassesGB: Controllable 2D GAN-Based Eyewear Personalization for 3D Gaussian Blendshapes Head Avatars**|Rui-Yang Ju et.al.|[2601.17088](http://arxiv.org/abs/2601.17088)|null|
