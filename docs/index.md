@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.09
+## Updated on 2026.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,6 +16,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**Grounding Synthetic Data Generation With Vision and Language Models**|Ümit Mert Çağlar et.al.|[2603.09625](http://arxiv.org/abs/2603.09625)|null|
+|**2026-03-10**|**NS-VLA: Towards Neuro-Symbolic Vision-Language-Action Models**|Ziyue Zhu et.al.|[2603.09542](http://arxiv.org/abs/2603.09542)|**[link](https://github.com/Zuzuzzy/NS-VLA)**|
+|**2026-03-10**|**Implicit Geometry Representations for Vision-and-Language Navigation from Web Videos**|Mingfei Han et.al.|[2603.09259](http://arxiv.org/abs/2603.09259)|null|
+|**2026-03-09**|**CMMR-VLN: Vision-and-Language Navigation via Continual Multimodal Memory Retrieval**|Haozhou Li et.al.|[2603.07997](http://arxiv.org/abs/2603.07997)|null|
+|**2026-03-08**|**Reverse Distillation: Consistently Scaling Protein Language Model Representations**|Darius Catrina et.al.|[2603.07710](http://arxiv.org/abs/2603.07710)|null|
+|**2026-03-07**|**FreeFly-Thinking : Aligning Chain-of-Thought Reasoning with Continuous UAV Navigation**|Jiaxu Zhou et.al.|[2603.07181](http://arxiv.org/abs/2603.07181)|null|
+|**2026-03-10**|**VLN-Cache: Enabling Token Caching for VLN Models with Visual/Semantic Dynamics Awareness**|Zihao Zheng et.al.|[2603.07080](http://arxiv.org/abs/2603.07080)|null|
+|**2026-03-06**|**IGLU: The Integrated Gaussian Linear Unit Activation Function**|Mingi Kang et.al.|[2603.06861](http://arxiv.org/abs/2603.06861)|null|
 |**2026-03-05**|**Aligning the True Semantics: Constrained Decoupling and Distribution Sampling for Cross-Modal Alignment**|Xiang Ma et.al.|[2603.05566](http://arxiv.org/abs/2603.05566)|null|
 |**2026-03-01**|**ProFocus: Proactive Perception and Focused Reasoning in Vision-and-Language Navigation**|Wei Xue et.al.|[2603.05530](http://arxiv.org/abs/2603.05530)|null|
 |**2026-03-05**|**Beyond Text: Aligning Vision and Language for Multimodal E-Commerce Retrieval**|Qujiaheng Zhang et.al.|[2603.04836](http://arxiv.org/abs/2603.04836)|null|
@@ -228,6 +236,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**From Semantics to Pixels: Coarse-to-Fine Masked Autoencoders for Hierarchical Visual Understanding**|Wenzhao Xiang et.al.|[2603.09955](http://arxiv.org/abs/2603.09955)|null|
+|**2026-03-10**|**World2Mind: Cognition Toolkit for Allocentric Spatial Reasoning in Foundation Models**|Shouwei Ruan et.al.|[2603.09774](http://arxiv.org/abs/2603.09774)|null|
+|**2026-03-10**|**DRIFT: Dual-Representation Inter-Fusion Transformer for Automated Driving Perception with 4D Radar Point Clouds**|Siqi Pei et.al.|[2603.09695](http://arxiv.org/abs/2603.09695)|null|
+|**2026-03-10**|**VarSplat: Uncertainty-aware 3D Gaussian Splatting for Robust RGB-D SLAM**|Anh Thuan Tran et.al.|[2603.09673](http://arxiv.org/abs/2603.09673)|null|
+|**2026-03-10**|**X-GS: An Extensible Open Framework Unifying 3DGS Architectures with Downstream Multimodal Models**|Yueen Ma et.al.|[2603.09632](http://arxiv.org/abs/2603.09632)|null|
+|**2026-03-10**|**Grounding Synthetic Data Generation With Vision and Language Models**|Ümit Mert Çağlar et.al.|[2603.09625](http://arxiv.org/abs/2603.09625)|null|
+|**2026-03-10**|**Decoder-Free Distillation for Quantized Image Restoration**|S. M. A. Sharif et.al.|[2603.09624](http://arxiv.org/abs/2603.09624)|null|
+|**2026-03-10**|**SurgFed: Language-guided Multi-Task Federated Learning for Surgical Video Understanding**|Zheng Fang et.al.|[2603.09496](http://arxiv.org/abs/2603.09496)|null|
+|**2026-03-10**|**CIGPose: Causal Intervention Graph Neural Network for Whole-Body Pose Estimation**|Bohao Li et.al.|[2603.09418](http://arxiv.org/abs/2603.09418)|null|
+|**2026-03-10**|**RiO-DETR: DETR for Real-time Oriented Object Detection**|Zhangchi Hu et.al.|[2603.09411](http://arxiv.org/abs/2603.09411)|null|
 |**2026-03-06**|**BEVLM: Distilling Semantic Knowledge from LLMs into Bird's-Eye View Representations**|Thomas Monninger et.al.|[2603.06576](http://arxiv.org/abs/2603.06576)|null|
 |**2026-03-06**|**Modeling and Measuring Redundancy in Multisource Multimodal Data for Autonomous Driving**|Yuhan Zhou et.al.|[2603.06544](http://arxiv.org/abs/2603.06544)|null|
 |**2026-03-06**|**SG-DOR: Learning Scene Graphs with Direction-Conditioned Occlusion Reasoning for Pepper Plants**|Rohit Menon et.al.|[2603.06512](http://arxiv.org/abs/2603.06512)|null|
@@ -469,6 +487,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**VIVID-Med: LLM-Supervised Structured Pretraining for Deployable Medical ViTs**|Xiyao Wang et.al.|[2603.09109](http://arxiv.org/abs/2603.09109)|null|
 |**2026-03-02**|**GroupEnsemble: Efficient Uncertainty Estimation for DETR-based Object Detection**|Yutong Yang et.al.|[2603.01847](http://arxiv.org/abs/2603.01847)|null|
 |**2026-01-18**|**DepthCropSeg++: Scaling a Crop Segmentation Foundation Model With Depth-Labeled Data**|Jiafei Zhang et.al.|[2601.12366](http://arxiv.org/abs/2601.12366)|null|
 |**2025-12-04**|**Line-of-sight shear in SLACS strong lenses II: validation tests with an extended sample**|Natalie B. Hogg et.al.|[2512.05050](http://arxiv.org/abs/2512.05050)|null|
@@ -559,21 +578,22 @@ layout: default
 |**2025-11-25**|**3D-Aware Multi-Task Learning with Cross-View Correlations for Dense Scene Understanding**|Xiaoye Wang et.al.|[2511.20646](http://arxiv.org/abs/2511.20646)|null|
 |**2025-11-25**|**iMontage: Unified, Versatile, Highly Dynamic Many-to-many Image Generation**|Zhoujie Fu et.al.|[2511.20635](http://arxiv.org/abs/2511.20635)|null|
 |**2025-11-18**|**Parameter Aware Mamba Model for Multi-task Dense Prediction**|Xinzhuo Yu et.al.|[2511.14503](http://arxiv.org/abs/2511.14503)|null|
-|**2025-09-28**|**Efficient Domain-Adaptive Multi-Task Dense Prediction with Vision Foundation Models**|Beomseok Kang et.al.|[2509.23626](http://arxiv.org/abs/2509.23626)|null|
+|**2026-03-09**|**Efficient Domain-Adaptive Multi-Task Dense Prediction with Vision Foundation Models**|Beomseok Kang et.al.|[2509.23626](http://arxiv.org/abs/2509.23626)|null|
 |**2025-11-20**|**Medverse: A Universal Model for Full-Resolution 3D Medical Image Segmentation, Transformation and Enhancement**|Jiesi Hu et.al.|[2509.09232](http://arxiv.org/abs/2509.09232)|null|
 |**2026-03-06**|**One Model for All Tasks: Leveraging Efficient World Models in Multi-Task Planning**|Yuan Pu et.al.|[2509.07945](http://arxiv.org/abs/2509.07945)|null|
 |**2025-08-28**|**Enhancing Mamba Decoder with Bidirectional Interaction in Multi-Task Dense Prediction**|Mang Cao et.al.|[2508.20376](http://arxiv.org/abs/2508.20376)|null|
 |**2025-07-25**|**Multi-Task Dense Prediction Fine-Tuning with Mixture of Fine-Grained Experts**|Yangyang Xu et.al.|[2507.19077](http://arxiv.org/abs/2507.19077)|null|
 |**2026-02-02**|**OpenWorldSAM: Extending SAM2 for Universal Image Segmentation with Language Prompts**|Shiting Xiao et.al.|[2507.05427](http://arxiv.org/abs/2507.05427)|null|
 |**2025-06-12**|**The Optimization Paradox in Clinical AI Multi-Agent Systems**|Suhana Bedi et.al.|[2506.06574](http://arxiv.org/abs/2506.06574)|null|
-|**2025-12-09**|**The Missing Point in Vision Transformers for Universal Image Segmentation**|Sajjad Shahabodini et.al.|[2505.19795](http://arxiv.org/abs/2505.19795)|null|
+|**2025-12-09**|**The Missing Point in Vision Transformers for Universal Image Segmentation**|Sajjad Shahabodini et.al.|[2505.19795](http://arxiv.org/abs/2505.19795)|**[link](https://github.com/sajjad-sh33/ViT-P)**|
 |**2025-01-02**|**Evidential Calibrated Uncertainty-Guided Interactive Segmentation paradigm for Ultrasound Images**|Jiang Shang et.al.|[2501.01072](http://arxiv.org/abs/2501.01072)|null|
 
 ## Mechanism Specific
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-03-04**|**N-gram Injection into Transformers for Dynamic Language Model Adaptation in Handwritten Text Recognition**|Florent Meyer et.al.|[2603.03930](http://arxiv.org/abs/2603.03930)|null|
+|**2026-03-06**|**Collaborative Planning with Concurrent Synchronization for Operationally Constrained UAV-UGV Teams**|Zihao Deng et.al.|[2603.06898](http://arxiv.org/abs/2603.06898)|null|
+|**2026-03-10**|**N-gram Injection into Transformers for Dynamic Language Model Adaptation in Handwritten Text Recognition**|Florent Meyer et.al.|[2603.03930](http://arxiv.org/abs/2603.03930)|null|
 |**2026-03-03**|**Learning When to Act or Refuse: Guarding Agentic Reasoning Models for Safe Multi-Step Tool Use**|Aradhye Agarwal et.al.|[2603.03205](http://arxiv.org/abs/2603.03205)|null|
 |**2026-03-03**|**CoDAR: Continuous Diffusion Language Models are More Powerful Than You Think**|Junzhe Shen et.al.|[2603.02547](http://arxiv.org/abs/2603.02547)|null|
 |**2026-03-02**|**GroupEnsemble: Efficient Uncertainty Estimation for DETR-based Object Detection**|Yutong Yang et.al.|[2603.01847](http://arxiv.org/abs/2603.01847)|null|
@@ -652,6 +672,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**TiPToP: A Modular Open-Vocabulary Planning System for Robotic Manipulation**|William Shen et.al.|[2603.09971](http://arxiv.org/abs/2603.09971)|null|
+|**2026-03-10**|**X-GS: An Extensible Open Framework Unifying 3DGS Architectures with Downstream Multimodal Models**|Yueen Ma et.al.|[2603.09632](http://arxiv.org/abs/2603.09632)|null|
+|**2026-03-10**|**EventVGGT: Exploring Cross-Modal Distillation for Consistent Event-based Depth Estimation**|Yinrui Ren et.al.|[2603.09385](http://arxiv.org/abs/2603.09385)|null|
+|**2026-03-10**|**When Detectors Forget Forensics: Blocking Semantic Shortcuts for Generalizable AI-Generated Image Detection**|Chao Shuai et.al.|[2603.09242](http://arxiv.org/abs/2603.09242)|null|
+|**2026-03-09**|**FOMO-3D: Using Vision Foundation Models for Long-Tailed 3D Object Detection**|Anqi Joyce Yang et.al.|[2603.08611](http://arxiv.org/abs/2603.08611)|null|
+|**2026-03-08**|**Fusion Complexity Inversion: Why Simpler Cross View Modules Outperform SSMs and Cross View Attention Transformers for Pasture Biomass Regression**|Mridankan Mandal et.al.|[2603.07819](http://arxiv.org/abs/2603.07819)|null|
+|**2026-03-08**|**GLASS: Graph and Vision-Language Assisted Semantic Shape Correspondence**|Qinfeng Xiao et.al.|[2603.07652](http://arxiv.org/abs/2603.07652)|null|
+|**2026-03-08**|**FedEU: Evidential Uncertainty-Driven Federated Fine-Tuning of Vision Foundation Models for Remote Sensing Image Segmentation**|Xiaokang Zhang et.al.|[2603.07468](http://arxiv.org/abs/2603.07468)|null|
+|**2026-03-07**|**Foundational World Models Accurately Detect Bimanual Manipulator Failures**|Isaac R. Ward et.al.|[2603.06987](http://arxiv.org/abs/2603.06987)|null|
 |**2026-03-06**|**CaTok: Taming Mean Flows for One-Dimensional Causal Image Tokenization**|Yitong Chen et.al.|[2603.06449](http://arxiv.org/abs/2603.06449)|null|
 |**2026-03-06**|**GazeMoE: Perception of Gaze Target with Mixture-of-Experts**|Zhuangzhuang Dai et.al.|[2603.06256](http://arxiv.org/abs/2603.06256)|null|
 |**2026-03-06**|**VG3S: Visual Geometry Grounded Gaussian Splatting for Semantic Occupancy Prediction**|Xiaoyang Yan et.al.|[2603.06210](http://arxiv.org/abs/2603.06210)|null|
@@ -801,6 +830,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**BridgeDiff: Bridging Human Observations and Flat-Garment Synthesis for Virtual Try-Off**|Shuang Liu et.al.|[2603.09236](http://arxiv.org/abs/2603.09236)|null|
+|**2026-03-09**|**MV-Fashion: Towards Enabling Virtual Try-On and Size Estimation with Multi-View Paired Data**|Hunor Laczkó et.al.|[2603.08147](http://arxiv.org/abs/2603.08147)|null|
+|**2026-03-07**|**Virtual Try-On for Cultural Clothing: A Benchmarking Study**|Muhammad Tausif Ul Islam et.al.|[2603.07291](http://arxiv.org/abs/2603.07291)|null|
+|**2026-03-06**|**PICS: Pairwise Image Compositing with Spatial Interactions**|Hang Zhou et.al.|[2603.06873](http://arxiv.org/abs/2603.06873)|null|
 |**2026-03-05**|**When Rubrics Fail: Error Enumeration as Reward in Reference-Free RL Post-Training for Virtual Try-On**|Wisdom Ikezogwo et.al.|[2603.05659](http://arxiv.org/abs/2603.05659)|null|
 |**2026-03-05**|**Gaussian Wardrobe: Compositional 3D Gaussian Avatars for Free-Form Virtual Try-On**|Zhiyi Chen et.al.|[2603.04290](http://arxiv.org/abs/2603.04290)|null|
 |**2026-03-06**|**Mobile-VTON: High-Fidelity On-Device Virtual Try-On**|Zhenchen Wan et.al.|[2603.00947](http://arxiv.org/abs/2603.00947)|null|
