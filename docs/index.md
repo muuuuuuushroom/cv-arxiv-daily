@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.03.21
+## Updated on 2026.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,6 +16,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**Mitigating Object Hallucinations in LVLMs via Attention Imbalance Rectification**|Han Sun et.al.|[2603.24058](http://arxiv.org/abs/2603.24058)|null|
+|**2026-03-24**|**Grounding Vision and Language to 3D Masks for Long-Horizon Box Rearrangement**|Ashish Malik et.al.|[2603.23676](http://arxiv.org/abs/2603.23676)|null|
+|**2026-03-24**|**Conformal Cross-Modal Active Learning**|Huy Hoang Nguyen et.al.|[2603.23159](http://arxiv.org/abs/2603.23159)|**[link](https://github.com/Eric-nguyen1402/CCMA)**|
+|**2026-03-23**|**dynActivation: A Trainable Activation Family for Adaptive Nonlinearity**|Alois Bachmann et.al.|[2603.22154](http://arxiv.org/abs/2603.22154)|null|
+|**2026-03-22**|**SpatialFly: Geometry-Guided Representation Alignment for UAV Vision-and-Language Navigation in Urban Environments**|Wen Jiang et.al.|[2603.21046](http://arxiv.org/abs/2603.21046)|null|
+|**2026-03-21**|**LassoFlexNet: Flexible Neural Architecture for Tabular Data**|Kry Yik Chau Lui et.al.|[2603.20631](http://arxiv.org/abs/2603.20631)|null|
 |**2026-03-19**|**SEM: Sparse Embedding Modulation for Post-Hoc Debiasing of Vision-Language Models**|Quentin Guimard et.al.|[2603.19028](http://arxiv.org/abs/2603.19028)|null|
 |**2026-03-18**|**Loc3R-VLM: Language-based Localization and 3D Reasoning with Vision-Language Models**|Kevin Qu et.al.|[2603.18002](http://arxiv.org/abs/2603.18002)|null|
 |**2026-03-18**|**AgentVLN: Towards Agentic Vision-and-Language Navigation**|Zihao Xin et.al.|[2603.17670](http://arxiv.org/abs/2603.17670)|null|
@@ -221,6 +227,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**Granular Ball Guided Stable Latent Domain Discovery for Domain-General Crowd Counting**|Fan Chen et.al.|[2603.24106](http://arxiv.org/abs/2603.24106)|null|
+|**2026-03-25**|**SynMVCrowd: A Large Synthetic Benchmark for Multi-view Crowd Counting and Localization**|Qi Zhang et.al.|[2603.23956](http://arxiv.org/abs/2603.23956)|null|
+|**2026-03-22**|**Plant Taxonomy Meets Plant Counting: A Fine-Grained, Taxonomic Dataset for Counting Hundreds of Plant Species**|Jinyu Xu et.al.|[2603.21229](http://arxiv.org/abs/2603.21229)|null|
 |**2026-03-17**|**Exclusivity-Guided Mask Learning for Semi-Supervised Crowd Instance Segmentation and Counting**|Jiyang Huang et.al.|[2603.16241](http://arxiv.org/abs/2603.16241)|null|
 |**2026-02-26**|**Phys-3D: Physics-Constrained Real-Time Crowd Tracking and Counting on Railway Platforms**|Bin Zeng et.al.|[2602.23177](http://arxiv.org/abs/2602.23177)|null|
 |**2026-02-08**|**One-Shot Crowd Counting With Density Guidance For Scene Adaptaion**|Jiwei Chen et.al.|[2602.07955](http://arxiv.org/abs/2602.07955)|null|
@@ -254,6 +263,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**EndoVGGT: GNN-Enhanced Depth Estimation for Surgical 3D Reconstruction**|Falong Fan et.al.|[2603.24577](http://arxiv.org/abs/2603.24577)|null|
+|**2026-03-25**|**Language-Guided Structure-Aware Network for Camouflaged Object Detection**|Min Zhang et.al.|[2603.24355](http://arxiv.org/abs/2603.24355)|null|
+|**2026-03-25**|**Heuristic Self-Paced Learning for Domain Adaptive Semantic Segmentation under Adverse Conditions**|Shiqin Wang et.al.|[2603.24322](http://arxiv.org/abs/2603.24322)|null|
+|**2026-03-25**|**RS-SSM: Refining Forgotten Specifics in State Space Model for Video Semantic Segmentation**|Kai Zhu et.al.|[2603.24295](http://arxiv.org/abs/2603.24295)|null|
+|**2026-03-25**|**VERIA: Verification-Centric Multimodal Instance Augmentation for Long-Tailed 3D Object Detection**|Jumin Lee et.al.|[2603.24294](http://arxiv.org/abs/2603.24294)|null|
+|**2026-03-25**|**InstanceRSR: Real-World Super-Resolution via Instance-Aware Representation Alignment**|Zixin Guo et.al.|[2603.24240](http://arxiv.org/abs/2603.24240)|null|
+|**2026-03-25**|**Heuristic-inspired Reasoning Priors Facilitate Data-Efficient Referring Object Detection**|Xu Zhang et.al.|[2603.24166](http://arxiv.org/abs/2603.24166)|null|
+|**2026-03-25**|**MIRROR: Visual Motion Imitation via Real-time Retargeting and Teleoperation with Parallel Differential Inverse Kinematics**|Junheng Li et.al.|[2603.23995](http://arxiv.org/abs/2603.23995)|null|
+|**2026-03-24**|**Mind the Hitch: Dynamic Calibration and Articulated Perception for Autonomous Trucks**|Morui Zhu et.al.|[2603.23711](http://arxiv.org/abs/2603.23711)|null|
+|**2026-03-24**|**One View Is Enough! Monocular Training for In-the-Wild Novel View Generation**|Adrien Ramanana Rahary et.al.|[2603.23488](http://arxiv.org/abs/2603.23488)|null|
 |**2026-03-19**|**DriveTok: 3D Driving Scene Tokenization for Unified Multi-View Reconstruction and Understanding**|Dong Zhuo et.al.|[2603.19219](http://arxiv.org/abs/2603.19219)|null|
 |**2026-03-19**|**Reconstruction Matters: Learning Geometry-Aligned BEV Representation through 3D Gaussian Splatting**|Yiren Lu et.al.|[2603.19193](http://arxiv.org/abs/2603.19193)|null|
 |**2026-03-19**|**SwiftTailor: Efficient 3D Garment Generation with Geometry Image Representation**|Phuc Pham et.al.|[2603.19053](http://arxiv.org/abs/2603.19053)|null|
@@ -525,6 +544,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**Who Benefits from RAG? The Role of Exposure, Utility and Attribution Bias**|Mahdi Dehghan et.al.|[2603.24218](http://arxiv.org/abs/2603.24218)|null|
+|**2026-03-23**|**Parallelizable Feynman-Kac Models for Universal Probabilistic Programming**|Michele Boreale et.al.|[2603.22463](http://arxiv.org/abs/2603.22463)|null|
 |**2026-03-12**|**Exhaustive Circuit Mapping of a Single-Cell Foundation Model Reveals Massive Redundancy, Heavy-Tailed Hub Architecture, and Layer-Dependent Differentiation Control**|Ihor Kendiukhov et.al.|[2603.11940](http://arxiv.org/abs/2603.11940)|null|
 |**2026-03-11**|**VIVID-Med: LLM-Supervised Structured Pretraining for Deployable Medical ViTs**|Xiyao Wang et.al.|[2603.09109](http://arxiv.org/abs/2603.09109)|null|
 |**2026-03-02**|**GroupEnsemble: Efficient Uncertainty Estimation for DETR-based Object Detection**|Yutong Yang et.al.|[2603.01847](http://arxiv.org/abs/2603.01847)|null|
@@ -631,6 +652,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**Caption Generation for Dongba Paintings via Prompt Learning and Semantic Fusion**|Shuangwu Qian et.al.|[2603.22946](http://arxiv.org/abs/2603.22946)|null|
+|**2026-03-24**|**TorR: Towards Brain-Inspired Task-Oriented Reasoning via Cache-Oriented Algorithm-Architecture Co-design**|Hyunwoo Oh et.al.|[2603.22855](http://arxiv.org/abs/2603.22855)|null|
+|**2026-03-21**|**REVERE: Reflective Evolving Research Engineer for Scientific Workflows**|Balaji Dinesh Gangireddi et.al.|[2603.20667](http://arxiv.org/abs/2603.20667)|null|
 |**2026-03-16**|**Fast SAM 3D Body: Accelerating SAM 3D Body for Real-Time Full-Body Human Mesh Recovery**|Timing Yang et.al.|[2603.15603](http://arxiv.org/abs/2603.15603)|null|
 |**2026-03-16**|**ForceVLA2: Unleashing Hybrid Force-Position Control with Force Awareness for Contact-Rich Manipulation**|Yang Li et.al.|[2603.15169](http://arxiv.org/abs/2603.15169)|null|
 |**2026-03-14**|**UVLM: A Universal Vision-Language Model Loader for Reproducible Multimodal Benchmarking**|Joan Perez et.al.|[2603.13893](http://arxiv.org/abs/2603.13893)|null|
@@ -717,6 +741,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**Sparse Autoencoders for Interpretable Medical Image Representation Learning**|Philipp Wesp et.al.|[2603.23794](http://arxiv.org/abs/2603.23794)|null|
+|**2026-03-24**|**Estimating Individual Tree Height and Species from UAV Imagery**|Jannik Endres et.al.|[2603.23669](http://arxiv.org/abs/2603.23669)|null|
+|**2026-03-25**|**The NCS-Model: A seismic foundation model trained on the Norwegian repository of public data**|Alba Ordonez et.al.|[2603.23211](http://arxiv.org/abs/2603.23211)|null|
+|**2026-03-23**|**CanViT: Toward Active-Vision Foundation Models**|Yohaï-Eliel Berreby et.al.|[2603.22570](http://arxiv.org/abs/2603.22570)|null|
+|**2026-03-20**|**Evaluating Vision Foundation Models for Pixel and Object Classification in Microscopy**|Carolin Teuber et.al.|[2603.19802](http://arxiv.org/abs/2603.19802)|null|
+|**2026-03-20**|**Dual-Domain Representation Alignment: Bridging 2D and 3D Vision via Geometry-Aware Architecture Search**|Haoyu Zhang et.al.|[2603.19563](http://arxiv.org/abs/2603.19563)|null|
 |**2026-03-19**|**DriveTok: 3D Driving Scene Tokenization for Unified Multi-View Reconstruction and Understanding**|Dong Zhuo et.al.|[2603.19219](http://arxiv.org/abs/2603.19219)|null|
 |**2026-03-18**|**SegFly: A 2D-3D-2D Paradigm for Aerial RGB-Thermal Semantic Segmentation at Scale**|Markus Gross et.al.|[2603.17920](http://arxiv.org/abs/2603.17920)|null|
 |**2026-03-18**|**M2P: Improving Visual Foundation Models with Mask-to-Point Weakly-Supervised Learning for Dense Point Tracking**|Qiangqiang Wu et.al.|[2603.17813](http://arxiv.org/abs/2603.17813)|null|
@@ -892,6 +922,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-23**|**Dress-ED: Instruction-Guided Editing for Virtual Try-On and Try-Off**|Fulvio Sanguigni et.al.|[2603.22607](http://arxiv.org/abs/2603.22607)|null|
+|**2026-03-24**|**OmniDiT: Extending Diffusion Transformer to Omni-VTON Framework**|Weixuan Zeng et.al.|[2603.19643](http://arxiv.org/abs/2603.19643)|null|
 |**2026-03-14**|**Garments2Look: A Multi-Reference Dataset for High-Fidelity Outfit-Level Virtual Try-On with Clothing and Accessories**|Junyao Hu et.al.|[2603.14153](http://arxiv.org/abs/2603.14153)|null|
 |**2026-03-13**|**Reference-Free Image Quality Assessment for Virtual Try-On via Human Feedback**|Yuki Hirakawa et.al.|[2603.13057](http://arxiv.org/abs/2603.13057)|null|
 |**2026-03-12**|**VTEdit-Bench: A Comprehensive Benchmark for Multi-Reference Image Editing Models in Virtual Try-On**|Xiaoye Liang et.al.|[2603.11734](http://arxiv.org/abs/2603.11734)|null|
