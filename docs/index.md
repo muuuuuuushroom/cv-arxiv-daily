@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.06
+## Updated on 2026.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,6 +16,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**Tarot-SAM3: Training-free SAM3 for Any Referring Expression Segmentation**|Weiming Zhang et.al.|[2604.07916](http://arxiv.org/abs/2604.07916)|null|
+|**2026-04-09**|**Vision-Language Navigation for Aerial Robots: Towards the Era of Large Language Models**|Xingyu Xia et.al.|[2604.07705](http://arxiv.org/abs/2604.07705)|null|
+|**2026-04-08**|**Bi-level Heterogeneous Learning for Time Series Foundation Models: A Federated Learning Approach**|Shengchao Chen et.al.|[2604.06727](http://arxiv.org/abs/2604.06727)|null|
+|**2026-04-05**|**VLA-Forget: Vision-Language-Action Unlearning for Embodied Foundation Models**|Ravi Ranjan et.al.|[2604.03956](http://arxiv.org/abs/2604.03956)|null|
+|**2026-04-04**|**Rényi Attention Entropy for Patch Pruning**|Hiroaki Aizawa et.al.|[2604.03803](http://arxiv.org/abs/2604.03803)|null|
+|**2026-04-04**|**Leveraging Gaze and Set-of-Mark in VLLMs for Human-Object Interaction Anticipation from Egocentric Videos**|Daniele Materia et.al.|[2604.03667](http://arxiv.org/abs/2604.03667)|null|
+|**2026-04-02**|**VitaTouch: Property-Aware Vision-Tactile-Language Model for Robotic Quality Inspection in Manufacturing**|Junyi Zong et.al.|[2604.03322](http://arxiv.org/abs/2604.03322)|null|
 |**2026-04-03**|**Efficient3D: A Unified Framework for Adaptive and Debiased Token Reduction in 3D MLLMs**|Yuhui Lin et.al.|[2604.02689](http://arxiv.org/abs/2604.02689)|null|
 |**2026-04-01**|**Model Merging via Data-Free Covariance Estimation**|Marawan Gamal Abdel Hameed et.al.|[2604.01329](http://arxiv.org/abs/2604.01329)|null|
 |**2026-03-31**|**M-MiniGPT4: Multilingual VLLM Alignment via Translated Data**|Seung Hun Han et.al.|[2603.29467](http://arxiv.org/abs/2603.29467)|null|
@@ -272,6 +279,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**E-3DPSM: A State Machine for Event-Based Egocentric 3D Human Pose Estimation**|Mayur Deshmukh et.al.|[2604.08543](http://arxiv.org/abs/2604.08543)|null|
+|**2026-04-09**|**Self-Improving 4D Perception via Self-Distillation**|Nan Huang et.al.|[2604.08532](http://arxiv.org/abs/2604.08532)|null|
+|**2026-04-09**|**OVS-DINO: Open-Vocabulary Segmentation via Structure-Aligned SAM-DINO with Language Guidance**|Haoxi Zeng et.al.|[2604.08461](http://arxiv.org/abs/2604.08461)|null|
+|**2026-04-09**|**CAMotion: A High-Quality Benchmark for Camouflaged Moving Object Detection in the Wild**|Siyuan Yao et.al.|[2604.08287](http://arxiv.org/abs/2604.08287)|null|
+|**2026-04-09**|**Preventing Overfitting in Deep Image Prior for Hyperspectral Image Denoising**|Panagiotis Gkotsis et.al.|[2604.08272](http://arxiv.org/abs/2604.08272)|null|
+|**2026-04-09**|**Generalization Under Scrutiny: Cross-Domain Detection Progresses, Pitfalls, and Persistent Challenges**|Saniya M. Deshmukh et.al.|[2604.08230](http://arxiv.org/abs/2604.08230)|null|
+|**2026-04-09**|**OV-Stitcher: A Global Context-Aware Framework for Training-Free Open-Vocabulary Semantic Segmentation**|Seungjae Moon et.al.|[2604.08110](http://arxiv.org/abs/2604.08110)|null|
+|**2026-04-09**|**DinoRADE: Full Spectral Radar-Camera Fusion with Vision Foundation Model Features for Multi-class Object Detection in Adverse Weather**|Christof Leitgeb et.al.|[2604.08074](http://arxiv.org/abs/2604.08074)|null|
+|**2026-04-09**|**Multimodal Latent Reasoning via Predictive Embeddings**|Ashutosh Adhikari et.al.|[2604.08065](http://arxiv.org/abs/2604.08065)|null|
+|**2026-04-09**|**Adapting Foundation Models for Annotation-Efficient Adnexal Mass Segmentation in Cine Images**|Francesca Fati et.al.|[2604.08045](http://arxiv.org/abs/2604.08045)|null|
 |**2026-04-03**|**SFFNet: Synergistic Feature Fusion Network With Dual-Domain Edge Enhancement for UAV Image Object Detection**|Wenfeng Zhang et.al.|[2604.03176](http://arxiv.org/abs/2604.03176)|null|
 |**2026-04-03**|**An Open-Source LiDAR and Monocular Off-Road Autonomous Navigation Stack**|Rémi Marsal et.al.|[2604.03096](http://arxiv.org/abs/2604.03096)|null|
 |**2026-04-03**|**Visual Prototype Conditioned Focal Region Generation for UAV-Based Object Detection**|Wenhao Li et.al.|[2604.02966](http://arxiv.org/abs/2604.02966)|null|
@@ -584,7 +601,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-04-02**|**Smoothing the Landscape: Causal Structure Learning via Diffusion Denoising Objectives**|Hao Zhu et.al.|[2604.02250](http://arxiv.org/abs/2604.02250)|null|
-|**2026-03-25**|**Who Benefits from RAG? The Role of Exposure, Utility and Attribution Bias**|Mahdi Dehghan et.al.|[2603.24218](http://arxiv.org/abs/2603.24218)|**[link](https://github.com/dehghanm/QueryGroupFairness_in_RAG)**|
+|**2026-03-25**|**Who Benefits from RAG? The Role of Exposure, Utility and Attribution Bias**|Mahdi Dehghan et.al.|[2603.24218](http://arxiv.org/abs/2603.24218)|null|
 |**2026-03-23**|**Parallelizable Feynman-Kac Models for Universal Probabilistic Programming**|Michele Boreale et.al.|[2603.22463](http://arxiv.org/abs/2603.22463)|null|
 |**2026-03-12**|**Exhaustive Circuit Mapping of a Single-Cell Foundation Model Reveals Massive Redundancy, Heavy-Tailed Hub Architecture, and Layer-Dependent Differentiation Control**|Ihor Kendiukhov et.al.|[2603.11940](http://arxiv.org/abs/2603.11940)|null|
 |**2026-03-11**|**VIVID-Med: LLM-Supervised Structured Pretraining for Deployable Medical ViTs**|Xiyao Wang et.al.|[2603.09109](http://arxiv.org/abs/2603.09109)|null|
@@ -694,7 +711,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-02**|**CASHG: Context-Aware Stylized Online Handwriting Generation**|Jinsu Shin et.al.|[2604.02103](http://arxiv.org/abs/2604.02103)|null|
+|**2026-04-08**|**A Parameter-Efficient Transfer Learning Approach through Multitask Prompt Distillation and Decomposition for Clinical NLP**|Cheng Peng et.al.|[2604.06650](http://arxiv.org/abs/2604.06650)|null|
+|**2026-04-06**|**CASHG: Context-Aware Stylized Online Handwriting Generation**|Jinsu Shin et.al.|[2604.02103](http://arxiv.org/abs/2604.02103)|null|
 |**2026-04-02**|**OpenGo: An OpenClaw-Based Robotic Dog with Real-Time Skill Switching**|Hanbing Li et.al.|[2604.01708](http://arxiv.org/abs/2604.01708)|null|
 |**2026-03-30**|**The Scaffold Effect: How Prompt Framing Drives Apparent Multimodal Gains in Clinical VLM Evaluation**|Doan Nam Long Vu et.al.|[2603.28387](http://arxiv.org/abs/2603.28387)|null|
 |**2026-03-24**|**Learning to Select Visual In-Context Demonstrations**|Eugene Lee et.al.|[2603.26775](http://arxiv.org/abs/2603.26775)|null|
@@ -792,6 +810,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**OVS-DINO: Open-Vocabulary Segmentation via Structure-Aligned SAM-DINO with Language Guidance**|Haoxi Zeng et.al.|[2604.08461](http://arxiv.org/abs/2604.08461)|null|
+|**2026-04-09**|**DinoRADE: Full Spectral Radar-Camera Fusion with Vision Foundation Model Features for Multi-class Object Detection in Adverse Weather**|Christof Leitgeb et.al.|[2604.08074](http://arxiv.org/abs/2604.08074)|null|
+|**2026-04-07**|**Semantic-Topological Graph Reasoning for Language-Guided Pulmonary Screening**|Chenyu Xue et.al.|[2604.05620](http://arxiv.org/abs/2604.05620)|null|
+|**2026-04-07**|**Few-Shot Semantic Segmentation Meets SAM3**|Yi-Jen Tsai et.al.|[2604.05433](http://arxiv.org/abs/2604.05433)|null|
+|**2026-04-06**|**A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens**|Tommie Kerssies et.al.|[2604.04913](http://arxiv.org/abs/2604.04913)|null|
+|**2026-04-04**|**Training a Student Expert via Semi-Supervised Foundation Model Distillation**|Pardis Taghavi et.al.|[2604.03841](http://arxiv.org/abs/2604.03841)|null|
+|**2026-04-04**|**LOGER: Local--Global Ensemble for Robust Deepfake Detection in the Wild**|Fei Wu et.al.|[2604.03558](http://arxiv.org/abs/2604.03558)|null|
+|**2026-04-03**|**Inference-Path Optimization via Circuit Duplication in Frozen Visual Transformers for Marine Species Classification**|Thomas Manuel Rost et.al.|[2604.03428](http://arxiv.org/abs/2604.03428)|null|
 |**2026-04-03**|**OMNI-PoseX: A Fast Vision Model for 6D Object Pose Estimation in Embodied Tasks**|Michael Zhang et.al.|[2604.02759](http://arxiv.org/abs/2604.02759)|null|
 |**2026-04-03**|**Cross-Vehicle 3D Geometric Consistency for Self-Supervised Surround Depth Estimation on Articulated Vehicles**|Weimin Liu et.al.|[2604.02639](http://arxiv.org/abs/2604.02639)|null|
 |**2026-04-03**|**Smart Transfer: Leveraging Vision Foundation Model for Rapid Building Damage Mapping with Post-Earthquake VHR Imagery**|Hao Li et.al.|[2604.02627](http://arxiv.org/abs/2604.02627)|null|
@@ -994,6 +1020,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**FIT: A Large-Scale Dataset for Fit-Aware Virtual Try-On**|Johanna Karras et.al.|[2604.08526](http://arxiv.org/abs/2604.08526)|null|
+|**2026-04-06**|**Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision**|Hyunsoo Cha et.al.|[2604.04934](http://arxiv.org/abs/2604.04934)|null|
 |**2026-03-30**|**Designing AI for Real Users -- Accessibility Gaps in Retail AI Front-End**|Neha Puri et.al.|[2603.28196](http://arxiv.org/abs/2603.28196)|null|
 |**2026-03-26**|**RefAlign: Representation Alignment for Reference-to-Video Generation**|Lei Wang et.al.|[2603.25743](http://arxiv.org/abs/2603.25743)|null|
 |**2026-03-23**|**Dress-ED: Instruction-Guided Editing for Virtual Try-On and Try-Off**|Fulvio Sanguigni et.al.|[2603.22607](http://arxiv.org/abs/2603.22607)|null|
