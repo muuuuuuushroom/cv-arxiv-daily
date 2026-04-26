@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.21
+## Updated on 2026.04.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,6 +16,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Modulating Cross-Modal Convergence with Single-Stimulus, Intra-Modal Dispersion**|Eghbal A. Hosseini et.al.|[2604.21836](http://arxiv.org/abs/2604.21836)|null|
+|**2026-04-21**|**The Essence of Balance for Self-Improving Agents in Vision-and-Language Navigation**|Zhen Liu et.al.|[2604.19064](http://arxiv.org/abs/2604.19064)|null|
 |**2026-04-20**|**Instruction-as-State: Environment-Guided and State-Conditioned Semantic Understanding for Embodied Navigation**|Zhen Liu et.al.|[2604.18223](http://arxiv.org/abs/2604.18223)|null|
 |**2026-04-19**|**LookasideVLN: Direction-Aware Aerial Vision-and-Language Navigation**|Yuwei Ning et.al.|[2604.17190](http://arxiv.org/abs/2604.17190)|null|
 |**2026-04-18**|**Rule-VLN: Bridging Perception and Compliance via Semantic Reasoning and Geometric Rectification**|Jiawen Wen et.al.|[2604.16993](http://arxiv.org/abs/2604.16993)|null|
@@ -297,6 +299,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Vista4D: Video Reshooting with 4D Point Clouds**|Kuan Heng Lin et.al.|[2604.21915](http://arxiv.org/abs/2604.21915)|null|
+|**2026-04-23**|**SyMTRS: Benchmark Multi-Task Synthetic Dataset for Depth, Domain Adaptation and Super-Resolution in Aerial Imagery**|Safouane El Ghazouali et.al.|[2604.21801](http://arxiv.org/abs/2604.21801)|null|
+|**2026-04-23**|**Unlocking the Power of Critical Factors for 3D Visual Geometry Estimation**|Guangkai Xu et.al.|[2604.21713](http://arxiv.org/abs/2604.21713)|null|
+|**2026-04-23**|**Sapiens2**|Rawal Khirodkar et.al.|[2604.21681](http://arxiv.org/abs/2604.21681)|null|
+|**2026-04-23**|**VFM $^{4}$ SDG: Unveiling the Power of VFMs for Single-Domain Generalized Object Detection**|Yupeng Zhang et.al.|[2604.21502](http://arxiv.org/abs/2604.21502)|null|
+|**2026-04-23**|**UHR-DETR: Efficient End-to-End Small Object Detection for Ultra-High-Resolution Remote Sensing Imagery**|Jingfang Li et.al.|[2604.21435](http://arxiv.org/abs/2604.21435)|null|
+|**2026-04-23**|**PLAS-Net: Pixel-Level Area Segmentation for UAV-Based Beach Litter Monitoring**|Yongying Liu et.al.|[2604.21313](http://arxiv.org/abs/2604.21313)|null|
+|**2026-04-23**|**A Probabilistic Framework for Improving Dense Object Detection in Underwater Image Data via Annealing-Based Data Augmentation**|Eleanor Wiesler et.al.|[2604.21198](http://arxiv.org/abs/2604.21198)|null|
+|**2026-04-22**|**Agentic AI for Personalized Physiotherapy: A Multi-Agent Framework for Generative Video Training and Real-Time Pose Correction**|Abhishek Dharmaratnakar et.al.|[2604.21154](http://arxiv.org/abs/2604.21154)|null|
+|**2026-04-22**|**Global Offshore Wind Infrastructure: Deployment and Operational Dynamics from Dense Sentinel-1 Time Series**|Thorsten Hoeser et.al.|[2604.20822](http://arxiv.org/abs/2604.20822)|null|
 |**2026-04-20**|**T-REN: Learning Text-Aligned Region Tokens Improves Dense Vision-Language Alignment and Scalability**|Savya Khosla et.al.|[2604.18573](http://arxiv.org/abs/2604.18573)|null|
 |**2026-04-20**|**Advancing Vision Transformer with Enhanced Spatial Priors**|Qihang Fan et.al.|[2604.18549](http://arxiv.org/abs/2604.18549)|null|
 |**2026-04-20**|**SemLT3D: Semantic-Guided Expert Distillation for Camera-only Long-Tailed 3D Object Detection**|Hao Vo et.al.|[2604.18476](http://arxiv.org/abs/2604.18476)|null|
@@ -749,6 +761,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**OmniFit: Multi-modal 3D Body Fitting via Scale-agnostic Dense Landmark Prediction**|Zeyu Cai et.al.|[2604.21575](http://arxiv.org/abs/2604.21575)|null|
+|**2026-04-23**|**Exploiting LLM-as-a-Judge Disposition on Free Text Legal QA via Prompt Optimization**|Mohamed Hesham Elganayni et.al.|[2604.20726](http://arxiv.org/abs/2604.20726)|null|
+|**2026-04-21**|**Remindful: Designing Reminder Systems for Caregiver Interpretation in Dementia Care**|Joy Lai et.al.|[2604.19574](http://arxiv.org/abs/2604.19574)|null|
+|**2026-04-20**|**Owner-Harm: A Missing Threat Model for AI Agent Safety**|Dongcheng Zhang et.al.|[2604.18658](http://arxiv.org/abs/2604.18658)|null|
 |**2026-04-20**|**OneDrive: Unified Multi-Paradigm Driving with Vision-Language-Action Models**|Yiwei Zhang et.al.|[2604.17915](http://arxiv.org/abs/2604.17915)|null|
 |**2026-04-19**|**Measuring Distribution Shift in User Prompts and Its Effects on LLM Performance**|Parker Seegmiller et.al.|[2604.17650](http://arxiv.org/abs/2604.17650)|null|
 |**2026-04-18**|**Lorentz Framework for Semantic Segmentation**|Zahid Hasan et.al.|[2604.16836](http://arxiv.org/abs/2604.16836)|null|
@@ -855,6 +871,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**VFM $^{4}$ SDG: Unveiling the Power of VFMs for Single-Domain Generalized Object Detection**|Yupeng Zhang et.al.|[2604.21502](http://arxiv.org/abs/2604.21502)|null|
+|**2026-04-21**|**DINO Eats CLIP: Adapting Beyond Knowns for Open-set 3D Object Retrieval**|Xinwei He et.al.|[2604.19432](http://arxiv.org/abs/2604.19432)|null|
+|**2026-04-21**|**Attend what matters: Leveraging vision foundational models for breast cancer classification using mammograms**|Samyak Sanghvi et.al.|[2604.19350](http://arxiv.org/abs/2604.19350)|null|
+|**2026-04-21**|**Benchmarking Vision Foundation Models for Domain-Generalizable Face Anti-Spoofing**|Mika Feng et.al.|[2604.19196](http://arxiv.org/abs/2604.19196)|null|
+|**2026-04-21**|**Bridging Foundation Models and ASTM Metallurgical Standards for Automated Grain Size Estimation from Microscopy Images**|Abdul Mueez et.al.|[2604.18957](http://arxiv.org/abs/2604.18957)|null|
 |**2026-04-20**|**DifFoundMAD: Foundation Models meet Differential Morphing Attack Detection**|Lazaro J. Gonzalez-Soler et.al.|[2604.17961](http://arxiv.org/abs/2604.17961)|null|
 |**2026-04-20**|**Prompting Foundation Models for Zero-Shot Ship Instance Segmentation in SAR Imagery**|Islam Mansour et.al.|[2604.17920](http://arxiv.org/abs/2604.17920)|null|
 |**2026-04-20**|**Sharpening Lightweight Models for Generalized Polyp Segmentation: A Boundary Guided Distillation from Foundation Models**|Shivanshu Agnihotri et.al.|[2604.17865](http://arxiv.org/abs/2604.17865)|null|
@@ -1083,6 +1104,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-22**|**Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items**|Mengting Chen et.al.|[2604.19748](http://arxiv.org/abs/2604.19748)|null|
 |**2026-04-09**|**What Matters in Virtual Try-Off? Dual-UNet Diffusion Model For Garment Reconstruction**|Loc-Phat Truong et.al.|[2604.08716](http://arxiv.org/abs/2604.08716)|null|
 |**2026-04-09**|**FIT: A Large-Scale Dataset for Fit-Aware Virtual Try-On**|Johanna Karras et.al.|[2604.08526](http://arxiv.org/abs/2604.08526)|null|
 |**2026-04-06**|**Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision**|Hyunsoo Cha et.al.|[2604.04934](http://arxiv.org/abs/2604.04934)|null|
