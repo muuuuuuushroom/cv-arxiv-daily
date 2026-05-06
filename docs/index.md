@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.05.01
+## Updated on 2026.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,10 +16,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**FIBER: A Differentially Private Optimizer with Filter-Aware Innovation Bias Correction**|Duc Dm et.al.|[2605.03425](http://arxiv.org/abs/2605.03425)|null|
+|**2026-05-04**|**Projection-Free Transformers via Gaussian Kernel Attention**|Debarshi Kundu et.al.|[2605.02144](http://arxiv.org/abs/2605.02144)|null|
+|**2026-05-02**|**Research on Vision-Language Question Answering Models for Industrial Robots**|Ping Li et.al.|[2605.01483](http://arxiv.org/abs/2605.01483)|null|
 |**2026-04-30**|**Post-Optimization Adaptive Rank Allocation for LoRA**|Vishnuprasadh Kumaravelu et.al.|[2604.27796](http://arxiv.org/abs/2604.27796)|null|
 |**2026-04-30**|**SpaAct: Spatially-Activated Transition Learning with Curriculum Adaptation for Vision-Language Navigation**|Pengna Li et.al.|[2604.27620](http://arxiv.org/abs/2604.27620)|null|
 |**2026-04-29**|**Three-Step Nav: A Hierarchical Global-Local Planner for Zero-Shot Vision-and-Language Navigation**|Wanrong Zheng et.al.|[2604.26946](http://arxiv.org/abs/2604.26946)|null|
-|**2026-04-29**|**Efficient, VRAM-Constrained xLM Inference on Clients**|Aditya Ukarande et.al.|[2604.26334](http://arxiv.org/abs/2604.26334)|**[link](https://github.com/deepshnv/pipeshard-mlsys26-ae)**|
+|**2026-04-29**|**Efficient, VRAM-Constrained xLM Inference on Clients**|Aditya Ukarande et.al.|[2604.26334](http://arxiv.org/abs/2604.26334)|null|
 |**2026-04-28**|**RADIO-ViPE: Online Tightly Coupled Multi-Modal Fusion for Open-Vocabulary Semantic SLAM in Dynamic Environments**|Zaid Nasser et.al.|[2604.26067](http://arxiv.org/abs/2604.26067)|null|
 |**2026-04-28**|**Where Did It Go Wrong? Capability-Oriented Failure Attribution for Vision-and-Language Navigation Agents**|Jianming Chen et.al.|[2604.25161](http://arxiv.org/abs/2604.25161)|null|
 |**2026-04-25**|**Tessera: Secure, Near-Line-Rate Weight Streaming for UMA Edge Accelerators**|Animan Naskar et.al.|[2604.23205](http://arxiv.org/abs/2604.23205)|null|
@@ -270,6 +273,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-04**|**Does it Really Count? Assessing Semantic Grounding in Text-Guided Class-Agnostic Counting**|Giacomo Pacini et.al.|[2605.02752](http://arxiv.org/abs/2605.02752)|null|
 |**2026-04-27**|**RACANet: Reliability-Aware Crowd Anchor Network for RGB-T Crowd Counting**|Jinghao Shi et.al.|[2604.24543](http://arxiv.org/abs/2604.24543)|null|
 |**2026-03-25**|**Generative Adversarial Perturbations with Cross-paradigm Transferability on Localized Crowd Counting**|Alabi Mehzabin Anisha et.al.|[2603.24821](http://arxiv.org/abs/2603.24821)|null|
 |**2026-03-31**|**Granular Ball Guided Stable Latent Domain Discovery for Domain-General Crowd Counting**|Fan Chen et.al.|[2603.24106](http://arxiv.org/abs/2603.24106)|null|
@@ -308,6 +312,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**RD-ViT: Recurrent-Depth Vision Transformer for Semantic Segmentation with Reduced Data Dependence Extending the Recurrent-Depth Transformer Architecture to Dense Prediction**|Renjie He et.al.|[2605.03999](http://arxiv.org/abs/2605.03999)|null|
+|**2026-05-05**|**Label-Efficient School Detection from Aerial Imagery via Weakly Supervised Pretraining and Fine-Tuning**|Zakarya Elmimouni et.al.|[2605.03968](http://arxiv.org/abs/2605.03968)|null|
+|**2026-05-05**|**StateVLM: A State-Aware Vision-Language Model for Robotic Affordance Reasoning**|Xiaowen Sun et.al.|[2605.03927](http://arxiv.org/abs/2605.03927)|null|
+|**2026-05-05**|**ReLeaf: Benchmarking Leaf Segmentation across Domains and Species**|Robert Martinko et.al.|[2605.03784](http://arxiv.org/abs/2605.03784)|null|
+|**2026-05-05**|**Real Image Denoising with Knowledge Distillation for High-Performance Mobile NPUs**|Faraz Kayani et.al.|[2605.03680](http://arxiv.org/abs/2605.03680)|null|
+|**2026-05-05**|**FUS3DMaps: Scalable and Accurate Open-Vocabulary Semantic Mapping by 3D Fusion of Voxel- and Instance-Level Layers**|Timon Homberger et.al.|[2605.03669](http://arxiv.org/abs/2605.03669)|null|
+|**2026-05-05**|**The Detector Teaches Itself: Lightweight Self-Supervised Adaptation for Open-Vocabulary Object Detection**|Yazhe Wan et.al.|[2605.03642](http://arxiv.org/abs/2605.03642)|null|
+|**2026-05-05**|**Uncertainty Estimation in Instance Segmentation of Affordances via Bayesian Visual Transformers**|Lorenzo Mur-Labadia et.al.|[2605.03614](http://arxiv.org/abs/2605.03614)|null|
+|**2026-05-05**|**MILE: Mixture of Incremental LoRA Experts for Continual Semantic Segmentation across Domains and Modalities**|Shishir Muralidhara et.al.|[2605.03555](http://arxiv.org/abs/2605.03555)|null|
+|**2026-05-05**|**VL-SAM-v3: Memory-Guided Visual Priors for Open-World Object Detection**|Chih-Chung Liu et.al.|[2605.03456](http://arxiv.org/abs/2605.03456)|null|
 |**2026-04-30**|**Generalizable Sparse-View 3D Reconstruction from Unconstrained Images**|Vinayak Gupta et.al.|[2604.28193](http://arxiv.org/abs/2604.28193)|null|
 |**2026-04-30**|**Action Motifs: Self-Supervised Hierarchical Representation of Human Body Movements**|Genki Kinoshita et.al.|[2604.28173](http://arxiv.org/abs/2604.28173)|null|
 |**2026-04-30**|**Beyond Gaussian Bottlenecks: Topologically Aligned Encoding of Vision-Transformer Feature Spaces**|Andrew Bond et.al.|[2604.28122](http://arxiv.org/abs/2604.28122)|null|
@@ -669,6 +683,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-03**|**SimPB++: Simultaneously Detecting 2D and 3D Objects from Multiple Cameras**|Yingqi Tang et.al.|[2605.01924](http://arxiv.org/abs/2605.01924)|null|
 |**2026-04-28**|**Control Your Queries: Heterogeneous Query Interaction for Camera-Radar Fusion**|Jialong Wu et.al.|[2604.25574](http://arxiv.org/abs/2604.25574)|null|
 |**2026-04-27**|**Adaptive-Distribution Randomized Neural Networks for PDEs: A Low-Dimensional Distribution-Learning Framework**|You Yang et.al.|[2604.23999](http://arxiv.org/abs/2604.23999)|null|
 |**2026-04-02**|**Smoothing the Landscape: Causal Structure Learning via Diffusion Denoising Objectives**|Hao Zhu et.al.|[2604.02250](http://arxiv.org/abs/2604.02250)|null|
@@ -782,6 +797,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-04**|**When Prompts Interact: Assessing Prompt Arithmetic for Deconfounding under Distribution Shift**|Zhecheng Sheng et.al.|[2605.03096](http://arxiv.org/abs/2605.03096)|null|
 |**2026-04-26**|**ClusterFusion++: Expanding Cluster-Level Fusion to Full Transformer-Block Decoding**|ChiHeng Jin et.al.|[2604.23553](http://arxiv.org/abs/2604.23553)|null|
 |**2026-04-29**|**FILTR: Extracting Topological Features from Pretrained 3D Models**|Louis Martinez et.al.|[2604.22334](http://arxiv.org/abs/2604.22334)|null|
 |**2026-04-23**|**OmniFit: Multi-modal 3D Body Fitting via Scale-agnostic Dense Landmark Prediction**|Zeyu Cai et.al.|[2604.21575](http://arxiv.org/abs/2604.21575)|null|
@@ -894,6 +910,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-04**|**Global-Local Feature Decoding with Adapter-Guided SAMv2 for Salient Object Detection**|Morteza Moradi et.al.|[2605.02616](http://arxiv.org/abs/2605.02616)|null|
+|**2026-05-04**|**Rethinking Electro-Optical Vision Foundation Models for Remote Sensing Retrieval: A Controlled Comparison with Generalist VFM**|Hyobin Park et.al.|[2605.02283](http://arxiv.org/abs/2605.02283)|null|
+|**2026-05-04**|**SpectraDINO: Bridging the Spectral Gap in Vision Foundation Models via Lightweight Adapters**|Yagiz Nalcakan et.al.|[2605.02258](http://arxiv.org/abs/2605.02258)|null|
+|**2026-05-04**|**End-to-End Autoregressive Image Generation with 1D Semantic Tokenizer**|Wenda Chu et.al.|[2605.00503](http://arxiv.org/abs/2605.00503)|null|
 |**2026-04-30**|**Frequency-Aware Semantic Fusion with Gated Injection for AI-generated Image Detection**|Shuchang Zhou et.al.|[2604.27875](http://arxiv.org/abs/2604.27875)|null|
 |**2026-04-29**|**Bridge: Basis-Driven Causal Inference Marries VFMs for Domain Generalization**|Mingbo Hong et.al.|[2604.26820](http://arxiv.org/abs/2604.26820)|null|
 |**2026-04-29**|**TAP into the Patch Tokens: Leveraging Vision Foundation Model Features for AI-Generated Image Detection**|Ahmed Abdullah et.al.|[2604.26772](http://arxiv.org/abs/2604.26772)|null|
@@ -1137,11 +1157,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-04**|**FEAT: Fashion Editing and Try-On from Any Design**|Soye Kwon et.al.|[2605.02393](http://arxiv.org/abs/2605.02393)|**[link](https://github.com/soyekwon/FEAT)**|
+|**2026-05-02**|**SIFT-VTON: Geometric Correspondence Supervision on Cross-Attention for Virtual Try-On**|Kosuke Takemoto et.al.|[2605.01296](http://arxiv.org/abs/2605.01296)|null|
 |**2026-04-30**|**TripVVT: A Large-Scale Triplet Dataset and a Coarse-Mask Baseline for In-the-Wild Video Virtual Try-On**|Dingbao Shao et.al.|[2604.27958](http://arxiv.org/abs/2604.27958)|null|
 |**2026-04-22**|**Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items**|Mengting Chen et.al.|[2604.19748](http://arxiv.org/abs/2604.19748)|null|
 |**2026-04-09**|**What Matters in Virtual Try-Off? Dual-UNet Diffusion Model For Garment Reconstruction**|Loc-Phat Truong et.al.|[2604.08716](http://arxiv.org/abs/2604.08716)|null|
 |**2026-04-09**|**FIT: A Large-Scale Dataset for Fit-Aware Virtual Try-On**|Johanna Karras et.al.|[2604.08526](http://arxiv.org/abs/2604.08526)|null|
-|**2026-04-06**|**Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision**|Hyunsoo Cha et.al.|[2604.04934](http://arxiv.org/abs/2604.04934)|null|
+|**2026-05-04**|**Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision**|Hyunsoo Cha et.al.|[2604.04934](http://arxiv.org/abs/2604.04934)|null|
 |**2026-03-30**|**Designing AI for Real Users -- Accessibility Gaps in Retail AI Front-End**|Neha Puri et.al.|[2603.28196](http://arxiv.org/abs/2603.28196)|null|
 |**2026-03-26**|**RefAlign: Representation Alignment for Reference-to-Video Generation**|Lei Wang et.al.|[2603.25743](http://arxiv.org/abs/2603.25743)|null|
 |**2026-04-14**|**Dress-ED: Instruction-Guided Editing for Virtual Try-On and Try-Off**|Fulvio Sanguigni et.al.|[2603.22607](http://arxiv.org/abs/2603.22607)|null|
