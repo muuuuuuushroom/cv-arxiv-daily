@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.05.16
+## Updated on 2026.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -26,6 +26,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-20**|**HORST: Composing Optimizer Geometries for Sparse Transformer Training**|Tom Jacobs et.al.|[2605.21104](http://arxiv.org/abs/2605.21104)|null|
+|**2026-05-19**|**Consistently Informative Soft-Label Temperature for Knowledge Distillation**|Hoang-Chau Luong et.al.|[2605.20357](http://arxiv.org/abs/2605.20357)|null|
+|**2026-05-19**|**P2DNav: Panorama-to-Downview Reasoning for Zero-shot Vision-and-Language Navigation**|Kai Sheng et.al.|[2605.19634](http://arxiv.org/abs/2605.19634)|null|
+|**2026-05-18**|**EgoBabyVLM: Benchmarking Cross-Modal Learning from Naturalistic Egocentric Video Data**|Dongyan Lin et.al.|[2605.19130](http://arxiv.org/abs/2605.19130)|null|
+|**2026-05-18**|**Distilling Linearized Behavior for Effective Task Arithmetic**|Thomas Sommariva et.al.|[2605.18993](http://arxiv.org/abs/2605.18993)|null|
+|**2026-05-18**|**See What I Mean: Aligning Vision and Language Representations for Video Fine-grained Object Understanding**|Boyuan Sun et.al.|[2605.18018](http://arxiv.org/abs/2605.18018)|null|
+|**2026-05-17**|**Tactile-based Multimodal Fusion in Embodied Intelligence: A Survey of Vision, Language, and Contact-Driven Paradigms**|Zhixiang Cao et.al.|[2605.17336](http://arxiv.org/abs/2605.17336)|null|
 |**2026-05-14**|**Exploring Bottlenecks in VLM-LLM Navigation: How 3D Scene Understanding Capability Impacts Zero-Shot VLN**|Ziyi Xia et.al.|[2605.14801](http://arxiv.org/abs/2605.14801)|null|
 |**2026-05-14**|**DermAgent: A Self-Reflective Agentic System for Dermatological Image Analysis with Multi-Tool Reasoning and Traceable Decision-Making**|Yize Liu et.al.|[2605.14403](http://arxiv.org/abs/2605.14403)|null|
 |**2026-05-13**|**Feature Visualization Recovers Known Cortical Selectivity from TRIBE v2**|Stuart Bladon et.al.|[2605.13904](http://arxiv.org/abs/2605.13904)|null|
@@ -289,18 +296,22 @@
 |**2025-11-18**|**Is Your VLM for Autonomous Driving Safety-Ready? A Comprehensive Benchmark for Evaluating External and In-Cabin Risks**|Xianhui Meng et.al.|[2511.14592](http://arxiv.org/abs/2511.14592)|null|
 |**2025-11-18**|**OmniZip: Audio-Guided Dynamic Token Compression for Fast Omnimodal Large Language Models**|Keda Tao et.al.|[2511.14582](http://arxiv.org/abs/2511.14582)|null|
 
-<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260521>back to top</a>)</p>
 
 ## Counting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-18**|**Optimising CSRNet with parameter-free attention mechanisms for crowd counting in public transport**|Aida Rostamza et.al.|[2605.18349](http://arxiv.org/abs/2605.18349)|null|
+|**2026-05-18**|**Counting Machine Parts**|Benedict Florance Arockiaraj et.al.|[2605.17952](http://arxiv.org/abs/2605.17952)|null|
+|**2026-05-16**|**Thermal-Only Crowd Counting with Deployment-Time Privacy Protection**|Yifei Qian et.al.|[2605.17042](http://arxiv.org/abs/2605.17042)|null|
+|**2026-05-15**|**REC-RL: Referring expression counting via Gaussian and range-based reward optimization**|Hui Liu et.al.|[2605.16460](http://arxiv.org/abs/2605.16460)|null|
 |**2026-05-13**|**Does it Really Count? Assessing Semantic Grounding in Text-Guided Class-Agnostic Counting**|Giacomo Pacini et.al.|[2605.02752](http://arxiv.org/abs/2605.02752)|null|
 |**2026-04-27**|**RACANet: Reliability-Aware Crowd Anchor Network for RGB-T Crowd Counting**|Jinghao Shi et.al.|[2604.24543](http://arxiv.org/abs/2604.24543)|null|
-|**2026-03-25**|**Generative Adversarial Perturbations with Cross-paradigm Transferability on Localized Crowd Counting**|Alabi Mehzabin Anisha et.al.|[2603.24821](http://arxiv.org/abs/2603.24821)|**[link](https://github.com/simurgh7/CrowdGen)**|
+|**2026-03-25**|**Generative Adversarial Perturbations with Cross-paradigm Transferability on Localized Crowd Counting**|Alabi Mehzabin Anisha et.al.|[2603.24821](http://arxiv.org/abs/2603.24821)|null|
 |**2026-03-31**|**Granular Ball Guided Stable Latent Domain Discovery for Domain-General Crowd Counting**|Fan Chen et.al.|[2603.24106](http://arxiv.org/abs/2603.24106)|null|
 |**2026-03-25**|**SynMVCrowd: A Large Synthetic Benchmark for Multi-view Crowd Counting and Localization**|Qi Zhang et.al.|[2603.23956](http://arxiv.org/abs/2603.23956)|null|
-|**2026-03-22**|**Plant Taxonomy Meets Plant Counting: A Fine-Grained, Taxonomic Dataset for Counting Hundreds of Plant Species**|Jinyu Xu et.al.|[2603.21229](http://arxiv.org/abs/2603.21229)|**[link](https://github.com/tiny-smart/TPC-268)**|
+|**2026-03-22**|**Plant Taxonomy Meets Plant Counting: A Fine-Grained, Taxonomic Dataset for Counting Hundreds of Plant Species**|Jinyu Xu et.al.|[2603.21229](http://arxiv.org/abs/2603.21229)|null|
 |**2026-03-17**|**Exclusivity-Guided Mask Learning for Semi-Supervised Crowd Instance Segmentation and Counting**|Jiyang Huang et.al.|[2603.16241](http://arxiv.org/abs/2603.16241)|null|
 |**2026-02-26**|**Phys-3D: Physics-Constrained Real-Time Crowd Tracking and Counting on Railway Platforms**|Bin Zeng et.al.|[2602.23177](http://arxiv.org/abs/2602.23177)|null|
 |**2026-02-08**|**One-Shot Crowd Counting With Density Guidance For Scene Adaptaion**|Jiwei Chen et.al.|[2602.07955](http://arxiv.org/abs/2602.07955)|null|
@@ -330,12 +341,22 @@
 |**2025-09-29**|**TP-MVCC: Tri-plane Multi-view Fusion Model for Silkie Chicken Counting**|Sirui Chen et.al.|[2509.24329](http://arxiv.org/abs/2509.24329)|null|
 |**2025-09-26**|**Multi-View Crowd Counting With Self-Supervised Learning**|Hong Mo et.al.|[2509.21918](http://arxiv.org/abs/2509.21918)|null|
 
-<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260521>back to top</a>)</p>
 
 ## Dense Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-20**|**AIGaitor: Privacy-preserving and cloud-free motion analysis for everyone, using edge computing**|Lauhitya Reddy et.al.|[2605.21421](http://arxiv.org/abs/2605.21421)|null|
+|**2026-05-20**|**Hyper-V2X: Hypernetworks for Estimating Epistemic and Aleatoric Uncertainty in Cooperative Bird's-Eye-View Semantic Segmentation**|Abhishek Dinkar Jagtap et.al.|[2605.21309](http://arxiv.org/abs/2605.21309)|null|
+|**2026-05-20**|**Deformba: Vision State Space Model with Adaptive State Fusion**|Hongyu Ke et.al.|[2605.21308](http://arxiv.org/abs/2605.21308)|null|
+|**2026-05-20**|**Supporting Dynamic Control-Flow Execution for Runtime Reconfigurable Processors**|Hassan Nassar et.al.|[2605.21203](http://arxiv.org/abs/2605.21203)|null|
+|**2026-05-20**|**SAM-Sode: Towards Faithful Explanations for Tiny Bacteria Detection**|Wanying Tan et.al.|[2605.21186](http://arxiv.org/abs/2605.21186)|null|
+|**2026-05-20**|**RCGDet3D: Rethinking 4D Radar-Camera Fusion-based 3D Object Detection with Enhanced Radar Feature Encoding**|Weiyi Xiong et.al.|[2605.21112](http://arxiv.org/abs/2605.21112)|null|
+|**2026-05-20**|**SubTGraph: Large-Scale Subterranean Environment Synthesis with Controllable Topological Variability for Robotic Autonomy Validation**|F. Labra Caso et.al.|[2605.20917](http://arxiv.org/abs/2605.20917)|null|
+|**2026-05-20**|**Map-Mono-Ego: Map-Grounded Global Human Pose Estimation from Monocular Egocentric Video**|Hiroyuki Deguchi et.al.|[2605.20889](http://arxiv.org/abs/2605.20889)|null|
+|**2026-05-20**|**Activation-Free Backbones for Image Recognition: Polynomial Alternatives within MetaFormer-Style Vision Models**|Jeffrey Wang et.al.|[2605.20839](http://arxiv.org/abs/2605.20839)|null|
+|**2026-05-20**|**Interaction Locality in Hierarchical Recursive Reasoning**|Yosuke Miyanishi et.al.|[2605.20784](http://arxiv.org/abs/2605.20784)|null|
 |**2026-05-14**|**VGGT- $Ω$**|Jianyuan Wang et.al.|[2605.15195](http://arxiv.org/abs/2605.15195)|null|
 |**2026-05-14**|**SOCC-ICP: Semantics-Assisted Odometry based on Occupancy Grids and ICP**|Johannes Scherer et.al.|[2605.15074](http://arxiv.org/abs/2605.15074)|null|
 |**2026-05-14**|**Characterizing the visual representation of objects from the child's view**|Jane Yang et.al.|[2605.14990](http://arxiv.org/abs/2605.14990)|null|
@@ -713,12 +734,13 @@
 |**2025-11-26**|**Video Generation Models Are Good Latent Reward Models**|Xiaoyue Mi et.al.|[2511.21541](http://arxiv.org/abs/2511.21541)|null|
 |**2025-11-26**|**CanKD: Cross-Attention-based Non-local operation for Feature-based Knowledge Distillation**|Shizhe Sun et.al.|[2511.21503](http://arxiv.org/abs/2511.21503)|null|
 
-<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260521>back to top</a>)</p>
 
 ## Model Components
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-19**|**Semantic-Enriched Latent Visual Reasoning**|Tianrun Xu et.al.|[2605.19342](http://arxiv.org/abs/2605.19342)|null|
 |**2026-05-13**|**Seconds-Aligned PCA-DAC Latent Diffusion for Symbolic-to-Audio Drum Rendering**|Konstantinos Soiledis et.al.|[2605.13404](http://arxiv.org/abs/2605.13404)|null|
 |**2026-05-06**|**Lightning Unified Video Editing via In-Context Sparse Attention**|Shitong Shao et.al.|[2605.04569](http://arxiv.org/abs/2605.04569)|null|
 |**2026-05-03**|**SimPB++: Simultaneously Detecting 2D and 3D Objects from Multiple Cameras**|Yingqi Tang et.al.|[2605.01924](http://arxiv.org/abs/2605.01924)|null|
@@ -782,12 +804,13 @@
 |**2025-09-23**|**CALL: Context-Aware Low-Latency Retrieval in Disk-Based Vector Databases**|Yeonwoo Jeong et.al.|[2509.18670](http://arxiv.org/abs/2509.18670)|null|
 |**2025-09-17**|**Parallelizable Feynman-Kac Models for Universal Probabilistic Programming**|Michele Boreale et.al.|[2509.14092](http://arxiv.org/abs/2509.14092)|null|
 
-<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260521>back to top</a>)</p>
 
 ## Unified Architectures
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-16**|**CAR-SAM: Cross-Attention Reconstruction for Post-Training Quantization of the Segment Anything Model**|Houji Wen et.al.|[2605.16901](http://arxiv.org/abs/2605.16901)|null|
 |**2026-05-07**|**$\mathcal{B}^{3}$ -Net: Controlled Posterior Bridge Learning for Multi-Task Dense Prediction**|Meihua Zhou et.al.|[2605.05722](http://arxiv.org/abs/2605.05722)|null|
 |**2026-04-02**|**MTLSI-Net: A Linear Semantic Interaction Network for Parameter-Efficient Multi-Task Dense Prediction**|Chen Liu et.al.|[2604.01995](http://arxiv.org/abs/2604.01995)|null|
 |**2026-03-31**|**M2H-MX: Multi-Task Dense Visual Perception for Real-Time Monocular Spatial Understanding**|U. V. B. L. Udugama et.al.|[2603.29236](http://arxiv.org/abs/2603.29236)|null|
@@ -834,14 +857,18 @@
 |**2025-12-09**|**The Missing Point in Vision Transformers for Universal Image Segmentation**|Sajjad Shahabodini et.al.|[2505.19795](http://arxiv.org/abs/2505.19795)|null|
 |**2025-01-02**|**Evidential Calibrated Uncertainty-Guided Interactive Segmentation paradigm for Ultrasound Images**|Jiang Shang et.al.|[2501.01072](http://arxiv.org/abs/2501.01072)|null|
 
-<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260521>back to top</a>)</p>
 
 ## Mechanism Specific
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-05-13**|**VectraYX-Nano: A 42M-Parameter Spanish Cybersecurity Language Model with Curriculum Learning and Native Tool Use**|Juan S. Santillana et.al.|[2605.13989](http://arxiv.org/abs/2605.13989)|null|
-|**2026-05-13**|**KamonBench: A Grammar-Based Dataset for Evaluating Compositional Factor Recovery in Vision-Language Models**|Richard Sproat et.al.|[2605.13322](http://arxiv.org/abs/2605.13322)|null|
+|**2026-05-19**|**CogScale: Scalable Benchmark for Sequence Processing**|Yannis Bendi-Ouis et.al.|[2605.19758](http://arxiv.org/abs/2605.19758)|null|
+|**2026-05-18**|**The Expressive Power of Low Precision Softmax Transformers with (Summarized) Chain-of-Thought**|Moritz Brösamle et.al.|[2605.18079](http://arxiv.org/abs/2605.18079)|null|
+|**2026-05-15**|**A Retrieval-Enhanced Transformer for Multi-Step Port-of-Call Sequence Prediction in Global Liner Shipping**|Yanzhao Su et.al.|[2605.15937](http://arxiv.org/abs/2605.15937)|null|
+|**2026-05-15**|**Ghosted Layers: Unconstrained Activation Alignment for Recovering Layer-Pruned LLMs**|Vincent-Daniel Yun et.al.|[2605.15491](http://arxiv.org/abs/2605.15491)|null|
+|**2026-05-18**|**VectraYX-Nano: A 42M-Parameter Spanish Cybersecurity Language Model with Curriculum Learning and Native Tool Use**|Juan S. Santillana et.al.|[2605.13989](http://arxiv.org/abs/2605.13989)|null|
+|**2026-05-17**|**KamonBench: A Grammar-Based Dataset for Evaluating Compositional Factor Recovery in Vision-Language Models**|Richard Sproat et.al.|[2605.13322](http://arxiv.org/abs/2605.13322)|null|
 |**2026-05-13**|**GenCape: Structure-Inductive Generative Modeling for Category-Agnostic Pose Estimation**|Jiyong Rao et.al.|[2605.13151](http://arxiv.org/abs/2605.13151)|null|
 |**2026-05-12**|**MLPs are Efficient Distilled Generative Recommenders**|Zitian Guo et.al.|[2605.12617](http://arxiv.org/abs/2605.12617)|null|
 |**2026-05-14**|**Non-Monotonic Latency in Apple MPS Decoding: KV Cache Interactions and Execution Regimes**|Willy Fitra Hendria et.al.|[2605.08913](http://arxiv.org/abs/2605.08913)|null|
@@ -958,12 +985,22 @@
 |**2025-11-24**|**Life-IQA: Boosting Blind Image Quality Assessment through GCN-enhanced Layer Interaction and MoE-based Feature Decoupling**|Long Tang et.al.|[2511.19024](http://arxiv.org/abs/2511.19024)|null|
 |**2025-11-21**|**Multi-Agent Pointer Transformer: Seq-to-Seq Reinforcement Learning for Multi-Vehicle Dynamic Pickup-Delivery Problems**|Zengyu Zou et.al.|[2511.17435](http://arxiv.org/abs/2511.17435)|null|
 
-<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260521>back to top</a>)</p>
 
 ## Foundation Models
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-20**|**Spatial Gram Alignment for Ultra-High-Resolution Image Synthesis**|Jinjin Zhang et.al.|[2605.20808](http://arxiv.org/abs/2605.20808)|null|
+|**2026-05-20**|**Pareto-Enhanced Portrait Generation: Vision-Aligned Text Supervision for Alignment, Realism, and Aesthetics**|Yunlong Wang et.al.|[2605.20640](http://arxiv.org/abs/2605.20640)|null|
+|**2026-05-19**|**Capability $\neq$ Interpretability: Human Interpretability of Vision Foundation Models**|Julien Colin et.al.|[2605.20337](http://arxiv.org/abs/2605.20337)|null|
+|**2026-05-19**|**Selective, Regularized, and Calibrated: Harnessing Vision Foundation Models for Cross-Domain Few-Shot Semantic Segmentation**|Junyuan Ma et.al.|[2605.19340](http://arxiv.org/abs/2605.19340)|**[link](https://github.com/Zhiyuan624/HERA-CDFSS)**|
+|**2026-05-19**|**PRISM-SLAM: Probabilistic Ray-Grounded Inference for Scale-aware Metric SLAM**|Eunsoo Im et.al.|[2605.19257](http://arxiv.org/abs/2605.19257)|null|
+|**2026-05-18**|**A Systematic Failure Analysis of Vision Foundation Models for Open Set Iris Presentation Attack Detection**|Rahul Anand et.al.|[2605.19020](http://arxiv.org/abs/2605.19020)|null|
+|**2026-05-19**|**Cracks in the Foundation: A Civil Infrastructure Dataset to Challenge Vision Foundation Models**|Nicola Farronato et.al.|[2605.18413](http://arxiv.org/abs/2605.18413)|null|
+|**2026-05-18**|**Vision Foundation Models as Generalist Tokenizers for Image Generation**|Anlin Zheng et.al.|[2605.18390](http://arxiv.org/abs/2605.18390)|null|
+|**2026-05-18**|**Foundation Models for Credit Risk Prediction: A Game Changer?**|Bart Baesens et.al.|[2605.18147](http://arxiv.org/abs/2605.18147)|null|
+|**2026-05-18**|**SENSE: Satellite-based ENergy Synthesis for Sustainable Environment**|Kailai Sun et.al.|[2605.18101](http://arxiv.org/abs/2605.18101)|null|
 |**2026-05-14**|**Representative Attention For Vision Transformers**|Yuntong Li et.al.|[2605.14913](http://arxiv.org/abs/2605.14913)|null|
 |**2026-05-14**|**Learning with Semantic Priors: Stabilizing Point-Supervised Infrared Small Target Detection via Hierarchical Knowledge Distillation**|Yuanhang Yao et.al.|[2605.14346](http://arxiv.org/abs/2605.14346)|**[link](https://github.com/yuanhang-yao/semantic-prior)**|
 |**2026-05-10**|**SSDA: Bridging Spectral and Structural Gaps via Dual Adaptation for Vision-Based Time Series Forecasting**|Mingrui Zhang et.al.|[2605.12550](http://arxiv.org/abs/2605.12550)|null|
@@ -1217,12 +1254,13 @@
 |**2025-11-26**|**SAM Guided Semantic and Motion Changed Region Mining for Remote Sensing Change Captioning**|Futian Wang et.al.|[2511.21420](http://arxiv.org/abs/2511.21420)|null|
 |**2025-11-26**|**Do Reasoning Vision-Language Models Inversely Scale in Test-Time Compute? A Distractor-centric Empirical Analysis**|Jiyun Bae et.al.|[2511.21397](http://arxiv.org/abs/2511.21397)|null|
 
-<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260521>back to top</a>)</p>
 
 ## VTON
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-20**|**iTryOn: Mastering Interactive Video Virtual Try-On with Spatial-Semantic Guidance**|Jun Zheng et.al.|[2605.21431](http://arxiv.org/abs/2605.21431)|null|
 |**2026-05-14**|**LPH-VTON: Resolving the Structure-Texture Dilemma of Virtual Try-On via Latent Process Handover**|Yixin Liu et.al.|[2605.14874](http://arxiv.org/abs/2605.14874)|null|
 |**2026-05-13**|**DirectTryOn: One-Step Virtual Try-On via Straightened Conditional Transport**|Xianbing Sun et.al.|[2605.12939](http://arxiv.org/abs/2605.12939)|null|
 |**2026-05-04**|**FEAT: Fashion Editing and Try-On from Any Design**|Soye Kwon et.al.|[2605.02393](http://arxiv.org/abs/2605.02393)|null|
@@ -1269,7 +1307,7 @@
 |**2025-12-04**|**Not All Birds Look The Same: Identity-Preserving Generation For Birds**|Aaron Sun et.al.|[2512.04485](http://arxiv.org/abs/2512.04485)|null|
 |**2025-11-24**|**Eevee: Towards Close-up High-resolution Video-based Virtual Try-on**|Jianhao Zeng et.al.|[2511.18957](http://arxiv.org/abs/2511.18957)|null|
 
-<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260521>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
