@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.05.21
+## Updated on 2026.05.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,6 +16,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-25**|**Small Models, Strong Priors: Architectural Inductive Bias for Parameter-Efficient Neural PDE Solvers**|Shyam Sankaran et.al.|[2605.25949](http://arxiv.org/abs/2605.25949)|null|
+|**2026-05-25**|**MAIL++: Multi-Modal Bi-directional Agent Layer for Vision-Language Models**|Kaixiang Chen et.al.|[2605.25479](http://arxiv.org/abs/2605.25479)|null|
+|**2026-05-23**|**MindAlign: Bridging EEG, Vision, and Language for Zero-Shot Visual Decoding**|Zexuan Chen et.al.|[2605.24523](http://arxiv.org/abs/2605.24523)|null|
+|**2026-05-22**|**Turning Adaptation into Assets: Cross-Domain Bridging for Online Vision-Language Navigation**|Zixuan Hu et.al.|[2605.23257](http://arxiv.org/abs/2605.23257)|null|
+|**2026-05-22**|**Empirical Bayes Conformal Prediction for Vision and Language Models**|Jiapeng Zeng et.al.|[2605.23189](http://arxiv.org/abs/2605.23189)|**[link](https://github.com/Yogesh914/conformal-rvalue)**|
+|**2026-05-21**|**AwareVLN: Reasoning with Self-awareness for Vision-Language Navigation**|Wenxuan Guo et.al.|[2605.22816](http://arxiv.org/abs/2605.22816)|**[link](https://github.com/GWxuan/AwareVLN)**|
+|**2026-05-21**|**Zero-Shot Temporal Action Localization Through Textual Guidance**|Benedetta Liberatori et.al.|[2605.22201](http://arxiv.org/abs/2605.22201)|null|
 |**2026-05-20**|**HORST: Composing Optimizer Geometries for Sparse Transformer Training**|Tom Jacobs et.al.|[2605.21104](http://arxiv.org/abs/2605.21104)|null|
 |**2026-05-19**|**Consistently Informative Soft-Label Temperature for Knowledge Distillation**|Hoang-Chau Luong et.al.|[2605.20357](http://arxiv.org/abs/2605.20357)|null|
 |**2026-05-19**|**P2DNav: Panorama-to-Downview Reasoning for Zero-shot Vision-and-Language Navigation**|Kai Sheng et.al.|[2605.19634](http://arxiv.org/abs/2605.19634)|null|
@@ -333,6 +340,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-25**|**InstructSAM: Segment Any Instance with Any Instructions**|Yuqian Yuan et.al.|[2605.26102](http://arxiv.org/abs/2605.26102)|null|
+|**2026-05-25**|**Pixel-Level Pavement Distress Assessment Using Instance Segmentation**|Logan Dewick et.al.|[2605.26095](http://arxiv.org/abs/2605.26095)|null|
+|**2026-05-25**|**SAM3-Assisted Training of Lightweight YOLO Models for Precision Pig Farming**|Marcos Vinicius Mendes Faria et.al.|[2605.25860](http://arxiv.org/abs/2605.25860)|null|
+|**2026-05-25**|**ATV-Net: Adaptive Triple-View Network with Dynamic Feature Fusion**|Hsin-Jui Pan et.al.|[2605.25803](http://arxiv.org/abs/2605.25803)|null|
+|**2026-05-25**|**Hierarchical Consistency Learning for Test-time Adaptation in Camouflage Perception**|Mingfeng Zha et.al.|[2605.25651](http://arxiv.org/abs/2605.25651)|null|
+|**2026-05-25**|**SurfSurg6D: Geometry Consistent Dense Correspondence for Textureless Surgical Instrument Pose Estimation**|Daiyun Shen et.al.|[2605.25598](http://arxiv.org/abs/2605.25598)|null|
+|**2026-05-25**|**ComPose: A Unified Completion-Pose Framework for Robust Category-Level Object Pose Estimation**|Huan Ren et.al.|[2605.25553](http://arxiv.org/abs/2605.25553)|null|
+|**2026-05-25**|**Weakly Supervised Camouflaged Object Detection Based on the SAM Model and Mask Guidance**|Xia Li et.al.|[2605.25385](http://arxiv.org/abs/2605.25385)|null|
+|**2026-05-25**|**An Extended Object Poisson Multi-Bernoulli Filter with Zero-Inflated Poisson Model Using Belief Propagation**|Yuxuan Xia et.al.|[2605.25316](http://arxiv.org/abs/2605.25316)|null|
+|**2026-05-24**|**Neuromorphic LiDAR-based Bird's Eye View Object Detection using Energy-efficient Spiking Neural Networks**|Sambit Mohapatra et.al.|[2605.25293](http://arxiv.org/abs/2605.25293)|null|
 |**2026-05-20**|**AIGaitor: Privacy-preserving and cloud-free motion analysis for everyone, using edge computing**|Lauhitya Reddy et.al.|[2605.21421](http://arxiv.org/abs/2605.21421)|null|
 |**2026-05-20**|**Hyper-V2X: Hypernetworks for Estimating Epistemic and Aleatoric Uncertainty in Cooperative Bird's-Eye-View Semantic Segmentation**|Abhishek Dinkar Jagtap et.al.|[2605.21309](http://arxiv.org/abs/2605.21309)|null|
 |**2026-05-20**|**Deformba: Vision State Space Model with Adaptive State Fusion**|Hongyu Ke et.al.|[2605.21308](http://arxiv.org/abs/2605.21308)|null|
@@ -795,7 +812,7 @@ layout: default
 |**2026-05-16**|**CAR-SAM: Cross-Attention Reconstruction for Post-Training Quantization of the Segment Anything Model**|Houji Wen et.al.|[2605.16901](http://arxiv.org/abs/2605.16901)|null|
 |**2026-05-07**|**$\mathcal{B}^{3}$ -Net: Controlled Posterior Bridge Learning for Multi-Task Dense Prediction**|Meihua Zhou et.al.|[2605.05722](http://arxiv.org/abs/2605.05722)|null|
 |**2026-04-02**|**MTLSI-Net: A Linear Semantic Interaction Network for Parameter-Efficient Multi-Task Dense Prediction**|Chen Liu et.al.|[2604.01995](http://arxiv.org/abs/2604.01995)|null|
-|**2026-03-31**|**M2H-MX: Multi-Task Dense Visual Perception for Real-Time Monocular Spatial Understanding**|U. V. B. L. Udugama et.al.|[2603.29236](http://arxiv.org/abs/2603.29236)|null|
+|**2026-05-23**|**M2H-MX: Multi-Task Semantic and Geometric Perception for Real-Time Monocular 3D Scene Graph Construction**|U. V. B. L. Udugama et.al.|[2603.29236](http://arxiv.org/abs/2603.29236)|null|
 |**2026-01-06**|**Towards Agnostic and Holistic Universal Image Segmentation with Bit Diffusion**|Jakob Lønborg Christensen et.al.|[2601.02881](http://arxiv.org/abs/2601.02881)|null|
 |**2025-12-04**|**EvoIR: Towards All-in-One Image Restoration via Evolutionary Frequency Modulation**|Jiaqi Ma et.al.|[2512.05104](http://arxiv.org/abs/2512.05104)|null|
 |**2025-12-04**|**Setting up for failure: automatic discovery of the neural mechanisms of cognitive errors**|Puria Radmard et.al.|[2512.04808](http://arxiv.org/abs/2512.04808)|null|
@@ -843,11 +860,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-25**|**AutoSG: LLM-Driven Solver Generation Solely from Task Prompts for Expensive Optimization**|Haoran Gu et.al.|[2605.25658](http://arxiv.org/abs/2605.25658)|null|
+|**2026-05-21**|**Improved Vision-to-Chart Buoy Association with Learned World-to-Image Projection**|Borja Carrillo-Perez et.al.|[2605.22942](http://arxiv.org/abs/2605.22942)|null|
 |**2026-05-19**|**CogScale: Scalable Benchmark for Sequence Processing**|Yannis Bendi-Ouis et.al.|[2605.19758](http://arxiv.org/abs/2605.19758)|null|
 |**2026-05-18**|**The Expressive Power of Low Precision Softmax Transformers with (Summarized) Chain-of-Thought**|Moritz Brösamle et.al.|[2605.18079](http://arxiv.org/abs/2605.18079)|null|
 |**2026-05-15**|**A Retrieval-Enhanced Transformer for Multi-Step Port-of-Call Sequence Prediction in Global Liner Shipping**|Yanzhao Su et.al.|[2605.15937](http://arxiv.org/abs/2605.15937)|null|
 |**2026-05-15**|**Ghosted Layers: Unconstrained Activation Alignment for Recovering Layer-Pruned LLMs**|Vincent-Daniel Yun et.al.|[2605.15491](http://arxiv.org/abs/2605.15491)|null|
-|**2026-05-18**|**VectraYX-Nano: A 42M-Parameter Spanish Cybersecurity Language Model with Curriculum Learning and Native Tool Use**|Juan S. Santillana et.al.|[2605.13989](http://arxiv.org/abs/2605.13989)|null|
+|**2026-05-21**|**VectraYX-Nano: A 42M-Parameter Spanish Cybersecurity Language Model with Curriculum Learning and Native Tool Use**|Juan S. Santillana et.al.|[2605.13989](http://arxiv.org/abs/2605.13989)|null|
 |**2026-05-17**|**KamonBench: A Grammar-Based Dataset for Evaluating Compositional Factor Recovery in Vision-Language Models**|Richard Sproat et.al.|[2605.13322](http://arxiv.org/abs/2605.13322)|null|
 |**2026-05-13**|**GenCape: Structure-Inductive Generative Modeling for Category-Agnostic Pose Estimation**|Jiyong Rao et.al.|[2605.13151](http://arxiv.org/abs/2605.13151)|null|
 |**2026-05-12**|**MLPs are Efficient Distilled Generative Recommenders**|Zitian Guo et.al.|[2605.12617](http://arxiv.org/abs/2605.12617)|null|
@@ -969,6 +988,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-25**|**EchoPilot: Training-Free Ultrasound Video Segmentation via Scale-Space Semantic Prompting and Reliability-Gated Memory**|Ruiqiang Xiao et.al.|[2605.25944](http://arxiv.org/abs/2605.25944)|null|
+|**2026-05-25**|**Anatomy-Anchored Self-Supervision: Distilling Vision Foundation Models for Invariant Ultrasound Representation**|Chunzheng Zhu et.al.|[2605.25402](http://arxiv.org/abs/2605.25402)|null|
+|**2026-05-25**|**Dual-Pathway Geometry-Aware MLLM for Spatial Intelligence**|Yufei Zheng et.al.|[2605.25334](http://arxiv.org/abs/2605.25334)|null|
+|**2026-05-24**|**Cross-Domain Generalization Limits of Vision Foundation Models in Facial Deepfake Detection**|Ibrahim Delibasoglu et.al.|[2605.24965](http://arxiv.org/abs/2605.24965)|null|
+|**2026-05-24**|**BED-SAM2: Boundary-Enhanced-Depth SAM2 via Monocular Geometric Priors**|Tyler Rust et.al.|[2605.24893](http://arxiv.org/abs/2605.24893)|null|
+|**2026-05-23**|**The Perception-Physics Paradox: Probing Scientific Alignment with TC-Bench**|Dingling Yao et.al.|[2605.24782](http://arxiv.org/abs/2605.24782)|null|
+|**2026-05-22**|**GlowGS: Generative Semantic Feature Learning for 3D Gaussian Splatting in Nighttime Glow Scenes**|Beibei Lin et.al.|[2605.23602](http://arxiv.org/abs/2605.23602)|null|
+|**2026-05-22**|**PixIE: Prompted Pixel-Space Low-Light Image Enhancement**|Ruirui Lin et.al.|[2605.23531](http://arxiv.org/abs/2605.23531)|null|
+|**2026-05-22**|**Rethinking Transfer Learning for Industrial Inspection: DINOv3 vs. ImageNet Pretraining Across RGB and X-ray Tasks**|Mehdi Gharbage et.al.|[2605.23472](http://arxiv.org/abs/2605.23472)|null|
+|**2026-05-21**|**Dithering Defense: Adversarial Robustness of Vision Foundation Models via Multi-Level Floyd-Steinberg Dithering**|Yury Belousov et.al.|[2605.23065](http://arxiv.org/abs/2605.23065)|null|
 |**2026-05-20**|**Spatial Gram Alignment for Ultra-High-Resolution Image Synthesis**|Jinjin Zhang et.al.|[2605.20808](http://arxiv.org/abs/2605.20808)|null|
 |**2026-05-20**|**Pareto-Enhanced Portrait Generation: Vision-Aligned Text Supervision for Alignment, Realism, and Aesthetics**|Yunlong Wang et.al.|[2605.20640](http://arxiv.org/abs/2605.20640)|null|
 |**2026-05-19**|**Capability $\neq$ Interpretability: Human Interpretability of Vision Foundation Models**|Julien Colin et.al.|[2605.20337](http://arxiv.org/abs/2605.20337)|null|
