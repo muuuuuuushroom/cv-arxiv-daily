@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.05.26
+## Updated on 2026.05.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,11 +16,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-28**|**Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments**|Qiuyue Wang et.al.|[2605.30280](http://arxiv.org/abs/2605.30280)|null|
+|**2026-05-27**|**Tabero: Learning Gentle Manipulation with Closed-Loop Force Feedback from Vision, Touch, and Language**|Qiwei Wu et.al.|[2605.27886](http://arxiv.org/abs/2605.27886)|null|
+|**2026-05-26**|**Colosseum V2: Benchmarking Generalization for Vision Language Action Models**|Jeremy Morgan et.al.|[2605.27759](http://arxiv.org/abs/2605.27759)|null|
+|**2026-05-26**|**LUCoS: Latent Unsupervised Context Selection for Tabular Foundation Models**|Oroel Ipas et.al.|[2605.27254](http://arxiv.org/abs/2605.27254)|null|
+|**2026-05-26**|**METATR: A Multilingual, Evolving Benchmark for Automatic Text Recognition**|Mélodie Boillet et.al.|[2605.26712](http://arxiv.org/abs/2605.26712)|null|
 |**2026-05-25**|**Small Models, Strong Priors: Architectural Inductive Bias for Parameter-Efficient Neural PDE Solvers**|Shyam Sankaran et.al.|[2605.25949](http://arxiv.org/abs/2605.25949)|null|
 |**2026-05-25**|**MAIL++: Multi-Modal Bi-directional Agent Layer for Vision-Language Models**|Kaixiang Chen et.al.|[2605.25479](http://arxiv.org/abs/2605.25479)|null|
 |**2026-05-23**|**MindAlign: Bridging EEG, Vision, and Language for Zero-Shot Visual Decoding**|Zexuan Chen et.al.|[2605.24523](http://arxiv.org/abs/2605.24523)|null|
 |**2026-05-22**|**Turning Adaptation into Assets: Cross-Domain Bridging for Online Vision-Language Navigation**|Zixuan Hu et.al.|[2605.23257](http://arxiv.org/abs/2605.23257)|null|
-|**2026-05-22**|**Empirical Bayes Conformal Prediction for Vision and Language Models**|Jiapeng Zeng et.al.|[2605.23189](http://arxiv.org/abs/2605.23189)|**[link](https://github.com/Yogesh914/conformal-rvalue)**|
+|**2026-05-22**|**Empirical Bayes Conformal Prediction for Vision and Language Models**|Jiapeng Zeng et.al.|[2605.23189](http://arxiv.org/abs/2605.23189)|null|
 |**2026-05-21**|**AwareVLN: Reasoning with Self-awareness for Vision-Language Navigation**|Wenxuan Guo et.al.|[2605.22816](http://arxiv.org/abs/2605.22816)|**[link](https://github.com/GWxuan/AwareVLN)**|
 |**2026-05-21**|**Zero-Shot Temporal Action Localization Through Textual Guidance**|Benedetta Liberatori et.al.|[2605.22201](http://arxiv.org/abs/2605.22201)|null|
 |**2026-05-20**|**HORST: Composing Optimizer Geometries for Sparse Transformer Training**|Tom Jacobs et.al.|[2605.21104](http://arxiv.org/abs/2605.21104)|null|
@@ -340,6 +345,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-28**|**Supercharging Thermal Gaussian Splatting with Depth Estimation**|Manoj Biswanath et.al.|[2605.30328](http://arxiv.org/abs/2605.30328)|null|
+|**2026-05-28**|**Cycle Consistency in Video Object-Centric Learning**|Rongzhen Zhao et.al.|[2605.30211](http://arxiv.org/abs/2605.30211)|null|
+|**2026-05-28**|**REACT: A Conditioning Framework for User-Adaptive sEMG Hand Pose Estimation**|Eric Xie et.al.|[2605.30127](http://arxiv.org/abs/2605.30127)|null|
+|**2026-05-28**|**Large Depth Completion Model from Sparse Observations**|Zhu Yu et.al.|[2605.30115](http://arxiv.org/abs/2605.30115)|null|
+|**2026-05-28**|**xModel-KD: Cross-modal Knowledge Distillation for 3D Scene Perception using LiDAR**|Thenukan Pathmanathan et.al.|[2605.30111](http://arxiv.org/abs/2605.30111)|null|
+|**2026-05-28**|**Towards Consistent Video Geometry Estimation**|Zhu Yu et.al.|[2605.30060](http://arxiv.org/abs/2605.30060)|null|
+|**2026-05-28**|**Mesh-Aware Epipolar Matching for Multi-View Multi-Person 3D Pose Estimation in Basketball**|Li Yin et.al.|[2605.29953](http://arxiv.org/abs/2605.29953)|null|
+|**2026-05-28**|**Train the Agent, Not the Expert: Learning to Harness Heterogeneous Experts for Multi-Turn Visual Reasoning**|Yaowu Fan et.al.|[2605.29894](http://arxiv.org/abs/2605.29894)|null|
+|**2026-05-28**|**DGSG-Mind: Dynamic 3D Gaussian Scene Graphs for Long-Term Scene Understanding and Grounding**|Luzhou Ge et.al.|[2605.29879](http://arxiv.org/abs/2605.29879)|null|
+|**2026-05-28**|**Energy-Aware NECO for Single-Pass Pixel-wise Out-of-Distribution Detection in Semantic Segmentation**|Boyuan Zhang et.al.|[2605.29773](http://arxiv.org/abs/2605.29773)|null|
 |**2026-05-25**|**InstructSAM: Segment Any Instance with Any Instructions**|Yuqian Yuan et.al.|[2605.26102](http://arxiv.org/abs/2605.26102)|null|
 |**2026-05-25**|**Pixel-Level Pavement Distress Assessment Using Instance Segmentation**|Logan Dewick et.al.|[2605.26095](http://arxiv.org/abs/2605.26095)|null|
 |**2026-05-25**|**SAM3-Assisted Training of Lightweight YOLO Models for Precision Pig Farming**|Marcos Vinicius Mendes Faria et.al.|[2605.25860](http://arxiv.org/abs/2605.25860)|null|
@@ -741,9 +756,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-05-19**|**Semantic-Enriched Latent Visual Reasoning**|Tianrun Xu et.al.|[2605.19342](http://arxiv.org/abs/2605.19342)|null|
+|**2026-05-27**|**Semantic-Enriched Latent Visual Reasoning**|Tianrun Xu et.al.|[2605.19342](http://arxiv.org/abs/2605.19342)|null|
 |**2026-05-13**|**Seconds-Aligned PCA-DAC Latent Diffusion for Symbolic-to-Audio Drum Rendering**|Konstantinos Soiledis et.al.|[2605.13404](http://arxiv.org/abs/2605.13404)|null|
-|**2026-05-06**|**Lightning Unified Video Editing via In-Context Sparse Attention**|Shitong Shao et.al.|[2605.04569](http://arxiv.org/abs/2605.04569)|null|
+|**2026-05-28**|**LIVEditor-14B: Lightning Unified Video Editing via In-Context Sparse Attention**|Shitong Shao et.al.|[2605.04569](http://arxiv.org/abs/2605.04569)|null|
 |**2026-05-03**|**SimPB++: Simultaneously Detecting 2D and 3D Objects from Multiple Cameras**|Yingqi Tang et.al.|[2605.01924](http://arxiv.org/abs/2605.01924)|null|
 |**2026-04-28**|**Control Your Queries: Heterogeneous Query Interaction for Camera-Radar Fusion**|Jialong Wu et.al.|[2604.25574](http://arxiv.org/abs/2604.25574)|null|
 |**2026-04-27**|**Adaptive-Distribution Randomized Neural Networks for PDEs: A Low-Dimensional Distribution-Learning Framework**|You Yang et.al.|[2604.23999](http://arxiv.org/abs/2604.23999)|null|
@@ -860,6 +875,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-28**|**Phast: Simultaneous reconstruction of photoelectron count and time profiles from PMT waveforms via machine learning**|Yiming Xu et.al.|[2605.29391](http://arxiv.org/abs/2605.29391)|null|
+|**2026-05-27**|**Understanding Generalization and Forgetting in In-Context Continual Learning**|Guangyu Li et.al.|[2605.28705](http://arxiv.org/abs/2605.28705)|null|
+|**2026-05-27**|**Prompt Codebooks: Discrete Compositional Optimization for Language Model Instruction Refinement**|Jyotirmoy Nath et.al.|[2605.28360](http://arxiv.org/abs/2605.28360)|null|
+|**2026-05-27**|**Nonvolatile Charge-Domain Attention with HZO Ferroelectric Capacitors: A Simulation-Based Device-to-System Evaluation**|Faris Abouagour et.al.|[2605.28208](http://arxiv.org/abs/2605.28208)|null|
 |**2026-05-25**|**AutoSG: LLM-Driven Solver Generation Solely from Task Prompts for Expensive Optimization**|Haoran Gu et.al.|[2605.25658](http://arxiv.org/abs/2605.25658)|null|
 |**2026-05-21**|**Improved Vision-to-Chart Buoy Association with Learned World-to-Image Projection**|Borja Carrillo-Perez et.al.|[2605.22942](http://arxiv.org/abs/2605.22942)|null|
 |**2026-05-19**|**CogScale: Scalable Benchmark for Sequence Processing**|Yannis Bendi-Ouis et.al.|[2605.19758](http://arxiv.org/abs/2605.19758)|null|
@@ -988,6 +1007,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-28**|**From General Vision to Reliable Traversability Estimation: Adapting Vision Foundation Models for Unstructured Outdoor Environments**|Ji-Hoon Hwang et.al.|[2605.29565](http://arxiv.org/abs/2605.29565)|null|
+|**2026-05-28**|**EarthShift: a benchmark for measuring robustness to real-world distribution shifts in Earth observation**|Kelsey Doerksen et.al.|[2605.29330](http://arxiv.org/abs/2605.29330)|null|
+|**2026-05-27**|**SIGMA: Bridging Structural and Distributional Gaps for Vision Foundation Model Adaptation**|Lingyu Xiong et.al.|[2605.27893](http://arxiv.org/abs/2605.27893)|null|
+|**2026-05-26**|**JetViT: Efficient High-Resolution Vision Transformer with Post-Training Attention Search**|Dongyun Zou et.al.|[2605.26636](http://arxiv.org/abs/2605.26636)|null|
 |**2026-05-25**|**EchoPilot: Training-Free Ultrasound Video Segmentation via Scale-Space Semantic Prompting and Reliability-Gated Memory**|Ruiqiang Xiao et.al.|[2605.25944](http://arxiv.org/abs/2605.25944)|null|
 |**2026-05-25**|**Anatomy-Anchored Self-Supervision: Distilling Vision Foundation Models for Invariant Ultrasound Representation**|Chunzheng Zhu et.al.|[2605.25402](http://arxiv.org/abs/2605.25402)|null|
 |**2026-05-25**|**Dual-Pathway Geometry-Aware MLLM for Spatial Intelligence**|Yufei Zheng et.al.|[2605.25334](http://arxiv.org/abs/2605.25334)|null|
