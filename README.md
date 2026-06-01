@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.05.31
+## Updated on 2026.06.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -26,6 +26,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-29**|**Learning Hyperspherical Time-Frequency Representations for Time-Series Out-of-Distribution Detection**|Willian T. Lunardi et.al.|[2605.31155](http://arxiv.org/abs/2605.31155)|null|
+|**2026-05-28**|**Improving Relative Representations with Learned Anchors and Whitened Inner Products**|Oscar Thorsted Svendsen et.al.|[2605.30596](http://arxiv.org/abs/2605.30596)|null|
 |**2026-05-28**|**Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments**|Qiuyue Wang et.al.|[2605.30280](http://arxiv.org/abs/2605.30280)|null|
 |**2026-05-27**|**Tabero: Learning Gentle Manipulation with Closed-Loop Force Feedback from Vision, Touch, and Language**|Qiwei Wu et.al.|[2605.27886](http://arxiv.org/abs/2605.27886)|null|
 |**2026-05-26**|**Colosseum V2: Benchmarking Generalization for Vision Language Action Models**|Jeremy Morgan et.al.|[2605.27759](http://arxiv.org/abs/2605.27759)|null|
@@ -308,7 +310,7 @@
 |**2025-11-18**|**Is Your VLM for Autonomous Driving Safety-Ready? A Comprehensive Benchmark for Evaluating External and In-Cabin Risks**|Xianhui Meng et.al.|[2511.14592](http://arxiv.org/abs/2511.14592)|null|
 |**2025-11-18**|**OmniZip: Audio-Guided Dynamic Token Compression for Fast Omnimodal Large Language Models**|Keda Tao et.al.|[2511.14582](http://arxiv.org/abs/2511.14582)|null|
 
-<p align=right>(<a href=#updated-on-20260531>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260601>back to top</a>)</p>
 
 ## Counting
 
@@ -353,12 +355,22 @@
 |**2025-09-29**|**TP-MVCC: Tri-plane Multi-view Fusion Model for Silkie Chicken Counting**|Sirui Chen et.al.|[2509.24329](http://arxiv.org/abs/2509.24329)|null|
 |**2025-09-26**|**Multi-View Crowd Counting With Self-Supervised Learning**|Hong Mo et.al.|[2509.21918](http://arxiv.org/abs/2509.21918)|null|
 
-<p align=right>(<a href=#updated-on-20260531>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260601>back to top</a>)</p>
 
 ## Dense Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-29**|**SOCO: Benchmarking Semantic Object Correspondence in Vision Foundation Models**|Olaf Dünkel et.al.|[2605.31597](http://arxiv.org/abs/2605.31597)|null|
+|**2026-05-29**|**SMART: SMPLest-X Mesh Adaptation and RAFT Tracking for Soccer Pose Estimation**|Parthsarthi Rawat et.al.|[2605.31551](http://arxiv.org/abs/2605.31551)|null|
+|**2026-05-29**|**SAM for Robust Mitochondria Instance Segmentation in Fluorescence Microscopy**|Suyog Jadhav et.al.|[2605.31284](http://arxiv.org/abs/2605.31284)|null|
+|**2026-05-29**|**TALON: Token-Aligned Lightweight Adapters for 6-DoF Spacecraft Pose Estimation**|Abid Ali et.al.|[2605.31217](http://arxiv.org/abs/2605.31217)|null|
+|**2026-05-29**|**Vanilla ViT for Automotive Point Cloud Semantic Segmentation**|Gilles Puy et.al.|[2605.31177](http://arxiv.org/abs/2605.31177)|null|
+|**2026-05-29**|**Detect in Any Scene: An Agentic Framework for Object Detection with Experience-Aware Reasoning**|Wenlun Zhang et.al.|[2605.31174](http://arxiv.org/abs/2605.31174)|null|
+|**2026-05-29**|**Polyphony: Diffusion-based Dual-Hand Action Segmentation with Alternating Vision Transformer and Semantic Conditioning**|Hao Zheng et.al.|[2605.31115](http://arxiv.org/abs/2605.31115)|null|
+|**2026-05-29**|**Remembering by Reconstructing: Domain Incremental Learning With Test-Time Training on Video Streams**|Jonathan Swinnen et.al.|[2605.31108](http://arxiv.org/abs/2605.31108)|null|
+|**2026-05-29**|**Redefining Instance Matching: A Unified Framework for Part-Aware Matching in Panoptic Segmentation Evaluation**|Erik Großkopf et.al.|[2605.31094](http://arxiv.org/abs/2605.31094)|null|
+|**2026-05-29**|**Rethinking Efficient Crack Segmentation with Task-Aligned Structural-Directional Modeling**|Shipeng Liu et.al.|[2605.31048](http://arxiv.org/abs/2605.31048)|null|
 |**2026-05-28**|**Supercharging Thermal Gaussian Splatting with Depth Estimation**|Manoj Biswanath et.al.|[2605.30328](http://arxiv.org/abs/2605.30328)|null|
 |**2026-05-28**|**Cycle Consistency in Video Object-Centric Learning**|Rongzhen Zhao et.al.|[2605.30211](http://arxiv.org/abs/2605.30211)|null|
 |**2026-05-28**|**REACT: A Conditioning Framework for User-Adaptive sEMG Hand Pose Estimation**|Eric Xie et.al.|[2605.30127](http://arxiv.org/abs/2605.30127)|null|
@@ -766,12 +778,13 @@
 |**2025-11-26**|**Video Generation Models Are Good Latent Reward Models**|Xiaoyue Mi et.al.|[2511.21541](http://arxiv.org/abs/2511.21541)|null|
 |**2025-11-26**|**CanKD: Cross-Attention-based Non-local operation for Feature-based Knowledge Distillation**|Shizhe Sun et.al.|[2511.21503](http://arxiv.org/abs/2511.21503)|null|
 
-<p align=right>(<a href=#updated-on-20260531>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260601>back to top</a>)</p>
 
 ## Model Components
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-29**|**Topologically Consistent Multi-view 3D Head Reconstruction via Coarse-Guided Layered Surface Sampling**|Timo Bolkart et.al.|[2605.31283](http://arxiv.org/abs/2605.31283)|null|
 |**2026-05-27**|**Semantic-Enriched Latent Visual Reasoning**|Tianrun Xu et.al.|[2605.19342](http://arxiv.org/abs/2605.19342)|null|
 |**2026-05-13**|**Seconds-Aligned PCA-DAC Latent Diffusion for Symbolic-to-Audio Drum Rendering**|Konstantinos Soiledis et.al.|[2605.13404](http://arxiv.org/abs/2605.13404)|null|
 |**2026-05-28**|**LIVEditor-14B: Lightning Unified Video Editing via In-Context Sparse Attention**|Shitong Shao et.al.|[2605.04569](http://arxiv.org/abs/2605.04569)|null|
@@ -836,12 +849,13 @@
 |**2025-09-23**|**CALL: Context-Aware Low-Latency Retrieval in Disk-Based Vector Databases**|Yeonwoo Jeong et.al.|[2509.18670](http://arxiv.org/abs/2509.18670)|null|
 |**2025-09-17**|**Parallelizable Feynman-Kac Models for Universal Probabilistic Programming**|Michele Boreale et.al.|[2509.14092](http://arxiv.org/abs/2509.14092)|null|
 
-<p align=right>(<a href=#updated-on-20260531>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260601>back to top</a>)</p>
 
 ## Unified Architectures
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-29**|**Count Anything**|Mengqi Lei et.al.|[2605.30846](http://arxiv.org/abs/2605.30846)|null|
 |**2026-05-16**|**CAR-SAM: Cross-Attention Reconstruction for Post-Training Quantization of the Segment Anything Model**|Houji Wen et.al.|[2605.16901](http://arxiv.org/abs/2605.16901)|null|
 |**2026-05-07**|**$\mathcal{B}^{3}$ -Net: Controlled Posterior Bridge Learning for Multi-Task Dense Prediction**|Meihua Zhou et.al.|[2605.05722](http://arxiv.org/abs/2605.05722)|null|
 |**2026-04-02**|**MTLSI-Net: A Linear Semantic Interaction Network for Parameter-Efficient Multi-Task Dense Prediction**|Chen Liu et.al.|[2604.01995](http://arxiv.org/abs/2604.01995)|null|
@@ -889,12 +903,13 @@
 |**2025-12-09**|**The Missing Point in Vision Transformers for Universal Image Segmentation**|Sajjad Shahabodini et.al.|[2505.19795](http://arxiv.org/abs/2505.19795)|null|
 |**2025-01-02**|**Evidential Calibrated Uncertainty-Guided Interactive Segmentation paradigm for Ultrasound Images**|Jiang Shang et.al.|[2501.01072](http://arxiv.org/abs/2501.01072)|null|
 
-<p align=right>(<a href=#updated-on-20260531>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260601>back to top</a>)</p>
 
 ## Mechanism Specific
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-29**|**Fine-Tuning Improves Information Conveyance in Language Models**|Yuwei Cheng et.al.|[2605.30844](http://arxiv.org/abs/2605.30844)|null|
 |**2026-05-28**|**Phast: Simultaneous reconstruction of photoelectron count and time profiles from PMT waveforms via machine learning**|Yiming Xu et.al.|[2605.29391](http://arxiv.org/abs/2605.29391)|null|
 |**2026-05-27**|**Understanding Generalization and Forgetting in In-Context Continual Learning**|Guangyu Li et.al.|[2605.28705](http://arxiv.org/abs/2605.28705)|null|
 |**2026-05-27**|**Prompt Codebooks: Discrete Compositional Optimization for Language Model Instruction Refinement**|Jyotirmoy Nath et.al.|[2605.28360](http://arxiv.org/abs/2605.28360)|null|
@@ -1023,12 +1038,13 @@
 |**2025-11-24**|**Life-IQA: Boosting Blind Image Quality Assessment through GCN-enhanced Layer Interaction and MoE-based Feature Decoupling**|Long Tang et.al.|[2511.19024](http://arxiv.org/abs/2511.19024)|null|
 |**2025-11-21**|**Multi-Agent Pointer Transformer: Seq-to-Seq Reinforcement Learning for Multi-Vehicle Dynamic Pickup-Delivery Problems**|Zengyu Zou et.al.|[2511.17435](http://arxiv.org/abs/2511.17435)|null|
 
-<p align=right>(<a href=#updated-on-20260531>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260601>back to top</a>)</p>
 
 ## Foundation Models
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-29**|**SOCO: Benchmarking Semantic Object Correspondence in Vision Foundation Models**|Olaf Dünkel et.al.|[2605.31597](http://arxiv.org/abs/2605.31597)|null|
 |**2026-05-28**|**From General Vision to Reliable Traversability Estimation: Adapting Vision Foundation Models for Unstructured Outdoor Environments**|Ji-Hoon Hwang et.al.|[2605.29565](http://arxiv.org/abs/2605.29565)|null|
 |**2026-05-28**|**EarthShift: a benchmark for measuring robustness to real-world distribution shifts in Earth observation**|Kelsey Doerksen et.al.|[2605.29330](http://arxiv.org/abs/2605.29330)|null|
 |**2026-05-27**|**SIGMA: Bridging Structural and Distributional Gaps for Vision Foundation Model Adaptation**|Lingyu Xiong et.al.|[2605.27893](http://arxiv.org/abs/2605.27893)|null|
@@ -1306,7 +1322,7 @@
 |**2025-11-26**|**SAM Guided Semantic and Motion Changed Region Mining for Remote Sensing Change Captioning**|Futian Wang et.al.|[2511.21420](http://arxiv.org/abs/2511.21420)|null|
 |**2025-11-26**|**Do Reasoning Vision-Language Models Inversely Scale in Test-Time Compute? A Distractor-centric Empirical Analysis**|Jiyun Bae et.al.|[2511.21397](http://arxiv.org/abs/2511.21397)|null|
 
-<p align=right>(<a href=#updated-on-20260531>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260601>back to top</a>)</p>
 
 ## VTON
 
@@ -1359,7 +1375,7 @@
 |**2025-12-04**|**Not All Birds Look The Same: Identity-Preserving Generation For Birds**|Aaron Sun et.al.|[2512.04485](http://arxiv.org/abs/2512.04485)|null|
 |**2025-11-24**|**Eevee: Towards Close-up High-resolution Video-based Virtual Try-on**|Jianhao Zeng et.al.|[2511.18957](http://arxiv.org/abs/2511.18957)|null|
 
-<p align=right>(<a href=#updated-on-20260531>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260601>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
