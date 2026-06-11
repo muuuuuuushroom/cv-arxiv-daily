@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.01
+## Updated on 2026.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,6 +16,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-09**|**AgenticNav: Zero-Shot Vision-and-Language Navigation as a Tool-Calling Harness**|Yijian Li et.al.|[2606.10577](http://arxiv.org/abs/2606.10577)|null|
+|**2026-06-08**|**Understanding Quantization-Aware Training: Gradients at Quantized Weights Bias to the Low-Loss Basin**|Hanyang Li et.al.|[2606.09012](http://arxiv.org/abs/2606.09012)|null|
+|**2026-06-08**|**SpaceVLN: A Zero-Shot Vision-and-Language Navigation Agent with Online Spatial Cognitive Memory and Reasoning**|Yucheng Deng et.al.|[2606.08992](http://arxiv.org/abs/2606.08992)|null|
+|**2026-06-04**|**MMBU: A Massive Multi-modal Biomedical Understanding Benchmark to Probe the Perception Capabilities of Vision-Language Models**|Ryan D'Cunha et.al.|[2606.06696](http://arxiv.org/abs/2606.06696)|null|
+|**2026-06-09**|**VOLT: Vision and Language Trajectory Segmentation for Faster-than-Demonstration Policies**|Robert Ramirez Sanchez et.al.|[2606.06323](http://arxiv.org/abs/2606.06323)|null|
+|**2026-06-03**|**HapTile: A Haptic-Informed Vision-Tactile-Language-Action Dataset for Contact-Rich Imitation Learning**|Amirhosein Alian et.al.|[2606.04825](http://arxiv.org/abs/2606.04825)|null|
+|**2026-06-02**|**Channel-Oriented Design for EEG-to-Music Reconstruction**|Jiaxin Qing et.al.|[2606.04040](http://arxiv.org/abs/2606.04040)|null|
+|**2026-06-02**|**GN0: Toward a Unified Paradigm for Generation, Evaluation, and Policy Learning in Visual-Language Navigation**|Xinhai Li et.al.|[2606.03682](http://arxiv.org/abs/2606.03682)|null|
+|**2026-06-02**|**GFFMERGE: Efficient Merging of Graph Neural Force Fields and Beyond**|Parth Verma et.al.|[2606.03232](http://arxiv.org/abs/2606.03232)|null|
+|**2026-06-08**|**IMAC-AgriVLN: Can Agricultural Vision-and-Language Navigation Agents be Aware of Instruction Mistakes?**|Xiaobei Zhao et.al.|[2606.02519](http://arxiv.org/abs/2606.02519)|null|
 |**2026-05-29**|**Learning Hyperspherical Time-Frequency Representations for Time-Series Out-of-Distribution Detection**|Willian T. Lunardi et.al.|[2605.31155](http://arxiv.org/abs/2605.31155)|null|
 |**2026-05-28**|**Improving Relative Representations with Learned Anchors and Whitened Inner Products**|Oscar Thorsted Svendsen et.al.|[2605.30596](http://arxiv.org/abs/2605.30596)|null|
 |**2026-05-28**|**Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments**|Qiuyue Wang et.al.|[2605.30280](http://arxiv.org/abs/2605.30280)|null|
@@ -304,6 +314,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-02**|**A Benchmark for Semi-supervised Multi-modal Crowd Counting**|Haoliang Meng et.al.|[2606.03646](http://arxiv.org/abs/2606.03646)|null|
 |**2026-05-18**|**Optimising CSRNet with parameter-free attention mechanisms for crowd counting in public transport**|Aida Rostamza et.al.|[2605.18349](http://arxiv.org/abs/2605.18349)|null|
 |**2026-05-18**|**Counting Machine Parts**|Benedict Florance Arockiaraj et.al.|[2605.17952](http://arxiv.org/abs/2605.17952)|null|
 |**2026-05-16**|**Thermal-Only Crowd Counting with Deployment-Time Privacy Protection**|Yifei Qian et.al.|[2605.17042](http://arxiv.org/abs/2605.17042)|null|
@@ -347,6 +358,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-10**|**A Turbo-Inference Strategy for Object Detection and Instance Segmentation**|Zhen Zhao et.al.|[2606.12371](http://arxiv.org/abs/2606.12371)|null|
+|**2026-06-10**|**DepthMaster: Unified Monocular Depth Estimation for Perspective and Panoramic Images**|Pengfei Wang et.al.|[2606.12368](http://arxiv.org/abs/2606.12368)|null|
+|**2026-06-10**|**Adapting Prithvi-EO for Fallow Detection for Food-Water Nexus: ViT-Adapter Necks and Parameter-Efficient Backbone tuning of Geospatial Foundation Model**|Sk Muhammad Asif et.al.|[2606.12218](http://arxiv.org/abs/2606.12218)|null|
+|**2026-06-10**|**Performance Analysis of YOLOv11 and YOLOv8 for Mixed Traffic Object Detection under Adverse Weather Conditions in Developing Countries**|Quoc Thuan Nguyen et.al.|[2606.12066](http://arxiv.org/abs/2606.12066)|null|
+|**2026-06-10**|**SG2Loc: Sequential Visual Localization on 3D Scene Graphs**|Nicole Damblon et.al.|[2606.11880](http://arxiv.org/abs/2606.11880)|null|
+|**2026-06-10**|**LASA: A Weak Supervision Method for Open-Vocabulary Scene Sketch Semantic Segmentation**|Liwen Yi et.al.|[2606.11837](http://arxiv.org/abs/2606.11837)|null|
+|**2026-06-10**|**Multi-View In-Cabin Monitoring System for Public Transport Vehicles**|Evgeny Gorelik et.al.|[2606.11739](http://arxiv.org/abs/2606.11739)|null|
+|**2026-06-10**|**Precision-Aware Illumination-Disentangled Vision Transformer for Spacecraft 6D Pose Estimation**|Zongwu Xie et.al.|[2606.11619](http://arxiv.org/abs/2606.11619)|null|
+|**2026-06-10**|**FreqKD: Frequency-Decoupled Cross-Modal Knowledge Distillation for Infrared Object Detection**|Keval Thaker et.al.|[2606.11572](http://arxiv.org/abs/2606.11572)|null|
+|**2026-06-10**|**Cross-Modal Benchmarking for Robotic Perception in Natural Environments**|David Hall et.al.|[2606.11563](http://arxiv.org/abs/2606.11563)|null|
 |**2026-05-29**|**SOCO: Benchmarking Semantic Object Correspondence in Vision Foundation Models**|Olaf Dünkel et.al.|[2605.31597](http://arxiv.org/abs/2605.31597)|null|
 |**2026-05-29**|**SMART: SMPLest-X Mesh Adaptation and RAFT Tracking for Soccer Pose Estimation**|Parthsarthi Rawat et.al.|[2605.31551](http://arxiv.org/abs/2605.31551)|null|
 |**2026-05-29**|**SAM for Robust Mitochondria Instance Segmentation in Fluorescence Microscopy**|Suyog Jadhav et.al.|[2605.31284](http://arxiv.org/abs/2605.31284)|null|
@@ -768,6 +789,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-08**|**RT-SDGOD: Real-Time Single-Domain Generalized Object Detection**|Yupeng Zhang et.al.|[2606.09367](http://arxiv.org/abs/2606.09367)|null|
 |**2026-05-29**|**Topologically Consistent Multi-view 3D Head Reconstruction via Coarse-Guided Layered Surface Sampling**|Timo Bolkart et.al.|[2605.31283](http://arxiv.org/abs/2605.31283)|null|
 |**2026-05-27**|**Semantic-Enriched Latent Visual Reasoning**|Tianrun Xu et.al.|[2605.19342](http://arxiv.org/abs/2605.19342)|null|
 |**2026-05-13**|**Seconds-Aligned PCA-DAC Latent Diffusion for Symbolic-to-Audio Drum Rendering**|Konstantinos Soiledis et.al.|[2605.13404](http://arxiv.org/abs/2605.13404)|null|
@@ -889,6 +911,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-10**|**SpikeDecoder: Realizing the GPT Architecture with Spiking Neural Networks**|Claas Beger et.al.|[2606.12287](http://arxiv.org/abs/2606.12287)|null|
+|**2026-06-10**|**World Model Self-Distillation: Training World Models to Solve General Tasks**|Sebastian Stapf et.al.|[2606.12072](http://arxiv.org/abs/2606.12072)|null|
+|**2026-06-09**|**STAGE-Claw: Automated State-based Agent Benchmarking for Realistic Scenarios**|Sirui Liang et.al.|[2606.10394](http://arxiv.org/abs/2606.10394)|null|
+|**2026-06-08**|**Multi-channel Optical Vision Model**|Ali Momeni et.al.|[2606.10253](http://arxiv.org/abs/2606.10253)|null|
+|**2026-06-08**|**HoliDubber: Holistic Video Dubbing for Complex Acoustic Scenes via Text-Guided Audio Synthesis**|Wenhao Guan et.al.|[2606.09098](http://arxiv.org/abs/2606.09098)|null|
+|**2026-06-08**|**MeanVC 2: Robust Low-Latency Streaming Zero-Shot Voice Conversion**|Guobin Ma et.al.|[2606.09050](http://arxiv.org/abs/2606.09050)|null|
+|**2026-06-06**|**Learning a Semantic Calibration Network for Open-Vocabulary Semantic Segmentation**|Yang Sun et.al.|[2606.08001](http://arxiv.org/abs/2606.08001)|null|
+|**2026-06-04**|**OpenSkill: Open-World Self-Evolution for LLM Agents**|Zhiling Yan et.al.|[2606.06741](http://arxiv.org/abs/2606.06741)|null|
+|**2026-06-04**|**End-to-End Subgraph Detection with GraphDETR**|Dexiong Chen et.al.|[2606.06364](http://arxiv.org/abs/2606.06364)|null|
+|**2026-06-03**|**SePO: Self-Evolving Prompt Agent for System Prompt Optimization**|Wangcheng Tao et.al.|[2606.04465](http://arxiv.org/abs/2606.04465)|null|
 |**2026-05-29**|**Fine-Tuning Improves Information Conveyance in Language Models**|Yuwei Cheng et.al.|[2605.30844](http://arxiv.org/abs/2605.30844)|null|
 |**2026-05-28**|**Phast: Simultaneous reconstruction of photoelectron count and time profiles from PMT waveforms via machine learning**|Yiming Xu et.al.|[2605.29391](http://arxiv.org/abs/2605.29391)|null|
 |**2026-05-27**|**Understanding Generalization and Forgetting in In-Context Continual Learning**|Guangyu Li et.al.|[2605.28705](http://arxiv.org/abs/2605.28705)|null|
@@ -1022,6 +1054,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-10**|**SheafStain: Sheaf-Theoretic Schrödinger Bridge for Spatially and Biologically Coherent Virtual Staining**|Hyeongyeol Lim et.al.|[2606.11846](http://arxiv.org/abs/2606.11846)|null|
+|**2026-06-10**|**Cross-Modal Benchmarking for Robotic Perception in Natural Environments**|David Hall et.al.|[2606.11563](http://arxiv.org/abs/2606.11563)|null|
+|**2026-06-09**|**IDEAL: In-DEpth ALignment Makes A Discrete Representation AutoEncoder**|Yitong Chen et.al.|[2606.11096](http://arxiv.org/abs/2606.11096)|null|
+|**2026-06-09**|**GRAR: Glass-induced Reflection Artifact Removal in LiDAR Point Clouds**|Wanpeng Shao et.al.|[2606.10541](http://arxiv.org/abs/2606.10541)|null|
+|**2026-06-08**|**LargeMonitor: Monitoring Online Task-Free Continual Learning via Large Pretrained Models**|Mingqi Yuan et.al.|[2606.09430](http://arxiv.org/abs/2606.09430)|null|
+|**2026-06-07**|**PhysAgent: Automating Physics-Based 4D Synthesis via Trajectory-Grounded Multi-Agent Feedback**|Chunji Lv et.al.|[2606.08688](http://arxiv.org/abs/2606.08688)|null|
+|**2026-06-05**|**STREAM: Stochastic Riemannian Flow Matching with Anisotropic Decoder for Digital Histopathology Image Generation**|Won June Cho et.al.|[2606.07036](http://arxiv.org/abs/2606.07036)|null|
+|**2026-06-05**|**DaX: Learning General Pathology Representations Across Scales**|Bokai Zhao et.al.|[2606.06983](http://arxiv.org/abs/2606.06983)|null|
+|**2026-06-05**|**DRIFT: From Robustness Gaps to Invariance Manifolds for AI-Generated Image Detection**|Abhishek Ameta et.al.|[2606.06918](http://arxiv.org/abs/2606.06918)|null|
+|**2026-06-04**|**LadderMan: Learning Humanoid Perceptive Ladder Climbing**|Siheng Zhao et.al.|[2606.05873](http://arxiv.org/abs/2606.05873)|null|
 |**2026-05-29**|**SOCO: Benchmarking Semantic Object Correspondence in Vision Foundation Models**|Olaf Dünkel et.al.|[2605.31597](http://arxiv.org/abs/2605.31597)|null|
 |**2026-05-28**|**From General Vision to Reliable Traversability Estimation: Adapting Vision Foundation Models for Unstructured Outdoor Environments**|Ji-Hoon Hwang et.al.|[2605.29565](http://arxiv.org/abs/2605.29565)|null|
 |**2026-05-28**|**EarthShift: a benchmark for measuring robustness to real-world distribution shifts in Earth observation**|Kelsey Doerksen et.al.|[2605.29330](http://arxiv.org/abs/2605.29330)|null|
@@ -1304,6 +1346,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-10**|**FitVTON: Fit-aware Virtual Try-On via Body-Garment Size Control**|Yiqun Ning et.al.|[2606.12012](http://arxiv.org/abs/2606.12012)|null|
+|**2026-06-09**|**MOFA-VTON: More Fashion Possibilities with Fine-Grained Adaptations in Virtual Try-On**|Xiaoyu Han et.al.|[2606.11148](http://arxiv.org/abs/2606.11148)|null|
+|**2026-06-07**|**OmniTryOn: Video Try-On Anything at Once!**|Changliang Xia et.al.|[2606.08514](http://arxiv.org/abs/2606.08514)|null|
 |**2026-05-20**|**iTryOn: Mastering Interactive Video Virtual Try-On with Spatial-Semantic Guidance**|Jun Zheng et.al.|[2605.21431](http://arxiv.org/abs/2605.21431)|null|
 |**2026-05-14**|**LPH-VTON: Resolving the Structure-Texture Dilemma of Virtual Try-On via Latent Process Handover**|Yixin Liu et.al.|[2605.14874](http://arxiv.org/abs/2605.14874)|null|
 |**2026-05-13**|**DirectTryOn: One-Step Virtual Try-On via Straightened Conditional Transport**|Xianbing Sun et.al.|[2605.12939](http://arxiv.org/abs/2605.12939)|null|
