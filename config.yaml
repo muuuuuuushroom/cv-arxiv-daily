@@ -23,20 +23,12 @@ md_wechat_path: './docs/wechat.md'
 # project page: https://muuuuuuushroom.github.io/cv-arxiv-daily/
 # keywords to search
 keywords:
-  "Multimodal":
-      filters: ["Multimodal", "Vision and Language", "Vision-Language", "Grounding", "Query-based"]
+  "LLM":
+      filters: ["Large Language Model", "LLM", "Language Model", "Transformer", "Pre-training", "Fine-tuning"]
+  "Agent":
+      filters: ["Agent", "Agentic RL","Autonomous Agent", "Multi-agent", "AI Agent", "Agentic", "Agent Architecture"]
   "Counting":
       filters: ["Counting", "Crowd Counting", "class-agnostic counting", "referring expression counting", "multimodal counting"]
-  "Dense Prediction": 
-      filters: ["Dense Prediction", "Semantic Segmentation", "Depth Estimation", "Image Matting", "Object Detection", "Instance Segmentation", "Pose Estimation", "Image Denoising"]
-  "Model Components": 
-      filters: ["Upsampling", "Downsampling", "Encoder-Decoder", "Feature Sampling", "Dynamic Upsampling", "Task-agnostic Upsampling", "Query Group"]
-  "Unified Architectures":
-      filters: ["Unified Perceptual Parsing", "Generalist Vision Model", "One Model for All Tasks", "Universal Image Segmentation", "Multi-task Dense Prediction"]
-  "Mechanism Specific":
-      filters: ["Query-based Learning", "Task Prompts", "Mask Classification", "Transformer Decoder", "Unified Output Space"]
-  "Foundation Models":
-      filters: ["Vision Foundation Models", "Large Vision Models", "Vision Model Scaling", "Scaling Vision Models", "Scaling Laws for Vision Models", "Scaling Vision Transformers", "Scaling Laws for Vision Transformers", "LVM"]
   "VTON":
       filters: ["Virtual Try-On", "VTON", "Clothing Try-On", "3D Virtual Try-On", "Multi-view Virtual Try-On", "Try-On Synthesis"]
     # "SLAM": 
