@@ -31,6 +31,8 @@ keywords:
       filters: ["Counting", "Crowd Counting", "class-agnostic counting", "referring expression counting", "multimodal counting"]
   "VTON":
       filters: ["Virtual Try-On", "VTON", "Clothing Try-On", "3D Virtual Try-On", "Multi-view Virtual Try-On", "Try-On Synthesis"]
+  "Multi-modal":
+      filters: ["multi-modal", "multi-modality", "multi-modal learning", "multi-modal fusion", "multi-modal representation"]
     # "SLAM": 
     #     filters: ["SLAM", "Visual Odometry"]
     # "SFM":
