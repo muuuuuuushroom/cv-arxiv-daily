@@ -23,6 +23,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-15**|**Phantoms and Disclosures: a Causal Framework for Auditing Synthetic Data**|Kareem Amin et.al.|[2606.16952](http://arxiv.org/abs/2606.16952)|null|
+|**2026-06-15**|**Scalable Circuit Learning for Interpreting Large Language Models**|Naiyu Yin et.al.|[2606.16939](http://arxiv.org/abs/2606.16939)|null|
+|**2026-06-15**|**Exploring Extrinsic and Intrinsic Properties for Effective Reasoning with Code Interpreter**|Patomporn Payoungkhamdee et.al.|[2606.16934](http://arxiv.org/abs/2606.16934)|null|
+|**2026-06-15**|**IMPACTeen: Intentions, Manipulation, Persuasion, Annotations, and Consequences in Teen Communication Dataset**|Aleksander Szczęsny et.al.|[2606.16910](http://arxiv.org/abs/2606.16910)|null|
+|**2026-06-15**|**LESS Is More: Mutual-Stability Sampling for Diffusion Language Models**|Amr Mohamed et.al.|[2606.16908](http://arxiv.org/abs/2606.16908)|null|
+|**2026-06-15**|**Speaking the Language of Science: Toward a General-Purpose Generative Foundation Model for the Natural Sciences**|Mingyang Li et.al.|[2606.16905](http://arxiv.org/abs/2606.16905)|null|
+|**2026-06-15**|**Binary Tracking for Spatial QA and Navigation with Open Vision-Language Models**|Dongbin Na et.al.|[2606.16902](http://arxiv.org/abs/2606.16902)|null|
+|**2026-06-15**|**Fantastic Pretraining Optimizers and Where to Find Them II: Hyperball Optimization**|Kaiyue Wen et.al.|[2606.16899](http://arxiv.org/abs/2606.16899)|null|
+|**2026-06-15**|**Semantic Flip: Synthetic OOD Generation for Robust Refusal in Embodied Question Answering and Spatial Localization**|Dongbin Na et.al.|[2606.16898](http://arxiv.org/abs/2606.16898)|null|
+|**2026-06-15**|**Contrastive-Difference CKA Reveals Concept-Specific Structural Alignment Across Language Model Architectures**|Xueping Gao et.al.|[2606.16897](http://arxiv.org/abs/2606.16897)|null|
 |**2026-06-12**|**Gaze Heads: How VLMs Look at What They Describe**|Rohit Gandikota et.al.|[2606.14703](http://arxiv.org/abs/2606.14703)|null|
 |**2026-06-12**|**RepFusion: Leveraging Multimodal Priors for Denoising in Representation Space**|Xichen Pan et.al.|[2606.14700](http://arxiv.org/abs/2606.14700)|null|
 |**2026-06-12**|**Instruct-Particulate: Scaling Feed-Forward 3D Object Articulation with Kinematic Control**|Ruining Li et.al.|[2606.14699](http://arxiv.org/abs/2606.14699)|null|
@@ -40,6 +50,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-15**|**Directory-Aware Query and Maintenance in Vector Databases**|Mengzhao Wang et.al.|[2606.16903](http://arxiv.org/abs/2606.16903)|null|
+|**2026-06-15**|**Human-on-the-Bridge: Scalable Evaluation for AI Agents**|Fouad Bousetouane et.al.|[2606.16871](http://arxiv.org/abs/2606.16871)|null|
+|**2026-06-15**|**Evolution & Foundation: AI Shares Creative Control**|Dylan Banarse et.al.|[2606.16849](http://arxiv.org/abs/2606.16849)|null|
+|**2026-06-15**|**A First-Principles Derivation of LLM Policy Optimization: From Expected Reward to GRPO and Its Structural Extensions**|Jianghan Shen et.al.|[2606.16733](http://arxiv.org/abs/2606.16733)|null|
+|**2026-06-15**|**User as Code: Executable Memory for Personalized Agents**|Bojie Li et.al.|[2606.16707](http://arxiv.org/abs/2606.16707)|null|
+|**2026-06-15**|**Multimodal Evaluator Preference Collapse: Cross-Modal Contagion in Self-Evolving Agents**|Zewen Liu et.al.|[2606.16682](http://arxiv.org/abs/2606.16682)|null|
+|**2026-06-15**|**The Integrator Advantage: Controlled Agentic AI for Small and Medium-Sized Companies**|Christopner Koch et.al.|[2606.16649](http://arxiv.org/abs/2606.16649)|null|
+|**2026-06-15**|**CoffeeBench: Benchmarking Long-Horizon LLM Agents in Heterogeneous Multi-Agent Economies**|Issa Sugiura et.al.|[2606.16613](http://arxiv.org/abs/2606.16613)|null|
+|**2026-06-15**|**When Agent Automation Becomes Profitable: Quantifying and Insuring Autonomous AI Risk through Trace-Economic Underwriting**|Binyan Xu et.al.|[2606.16465](http://arxiv.org/abs/2606.16465)|null|
+|**2026-06-15**|**LectūraAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching**|Jaward Sesay et.al.|[2606.16428](http://arxiv.org/abs/2606.16428)|null|
 |**2026-06-12**|**Towards In Silico Cancer Therapy Design: An Agent-Based Approach for GPU-Accelerated Molecular Pathway Simulation**|Stefano Maestri et.al.|[2606.14603](http://arxiv.org/abs/2606.14603)|null|
 |**2026-06-12**|**SIMMER: Benchmarking Latent Failures in LLM Executable Planning with a World Model**|Xiaoxin Lu et.al.|[2606.14574](http://arxiv.org/abs/2606.14574)|null|
 |**2026-06-12**|**From Shield to Target: Denial-of-Service Attacks on LLM-Based Agent Guardrails**|Yuguang Zhou et.al.|[2606.14517](http://arxiv.org/abs/2606.14517)|null|
@@ -58,7 +78,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-06-12**|**Pix2Pix-Hybrid: Structure-Guided Conditional Synthesis of Hajj Crowd Images with Multi-Channel Conditioning and Weak Attribute Supervision**|Amirah F. Alshammari et.al.|[2606.14297](http://arxiv.org/abs/2606.14297)|null|
-|**2026-06-02**|**A Benchmark for Semi-supervised Multi-modal Crowd Counting**|Haoliang Meng et.al.|[2606.03646](http://arxiv.org/abs/2606.03646)|null|
+|**2026-06-02**|**A Benchmark for Semi-supervised Multi-modal Crowd Counting**|Haoliang Meng et.al.|[2606.03646](http://arxiv.org/abs/2606.03646)|**[link](https://github.com/HenryCilence/Semi-supervised-Multimodal-Crowd-Counting)**|
 |**2026-05-18**|**Optimising CSRNet with parameter-free attention mechanisms for crowd counting in public transport**|Aida Rostamza et.al.|[2605.18349](http://arxiv.org/abs/2605.18349)|null|
 |**2026-05-18**|**Counting Machine Parts**|Benedict Florance Arockiaraj et.al.|[2605.17952](http://arxiv.org/abs/2605.17952)|null|
 |**2026-05-16**|**Thermal-Only Crowd Counting with Deployment-Time Privacy Protection**|Yifei Qian et.al.|[2605.17042](http://arxiv.org/abs/2605.17042)|null|
@@ -91,6 +111,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-15**|**GraphBEV++: Multi-Modal Feature Alignment for Autonomous Driving**|Ziying Song et.al.|[2606.16354](http://arxiv.org/abs/2606.16354)|null|
+|**2026-06-14**|**Unsupervised Learning for Missing Modalities in Multimodal Learning**|Hassan Ismkhan et.al.|[2606.15743](http://arxiv.org/abs/2606.15743)|null|
 |**2026-06-01**|**Multi-modal Video Representation Alignment for Robust Self-supervised Driver Distraction Detection**|David J. Lerch et.al.|[2606.02352](http://arxiv.org/abs/2606.02352)|null|
 |**2026-06-01**|**Turing Patterns for Multimedia: Reaction-Diffusion Multi-Modal Fusion for Language-Guided Video Moment Retrieval**|Xiang Fang et.al.|[2606.01615](http://arxiv.org/abs/2606.01615)|null|
 |**2026-06-01**|**Hierarchical Semantic-Augmented Navigation: Optimal Transport and Graph-Driven Reasoning for Vision-Language Navigation**|Xiang Fang et.al.|[2606.01565](http://arxiv.org/abs/2606.01565)|null|
