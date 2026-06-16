@@ -23,6 +23,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-15**|**The Value Axis: Language Models Encode Whether They're on the Right Track**|Nick Jiang et.al.|[2606.17056](http://arxiv.org/abs/2606.17056)|**[link](https://github.com/chrisneagu/FTC-Skystone-Dark-Angels-Romania-2020)**|
+|**2026-06-15**|**Context-Aware RL for Agentic and Multimodal LLMs**|Peiyang Xu et.al.|[2606.17053](http://arxiv.org/abs/2606.17053)|null|
+|**2026-06-15**|**FusionRS: A Large-Scale RGB-Infrared Remote Sensing Dataset for Dual-Modal Vision-Language Foundation Models**|Jiaju Han et.al.|[2606.17020](http://arxiv.org/abs/2606.17020)|null|
+|**2026-06-15**|**When in Doubt, Plan It Out: Committed Small Language Model Deliberation for Reactive Reinforcement Learning**|Nathan Gavenski et.al.|[2606.16995](http://arxiv.org/abs/2606.16995)|null|
+|**2026-06-15**|**Consensus-based Agentic Large Language Model Framework for Harmonized Tariff Schedule Code Classification**|Truong Thanh Hung Nguyen et.al.|[2606.16987](http://arxiv.org/abs/2606.16987)|null|
 |**2026-06-15**|**Phantoms and Disclosures: a Causal Framework for Auditing Synthetic Data**|Kareem Amin et.al.|[2606.16952](http://arxiv.org/abs/2606.16952)|null|
 |**2026-06-15**|**Scalable Circuit Learning for Interpreting Large Language Models**|Naiyu Yin et.al.|[2606.16939](http://arxiv.org/abs/2606.16939)|null|
 |**2026-06-15**|**Exploring Extrinsic and Intrinsic Properties for Effective Reasoning with Code Interpreter**|Patomporn Payoungkhamdee et.al.|[2606.16934](http://arxiv.org/abs/2606.16934)|null|
@@ -78,7 +83,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-06-12**|**Pix2Pix-Hybrid: Structure-Guided Conditional Synthesis of Hajj Crowd Images with Multi-Channel Conditioning and Weak Attribute Supervision**|Amirah F. Alshammari et.al.|[2606.14297](http://arxiv.org/abs/2606.14297)|null|
-|**2026-06-02**|**A Benchmark for Semi-supervised Multi-modal Crowd Counting**|Haoliang Meng et.al.|[2606.03646](http://arxiv.org/abs/2606.03646)|**[link](https://github.com/HenryCilence/Semi-supervised-Multimodal-Crowd-Counting)**|
+|**2026-06-02**|**A Benchmark for Semi-supervised Multi-modal Crowd Counting**|Haoliang Meng et.al.|[2606.03646](http://arxiv.org/abs/2606.03646)|null|
 |**2026-05-18**|**Optimising CSRNet with parameter-free attention mechanisms for crowd counting in public transport**|Aida Rostamza et.al.|[2605.18349](http://arxiv.org/abs/2605.18349)|null|
 |**2026-05-18**|**Counting Machine Parts**|Benedict Florance Arockiaraj et.al.|[2605.17952](http://arxiv.org/abs/2605.17952)|null|
 |**2026-05-16**|**Thermal-Only Crowd Counting with Deployment-Time Privacy Protection**|Yifei Qian et.al.|[2605.17042](http://arxiv.org/abs/2605.17042)|null|
