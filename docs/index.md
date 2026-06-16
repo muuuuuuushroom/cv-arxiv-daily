@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.15
+## Updated on 2026.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -931,8 +931,8 @@ layout: default
 |**2026-05-21**|**Improved Vision-to-Chart Buoy Association with Learned World-to-Image Projection**|Borja Carrillo-Perez et.al.|[2605.22942](http://arxiv.org/abs/2605.22942)|null|
 |**2026-05-19**|**CogScale: Scalable Benchmark for Sequence Processing**|Yannis Bendi-Ouis et.al.|[2605.19758](http://arxiv.org/abs/2605.19758)|null|
 |**2026-05-18**|**The Expressive Power of Low Precision Softmax Transformers with (Summarized) Chain-of-Thought**|Moritz Brösamle et.al.|[2605.18079](http://arxiv.org/abs/2605.18079)|null|
-|**2026-05-15**|**A Retrieval-Enhanced Transformer for Multi-Step Port-of-Call Sequence Prediction in Global Liner Shipping**|Yanzhao Su et.al.|[2605.15937](http://arxiv.org/abs/2605.15937)|null|
-|**2026-05-15**|**Ghosted Layers: Unconstrained Activation Alignment for Recovering Layer-Pruned LLMs**|Vincent-Daniel Yun et.al.|[2605.15491](http://arxiv.org/abs/2605.15491)|null|
+|**2026-05-15**|**A Retrieval-Enhanced Transformer for Multi-Step Port-of-Call Sequence Prediction in Global Liner Shipping**|Yanzhao Su et.al.|[2605.15937](http://arxiv.org/abs/2605.15937)|**[link](https://github.com/Ufere/Assingment_1)**|
+|**2026-05-15**|**Ghosted Layers: Unconstrained Activation Alignment for Recovering Layer-Pruned LLMs**|Vincent-Daniel Yun et.al.|[2605.15491](http://arxiv.org/abs/2605.15491)|**[link](https://github.com/daniel-eai/ghosted_layers_official_repository)**|
 |**2026-05-21**|**VectraYX-Nano: A 42M-Parameter Spanish Cybersecurity Language Model with Curriculum Learning and Native Tool Use**|Juan S. Santillana et.al.|[2605.13989](http://arxiv.org/abs/2605.13989)|null|
 |**2026-05-17**|**KamonBench: A Grammar-Based Dataset for Evaluating Compositional Factor Recovery in Vision-Language Models**|Richard Sproat et.al.|[2605.13322](http://arxiv.org/abs/2605.13322)|null|
 |**2026-05-13**|**GenCape: Structure-Inductive Generative Modeling for Category-Agnostic Pose Estimation**|Jiyong Rao et.al.|[2605.13151](http://arxiv.org/abs/2605.13151)|null|
