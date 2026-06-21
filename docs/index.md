@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.16
+## Updated on 2026.06.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -314,6 +314,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-17**|**Multi-Modal Hyper-Graph Fusion for Low-Light Crowd Counting**|Hao-Yuan Ma et.al.|[2606.18566](http://arxiv.org/abs/2606.18566)|null|
 |**2026-06-12**|**Pix2Pix-Hybrid: Structure-Guided Conditional Synthesis of Hajj Crowd Images with Multi-Channel Conditioning and Weak Attribute Supervision**|Amirah F. Alshammari et.al.|[2606.14297](http://arxiv.org/abs/2606.14297)|null|
 |**2026-06-02**|**A Benchmark for Semi-supervised Multi-modal Crowd Counting**|Haoliang Meng et.al.|[2606.03646](http://arxiv.org/abs/2606.03646)|null|
 |**2026-05-18**|**Optimising CSRNet with parameter-free attention mechanisms for crowd counting in public transport**|Aida Rostamza et.al.|[2605.18349](http://arxiv.org/abs/2605.18349)|null|
@@ -1347,11 +1348,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-18**|**MakeupMirror: Improving Facial Attribute Preservation in Diffusion Models for Makeup Transfer**|Nefeli Andreou et.al.|[2606.20094](http://arxiv.org/abs/2606.20094)|null|
 |**2026-06-10**|**HairPort: In-context 3D-aware Hair Import and Transfer for Images**|Alireza Heidari et.al.|[2606.12562](http://arxiv.org/abs/2606.12562)|null|
 |**2026-06-10**|**FitVTON: Fit-aware Virtual Try-On via Body-Garment Size Control**|Yiqun Ning et.al.|[2606.12012](http://arxiv.org/abs/2606.12012)|null|
 |**2026-06-09**|**MOFA-VTON: More Fashion Possibilities with Fine-Grained Adaptations in Virtual Try-On**|Xiaoyu Han et.al.|[2606.11148](http://arxiv.org/abs/2606.11148)|null|
 |**2026-06-07**|**OmniTryOn: Video Try-On Anything at Once!**|Changliang Xia et.al.|[2606.08514](http://arxiv.org/abs/2606.08514)|null|
-|**2026-05-20**|**iTryOn: Mastering Interactive Video Virtual Try-On with Spatial-Semantic Guidance**|Jun Zheng et.al.|[2605.21431](http://arxiv.org/abs/2605.21431)|null|
+|**2026-06-17**|**iTryOn: Mastering Interactive Video Virtual Try-On with Spatial-Semantic Guidance**|Jun Zheng et.al.|[2605.21431](http://arxiv.org/abs/2605.21431)|null|
 |**2026-05-14**|**LPH-VTON: Resolving the Structure-Texture Dilemma of Virtual Try-On via Latent Process Handover**|Yixin Liu et.al.|[2605.14874](http://arxiv.org/abs/2605.14874)|null|
 |**2026-05-13**|**DirectTryOn: One-Step Virtual Try-On via Straightened Conditional Transport**|Xianbing Sun et.al.|[2605.12939](http://arxiv.org/abs/2605.12939)|null|
 |**2026-05-04**|**FEAT: Fashion Editing and Try-On from Any Design**|Soye Kwon et.al.|[2605.02393](http://arxiv.org/abs/2605.02393)|null|
@@ -1402,6 +1404,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-18**|**TimeProVe: Propose, then Verify for Efficient Long Video Temporal Reasoning in Activities of Daily Living**|Arkaprava Sinha et.al.|[2606.20561](http://arxiv.org/abs/2606.20561)|**[link](https://github.com/thearkaprava/TimeProVe)**|
+|**2026-06-18**|**From Efficiency to Leakage -- Privacy Backdoor in Federated Language Model Fine-Tuning**|Shanghao Shi et.al.|[2606.20553](http://arxiv.org/abs/2606.20553)|null|
+|**2026-06-18**|**SSD: Spatially Speculative Decoding Accelerates Autoregressive Image Generation**|Shilong Xiang et.al.|[2606.20543](http://arxiv.org/abs/2606.20543)|null|
+|**2026-06-18**|**StylisticBias: A Few Human Visual Cues Drive Most Social Biases in MLLMs**|Shaghayegh Kolli et.al.|[2606.20527](http://arxiv.org/abs/2606.20527)|null|
+|**2026-06-18**|**HumanScale: Egocentric Human Video Can Outperform Real-Robot Data for Embodied Pretraining**|Juncheng Ma et.al.|[2606.20521](http://arxiv.org/abs/2606.20521)|null|
+|**2026-06-18**|**Multi-LCB: Extending LiveCodeBench to Multiple Programming Languages**|Maria Ivanova et.al.|[2606.20517](http://arxiv.org/abs/2606.20517)|null|
+|**2026-06-18**|**What Do Safety-Aligned LLMs Learn From Mixed Compliance Demonstrations?**|Sihui Dai et.al.|[2606.20508](http://arxiv.org/abs/2606.20508)|null|
+|**2026-06-18**|**Contagion Networks: Evaluator Bias Propagation in Multi-Agent LLM Systems**|Zewen Liu et.al.|[2606.20493](http://arxiv.org/abs/2606.20493)|null|
+|**2026-06-18**|**Your Mouse and Eyes Secretly Leak Your Preference: LLM Alignment using Implicit Feedback from Users**|Haw-Shiuan Chang et.al.|[2606.20482](http://arxiv.org/abs/2606.20482)|null|
+|**2026-06-18**|**Scalable Training of Spatially Grounded 2D Vision-Language Models for Radiology**|Yusuf Salcan et.al.|[2606.20477](http://arxiv.org/abs/2606.20477)|null|
 |**2026-06-15**|**The Value Axis: Language Models Encode Whether They're on the Right Track**|Nick Jiang et.al.|[2606.17056](http://arxiv.org/abs/2606.17056)|**[link](https://github.com/chrisneagu/FTC-Skystone-Dark-Angels-Romania-2020)**|
 |**2026-06-15**|**Context-Aware RL for Agentic and Multimodal LLMs**|Peiyang Xu et.al.|[2606.17053](http://arxiv.org/abs/2606.17053)|null|
 |**2026-06-15**|**FusionRS: A Large-Scale RGB-Infrared Remote Sensing Dataset for Dual-Modal Vision-Language Foundation Models**|Jiaju Han et.al.|[2606.17020](http://arxiv.org/abs/2606.17020)|null|
@@ -1432,6 +1444,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-18**|**Sovereign Execution Brokers: Enforcing Certificate-Bound Authority in Agentic Control Planes**|Jun He et.al.|[2606.20520](http://arxiv.org/abs/2606.20520)|null|
+|**2026-06-18**|**Efficient and Sound Probabilistic Verification for AI Agents**|Alaia Solko-Breslin et.al.|[2606.20510](http://arxiv.org/abs/2606.20510)|null|
+|**2026-06-18**|**DataMagic: Transforming Tabular Data into Data Insight Video**|Yupeng Xie et.al.|[2606.20388](http://arxiv.org/abs/2606.20388)|null|
+|**2026-06-18**|**A Multi-Agent system for Multi-Objective constrained optimization**|Federica Filippini et.al.|[2606.20236](http://arxiv.org/abs/2606.20236)|null|
+|**2026-06-18**|**AI Economist Agent: An Agentic Framework for Model-Grounded Economic Analysis with RAG, Knowledge Graphs, and Large Language Models**|Masahiro Kato et.al.|[2606.20041](http://arxiv.org/abs/2606.20041)|null|
+|**2026-06-18**|**Connect the Dots: Training LLMs for Long-Lifecycle Agents with Cross-Domain Generalization Via Reinforcement Learning**|Yanxi Chen et.al.|[2606.20002](http://arxiv.org/abs/2606.20002)|null|
+|**2026-06-18**|**The Tao of Agency: Autotelic AI, Embedded Agency and Dissolution of the Self**|Aritra Sarkar et.al.|[2606.19924](http://arxiv.org/abs/2606.19924)|null|
+|**2026-06-18**|**Measuring Biological Capabilities and Risks of AI Agents**|Patricia Paskov et.al.|[2606.19899](http://arxiv.org/abs/2606.19899)|null|
+|**2026-06-18**|**ORAgentBench: Can LLM Agents Solve Challenging Operations Research Tasks End to End?**|Jiajun Li et.al.|[2606.19787](http://arxiv.org/abs/2606.19787)|null|
+|**2026-06-17**|**A Categorial and Sheaf-Theoretic Semantics for Autonomic Component Ensembles**|Manuel Hernández et.al.|[2606.19525](http://arxiv.org/abs/2606.19525)|null|
 |**2026-06-15**|**Directory-Aware Query and Maintenance in Vector Databases**|Mengzhao Wang et.al.|[2606.16903](http://arxiv.org/abs/2606.16903)|null|
 |**2026-06-15**|**Human-on-the-Bridge: Scalable Evaluation for AI Agents**|Fouad Bousetouane et.al.|[2606.16871](http://arxiv.org/abs/2606.16871)|null|
 |**2026-06-15**|**Evolution & Foundation: AI Shares Creative Control**|Dylan Banarse et.al.|[2606.16849](http://arxiv.org/abs/2606.16849)|null|
@@ -1457,6 +1479,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-18**|**FUSE: Frequency-domain Unification and Spectral Energy Alignment for Multi-modal Object Re-Identification**|Xuanhao Qi et.al.|[2606.20044](http://arxiv.org/abs/2606.20044)|null|
+|**2026-06-18**|**Vortex: Multi-Modal Fusion System for Intelligent Video Retrieval**|Duc-Tho Nguyen et.al.|[2606.19682](http://arxiv.org/abs/2606.19682)|null|
+|**2026-06-17**|**TactSpace: Learning a Physics-enriched Shared Latent Space for Tactile Sim-to-Real Transfer**|Arunim Joarder et.al.|[2606.18959](http://arxiv.org/abs/2606.18959)|null|
 |**2026-06-15**|**GraphBEV++: Multi-Modal Feature Alignment for Autonomous Driving**|Ziying Song et.al.|[2606.16354](http://arxiv.org/abs/2606.16354)|null|
 |**2026-06-14**|**Unsupervised Learning for Missing Modalities in Multimodal Learning**|Hassan Ismkhan et.al.|[2606.15743](http://arxiv.org/abs/2606.15743)|null|
 |**2026-06-01**|**Multi-modal Video Representation Alignment for Robust Self-supervised Driver Distraction Detection**|David J. Lerch et.al.|[2606.02352](http://arxiv.org/abs/2606.02352)|null|
