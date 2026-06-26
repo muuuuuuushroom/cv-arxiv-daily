@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.22
+## Updated on 2026.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -23,6 +23,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-25**|**Autoregressive Boltzmann Generators**|Danyal Rehman et.al.|[2606.27361](http://arxiv.org/abs/2606.27361)|**[link](https://github.com/danyalrehman/AutoBG)**|
+|**2026-06-25**|**When are likely answers right? On Sequence Probability and Correctness in LLMs**|Johannes Zenn et.al.|[2606.27359](http://arxiv.org/abs/2606.27359)|null|
+|**2026-06-25**|**Mapping Political-Elite Networks in Europe with a Multilingual Joint Entity-Relation Extraction Pipeline**|Kirill Solovev et.al.|[2606.27347](http://arxiv.org/abs/2606.27347)|null|
+|**2026-06-25**|**Language-Based Digital Twins for Elderly Cognitive Assistance**|Mohammad Mehdi Hosseini et.al.|[2606.27334](http://arxiv.org/abs/2606.27334)|null|
+|**2026-06-25**|**LLM-Based Examination of Eligibility Criteria from Securities Prospectuses at the German Central Bank**|Serhii Hamotskyi et.al.|[2606.27316](http://arxiv.org/abs/2606.27316)|null|
+|**2026-06-25**|**ViQ: Text-Aligned Visual Quantized Representations at Any Resolution**|Xumin Yu et.al.|[2606.27313](http://arxiv.org/abs/2606.27313)|**[link](https://github.com/yuxumin/ViQ)**|
+|**2026-06-25**|**When Does Combining Language Models Help? A Co-Failure Ceiling on Routing, Voting, and Mixture-of-Agents Across 67 Frontier Models**|Josef Chen et.al.|[2606.27288](http://arxiv.org/abs/2606.27288)|null|
+|**2026-06-25**|**Prompt Injection in Automated Résumé Screening with Large Language Models: Single and Multi-Injection Settings**|Preet Baxi et.al.|[2606.27287](http://arxiv.org/abs/2606.27287)|null|
+|**2026-06-25**|**Resource-Aware Neuro-Symbolic Reasoning for Local Small Language Models**|Carlos Ramírez Ovalle et.al.|[2606.27281](http://arxiv.org/abs/2606.27281)|null|
+|**2026-06-25**|**How Surprising Is Historical Italian to Language Models? Tokenization Tax, Comprehension Tax, and a Simple Mitigation**|Maria Levchenko et.al.|[2606.27275](http://arxiv.org/abs/2606.27275)|null|
 |**2026-06-18**|**TimeProVe: Propose, then Verify for Efficient Long Video Temporal Reasoning in Activities of Daily Living**|Arkaprava Sinha et.al.|[2606.20561](http://arxiv.org/abs/2606.20561)|**[link](https://github.com/thearkaprava/TimeProVe)**|
 |**2026-06-18**|**From Efficiency to Leakage -- Privacy Backdoor in Federated Language Model Fine-Tuning**|Shanghao Shi et.al.|[2606.20553](http://arxiv.org/abs/2606.20553)|null|
 |**2026-06-18**|**SSD: Spatially Speculative Decoding Accelerates Autoregressive Image Generation**|Shilong Xiang et.al.|[2606.20543](http://arxiv.org/abs/2606.20543)|null|
@@ -59,12 +69,22 @@
 |**2026-06-12**|**Abstracting Cross-Domain Action Sequences into Interpretable Workflows**|Gaurav Verma et.al.|[2606.14654](http://arxiv.org/abs/2606.14654)|null|
 |**2026-06-12**|**When Good Verifiers Go Bad: Self-Improving VLMs Can Regress on New Tasks**|Jianzhe Lin et.al.|[2606.14629](http://arxiv.org/abs/2606.14629)|null|
 
-<p align=right>(<a href=#updated-on-20260622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260626>back to top</a>)</p>
 
 ## Agent
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-25**|**Designing Reward Signals for Portable Query Generation: A Case Study in Industrial Semantic Job Search**|Ping Liu et.al.|[2606.27291](http://arxiv.org/abs/2606.27291)|null|
+|**2026-06-25**|**Mostly Automatic Translation of Language Interpreters from C to Safe Rust**|Bo Wang et.al.|[2606.27122](http://arxiv.org/abs/2606.27122)|null|
+|**2026-06-25**|**Toward Agentic SysAdmin: Rethinking System Administration with AI Agents**|Gianmaria Frigo et.al.|[2606.26960](http://arxiv.org/abs/2606.26960)|null|
+|**2026-06-25**|**HiLSVA: Design and Evaluation of a Human-in-the-Loop Agentic System for Scientific Visualization**|Kuangshi Ai et.al.|[2606.26614](http://arxiv.org/abs/2606.26614)|null|
+|**2026-06-25**|**VIGIL: Runtime Enforcement of Behavioral Specifications in AI Agent Skills**|Ying Li et.al.|[2606.26524](http://arxiv.org/abs/2606.26524)|null|
+|**2026-06-25**|**Temporal Validity in Retrieval Memory: Eliminating Stale-Fact Errors for AI Agents over Evolving Knowledge**|Neeraj Yadav et.al.|[2606.26511](http://arxiv.org/abs/2606.26511)|null|
+|**2026-06-24**|**Closing the Loop to Discover Psychological Theories with an Automated Cognitive Scientist**|Akshay K. Jagadish et.al.|[2606.26448](http://arxiv.org/abs/2606.26448)|null|
+|**2026-06-24**|**Governing Actions, Not Agents: Institutional Attestation as a Governance Model for Autonomous AI Systems**|Jakob Salfeld-Nebgen et.al.|[2606.26298](http://arxiv.org/abs/2606.26298)|null|
+|**2026-06-24**|**Augmentation with Dilution: A Large-Scale Empirical Study of Human Contributor Ecosystems After AI Coding Agent Adoption**|Weixing Zhang et.al.|[2606.26289](http://arxiv.org/abs/2606.26289)|null|
+|**2026-06-24**|**CyberChainBench: Can AI Agents Secure Smart Contracts Against Real-World On-Chain Vulnerabilities?**|Jintao Huang et.al.|[2606.26216](http://arxiv.org/abs/2606.26216)|null|
 |**2026-06-18**|**Sovereign Execution Brokers: Enforcing Certificate-Bound Authority in Agentic Control Planes**|Jun He et.al.|[2606.20520](http://arxiv.org/abs/2606.20520)|null|
 |**2026-06-18**|**Efficient and Sound Probabilistic Verification for AI Agents**|Alaia Solko-Breslin et.al.|[2606.20510](http://arxiv.org/abs/2606.20510)|null|
 |**2026-06-18**|**DataMagic: Transforming Tabular Data into Data Insight Video**|Yupeng Xie et.al.|[2606.20388](http://arxiv.org/abs/2606.20388)|null|
@@ -96,12 +116,13 @@
 |**2026-06-12**|**Same-Origin Policy for Agentic Browsers**|Xilong Wang et.al.|[2606.14027](http://arxiv.org/abs/2606.14027)|null|
 |**2026-06-11**|**Minim: Privacy-Aware Minimal View for Agents via Trusted Local Sanitization**|Hexuan Yu et.al.|[2606.13949](http://arxiv.org/abs/2606.13949)|null|
 
-<p align=right>(<a href=#updated-on-20260622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260626>back to top</a>)</p>
 
 ## Counting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-22**|**ABACUS: Adapting Unified Foundation Model for Bridging Image Count Understanding and Generation**|Anindya Mondal et.al.|[2606.23835](http://arxiv.org/abs/2606.23835)|null|
 |**2026-06-17**|**Multi-Modal Hyper-Graph Fusion for Low-Light Crowd Counting**|Hao-Yuan Ma et.al.|[2606.18566](http://arxiv.org/abs/2606.18566)|null|
 |**2026-06-12**|**Pix2Pix-Hybrid: Structure-Guided Conditional Synthesis of Hajj Crowd Images with Multi-Channel Conditioning and Weak Attribute Supervision**|Amirah F. Alshammari et.al.|[2606.14297](http://arxiv.org/abs/2606.14297)|null|
 |**2026-06-02**|**A Benchmark for Semi-supervised Multi-modal Crowd Counting**|Haoliang Meng et.al.|[2606.03646](http://arxiv.org/abs/2606.03646)|null|
@@ -114,12 +135,14 @@
 |**2026-03-25**|**Generative Adversarial Perturbations with Cross-paradigm Transferability on Localized Crowd Counting**|Alabi Mehzabin Anisha et.al.|[2603.24821](http://arxiv.org/abs/2603.24821)|null|
 |**2026-03-31**|**Granular Ball Guided Stable Latent Domain Discovery for Domain-General Crowd Counting**|Fan Chen et.al.|[2603.24106](http://arxiv.org/abs/2603.24106)|null|
 
-<p align=right>(<a href=#updated-on-20260622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260626>back to top</a>)</p>
 
 ## VTON
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-24**|**TryOnCrafter: Unleashing Camera Trajectories for Realistic Video Virtual Try-on via a Renderable 4D Try-on Proxy**|Hao Sun et.al.|[2606.26092](http://arxiv.org/abs/2606.26092)|null|
+|**2026-06-24**|**H-Adapter: Pose-Robust Hairstyle Transfer via Attention-Derived, Source-Aligned Hair Masks**|Seulgi Jeong et.al.|[2606.25578](http://arxiv.org/abs/2606.25578)|null|
 |**2026-06-18**|**MakeupMirror: Improving Facial Attribute Preservation in Diffusion Models for Makeup Transfer**|Nefeli Andreou et.al.|[2606.20094](http://arxiv.org/abs/2606.20094)|null|
 |**2026-06-10**|**HairPort: In-context 3D-aware Hair Import and Transfer for Images**|Alireza Heidari et.al.|[2606.12562](http://arxiv.org/abs/2606.12562)|null|
 |**2026-06-10**|**FitVTON: Fit-aware Virtual Try-On via Body-Garment Size Control**|Yiqun Ning et.al.|[2606.12012](http://arxiv.org/abs/2606.12012)|null|
@@ -132,12 +155,15 @@
 |**2026-05-02**|**SIFT-VTON: Geometric Correspondence Supervision on Cross-Attention for Virtual Try-On**|Kosuke Takemoto et.al.|[2605.01296](http://arxiv.org/abs/2605.01296)|null|
 |**2026-04-30**|**TripVVT: A Large-Scale Triplet Dataset and a Coarse-Mask Baseline for In-the-Wild Video Virtual Try-On**|Dingbao Shao et.al.|[2604.27958](http://arxiv.org/abs/2604.27958)|null|
 
-<p align=right>(<a href=#updated-on-20260622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260626>back to top</a>)</p>
 
 ## Multi-modal
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-24**|**Active Adversarial Perturbation-driven Associative Memory Retrieval for RGB-Event Visual Object Tracking**|Xiao Wang et.al.|[2606.26455](http://arxiv.org/abs/2606.26455)|null|
+|**2026-06-24**|**Heterogeneous and Adept Snapshot Distillation for 3D Semantic Segmentation**|Xiaopei Wu et.al.|[2606.25278](http://arxiv.org/abs/2606.25278)|null|
+|**2026-06-20**|**Resolving Multi-Target Association in OFDM-based ISAC via Vision-aided Multi-Modal Learning**|Meng Hua et.al.|[2606.22195](http://arxiv.org/abs/2606.22195)|null|
 |**2026-06-18**|**FUSE: Frequency-domain Unification and Spectral Energy Alignment for Multi-modal Object Re-Identification**|Xuanhao Qi et.al.|[2606.20044](http://arxiv.org/abs/2606.20044)|null|
 |**2026-06-18**|**Vortex: Multi-Modal Fusion System for Intelligent Video Retrieval**|Duc-Tho Nguyen et.al.|[2606.19682](http://arxiv.org/abs/2606.19682)|null|
 |**2026-06-17**|**TactSpace: Learning a Physics-enriched Shared Latent Space for Tactile Sim-to-Real Transfer**|Arunim Joarder et.al.|[2606.18959](http://arxiv.org/abs/2606.18959)|null|
@@ -154,7 +180,7 @@
 |**2026-05-27**|**EigeNet: Geometry-Informed Multi-Modal Learning for Few-shot Novel View RIR Prediction**|Chong Jing et.al.|[2605.28101](http://arxiv.org/abs/2605.28101)|null|
 |**2026-05-26**|**NF-TrackLLM: Joint Prediction of UAV Trajectory and Near-Field Beam for LAE XL-MIMO Systems**|Qianfan Lu et.al.|[2605.26928](http://arxiv.org/abs/2605.26928)|null|
 
-<p align=right>(<a href=#updated-on-20260622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260626>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
