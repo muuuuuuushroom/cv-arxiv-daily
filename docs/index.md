@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.06.26
+## Updated on 2026.06.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -25,7 +25,7 @@ layout: default
 |**2026-06-02**|**Channel-Oriented Design for EEG-to-Music Reconstruction**|Jiaxin Qing et.al.|[2606.04040](http://arxiv.org/abs/2606.04040)|null|
 |**2026-06-02**|**GN0: Toward a Unified Paradigm for Generation, Evaluation, and Policy Learning in Visual-Language Navigation**|Xinhai Li et.al.|[2606.03682](http://arxiv.org/abs/2606.03682)|null|
 |**2026-06-02**|**GFFMERGE: Efficient Merging of Graph Neural Force Fields and Beyond**|Parth Verma et.al.|[2606.03232](http://arxiv.org/abs/2606.03232)|null|
-|**2026-06-08**|**IMAC-AgriVLN: Can Agricultural Vision-and-Language Navigation Agents be Aware of Instruction Mistakes?**|Xiaobei Zhao et.al.|[2606.02519](http://arxiv.org/abs/2606.02519)|null|
+|**2026-06-08**|**IMAC-AgriVLN: Can Agricultural Vision-and-Language Navigation Agents be Aware of Instruction Mistakes?**|Xiaobei Zhao et.al.|[2606.02519](http://arxiv.org/abs/2606.02519)|**[link](https://github.com/AlexTraveling/IMAC-AgriVLN)**|
 |**2026-05-29**|**Learning Hyperspherical Time-Frequency Representations for Time-Series Out-of-Distribution Detection**|Willian T. Lunardi et.al.|[2605.31155](http://arxiv.org/abs/2605.31155)|null|
 |**2026-05-28**|**Improving Relative Representations with Learned Anchors and Whitened Inner Products**|Oscar Thorsted Svendsen et.al.|[2605.30596](http://arxiv.org/abs/2605.30596)|null|
 |**2026-05-28**|**Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments**|Qiuyue Wang et.al.|[2605.30280](http://arxiv.org/abs/2605.30280)|null|
@@ -217,7 +217,7 @@ layout: default
 |**2025-12-11**|**CLASH: Collaborative Large-Small Hierarchical Framework for Continuous Vision-and-Language Navigation**|Liuyi Wang et.al.|[2512.10360](http://arxiv.org/abs/2512.10360)|null|
 |**2025-12-11**|**User-Feedback-Driven Continual Adaptation for Vision-and-Language Navigation**|Yongqiang Yu et.al.|[2512.10322](http://arxiv.org/abs/2512.10322)|null|
 |**2025-12-10**|**Representation Invariance and Allocation: When Subgroup Balance Matters**|Anissa Alloula et.al.|[2512.09496](http://arxiv.org/abs/2512.09496)|null|
-|**2025-12-09**|**Same Content, Different Answers: Cross-Modal Inconsistency in MLLMs**|Angela van Sprang et.al.|[2512.08923](http://arxiv.org/abs/2512.08923)|null|
+|**2025-12-09**|**Same Content, Different Answers: Cross-Modal Inconsistency in MLLMs**|Angela van Sprang et.al.|[2512.08923](http://arxiv.org/abs/2512.08923)|**[link](https://github.com/angelavansprang/Same-Content-Different-Answers)**|
 |**2025-12-09**|**Aerial Vision-Language Navigation with a Unified Framework for Spatial, Temporal and Embodied Reasoning**|Huilin Xu et.al.|[2512.08639](http://arxiv.org/abs/2512.08639)|null|
 |**2025-12-09**|**Ground Slow, Move Fast: A Dual-System Foundation Model for Generalizable Vision-and-Language Navigation**|Meng Wei et.al.|[2512.08186](http://arxiv.org/abs/2512.08186)|null|
 |**2025-12-08**|**All You Need Are Random Visual Tokens? Demystifying Token Pruning in VLLMs**|Yahong Wang et.al.|[2512.07580](http://arxiv.org/abs/2512.07580)|null|
@@ -258,7 +258,7 @@ layout: default
 |**2025-11-27**|**Revisiting the Necessity of Lengthy Chain-of-Thought in Vision-centric Reasoning Generalization**|Yifan Du et.al.|[2511.22586](http://arxiv.org/abs/2511.22586)|null|
 |**2025-11-27**|**Beyond Success: Refining Elegant Robot Manipulation from Mixed-Quality Data via Just-in-Time Intervention**|Yanbo Mao et.al.|[2511.22555](http://arxiv.org/abs/2511.22555)|null|
 |**2025-11-27**|**UNION: A Lightweight Target Representation for Efficient Zero-Shot Image-Guided Retrieval with Optional Textual Queries**|Hoang-Bao Le et.al.|[2511.22253](http://arxiv.org/abs/2511.22253)|null|
-|**2025-11-27**|**SparseWorld-TC: Trajectory-Conditioned Sparse Occupancy World Model**|Jiayuan Du et.al.|[2511.22039](http://arxiv.org/abs/2511.22039)|null|
+|**2025-11-27**|**SparseWorld-TC: Trajectory-Conditioned Sparse Occupancy World Model**|Jiayuan Du et.al.|[2511.22039](http://arxiv.org/abs/2511.22039)|**[link](https://github.com/MrPicklesGG/SparseWorld-TC)**|
 |**2025-11-26**|**G $^2$ VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning**|Wenbo Hu et.al.|[2511.21688](http://arxiv.org/abs/2511.21688)|null|
 |**2025-11-26**|**Seeing without Pixels: Perception from Camera Trajectories**|Zihui Xue et.al.|[2511.21681](http://arxiv.org/abs/2511.21681)|null|
 |**2025-11-26**|**Attention-Guided Patch-Wise Sparse Adversarial Attacks on Vision-Language-Action Models**|Naifu Zhang et.al.|[2511.21663](http://arxiv.org/abs/2511.21663)|null|
@@ -343,10 +343,10 @@ layout: default
 |**2025-11-26**|**FedAPA: Federated Learning with Adaptive Prototype Aggregation Toward Heterogeneous Wi-Fi CSI-based Crowd Counting**|Jingtao Guo et.al.|[2511.21048](http://arxiv.org/abs/2511.21048)|null|
 |**2025-11-24**|**CellFMCount: A Fluorescence Microscopy Dataset, Benchmark, and Methods for Cell Counting**|Abdurahman Ali Mohammed et.al.|[2511.19351](http://arxiv.org/abs/2511.19351)|null|
 |**2025-11-21**|**Performance Simulations for Kola: Achieving High-Resolution, Visible-Light AO Correction Over a 1 Arcminute Field**|Brianna Peck et.al.|[2511.17488](http://arxiv.org/abs/2511.17488)|null|
-|**2025-11-24**|**2D Gaussians Spatial Transport for Point-supervised Density Regression**|Miao Shang et.al.|[2511.14477](http://arxiv.org/abs/2511.14477)|null|
+|**2025-11-24**|**2D Gaussians Spatial Transport for Point-supervised Density Regression**|Miao Shang et.al.|[2511.14477](http://arxiv.org/abs/2511.14477)|**[link](https://github.com/infinite0522/GST)**|
 |**2025-11-18**|**ArchMap: Arch-Flattening and Knowledge-Guided Vision Language Model for Tooth Counting and Structured Dental Understanding**|Bohan Zhang et.al.|[2511.14336](http://arxiv.org/abs/2511.14336)|null|
 |**2025-11-16**|**Rank-Aware Agglomeration of Foundation Models for Immunohistochemistry Image Cell Counting**|Zuqi Huang et.al.|[2511.12588](http://arxiv.org/abs/2511.12588)|null|
-|**2025-11-12**|**Density Estimation and Crowd Counting**|Balachandra Devarangadi Sunil et.al.|[2511.09723](http://arxiv.org/abs/2511.09723)|null|
+|**2025-11-12**|**Density Estimation and Crowd Counting**|Balachandra Devarangadi Sunil et.al.|[2511.09723](http://arxiv.org/abs/2511.09723)|**[link](https://github.com/svishwa/crowdcount-cascaded-mtl)**|
 |**2025-11-04**|**Scalable Single-Cell Gene Expression Generation with Latent Diffusion Models**|Giovanni Palla et.al.|[2511.02986](http://arxiv.org/abs/2511.02986)|null|
 |**2025-10-30**|**Proxemics and Permeability of the Pedestrian Group**|Saleh Albeaik et.al.|[2510.26571](http://arxiv.org/abs/2510.26571)|null|
 |**2025-10-28**|**Decoupling What to Count and Where to See for Referring Expression Counting**|Yuda Zou et.al.|[2510.24374](http://arxiv.org/abs/2510.24374)|null|
@@ -402,7 +402,7 @@ layout: default
 |**2026-05-25**|**An Extended Object Poisson Multi-Bernoulli Filter with Zero-Inflated Poisson Model Using Belief Propagation**|Yuxuan Xia et.al.|[2605.25316](http://arxiv.org/abs/2605.25316)|null|
 |**2026-05-24**|**Neuromorphic LiDAR-based Bird's Eye View Object Detection using Energy-efficient Spiking Neural Networks**|Sambit Mohapatra et.al.|[2605.25293](http://arxiv.org/abs/2605.25293)|null|
 |**2026-05-20**|**AIGaitor: Privacy-preserving and cloud-free motion analysis for everyone, using edge computing**|Lauhitya Reddy et.al.|[2605.21421](http://arxiv.org/abs/2605.21421)|null|
-|**2026-05-20**|**Hyper-V2X: Hypernetworks for Estimating Epistemic and Aleatoric Uncertainty in Cooperative Bird's-Eye-View Semantic Segmentation**|Abhishek Dinkar Jagtap et.al.|[2605.21309](http://arxiv.org/abs/2605.21309)|null|
+|**2026-05-20**|**Hyper-V2X: Hypernetworks for Estimating Epistemic and Aleatoric Uncertainty in Cooperative Bird's-Eye-View Semantic Segmentation**|Abhishek Dinkar Jagtap et.al.|[2605.21309](http://arxiv.org/abs/2605.21309)|**[link](https://github.com/abhishekjagtap1/Hyper-V2X)**|
 |**2026-05-20**|**Deformba: Vision State Space Model with Adaptive State Fusion**|Hongyu Ke et.al.|[2605.21308](http://arxiv.org/abs/2605.21308)|null|
 |**2026-05-20**|**Supporting Dynamic Control-Flow Execution for Runtime Reconfigurable Processors**|Hassan Nassar et.al.|[2605.21203](http://arxiv.org/abs/2605.21203)|null|
 |**2026-05-20**|**SAM-Sode: Towards Faithful Explanations for Tiny Bacteria Detection**|Wanying Tan et.al.|[2605.21186](http://arxiv.org/abs/2605.21186)|null|
@@ -532,7 +532,7 @@ layout: default
 |**2026-03-19**|**SEAR: Simple and Efficient Adaptation of Visual Geometric Transformers for RGB+Thermal 3D Reconstruction**|Vsevolod Skorokhodov et.al.|[2603.18774](http://arxiv.org/abs/2603.18774)|null|
 |**2026-03-19**|**DA-Mamba: Learning Domain-Aware State Space Model for Global-Local Alignment in Domain Adaptive Object Detection**|Haochen Li et.al.|[2603.18757](http://arxiv.org/abs/2603.18757)|null|
 |**2026-03-13**|**VIRD: View-Invariant Representation through Dual-Axis Transformation for Cross-View Pose Estimation**|Juhye Park et.al.|[2603.12918](http://arxiv.org/abs/2603.12918)|null|
-|**2026-03-13**|**Coherent Human-Scene Reconstruction from Multi-Person Multi-View Video in a Single Pass**|Sangmin Kim et.al.|[2603.12789](http://arxiv.org/abs/2603.12789)|null|
+|**2026-03-13**|**Coherent Human-Scene Reconstruction from Multi-Person Multi-View Video in a Single Pass**|Sangmin Kim et.al.|[2603.12789](http://arxiv.org/abs/2603.12789)|**[link](https://github.com/nstar1125/CHROMM_RELEASE)**|
 |**2026-03-13**|**SAP: Segment Any 4K Panorama**|Lutao Jiang et.al.|[2603.12759](http://arxiv.org/abs/2603.12759)|null|
 |**2026-03-13**|**AI Model Modulation with Logits Redistribution**|Zihan Wang et.al.|[2603.12755](http://arxiv.org/abs/2603.12755)|null|
 |**2026-03-13**|**Show, Don't Tell: Detecting Novel Objects by Watching Human Videos**|James Akl et.al.|[2603.12751](http://arxiv.org/abs/2603.12751)|null|
@@ -549,8 +549,8 @@ layout: default
 |**2026-03-10**|**Grounding Synthetic Data Generation With Vision and Language Models**|Ümit Mert Çağlar et.al.|[2603.09625](http://arxiv.org/abs/2603.09625)|null|
 |**2026-03-10**|**Decoder-Free Distillation for Quantized Image Restoration**|S. M. A. Sharif et.al.|[2603.09624](http://arxiv.org/abs/2603.09624)|null|
 |**2026-03-10**|**SurgFed: Language-guided Multi-Task Federated Learning for Surgical Video Understanding**|Zheng Fang et.al.|[2603.09496](http://arxiv.org/abs/2603.09496)|null|
-|**2026-03-10**|**CIGPose: Causal Intervention Graph Neural Network for Whole-Body Pose Estimation**|Bohao Li et.al.|[2603.09418](http://arxiv.org/abs/2603.09418)|null|
-|**2026-03-10**|**RiO-DETR: DETR for Real-time Oriented Object Detection**|Zhangchi Hu et.al.|[2603.09411](http://arxiv.org/abs/2603.09411)|null|
+|**2026-03-10**|**CIGPose: Causal Intervention Graph Neural Network for Whole-Body Pose Estimation**|Bohao Li et.al.|[2603.09418](http://arxiv.org/abs/2603.09418)|**[link](https://github.com/53mins/CIGPose)**|
+|**2026-03-10**|**RiO-DETR: DETR for Real-time Oriented Object Detection**|Zhangchi Hu et.al.|[2603.09411](http://arxiv.org/abs/2603.09411)|**[link](https://github.com/RicePasteM/RiO-DETR)**|
 |**2026-03-06**|**BEVLM: Distilling Semantic Knowledge from LLMs into Bird's-Eye View Representations**|Thomas Monninger et.al.|[2603.06576](http://arxiv.org/abs/2603.06576)|null|
 |**2026-03-06**|**Modeling and Measuring Redundancy in Multisource Multimodal Data for Autonomous Driving**|Yuhan Zhou et.al.|[2603.06544](http://arxiv.org/abs/2603.06544)|null|
 |**2026-03-06**|**SG-DOR: Learning Scene Graphs with Direction-Conditioned Occlusion Reasoning for Pepper Plants**|Rohit Menon et.al.|[2603.06512](http://arxiv.org/abs/2603.06512)|null|
@@ -923,7 +923,7 @@ layout: default
 |**2026-06-06**|**Learning a Semantic Calibration Network for Open-Vocabulary Semantic Segmentation**|Yang Sun et.al.|[2606.08001](http://arxiv.org/abs/2606.08001)|null|
 |**2026-06-04**|**OpenSkill: Open-World Self-Evolution for LLM Agents**|Zhiling Yan et.al.|[2606.06741](http://arxiv.org/abs/2606.06741)|null|
 |**2026-06-04**|**End-to-End Subgraph Detection with GraphDETR**|Dexiong Chen et.al.|[2606.06364](http://arxiv.org/abs/2606.06364)|null|
-|**2026-06-03**|**SePO: Self-Evolving Prompt Agent for System Prompt Optimization**|Wangcheng Tao et.al.|[2606.04465](http://arxiv.org/abs/2606.04465)|null|
+|**2026-06-03**|**SePO: Self-Evolving Prompt Agent for System Prompt Optimization**|Wangcheng Tao et.al.|[2606.04465](http://arxiv.org/abs/2606.04465)|**[link](https://github.com/taowangcheng/SePO)**|
 |**2026-05-29**|**Fine-Tuning Improves Information Conveyance in Language Models**|Yuwei Cheng et.al.|[2605.30844](http://arxiv.org/abs/2605.30844)|null|
 |**2026-05-28**|**Phast: Simultaneous reconstruction of photoelectron count and time profiles from PMT waveforms via machine learning**|Yiming Xu et.al.|[2605.29391](http://arxiv.org/abs/2605.29391)|null|
 |**2026-05-27**|**Understanding Generalization and Forgetting in In-Context Continual Learning**|Guangyu Li et.al.|[2605.28705](http://arxiv.org/abs/2605.28705)|null|
@@ -1334,7 +1334,7 @@ layout: default
 |**2025-11-27**|**DocVAL: Validated Chain-of-Thought Distillation for Grounded Document VQA**|Ahmad Mohammadshirazi et.al.|[2511.22521](http://arxiv.org/abs/2511.22521)|null|
 |**2025-11-27**|**What Shape Is Optimal for Masks in Text Removal?**|Hyakka Nakada et.al.|[2511.22499](http://arxiv.org/abs/2511.22499)|null|
 |**2025-11-27**|**Rethinking Cross-Generator Image Forgery Detection through DINOv3**|Zhenglin Huang et.al.|[2511.22471](http://arxiv.org/abs/2511.22471)|null|
-|**2025-11-26**|**Multi-Crit: Benchmarking Multimodal Judges on Pluralistic Criteria-Following**|Tianyi Xiong et.al.|[2511.21662](http://arxiv.org/abs/2511.21662)|null|
+|**2025-11-26**|**Multi-Crit: Benchmarking Multimodal Judges on Pluralistic Criteria-Following**|Tianyi Xiong et.al.|[2511.21662](http://arxiv.org/abs/2511.21662)|**[link](https://github.com/multi-crit/multi-crit.github.io)**|
 |**2025-11-26**|**Continual Error Correction on Low-Resource Devices**|Kirill Paramonov et.al.|[2511.21652](http://arxiv.org/abs/2511.21652)|null|
 |**2025-11-26**|**Mechanisms of Non-Monotonic Scaling in Vision Transformers**|Anantha Padmanaban Krishna Kumar et.al.|[2511.21635](http://arxiv.org/abs/2511.21635)|null|
 |**2025-11-26**|**Qwen3-VL Technical Report**|Shuai Bai et.al.|[2511.21631](http://arxiv.org/abs/2511.21631)|null|
