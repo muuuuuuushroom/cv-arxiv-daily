@@ -324,10 +324,10 @@ layout: default
 |**2026-05-15**|**REC-RL: Referring expression counting via Gaussian and range-based reward optimization**|Hui Liu et.al.|[2605.16460](http://arxiv.org/abs/2605.16460)|null|
 |**2026-05-13**|**Does it Really Count? Assessing Semantic Grounding in Text-Guided Class-Agnostic Counting**|Giacomo Pacini et.al.|[2605.02752](http://arxiv.org/abs/2605.02752)|null|
 |**2026-04-27**|**RACANet: Reliability-Aware Crowd Anchor Network for RGB-T Crowd Counting**|Jinghao Shi et.al.|[2604.24543](http://arxiv.org/abs/2604.24543)|null|
-|**2026-03-25**|**Generative Adversarial Perturbations with Cross-paradigm Transferability on Localized Crowd Counting**|Alabi Mehzabin Anisha et.al.|[2603.24821](http://arxiv.org/abs/2603.24821)|null|
+|**2026-03-25**|**Generative Adversarial Perturbations with Cross-paradigm Transferability on Localized Crowd Counting**|Alabi Mehzabin Anisha et.al.|[2603.24821](http://arxiv.org/abs/2603.24821)|**[link](https://github.com/simurgh7/CrowdGen)**|
 |**2026-03-31**|**Granular Ball Guided Stable Latent Domain Discovery for Domain-General Crowd Counting**|Fan Chen et.al.|[2603.24106](http://arxiv.org/abs/2603.24106)|null|
 |**2026-03-25**|**SynMVCrowd: A Large Synthetic Benchmark for Multi-view Crowd Counting and Localization**|Qi Zhang et.al.|[2603.23956](http://arxiv.org/abs/2603.23956)|null|
-|**2026-03-22**|**Plant Taxonomy Meets Plant Counting: A Fine-Grained, Taxonomic Dataset for Counting Hundreds of Plant Species**|Jinyu Xu et.al.|[2603.21229](http://arxiv.org/abs/2603.21229)|null|
+|**2026-03-22**|**Plant Taxonomy Meets Plant Counting: A Fine-Grained, Taxonomic Dataset for Counting Hundreds of Plant Species**|Jinyu Xu et.al.|[2603.21229](http://arxiv.org/abs/2603.21229)|**[link](https://github.com/tiny-smart/TPC-268)**|
 |**2026-03-17**|**Exclusivity-Guided Mask Learning for Semi-Supervised Crowd Instance Segmentation and Counting**|Jiyang Huang et.al.|[2603.16241](http://arxiv.org/abs/2603.16241)|null|
 |**2026-02-26**|**Phys-3D: Physics-Constrained Real-Time Crowd Tracking and Counting on Railway Platforms**|Bin Zeng et.al.|[2602.23177](http://arxiv.org/abs/2602.23177)|null|
 |**2026-02-08**|**One-Shot Crowd Counting With Density Guidance For Scene Adaptaion**|Jiwei Chen et.al.|[2602.07955](http://arxiv.org/abs/2602.07955)|null|
@@ -558,8 +558,8 @@ layout: default
 |**2026-03-06**|**REACT++: Efficient Cross-Attention for Real-Time Scene Graph Generation**|Maëlic Neau et.al.|[2603.06386](http://arxiv.org/abs/2603.06386)|null|
 |**2026-03-06**|**CHMv2: Improvements in Global Canopy Height Mapping using DINOv3**|John Brandt et.al.|[2603.06382](http://arxiv.org/abs/2603.06382)|null|
 |**2026-03-06**|**Rewis3d: Reconstruction Improves Weakly-Supervised Semantic Segmentation**|Jonas Ernst et.al.|[2603.06374](http://arxiv.org/abs/2603.06374)|null|
-|**2026-03-06**|**P-SLCR: Unsupervised Point Cloud Semantic Segmentation via Prototypes Structure Learning and Consistent Reasoning**|Lixin Zhan et.al.|[2603.06321](http://arxiv.org/abs/2603.06321)|null|
-|**2026-03-06**|**Low-latency Event-based Object Detection with Spatially-Sparse Linear Attention**|Haiqing Hao et.al.|[2603.06228](http://arxiv.org/abs/2603.06228)|null|
+|**2026-03-06**|**P-SLCR: Unsupervised Point Cloud Semantic Segmentation via Prototypes Structure Learning and Consistent Reasoning**|Lixin Zhan et.al.|[2603.06321](http://arxiv.org/abs/2603.06321)|**[link](https://github.com/lixin-zhan/P-SLCR)**|
+|**2026-03-06**|**Low-latency Event-based Object Detection with Spatially-Sparse Linear Attention**|Haiqing Hao et.al.|[2603.06228](http://arxiv.org/abs/2603.06228)|**[link](https://github.com/haohq19/ssla)**|
 |**2026-03-06**|**DreamToNav: Generalizable Navigation for Robots via Generative Video Planning**|Valerii Serpiva et.al.|[2603.06190](http://arxiv.org/abs/2603.06190)|null|
 |**2026-02-26**|**Sensor Generalization for Adaptive Sensing in Event-based Object Detection via Joint Distribution Training**|Aheli Saha et.al.|[2602.23357](http://arxiv.org/abs/2602.23357)|null|
 |**2026-02-26**|**Align then Adapt: Rethinking Parameter-Efficient Transfer Learning in 4D Perception**|Yiding Sun et.al.|[2602.23069](http://arxiv.org/abs/2602.23069)|null|
@@ -893,7 +893,7 @@ layout: default
 |**2025-11-26**|**EoS-FM: Can an Ensemble of Specialist Models act as a Generalist Feature Extractor?**|Pierre Adorni et.al.|[2511.21523](http://arxiv.org/abs/2511.21523)|null|
 |**2025-11-26**|**Self-Paced Learning for Images of Antinuclear Antibodies**|Yiyang Jiang et.al.|[2511.21519](http://arxiv.org/abs/2511.21519)|null|
 |**2025-11-26**|**Merge and Bound: Direct Manipulations on Weights for Class Incremental Learning**|Taehoon Kim et.al.|[2511.21490](http://arxiv.org/abs/2511.21490)|null|
-|**2025-11-26**|**Scenes as Tokens: Multi-Scale Normal Distributions Transform Tokenizer for General 3D Vision-Language Understanding**|Yutao Tang et.al.|[2511.21191](http://arxiv.org/abs/2511.21191)|null|
+|**2025-11-26**|**Scenes as Tokens: Multi-Scale Normal Distributions Transform Tokenizer for General 3D Vision-Language Understanding**|Yutao Tang et.al.|[2511.21191](http://arxiv.org/abs/2511.21191)|**[link](https://github.com/snldmt/NDTokenizer3D)**|
 |**2025-11-26**|**MorphingDB: A Task-Centric AI-Native DBMS for Model Management and Inference**|Wu Sai et.al.|[2511.21160](http://arxiv.org/abs/2511.21160)|null|
 |**2025-11-26**|**Aragog: Just-in-Time Model Routing for Scalable Serving of Agentic Workflows**|Yinwei Dai et.al.|[2511.20975](http://arxiv.org/abs/2511.20975)|null|
 |**2025-11-25**|**Representation Integrity in Temporal Graph Learning Methods**|Elahe Kooshafar et.al.|[2511.20873](http://arxiv.org/abs/2511.20873)|null|
@@ -1380,13 +1380,13 @@ layout: default
 |**2026-03-12**|**VTEdit-Bench: A Comprehensive Benchmark for Multi-Reference Image Editing Models in Virtual Try-On**|Xiaoye Liang et.al.|[2603.11734](http://arxiv.org/abs/2603.11734)|null|
 |**2026-03-12**|**PROMO: Promptable Outfitting for Efficient High-Fidelity Virtual Try-On**|Haohua Chen et.al.|[2603.11675](http://arxiv.org/abs/2603.11675)|null|
 |**2026-03-10**|**BridgeDiff: Bridging Human Observations and Flat-Garment Synthesis for Virtual Try-Off**|Shuang Liu et.al.|[2603.09236](http://arxiv.org/abs/2603.09236)|null|
-|**2026-03-09**|**MV-Fashion: Towards Enabling Virtual Try-On and Size Estimation with Multi-View Paired Data**|Hunor Laczkó et.al.|[2603.08147](http://arxiv.org/abs/2603.08147)|null|
+|**2026-03-09**|**MV-Fashion: Towards Enabling Virtual Try-On and Size Estimation with Multi-View Paired Data**|Hunor Laczkó et.al.|[2603.08147](http://arxiv.org/abs/2603.08147)|**[link](https://github.com/HunorLaczko/MV-Fashion)**|
 |**2026-03-07**|**Virtual Try-On for Cultural Clothing: A Benchmarking Study**|Muhammad Tausif Ul Islam et.al.|[2603.07291](http://arxiv.org/abs/2603.07291)|null|
 |**2026-03-06**|**PICS: Pairwise Image Compositing with Spatial Interactions**|Hang Zhou et.al.|[2603.06873](http://arxiv.org/abs/2603.06873)|null|
 |**2026-03-05**|**When Rubrics Fail: Error Enumeration as Reward in Reference-Free RL Post-Training for Virtual Try-On**|Wisdom Ikezogwo et.al.|[2603.05659](http://arxiv.org/abs/2603.05659)|null|
 |**2026-03-05**|**Gaussian Wardrobe: Compositional 3D Gaussian Avatars for Free-Form Virtual Try-On**|Zhiyi Chen et.al.|[2603.04290](http://arxiv.org/abs/2603.04290)|null|
 |**2026-03-13**|**Mobile-VTON: High-Fidelity On-Device Virtual Try-On**|Zhenchen Wan et.al.|[2603.00947](http://arxiv.org/abs/2603.00947)|null|
-|**2026-02-27**|**Spatio-Temporal Garment Reconstruction Using Diffusion Mapping via Pattern Coordinates**|Yingxuan You et.al.|[2602.24043](http://arxiv.org/abs/2602.24043)|null|
+|**2026-02-27**|**Spatio-Temporal Garment Reconstruction Using Diffusion Mapping via Pattern Coordinates**|Yingxuan You et.al.|[2602.24043](http://arxiv.org/abs/2602.24043)|**[link](https://github.com/kasvii/DMap)**|
 |**2026-02-19**|**CORAL: Correspondence Alignment for Improved Virtual Try-On**|Jiyoung Kim et.al.|[2602.17636](http://arxiv.org/abs/2602.17636)|null|
 |**2026-02-18**|**DressWild: Feed-Forward Pose-Agnostic Garment Sewing Pattern Generation from In-the-Wild Images**|Zeng Tao et.al.|[2602.16502](http://arxiv.org/abs/2602.16502)|null|
 |**2026-02-16**|**OmniVTON++: Training-Free Universal Virtual Try-On with Principal Pose Guidance**|Zhaotong Yang et.al.|[2602.14552](http://arxiv.org/abs/2602.14552)|null|
