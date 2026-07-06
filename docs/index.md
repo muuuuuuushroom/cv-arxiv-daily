@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.01
+## Updated on 2026.07.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -1349,6 +1349,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-02**|**DetailAnywhere: Fashion Detail Generation via Cross-Modal Feature Alignment Distillation**|Zijun Li et.al.|[2607.02220](http://arxiv.org/abs/2607.02220)|null|
 |**2026-06-28**|**EASE: Parametric garment design with explicit and local ease control**|Kristijan Bartol et.al.|[2606.29419](http://arxiv.org/abs/2606.29419)|null|
 |**2026-06-28**|**FDM-MFVT: Few-step Sampling Diffusion Model for Mask-Free Virtual Try-On**|Jiaxin Liu et.al.|[2606.29319](http://arxiv.org/abs/2606.29319)|null|
 |**2026-06-26**|**OrthoTryOn: Geometric Orthogonalization for Conflict-Free Unified Fashion Generation**|Zhaotong Yang et.al.|[2606.27880](http://arxiv.org/abs/2606.27880)|null|
@@ -1411,6 +1412,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-02**|**Program-as-Weights: A Programming Paradigm for Fuzzy Functions**|Wentao Zhang et.al.|[2607.02512](http://arxiv.org/abs/2607.02512)|null|
+|**2026-07-02**|**ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning**|Yanjun Zhao et.al.|[2607.02509](http://arxiv.org/abs/2607.02509)|null|
+|**2026-07-02**|**DemoPSD: Disagreement-Modulated Policy Self-Distillation**|Yunhe Li et.al.|[2607.02502](http://arxiv.org/abs/2607.02502)|null|
+|**2026-07-02**|**Seek to Segment: Active Perception for Panoramic Referring Segmentation**|Song Tang et.al.|[2607.02497](http://arxiv.org/abs/2607.02497)|null|
+|**2026-07-02**|**Towards Robustness against Typographic Attack with Training-free Concept Localization**|Bohan Liu et.al.|[2607.02494](http://arxiv.org/abs/2607.02494)|**[link](https://github.com/ProlificTeddy/towards-robustness-against-typographic-attack-with-training-free-concept-localization)**|
+|**2026-07-02**|**Visually Grounded Self-Reflection for Vision-Language Models via Reinforcement Learning**|Liyan Tang et.al.|[2607.02490](http://arxiv.org/abs/2607.02490)|null|
+|**2026-07-02**|**EAGLE-360: Embodied Active Global-to-Local Exploration in 360 $^\circ$**|Jingtao Xu et.al.|[2607.02479](http://arxiv.org/abs/2607.02479)|null|
+|**2026-07-02**|**Will Scaling Improve Social Simulation with LLMs?**|Caleb Ziems et.al.|[2607.02464](http://arxiv.org/abs/2607.02464)|null|
+|**2026-07-02**|**Neuron-Aware Data Selection for Annotation-Free LLM Self-Distillation**|Zhuowei Chen et.al.|[2607.02460](http://arxiv.org/abs/2607.02460)|null|
+|**2026-07-02**|**Language Models as Measurement Apparatus for Culture**|Kent K. Chang et.al.|[2607.02459](http://arxiv.org/abs/2607.02459)|null|
 |**2026-06-30**|**Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision**|Zifan Carl Guo et.al.|[2606.32038](http://arxiv.org/abs/2606.32038)|null|
 |**2026-06-30**|**When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors**|Yuqing Yang et.al.|[2606.32029](http://arxiv.org/abs/2606.32029)|null|
 |**2026-06-30**|**SemRF: A Semantic Reference Frame for Residual-Stream Dynamics in Language Models**|Jian Gu et.al.|[2606.32022](http://arxiv.org/abs/2606.32022)|null|
@@ -1471,6 +1482,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-02**|**Adoption and Ecosystem Health: A Longitudinal Analysis of Open-Source Multi-Agent Frameworks**|Xi Zhang et.al.|[2607.02453](http://arxiv.org/abs/2607.02453)|null|
+|**2026-07-02**|**EvoPolicyGym: Evaluating Autonomous Policy Evolution in Interactive Environments**|Zhilin Wang et.al.|[2607.02440](http://arxiv.org/abs/2607.02440)|null|
+|**2026-07-02**|**Copewell: A Multi-Agent Swarm Architecture for Equitable Mental Wellness Support**|Seren Yenikent et.al.|[2607.02245](http://arxiv.org/abs/2607.02245)|null|
+|**2026-07-02**|**Criticality-Based Guard Rail Validation for AI Agent Decisions in Autonomous Telecom Networks**|Ravi Kant Sharma et.al.|[2607.02210](http://arxiv.org/abs/2607.02210)|null|
+|**2026-07-02**|**ContextNest: Verifiable Context Governance for Autonomous AI Agent**|Misha Sulpovar et.al.|[2607.02116](http://arxiv.org/abs/2607.02116)|null|
+|**2026-07-02**|**Prompt Coverage Adequacy**|Florian Tambon et.al.|[2607.02057](http://arxiv.org/abs/2607.02057)|null|
+|**2026-07-02**|**Episodic-to-Semantic Consolidation Without Identity Drift**|Xue Qin et.al.|[2607.01988](http://arxiv.org/abs/2607.01988)|null|
+|**2026-07-02**|**Beyond Textual Repository Exploration: Dual-Modal Structural Reasoning for Agentic Issue Resolution**|Jiayi Zhang et.al.|[2607.01929](http://arxiv.org/abs/2607.01929)|null|
+|**2026-07-01**|**Janus: a Playground for User-Involved Agentic Permission Management**|Natalie Grace Brigham et.al.|[2607.01510](http://arxiv.org/abs/2607.01510)|null|
+|**2026-07-01**|**The Agentic Garden of Forking Paths**|Jiacheng Miao et.al.|[2607.01507](http://arxiv.org/abs/2607.01507)|null|
 |**2026-06-30**|**Delegation Rights: Property, Agency, and Investment Incentives in the Age of AI Agents**|Yukun Zhang et.al.|[2606.31935](http://arxiv.org/abs/2606.31935)|null|
 |**2026-06-30**|**An Agentic AI Framework to Accelerate Scientific Discovery in Plant Phenotyping**|Renan Souza et.al.|[2606.31831](http://arxiv.org/abs/2606.31831)|null|
 |**2026-06-30**|**ECHO: Prune to act, trace to learn with selective turn memory in agentic RL**|Zijun Xie et.al.|[2606.31650](http://arxiv.org/abs/2606.31650)|null|
@@ -1526,6 +1547,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-01**|**GaussianFusion: Unified 3D Gaussian Representation for Multi-Modal Fusion Perception**|Xiao Zhao et.al.|[2607.00746](http://arxiv.org/abs/2607.00746)|null|
 |**2026-06-28**|**CMTFormer: Marrying Transformer with Hierarchical Information Interaction for RGB-Event Object Detection**|Yu Li et.al.|[2606.29136](http://arxiv.org/abs/2606.29136)|null|
 |**2026-06-26**|**A Comparison of Fusion Techniques for Multi-Modal Human Activity Recognition on the HARMES Dataset**|Ahmed Mohamady et.al.|[2606.27886](http://arxiv.org/abs/2606.27886)|null|
 |**2026-06-24**|**Active Adversarial Perturbation-driven Associative Memory Retrieval for RGB-Event Visual Object Tracking**|Xiao Wang et.al.|[2606.26455](http://arxiv.org/abs/2606.26455)|null|
