@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.06
+## Updated on 2026.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -23,6 +23,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-09**|**UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks**|Zhekai Chen et.al.|[2607.08768](http://arxiv.org/abs/2607.08768)|null|
+|**2026-07-09**|**AUTOPILOT VQA: Benchmarking Vision-Language Models for Incident-Centric Dashcam Understanding**|Siddharth Damodharan et.al.|[2607.08745](http://arxiv.org/abs/2607.08745)|null|
+|**2026-07-09**|**Workflow as Knowledge: Semantic Persistence for LLM-Mediated Workflows**|Emanuele Quinto et.al.|[2607.08740](http://arxiv.org/abs/2607.08740)|null|
+|**2026-07-09**|**The Illusion of Equivalency: Statistical Characterization of Quantization Effects in LLMs**|Baha Rababah et.al.|[2607.08734](http://arxiv.org/abs/2607.08734)|null|
+|**2026-07-09**|**Validity of LLMs as data annotators: AMALIA on authority**|Manuel Pita et.al.|[2607.08731](http://arxiv.org/abs/2607.08731)|null|
+|**2026-07-09**|**Latent Memory Palace: Reasoning for Control as Autoregressive Variational Inference**|Chuning Zhu et.al.|[2607.08724](http://arxiv.org/abs/2607.08724)|null|
+|**2026-07-09**|**How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata**|Shayla Sharmin et.al.|[2607.08698](http://arxiv.org/abs/2607.08698)|null|
+|**2026-07-09**|**A Practical Investigation of Training-free Relaxed Speculative Decoding**|Guoxuan Xia et.al.|[2607.08690](http://arxiv.org/abs/2607.08690)|null|
+|**2026-07-09**|**Resample or Reroute? Budget-Aware Test-Time Model Selection for Large Language Models**|Teng-Ruei Chen et.al.|[2607.08665](http://arxiv.org/abs/2607.08665)|null|
+|**2026-07-09**|**WebSwarm: Recursive Multi-Agent Orchestration for Deep-and-Wide Web Search**|Xiaoshuai Song et.al.|[2607.08662](http://arxiv.org/abs/2607.08662)|null|
 |**2026-07-02**|**Program-as-Weights: A Programming Paradigm for Fuzzy Functions**|Wentao Zhang et.al.|[2607.02512](http://arxiv.org/abs/2607.02512)|null|
 |**2026-07-02**|**ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning**|Yanjun Zhao et.al.|[2607.02509](http://arxiv.org/abs/2607.02509)|null|
 |**2026-07-02**|**DemoPSD: Disagreement-Modulated Policy Self-Distillation**|Yunhe Li et.al.|[2607.02502](http://arxiv.org/abs/2607.02502)|null|
@@ -89,12 +99,22 @@
 |**2026-06-12**|**Abstracting Cross-Domain Action Sequences into Interpretable Workflows**|Gaurav Verma et.al.|[2606.14654](http://arxiv.org/abs/2606.14654)|null|
 |**2026-06-12**|**When Good Verifiers Go Bad: Self-Improving VLMs Can Regress on New Tasks**|Jianzhe Lin et.al.|[2606.14629](http://arxiv.org/abs/2606.14629)|null|
 
-<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260711>back to top</a>)</p>
 
 ## Agent
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-09**|**SolarChain-Eval: A Physics-Constrained Benchmark for Trustworthy Economic Agents in Decentralized Energy Markets**|Shilin Ou et.al.|[2607.08681](http://arxiv.org/abs/2607.08681)|null|
+|**2026-07-09**|**Multi-Modal, Multi-Environment Machine Teaching for Robust Reward Learning**|Ali Larian et.al.|[2607.08647](http://arxiv.org/abs/2607.08647)|null|
+|**2026-07-09**|**The Context Access Divide: Interaction-Level Architecture as a Complementary Dimension of Agentic Inequality**|Masahiro Fujita et.al.|[2607.08495](http://arxiv.org/abs/2607.08495)|null|
+|**2026-07-09**|**OmniFood-Bench: Evaluating VLMs for Nutrient Reasoning and Personalized Health Advice**|Qian Jiang et.al.|[2607.08423](http://arxiv.org/abs/2607.08423)|null|
+|**2026-07-09**|**Token-Flow Firewall: Semantic Runtime Auditing for Persistent AI Agents**|Puji Wang et.al.|[2607.08395](http://arxiv.org/abs/2607.08395)|null|
+|**2026-07-09**|**Playing ZendoWorld: Challenging AI Agents on Active Visual Concept Induction**|Sophia Koehler et.al.|[2607.08233](http://arxiv.org/abs/2607.08233)|null|
+|**2026-07-09**|**Persuasion Attacks Can Decrease Effectiveness of CoT Monitoring**|Jennifer Za et.al.|[2607.08066](http://arxiv.org/abs/2607.08066)|null|
+|**2026-07-09**|**From Prompts to Contracts: Harness Engineering for Auditable Enterprise LLM Agents**|Joongho Ahn et.al.|[2607.08028](http://arxiv.org/abs/2607.08028)|null|
+|**2026-07-08**|**SkillCenter: A Large-Scale Source-Grounded Skill Library for Autonomous AI Agents**|Tianming Sha et.al.|[2607.07676](http://arxiv.org/abs/2607.07676)|null|
+|**2026-07-08**|**What Makes a Good Bug Report for an AI Agent?**|Lara Khatib et.al.|[2607.07593](http://arxiv.org/abs/2607.07593)|null|
 |**2026-07-02**|**Adoption and Ecosystem Health: A Longitudinal Analysis of Open-Source Multi-Agent Frameworks**|Xi Zhang et.al.|[2607.02453](http://arxiv.org/abs/2607.02453)|null|
 |**2026-07-02**|**EvoPolicyGym: Evaluating Autonomous Policy Evolution in Interactive Environments**|Zhilin Wang et.al.|[2607.02440](http://arxiv.org/abs/2607.02440)|null|
 |**2026-07-02**|**Copewell: A Multi-Agent Swarm Architecture for Equitable Mental Wellness Support**|Seren Yenikent et.al.|[2607.02245](http://arxiv.org/abs/2607.02245)|null|
@@ -156,12 +176,13 @@
 |**2026-06-12**|**Same-Origin Policy for Agentic Browsers**|Xilong Wang et.al.|[2606.14027](http://arxiv.org/abs/2606.14027)|null|
 |**2026-06-11**|**Minim: Privacy-Aware Minimal View for Agents via Trusted Local Sanitization**|Hexuan Yu et.al.|[2606.13949](http://arxiv.org/abs/2606.13949)|null|
 
-<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260711>back to top</a>)</p>
 
 ## Counting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-08**|**HAJJv2-CrowdCount: Zero-Shot Benchmark for Dense Crowd Counting**|Reem AlYabis et.al.|[2607.07322](http://arxiv.org/abs/2607.07322)|null|
 |**2026-06-22**|**ABACUS: Adapting Unified Foundation Model for Bridging Image Count Understanding and Generation**|Anindya Mondal et.al.|[2606.23835](http://arxiv.org/abs/2606.23835)|null|
 |**2026-06-17**|**Multi-Modal Hyper-Graph Fusion for Low-Light Crowd Counting**|Hao-Yuan Ma et.al.|[2606.18566](http://arxiv.org/abs/2606.18566)|null|
 |**2026-06-12**|**Pix2Pix-Hybrid: Structure-Guided Conditional Synthesis of Hajj Crowd Images with Multi-Channel Conditioning and Weak Attribute Supervision**|Amirah F. Alshammari et.al.|[2606.14297](http://arxiv.org/abs/2606.14297)|null|
@@ -175,7 +196,7 @@
 |**2026-03-25**|**Generative Adversarial Perturbations with Cross-paradigm Transferability on Localized Crowd Counting**|Alabi Mehzabin Anisha et.al.|[2603.24821](http://arxiv.org/abs/2603.24821)|null|
 |**2026-03-31**|**Granular Ball Guided Stable Latent Domain Discovery for Domain-General Crowd Counting**|Fan Chen et.al.|[2603.24106](http://arxiv.org/abs/2603.24106)|null|
 
-<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260711>back to top</a>)</p>
 
 ## VTON
 
@@ -186,7 +207,7 @@
 |**2026-06-28**|**FDM-MFVT: Few-step Sampling Diffusion Model for Mask-Free Virtual Try-On**|Jiaxin Liu et.al.|[2606.29319](http://arxiv.org/abs/2606.29319)|null|
 |**2026-06-26**|**OrthoTryOn: Geometric Orthogonalization for Conflict-Free Unified Fashion Generation**|Zhaotong Yang et.al.|[2606.27880](http://arxiv.org/abs/2606.27880)|null|
 |**2026-06-26**|**ModaFlow: Modality-Aware Flow Matching for High-Fidelity Virtual Try-On**|Xiangyu Sai et.al.|[2606.27773](http://arxiv.org/abs/2606.27773)|null|
-|**2026-06-24**|**TryOnCrafter: Unleashing Camera Trajectories for Realistic Video Virtual Try-on via a Renderable 4D Try-on Proxy**|Hao Sun et.al.|[2606.26092](http://arxiv.org/abs/2606.26092)|null|
+|**2026-07-03**|**TryOnCrafter: Unleashing Camera Trajectories for Realistic Video Virtual Try-on via a Renderable 4D Try-on Proxy**|Hao Sun et.al.|[2606.26092](http://arxiv.org/abs/2606.26092)|null|
 |**2026-06-24**|**H-Adapter: Pose-Robust Hairstyle Transfer via Attention-Derived, Source-Aligned Hair Masks**|Seulgi Jeong et.al.|[2606.25578](http://arxiv.org/abs/2606.25578)|null|
 |**2026-06-18**|**MakeupMirror: Improving Facial Attribute Preservation in Diffusion Models for Makeup Transfer**|Nefeli Andreou et.al.|[2606.20094](http://arxiv.org/abs/2606.20094)|null|
 |**2026-06-10**|**HairPort: In-context 3D-aware Hair Import and Transfer for Images**|Alireza Heidari et.al.|[2606.12562](http://arxiv.org/abs/2606.12562)|null|
@@ -200,12 +221,16 @@
 |**2026-05-02**|**SIFT-VTON: Geometric Correspondence Supervision on Cross-Attention for Virtual Try-On**|Kosuke Takemoto et.al.|[2605.01296](http://arxiv.org/abs/2605.01296)|null|
 |**2026-04-30**|**TripVVT: A Large-Scale Triplet Dataset and a Coarse-Mask Baseline for In-the-Wild Video Virtual Try-On**|Dingbao Shao et.al.|[2604.27958](http://arxiv.org/abs/2604.27958)|null|
 
-<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260711>back to top</a>)</p>
 
 ## Multi-modal
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-08**|**Two-Stage Multi-Modal Fusion with Adaptive Alignment for Action Quality Assessment**|Kanglei Zhou et.al.|[2607.07438](http://arxiv.org/abs/2607.07438)|null|
+|**2026-07-07**|**Canopy: A Heterograph Foundation Model for Metabolic Engineering**|Jake Bowden et.al.|[2607.06224](http://arxiv.org/abs/2607.06224)|null|
+|**2026-07-05**|**Sparse4D-Radar: An Efficient and Robust Framework for Surround-View 3D Object Detection via 4D Radar-Camera Fusion**|Fuyuan Ai et.al.|[2607.04098](http://arxiv.org/abs/2607.04098)|null|
+|**2026-07-04**|**Q-TriM: Question-Guided Tri-Modal Attention for Audio-Visual Question Answering**|SungHun Kim et.al.|[2607.03825](http://arxiv.org/abs/2607.03825)|null|
 |**2026-07-01**|**GaussianFusion: Unified 3D Gaussian Representation for Multi-Modal Fusion Perception**|Xiao Zhao et.al.|[2607.00746](http://arxiv.org/abs/2607.00746)|null|
 |**2026-06-28**|**CMTFormer: Marrying Transformer with Hierarchical Information Interaction for RGB-Event Object Detection**|Yu Li et.al.|[2606.29136](http://arxiv.org/abs/2606.29136)|null|
 |**2026-06-26**|**A Comparison of Fusion Techniques for Multi-Modal Human Activity Recognition on the HARMES Dataset**|Ahmed Mohamady et.al.|[2606.27886](http://arxiv.org/abs/2606.27886)|null|
@@ -228,7 +253,7 @@
 |**2026-05-27**|**EigeNet: Geometry-Informed Multi-Modal Learning for Few-shot Novel View RIR Prediction**|Chong Jing et.al.|[2605.28101](http://arxiv.org/abs/2605.28101)|null|
 |**2026-05-26**|**NF-TrackLLM: Joint Prediction of UAV Trajectory and Near-Field Beam for LAE XL-MIMO Systems**|Qianfan Lu et.al.|[2605.26928](http://arxiv.org/abs/2605.26928)|null|
 
-<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260711>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
