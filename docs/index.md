@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.11
+## Updated on 2026.07.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -572,7 +572,7 @@ layout: default
 |**2026-02-26**|**A data- and compute-efficient chest X-ray foundation model beyond aggressive scaling**|Chong Wang et.al.|[2602.22843](http://arxiv.org/abs/2602.22843)|null|
 |**2026-02-26**|**UFO-DETR: Frequency-Guided End-to-End Detector for UAV Tiny Objects**|Yuankai Chen et.al.|[2602.22712](http://arxiv.org/abs/2602.22712)|null|
 |**2026-02-26**|**SUPERGLASSES: Benchmarking Vision Language Models as Intelligent Agents for AI Smart Glasses**|Zhuohang Jiang et.al.|[2602.22683](http://arxiv.org/abs/2602.22683)|null|
-|**2026-02-25**|**PatchDenoiser: Parameter-efficient multi-scale patch learning and fusion denoiser for medical images**|Jitindra Fartiyal et.al.|[2602.21987](http://arxiv.org/abs/2602.21987)|null|
+|**2026-02-25**|**PatchDenoiser: Parameter-efficient multi-scale patch learning and fusion denoiser for medical images**|Jitindra Fartiyal et.al.|[2602.21987](http://arxiv.org/abs/2602.21987)|**[link](https://github.com/JitindraFartiyal/PatchDenoiser)**|
 |**2026-02-25**|**Dream-SLAM: Dreaming the Unseen for Active SLAM in Dynamic Environments**|Xiangqi Meng et.al.|[2602.21967](http://arxiv.org/abs/2602.21967)|null|
 |**2026-02-25**|**Protein Graph Neural Networks for Heterogeneous Cryo-EM Reconstruction**|Jonathan Krook et.al.|[2602.21915](http://arxiv.org/abs/2602.21915)|null|
 |**2026-02-25**|**EndoDDC: Learning Sparse to Dense Reconstruction for Endoscopic Robotic Navigation via Diffusion Depth Completion**|Yinheng Lin et.al.|[2602.21893](http://arxiv.org/abs/2602.21893)|null|
@@ -881,7 +881,7 @@ layout: default
 |**2025-12-02**|**GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation**|Yunfei Li et.al.|[2512.01801](http://arxiv.org/abs/2512.01801)|null|
 |**2025-12-01**|**IGen: Scalable Data Generation for Robot Learning from Open-World Images**|Chenghao Gu et.al.|[2512.01773](http://arxiv.org/abs/2512.01773)|null|
 |**2025-12-01**|**Bridging the Scale Gap: Balanced Tiny and General Object Detection in Remote Sensing Imagery**|Zhicheng Zhao et.al.|[2512.01665](http://arxiv.org/abs/2512.01665)|null|
-|**2025-12-01**|**Fantastic Features and Where to Find Them: A Probing Method to combine Features from Multiple Foundation Models**|Benjamin Ramtoula et.al.|[2512.01405](http://arxiv.org/abs/2512.01405)|null|
+|**2025-12-01**|**Fantastic Features and Where to Find Them: A Probing Method to combine Features from Multiple Foundation Models**|Benjamin Ramtoula et.al.|[2512.01405](http://arxiv.org/abs/2512.01405)|**[link](https://github.com/bramtoula/combo)**|
 |**2025-12-01**|**Panda: Self-distillation of Reusable Sensor-level Representations for High Energy Physics**|Samuel Young et.al.|[2512.01324](http://arxiv.org/abs/2512.01324)|null|
 |**2025-11-30**|**Neural Variable Name Repair: Learning to Rename Identifiers for Readability**|Muhammad Yousuf et.al.|[2512.01141](http://arxiv.org/abs/2512.01141)|null|
 |**2025-11-27**|**Revisiting the Necessity of Lengthy Chain-of-Thought in Vision-centric Reasoning Generalization**|Yifan Du et.al.|[2511.22586](http://arxiv.org/abs/2511.22586)|null|
@@ -1175,7 +1175,7 @@ layout: default
 |**2026-03-23**|**CanViT: Toward Active-Vision Foundation Models**|Yohaï-Eliel Berreby et.al.|[2603.22570](http://arxiv.org/abs/2603.22570)|null|
 |**2026-03-20**|**Evaluating Vision Foundation Models for Pixel and Object Classification in Microscopy**|Carolin Teuber et.al.|[2603.19802](http://arxiv.org/abs/2603.19802)|null|
 |**2026-03-20**|**Dual-Domain Representation Alignment: Bridging 2D and 3D Vision via Geometry-Aware Architecture Search**|Haoyu Zhang et.al.|[2603.19563](http://arxiv.org/abs/2603.19563)|null|
-|**2026-03-19**|**DriveTok: 3D Driving Scene Tokenization for Unified Multi-View Reconstruction and Understanding**|Dong Zhuo et.al.|[2603.19219](http://arxiv.org/abs/2603.19219)|null|
+|**2026-03-19**|**DriveTok: 3D Driving Scene Tokenization for Unified Multi-View Reconstruction and Understanding**|Dong Zhuo et.al.|[2603.19219](http://arxiv.org/abs/2603.19219)|**[link](https://github.com/paryi555/DriveTok)**|
 |**2026-03-18**|**SegFly: A 2D-3D-2D Paradigm for Aerial RGB-Thermal Semantic Segmentation at Scale**|Markus Gross et.al.|[2603.17920](http://arxiv.org/abs/2603.17920)|null|
 |**2026-03-18**|**M2P: Improving Visual Foundation Models with Mask-to-Point Weakly-Supervised Learning for Dense Point Tracking**|Qiangqiang Wu et.al.|[2603.17813](http://arxiv.org/abs/2603.17813)|null|
 |**2026-03-18**|**Eye image segmentation using visual and concept prompts with Segment Anything Model 3 (SAM3)**|Diederick C. Niehorster et.al.|[2603.17715](http://arxiv.org/abs/2603.17715)|null|
@@ -1188,10 +1188,10 @@ layout: default
 |**2026-03-13**|**SGMatch: Semantic-Guided Non-Rigid Shape Matching with Flow Regularization**|Tianwei Ye et.al.|[2603.12937](http://arxiv.org/abs/2603.12937)|null|
 |**2026-03-13**|**VFM-Recon: Unlocking Cross-Domain Scene-Level Neural Reconstruction with Scale-Aligned Foundation Priors**|Yuhang Ming et.al.|[2603.12657](http://arxiv.org/abs/2603.12657)|null|
 |**2026-03-12**|**Revisiting Model Stitching In the Foundation Model Era**|Zheda Mai et.al.|[2603.12433](http://arxiv.org/abs/2603.12433)|null|
-|**2026-03-12**|**OmniStream: Mastering Perception, Reconstruction and Action in Continuous Streams**|Yibin Yan et.al.|[2603.12265](http://arxiv.org/abs/2603.12265)|null|
+|**2026-03-12**|**OmniStream: Mastering Perception, Reconstruction and Action in Continuous Streams**|Yibin Yan et.al.|[2603.12265](http://arxiv.org/abs/2603.12265)|**[link](https://github.com/Go2Heart/OmniStream)**|
 |**2026-03-12**|**CrossEarth-SAR: A SAR-Centric and Billion-Scale Geospatial Foundation Model for Domain Generalizable Semantic Segmentation**|Ziqi Ye et.al.|[2603.12008](http://arxiv.org/abs/2603.12008)|null|
 |**2026-03-11**|**Learning Bimanual Cloth Manipulation with Vision-based Tactile Sensing via Single Robotic Arm**|Dongmyoung Lee et.al.|[2603.10609](http://arxiv.org/abs/2603.10609)|null|
-|**2026-03-12**|**Geometric Autoencoder for Diffusion Models**|Hangyu Liu et.al.|[2603.10365](http://arxiv.org/abs/2603.10365)|null|
+|**2026-03-12**|**Geometric Autoencoder for Diffusion Models**|Hangyu Liu et.al.|[2603.10365](http://arxiv.org/abs/2603.10365)|**[link](https://github.com/sii-research/GAE)**|
 |**2026-03-10**|**TiPToP: A Modular Open-Vocabulary Planning System for Robotic Manipulation**|William Shen et.al.|[2603.09971](http://arxiv.org/abs/2603.09971)|null|
 |**2026-03-10**|**X-GS: An Extensible Open Framework Unifying 3DGS Architectures with Downstream Multimodal Models**|Yueen Ma et.al.|[2603.09632](http://arxiv.org/abs/2603.09632)|null|
 |**2026-03-10**|**EventVGGT: Exploring Cross-Modal Distillation for Consistent Event-based Depth Estimation**|Yinrui Ren et.al.|[2603.09385](http://arxiv.org/abs/2603.09385)|null|
@@ -1201,7 +1201,7 @@ layout: default
 |**2026-03-08**|**GLASS: Graph and Vision-Language Assisted Semantic Shape Correspondence**|Qinfeng Xiao et.al.|[2603.07652](http://arxiv.org/abs/2603.07652)|null|
 |**2026-03-08**|**FedEU: Evidential Uncertainty-Driven Federated Fine-Tuning of Vision Foundation Models for Remote Sensing Image Segmentation**|Xiaokang Zhang et.al.|[2603.07468](http://arxiv.org/abs/2603.07468)|null|
 |**2026-03-07**|**Foundational World Models Accurately Detect Bimanual Manipulator Failures**|Isaac R. Ward et.al.|[2603.06987](http://arxiv.org/abs/2603.06987)|null|
-|**2026-03-06**|**CaTok: Taming Mean Flows for One-Dimensional Causal Image Tokenization**|Yitong Chen et.al.|[2603.06449](http://arxiv.org/abs/2603.06449)|null|
+|**2026-03-06**|**CaTok: Taming Mean Flows for One-Dimensional Causal Image Tokenization**|Yitong Chen et.al.|[2603.06449](http://arxiv.org/abs/2603.06449)|**[link](https://github.com/ShareLab-SII/CaTok)**|
 |**2026-03-06**|**GazeMoE: Perception of Gaze Target with Mixture-of-Experts**|Zhuangzhuang Dai et.al.|[2603.06256](http://arxiv.org/abs/2603.06256)|null|
 |**2026-03-06**|**VG3S: Visual Geometry Grounded Gaussian Splatting for Semantic Occupancy Prediction**|Xiaoyang Yan et.al.|[2603.06210](http://arxiv.org/abs/2603.06210)|null|
 |**2026-03-06**|**Shifting Adaptation from Weight Space to Memory Space: A Memory-Augmented Agent for Medical Image Segmentation**|Bowen Chen et.al.|[2603.05873](http://arxiv.org/abs/2603.05873)|null|
@@ -1574,7 +1574,7 @@ layout: default
 |**2026-07-04**|**Q-TriM: Question-Guided Tri-Modal Attention for Audio-Visual Question Answering**|SungHun Kim et.al.|[2607.03825](http://arxiv.org/abs/2607.03825)|null|
 |**2026-07-01**|**GaussianFusion: Unified 3D Gaussian Representation for Multi-Modal Fusion Perception**|Xiao Zhao et.al.|[2607.00746](http://arxiv.org/abs/2607.00746)|null|
 |**2026-06-28**|**CMTFormer: Marrying Transformer with Hierarchical Information Interaction for RGB-Event Object Detection**|Yu Li et.al.|[2606.29136](http://arxiv.org/abs/2606.29136)|null|
-|**2026-06-26**|**A Comparison of Fusion Techniques for Multi-Modal Human Activity Recognition on the HARMES Dataset**|Ahmed Mohamady et.al.|[2606.27886](http://arxiv.org/abs/2606.27886)|null|
+|**2026-06-26**|**A Comparison of Fusion Techniques for Multi-Modal Human Activity Recognition on the HARMES Dataset**|Ahmed Mohamady et.al.|[2606.27886](http://arxiv.org/abs/2606.27886)|**[link](https://github.com/AhmedMohamady98/A-Comparison-of-Fusion-Techniques-for-Multi-Modal-Human-Activity-Recognition-on-the-HARMES-Dataset)**|
 |**2026-06-24**|**Active Adversarial Perturbation-driven Associative Memory Retrieval for RGB-Event Visual Object Tracking**|Xiao Wang et.al.|[2606.26455](http://arxiv.org/abs/2606.26455)|null|
 |**2026-06-24**|**Heterogeneous and Adept Snapshot Distillation for 3D Semantic Segmentation**|Xiaopei Wu et.al.|[2606.25278](http://arxiv.org/abs/2606.25278)|null|
 |**2026-06-20**|**Resolving Multi-Target Association in OFDM-based ISAC via Vision-aided Multi-Modal Learning**|Meng Hua et.al.|[2606.22195](http://arxiv.org/abs/2606.22195)|null|

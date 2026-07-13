@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.11
+## Updated on 2026.07.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -51,7 +51,7 @@
 |**2026-06-30**|**PolicyGuard: From Organizational Policies to Neuro-SymbolicCompliance Review Engines**|Sameer Malik et.al.|[2606.32004](http://arxiv.org/abs/2606.32004)|null|
 |**2026-06-30**|**Self-Study Reconsidered: The Hidden Fragility of Learning from Self-Generated QA**|Ekaterina Alimaskina et.al.|[2606.32002](http://arxiv.org/abs/2606.32002)|null|
 |**2026-06-30**|**Amplifying Membership Signal Through Chained Regeneration**|Wojciech Łapacz et.al.|[2606.31991](http://arxiv.org/abs/2606.31991)|null|
-|**2026-06-30**|**CoLT: Teaching Multi-Modal Models to Think with Chain of Latent Thoughts**|Lianyu Hu et.al.|[2606.31986](http://arxiv.org/abs/2606.31986)|null|
+|**2026-06-30**|**CoLT: Teaching Multi-Modal Models to Think with Chain of Latent Thoughts**|Lianyu Hu et.al.|[2606.31986](http://arxiv.org/abs/2606.31986)|**[link](https://github.com/hulianyuyy/CoLT)**|
 |**2026-06-30**|**GR2 Technical Report**|Yufei Li et.al.|[2606.31984](http://arxiv.org/abs/2606.31984)|null|
 |**2026-06-25**|**Autoregressive Boltzmann Generators**|Danyal Rehman et.al.|[2606.27361](http://arxiv.org/abs/2606.27361)|**[link](https://github.com/danyalrehman/AutoBG)**|
 |**2026-06-25**|**When are likely answers right? On Sequence Probability and Correctness in LLMs**|Johannes Zenn et.al.|[2606.27359](http://arxiv.org/abs/2606.27359)|null|
@@ -99,7 +99,7 @@
 |**2026-06-12**|**Abstracting Cross-Domain Action Sequences into Interpretable Workflows**|Gaurav Verma et.al.|[2606.14654](http://arxiv.org/abs/2606.14654)|null|
 |**2026-06-12**|**When Good Verifiers Go Bad: Self-Improving VLMs Can Regress on New Tasks**|Jianzhe Lin et.al.|[2606.14629](http://arxiv.org/abs/2606.14629)|null|
 
-<p align=right>(<a href=#updated-on-20260711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260713>back to top</a>)</p>
 
 ## Agent
 
@@ -139,7 +139,7 @@
 |**2026-06-25**|**Mostly Automatic Translation of Language Interpreters from C to Safe Rust**|Bo Wang et.al.|[2606.27122](http://arxiv.org/abs/2606.27122)|null|
 |**2026-06-25**|**Toward Agentic SysAdmin: Rethinking System Administration with AI Agents**|Gianmaria Frigo et.al.|[2606.26960](http://arxiv.org/abs/2606.26960)|null|
 |**2026-06-25**|**HiLSVA: Design and Evaluation of a Human-in-the-Loop Agentic System for Scientific Visualization**|Kuangshi Ai et.al.|[2606.26614](http://arxiv.org/abs/2606.26614)|null|
-|**2026-06-25**|**VIGIL: Runtime Enforcement of Behavioral Specifications in AI Agent Skills**|Ying Li et.al.|[2606.26524](http://arxiv.org/abs/2606.26524)|null|
+|**2026-06-25**|**VIGIL: Runtime Enforcement of Behavioral Specifications in AI Agent Skills**|Ying Li et.al.|[2606.26524](http://arxiv.org/abs/2606.26524)|**[link](https://github.com/ramdhanhdy/skillruled)**|
 |**2026-06-25**|**Temporal Validity in Retrieval Memory: Eliminating Stale-Fact Errors for AI Agents over Evolving Knowledge**|Neeraj Yadav et.al.|[2606.26511](http://arxiv.org/abs/2606.26511)|null|
 |**2026-06-24**|**Closing the Loop to Discover Psychological Theories with an Automated Cognitive Scientist**|Akshay K. Jagadish et.al.|[2606.26448](http://arxiv.org/abs/2606.26448)|null|
 |**2026-06-24**|**Governing Actions, Not Agents: Institutional Attestation as a Governance Model for Autonomous AI Systems**|Jakob Salfeld-Nebgen et.al.|[2606.26298](http://arxiv.org/abs/2606.26298)|null|
@@ -176,7 +176,7 @@
 |**2026-06-12**|**Same-Origin Policy for Agentic Browsers**|Xilong Wang et.al.|[2606.14027](http://arxiv.org/abs/2606.14027)|null|
 |**2026-06-11**|**Minim: Privacy-Aware Minimal View for Agents via Trusted Local Sanitization**|Hexuan Yu et.al.|[2606.13949](http://arxiv.org/abs/2606.13949)|null|
 
-<p align=right>(<a href=#updated-on-20260711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260713>back to top</a>)</p>
 
 ## Counting
 
@@ -196,7 +196,7 @@
 |**2026-03-25**|**Generative Adversarial Perturbations with Cross-paradigm Transferability on Localized Crowd Counting**|Alabi Mehzabin Anisha et.al.|[2603.24821](http://arxiv.org/abs/2603.24821)|null|
 |**2026-03-31**|**Granular Ball Guided Stable Latent Domain Discovery for Domain-General Crowd Counting**|Fan Chen et.al.|[2603.24106](http://arxiv.org/abs/2603.24106)|null|
 
-<p align=right>(<a href=#updated-on-20260711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260713>back to top</a>)</p>
 
 ## VTON
 
@@ -221,7 +221,7 @@
 |**2026-05-02**|**SIFT-VTON: Geometric Correspondence Supervision on Cross-Attention for Virtual Try-On**|Kosuke Takemoto et.al.|[2605.01296](http://arxiv.org/abs/2605.01296)|null|
 |**2026-04-30**|**TripVVT: A Large-Scale Triplet Dataset and a Coarse-Mask Baseline for In-the-Wild Video Virtual Try-On**|Dingbao Shao et.al.|[2604.27958](http://arxiv.org/abs/2604.27958)|null|
 
-<p align=right>(<a href=#updated-on-20260711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260713>back to top</a>)</p>
 
 ## Multi-modal
 
@@ -253,7 +253,7 @@
 |**2026-05-27**|**EigeNet: Geometry-Informed Multi-Modal Learning for Few-shot Novel View RIR Prediction**|Chong Jing et.al.|[2605.28101](http://arxiv.org/abs/2605.28101)|null|
 |**2026-05-26**|**NF-TrackLLM: Joint Prediction of UAV Trajectory and Near-Field Beam for LAE XL-MIMO Systems**|Qianfan Lu et.al.|[2605.26928](http://arxiv.org/abs/2605.26928)|null|
 
-<p align=right>(<a href=#updated-on-20260711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260713>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
