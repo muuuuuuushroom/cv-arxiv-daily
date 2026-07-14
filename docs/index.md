@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.13
+## Updated on 2026.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -1350,6 +1350,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-13**|**Structure-Detail Decoupled Autoregressive Generation for Fast and High-Fidelity Virtual Try-On**|Lu Yang et.al.|[2607.11233](http://arxiv.org/abs/2607.11233)|null|
+|**2026-07-10**|**CtrlVTON: Controllable Virtual Try-On via Visual-Instance-Prompt Segmentation**|Seungyong Lee et.al.|[2607.09362](http://arxiv.org/abs/2607.09362)|null|
 |**2026-07-02**|**DetailAnywhere: Fashion Detail Generation via Cross-Modal Feature Alignment Distillation**|Zijun Li et.al.|[2607.02220](http://arxiv.org/abs/2607.02220)|null|
 |**2026-06-28**|**EASE: Parametric garment design with explicit and local ease control**|Kristijan Bartol et.al.|[2606.29419](http://arxiv.org/abs/2606.29419)|null|
 |**2026-06-28**|**FDM-MFVT: Few-step Sampling Diffusion Model for Mask-Free Virtual Try-On**|Jiaxin Liu et.al.|[2606.29319](http://arxiv.org/abs/2606.29319)|null|
@@ -1413,6 +1415,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-13**|**Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks**|Tiberiu Musat et.al.|[2607.11875](http://arxiv.org/abs/2607.11875)|null|
+|**2026-07-13**|**A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol**|Esteban U. Vega Barajas et.al.|[2607.11873](http://arxiv.org/abs/2607.11873)|null|
+|**2026-07-13**|**Evidence-Backed Video Question Answering**|Shijie Wang et.al.|[2607.11862](http://arxiv.org/abs/2607.11862)|**[link](https://github.com/pr1hm/FrameRead)**|
+|**2026-07-13**|**Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers?**|Nishant Aggarwal et.al.|[2607.11859](http://arxiv.org/abs/2607.11859)|null|
+|**2026-07-13**|**AdvancedMathBench: A Benchmark Suite for Advanced Mathematical Proof Generation and Verification**|Lingkai Kong et.al.|[2607.11849](http://arxiv.org/abs/2607.11849)|null|
+|**2026-07-13**|**Beyond the Single Camera: Agentic Multi-View Reasoning in Sports Video Understanding**|Kerui Chen et.al.|[2607.11844](http://arxiv.org/abs/2607.11844)|null|
+|**2026-07-13**|**Supporting Reflection in LLM-based Exploratory Search**|Giulia Di Fede et.al.|[2607.11810](http://arxiv.org/abs/2607.11810)|null|
+|**2026-07-13**|**Encoder-Side Neuron Identification and Amplification for Acoustic Perception in Large Audio-Language Models**|Yu-Han Huang et.al.|[2607.11801](http://arxiv.org/abs/2607.11801)|null|
+|**2026-07-13**|**StoryTeller: Training-Free Narrative Grounding for Long-Form Audio Description**|Seung Hyun Hahm et.al.|[2607.11798](http://arxiv.org/abs/2607.11798)|null|
+|**2026-07-13**|**How Temperature Shapes Ideological Discourse in Retrieval-Augmented Generation?**|Elmira Salari et.al.|[2607.11783](http://arxiv.org/abs/2607.11783)|null|
 |**2026-07-09**|**UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks**|Zhekai Chen et.al.|[2607.08768](http://arxiv.org/abs/2607.08768)|null|
 |**2026-07-09**|**AUTOPILOT VQA: Benchmarking Vision-Language Models for Incident-Centric Dashcam Understanding**|Siddharth Damodharan et.al.|[2607.08745](http://arxiv.org/abs/2607.08745)|null|
 |**2026-07-09**|**Workflow as Knowledge: Semantic Persistence for LLM-Mediated Workflows**|Emanuele Quinto et.al.|[2607.08740](http://arxiv.org/abs/2607.08740)|null|
@@ -1493,6 +1505,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-13**|**BackgroundMellow: A Multi-Modal Cohesive Framework for Narrative-Driven Rich Cinematic Soundscape Generation**|Ajitesh Jamulkar et.al.|[2607.11364](http://arxiv.org/abs/2607.11364)|null|
+|**2026-07-13**|**Toward AI-Agent-Driven Particle Transport Simulations: Implementation of AI-Assisted Workflows for PHITS**|Tatsuhiko Sato et.al.|[2607.11309](http://arxiv.org/abs/2607.11309)|null|
+|**2026-07-13**|**Mako: A Self-Evolving Agentic Operating System (SE-AOS) for Autonomous Web Exploitation**|Praneeth Narisetty et.al.|[2607.11288](http://arxiv.org/abs/2607.11288)|null|
+|**2026-07-13**|**Same Stories, Different Journeys: From Social Comparison to Sensemaking in AI-Mediated Peer Career Exploration**|Pengping Tan et.al.|[2607.11039](http://arxiv.org/abs/2607.11039)|null|
+|**2026-07-13**|**QwenPaw-Data: Bridging Facts, Methodology, and Execution for Autonomous Enterprise Data Analytics**|Tianjing Zeng et.al.|[2607.11019](http://arxiv.org/abs/2607.11019)|null|
+|**2026-07-13**|**A Multi-Agent Framework for Zero-Dimensional Reduced-Order Model Planning**|Bingteng Sun et.al.|[2607.10994](http://arxiv.org/abs/2607.10994)|null|
+|**2026-07-12**|**LOGOS: A Living Logic for AI Agent Teams That Evolve With Humans**|Yuma Ichikawa et.al.|[2607.10878](http://arxiv.org/abs/2607.10878)|null|
+|**2026-07-12**|**Robo-Reporters: Evaluating Autonomous AI Agents as Algorithmic Gatekeepers in Computational Journalism**|Obada Kraishan et.al.|[2607.10736](http://arxiv.org/abs/2607.10736)|null|
+|**2026-07-12**|**The Compliance Trap: Diagnosing How AI Agents Consume Conflicting Memory**|Yixiong Chen et.al.|[2607.10608](http://arxiv.org/abs/2607.10608)|null|
+|**2026-07-11**|**ANCHOR: Automated Alignment Auditing for CLI Agents on Real-World Harm**|Kefan Song et.al.|[2607.10455](http://arxiv.org/abs/2607.10455)|null|
 |**2026-07-09**|**SolarChain-Eval: A Physics-Constrained Benchmark for Trustworthy Economic Agents in Decentralized Energy Markets**|Shilin Ou et.al.|[2607.08681](http://arxiv.org/abs/2607.08681)|null|
 |**2026-07-09**|**Multi-Modal, Multi-Environment Machine Teaching for Robust Reward Learning**|Ali Larian et.al.|[2607.08647](http://arxiv.org/abs/2607.08647)|null|
 |**2026-07-09**|**The Context Access Divide: Interaction-Level Architecture as a Complementary Dimension of Agentic Inequality**|Masahiro Fujita et.al.|[2607.08495](http://arxiv.org/abs/2607.08495)|null|
@@ -1568,13 +1590,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-13**|**Event-RGB Adaptive Tracking for Nighttime Highway Perception**|Haidong Wang et.al.|[2607.11646](http://arxiv.org/abs/2607.11646)|null|
+|**2026-07-12**|**On the modality gap and the contrastive loss in multi-modal representation learning**|Fabian Mager et.al.|[2607.10698](http://arxiv.org/abs/2607.10698)|null|
 |**2026-07-08**|**Two-Stage Multi-Modal Fusion with Adaptive Alignment for Action Quality Assessment**|Kanglei Zhou et.al.|[2607.07438](http://arxiv.org/abs/2607.07438)|null|
 |**2026-07-07**|**Canopy: A Heterograph Foundation Model for Metabolic Engineering**|Jake Bowden et.al.|[2607.06224](http://arxiv.org/abs/2607.06224)|null|
 |**2026-07-05**|**Sparse4D-Radar: An Efficient and Robust Framework for Surround-View 3D Object Detection via 4D Radar-Camera Fusion**|Fuyuan Ai et.al.|[2607.04098](http://arxiv.org/abs/2607.04098)|null|
 |**2026-07-04**|**Q-TriM: Question-Guided Tri-Modal Attention for Audio-Visual Question Answering**|SungHun Kim et.al.|[2607.03825](http://arxiv.org/abs/2607.03825)|null|
 |**2026-07-01**|**GaussianFusion: Unified 3D Gaussian Representation for Multi-Modal Fusion Perception**|Xiao Zhao et.al.|[2607.00746](http://arxiv.org/abs/2607.00746)|null|
 |**2026-06-28**|**CMTFormer: Marrying Transformer with Hierarchical Information Interaction for RGB-Event Object Detection**|Yu Li et.al.|[2606.29136](http://arxiv.org/abs/2606.29136)|null|
-|**2026-06-26**|**A Comparison of Fusion Techniques for Multi-Modal Human Activity Recognition on the HARMES Dataset**|Ahmed Mohamady et.al.|[2606.27886](http://arxiv.org/abs/2606.27886)|**[link](https://github.com/AhmedMohamady98/A-Comparison-of-Fusion-Techniques-for-Multi-Modal-Human-Activity-Recognition-on-the-HARMES-Dataset)**|
+|**2026-06-26**|**A Comparison of Fusion Techniques for Multi-Modal Human Activity Recognition on the HARMES Dataset**|Ahmed Mohamady et.al.|[2606.27886](http://arxiv.org/abs/2606.27886)|null|
 |**2026-06-24**|**Active Adversarial Perturbation-driven Associative Memory Retrieval for RGB-Event Visual Object Tracking**|Xiao Wang et.al.|[2606.26455](http://arxiv.org/abs/2606.26455)|null|
 |**2026-06-24**|**Heterogeneous and Adept Snapshot Distillation for 3D Semantic Segmentation**|Xiaopei Wu et.al.|[2606.25278](http://arxiv.org/abs/2606.25278)|null|
 |**2026-06-20**|**Resolving Multi-Target Association in OFDM-based ISAC via Vision-aided Multi-Modal Learning**|Meng Hua et.al.|[2606.22195](http://arxiv.org/abs/2606.22195)|null|
