@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.14
+## Updated on 2026.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -1415,6 +1415,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-15**|**Building Shor's Algorithm in Lean: An Agentic Formalization of Quantum Attacks on RSA-2048 and P-256**|Lei Zhang et.al.|[2607.14082](http://arxiv.org/abs/2607.14082)|null|
+|**2026-07-15**|**VisualRepair: Dynamic Tool Calling and Region Focusing for Visual Software Issue Repair**|Jingyu Xiao et.al.|[2607.14075](http://arxiv.org/abs/2607.14075)|null|
+|**2026-07-15**|**Deep Interaction: An Efficient Human-AI Interaction Method for Large Reasoning Models**|Hefeng Zhou et.al.|[2607.14049](http://arxiv.org/abs/2607.14049)|null|
+|**2026-07-15**|**LLMs for Qualitative and Mixed-Methods Social Network Analysis**|Moses Boudourides et.al.|[2607.14045](http://arxiv.org/abs/2607.14045)|null|
+|**2026-07-15**|**Agent Skill Security: Threat Models, Attacks, Defenses, and Evaluation**|Sanket Badhe et.al.|[2607.13987](http://arxiv.org/abs/2607.13987)|null|
+|**2026-07-15**|**Screening Is Effective for Visual Recognition**|Shunya Shimomura et.al.|[2607.13983](http://arxiv.org/abs/2607.13983)|null|
+|**2026-07-15**|**Music-to-Dance Generation via Atomic Movements**|Xinhao Cai et.al.|[2607.13978](http://arxiv.org/abs/2607.13978)|null|
+|**2026-07-15**|**Measuring Sentiment News with Transformer-Based Language Models**|Maria Saveria Mavillonio et.al.|[2607.13968](http://arxiv.org/abs/2607.13968)|null|
+|**2026-07-15**|**Pezego-HITL: A policy-grounded large language model architecture for agricultural extension in Ghana**|Shunbao Li et.al.|[2607.13934](http://arxiv.org/abs/2607.13934)|null|
+|**2026-07-15**|**SIVA-RL: Sensitivity-Invariance Visual Alignment for Multimodal Reinforcement Learning**|Cheng Tang et.al.|[2607.13931](http://arxiv.org/abs/2607.13931)|null|
 |**2026-07-13**|**Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks**|Tiberiu Musat et.al.|[2607.11875](http://arxiv.org/abs/2607.11875)|null|
 |**2026-07-13**|**A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol**|Esteban U. Vega Barajas et.al.|[2607.11873](http://arxiv.org/abs/2607.11873)|null|
 |**2026-07-13**|**Evidence-Backed Video Question Answering**|Shijie Wang et.al.|[2607.11862](http://arxiv.org/abs/2607.11862)|**[link](https://github.com/pr1hm/FrameRead)**|
@@ -1505,6 +1515,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-15**|**A Self-Evolving Agent for Longitudinal Personal Health Management**|Haoran Li et.al.|[2607.13940](http://arxiv.org/abs/2607.13940)|null|
+|**2026-07-15**|**NNStar: An end-to-end AI agent for nuclear matter and neutron star physics**|Yao Ma et.al.|[2607.13930](http://arxiv.org/abs/2607.13930)|null|
+|**2026-07-15**|**How Agents Ask for Permission: User Permissions for AI Agents, from Interfaces to Enforcement**|Alexandra E. Michael et.al.|[2607.13718](http://arxiv.org/abs/2607.13718)|null|
+|**2026-07-15**|**AgentCompass: A Unified Evaluation Infrastructure for Agent Capabilities**|Zichen Ding et.al.|[2607.13705](http://arxiv.org/abs/2607.13705)|null|
+|**2026-07-15**|**When Bots Join the Team: Bot Adoption and the Institutional Fabric of Open-Source Software Projects**|Yongren Shi et.al.|[2607.13679](http://arxiv.org/abs/2607.13679)|null|
+|**2026-07-15**|**Explaining Reinforcement Learning Agents via Inductive Logic Programming**|Celeste Veronese et.al.|[2607.13655](http://arxiv.org/abs/2607.13655)|null|
+|**2026-07-15**|**Flow-aware Optimal Navigation in Unsteady Flows through Reinforcement Learning**|Andrea Maria Braghin et.al.|[2607.13553](http://arxiv.org/abs/2607.13553)|null|
+|**2026-07-15**|**Ripple: An Open, AI-Formalized Lean 4 Framework for Computing with CRNs**|Ho-Lin Chen et.al.|[2607.13531](http://arxiv.org/abs/2607.13531)|null|
+|**2026-07-15**|**Evaluating Frontier AI Agents as Autonomous Clinical Security Auditors**|Michael O. Eniolade et.al.|[2607.13411](http://arxiv.org/abs/2607.13411)|null|
+|**2026-07-15**|**xChk: Bring Your Own Identity -- Heterogeneous Assurance with Verifier-Determined Sufficiency**|Sean MacGuire et.al.|[2607.13369](http://arxiv.org/abs/2607.13369)|null|
 |**2026-07-13**|**BackgroundMellow: A Multi-Modal Cohesive Framework for Narrative-Driven Rich Cinematic Soundscape Generation**|Ajitesh Jamulkar et.al.|[2607.11364](http://arxiv.org/abs/2607.11364)|null|
 |**2026-07-13**|**Toward AI-Agent-Driven Particle Transport Simulations: Implementation of AI-Assisted Workflows for PHITS**|Tatsuhiko Sato et.al.|[2607.11309](http://arxiv.org/abs/2607.11309)|null|
 |**2026-07-13**|**Mako: A Self-Evolving Agentic Operating System (SE-AOS) for Autonomous Web Exploitation**|Praneeth Narisetty et.al.|[2607.11288](http://arxiv.org/abs/2607.11288)|null|
