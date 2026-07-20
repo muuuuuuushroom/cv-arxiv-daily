@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.16
+## Updated on 2026.07.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -1355,7 +1355,7 @@ layout: default
 |**2026-07-02**|**DetailAnywhere: Fashion Detail Generation via Cross-Modal Feature Alignment Distillation**|Zijun Li et.al.|[2607.02220](http://arxiv.org/abs/2607.02220)|null|
 |**2026-06-28**|**EASE: Parametric garment design with explicit and local ease control**|Kristijan Bartol et.al.|[2606.29419](http://arxiv.org/abs/2606.29419)|null|
 |**2026-06-28**|**FDM-MFVT: Few-step Sampling Diffusion Model for Mask-Free Virtual Try-On**|Jiaxin Liu et.al.|[2606.29319](http://arxiv.org/abs/2606.29319)|null|
-|**2026-06-26**|**OrthoTryOn: Geometric Orthogonalization for Conflict-Free Unified Fashion Generation**|Zhaotong Yang et.al.|[2606.27880](http://arxiv.org/abs/2606.27880)|null|
+|**2026-06-26**|**OrthoTryOn: Geometric Orthogonalization for Conflict-Free Unified Fashion Generation**|Zhaotong Yang et.al.|[2606.27880](http://arxiv.org/abs/2606.27880)|**[link](https://github.com/NJU-PCALab/OrthoTryOn)**|
 |**2026-06-26**|**ModaFlow: Modality-Aware Flow Matching for High-Fidelity Virtual Try-On**|Xiangyu Sai et.al.|[2606.27773](http://arxiv.org/abs/2606.27773)|null|
 |**2026-07-03**|**TryOnCrafter: Unleashing Camera Trajectories for Realistic Video Virtual Try-on via a Renderable 4D Try-on Proxy**|Hao Sun et.al.|[2606.26092](http://arxiv.org/abs/2606.26092)|null|
 |**2026-06-24**|**H-Adapter: Pose-Robust Hairstyle Transfer via Attention-Derived, Source-Aligned Hair Masks**|Seulgi Jeong et.al.|[2606.25578](http://arxiv.org/abs/2606.25578)|null|
