@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.20
+## Updated on 2026.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -1350,15 +1350,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-16**|**TAMF-VTON: Texture-Aware Mask-Free Virtual Try-On via High-Fidelity Image Synthesis**|Jie Wang et.al.|[2607.14807](http://arxiv.org/abs/2607.14807)|null|
 |**2026-07-13**|**Structure-Detail Decoupled Autoregressive Generation for Fast and High-Fidelity Virtual Try-On**|Lu Yang et.al.|[2607.11233](http://arxiv.org/abs/2607.11233)|null|
 |**2026-07-10**|**CtrlVTON: Controllable Virtual Try-On via Visual-Instance-Prompt Segmentation**|Seungyong Lee et.al.|[2607.09362](http://arxiv.org/abs/2607.09362)|null|
 |**2026-07-02**|**DetailAnywhere: Fashion Detail Generation via Cross-Modal Feature Alignment Distillation**|Zijun Li et.al.|[2607.02220](http://arxiv.org/abs/2607.02220)|null|
 |**2026-06-28**|**EASE: Parametric garment design with explicit and local ease control**|Kristijan Bartol et.al.|[2606.29419](http://arxiv.org/abs/2606.29419)|null|
 |**2026-06-28**|**FDM-MFVT: Few-step Sampling Diffusion Model for Mask-Free Virtual Try-On**|Jiaxin Liu et.al.|[2606.29319](http://arxiv.org/abs/2606.29319)|null|
-|**2026-06-26**|**OrthoTryOn: Geometric Orthogonalization for Conflict-Free Unified Fashion Generation**|Zhaotong Yang et.al.|[2606.27880](http://arxiv.org/abs/2606.27880)|**[link](https://github.com/NJU-PCALab/OrthoTryOn)**|
+|**2026-06-26**|**OrthoTryOn: Geometric Orthogonalization for Conflict-Free Unified Fashion Generation**|Zhaotong Yang et.al.|[2606.27880](http://arxiv.org/abs/2606.27880)|null|
 |**2026-06-26**|**ModaFlow: Modality-Aware Flow Matching for High-Fidelity Virtual Try-On**|Xiangyu Sai et.al.|[2606.27773](http://arxiv.org/abs/2606.27773)|null|
 |**2026-07-03**|**TryOnCrafter: Unleashing Camera Trajectories for Realistic Video Virtual Try-on via a Renderable 4D Try-on Proxy**|Hao Sun et.al.|[2606.26092](http://arxiv.org/abs/2606.26092)|null|
-|**2026-06-24**|**H-Adapter: Pose-Robust Hairstyle Transfer via Attention-Derived, Source-Aligned Hair Masks**|Seulgi Jeong et.al.|[2606.25578](http://arxiv.org/abs/2606.25578)|null|
+|**2026-07-19**|**H-Adapter: Pose-Robust Hairstyle Transfer via Attention-Derived, Source-Aligned Hair Masks**|Seulgi Jeong et.al.|[2606.25578](http://arxiv.org/abs/2606.25578)|null|
 |**2026-06-18**|**MakeupMirror: Improving Facial Attribute Preservation in Diffusion Models for Makeup Transfer**|Nefeli Andreou et.al.|[2606.20094](http://arxiv.org/abs/2606.20094)|null|
 |**2026-06-10**|**HairPort: In-context 3D-aware Hair Import and Transfer for Images**|Alireza Heidari et.al.|[2606.12562](http://arxiv.org/abs/2606.12562)|null|
 |**2026-06-10**|**FitVTON: Fit-aware Virtual Try-On via Body-Garment Size Control**|Yiqun Ning et.al.|[2606.12012](http://arxiv.org/abs/2606.12012)|null|
@@ -1415,6 +1416,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-20**|**The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric**|Sheng-Yu Wang et.al.|[2607.18237](http://arxiv.org/abs/2607.18237)|null|
+|**2026-07-20**|**Patch Policy: Efficient Embodied Control via Dense Visual Representations**|Gaoyue Zhou et.al.|[2607.18236](http://arxiv.org/abs/2607.18236)|null|
+|**2026-07-20**|**It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief**|Kevin Du et.al.|[2607.18232](http://arxiv.org/abs/2607.18232)|**[link](https://github.com/clarakuempel/EoB)**|
+|**2026-07-20**|**Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs**|Yi Tang et.al.|[2607.18230](http://arxiv.org/abs/2607.18230)|null|
+|**2026-07-20**|**PPL-Factory: Task-Aware and Budget-Aware Data Selection from Language Modeling to Reasoning**|Hang Zhang et.al.|[2607.18199](http://arxiv.org/abs/2607.18199)|null|
+|**2026-07-20**|**OR Else: A Differentiable Trust Region for Policy Optimization**|Chinmay Rane et.al.|[2607.18163](http://arxiv.org/abs/2607.18163)|null|
+|**2026-07-20**|**Testing Retrieval-Augmented Generation Systems with Chunk Coverage**|Jinhan Kim et.al.|[2607.18155](http://arxiv.org/abs/2607.18155)|null|
+|**2026-07-20**|**LLMs and Agentic AI Systems for Smart Grids: A Tutorial on Architectures and Applications**|Daniela Rojas et.al.|[2607.18147](http://arxiv.org/abs/2607.18147)|null|
+|**2026-07-20**|**Do Language Models Dream of Binding Molecules? Benchmarking LLMs under Spatial Constraints**|Thomas MacDougall et.al.|[2607.18144](http://arxiv.org/abs/2607.18144)|null|
+|**2026-07-20**|**Manifold-Constrained Hyper-Connections for Parameter-Efficient Finetuning**|Valentijn Oldenburg et.al.|[2607.18130](http://arxiv.org/abs/2607.18130)|null|
 |**2026-07-15**|**Building Shor's Algorithm in Lean: An Agentic Formalization of Quantum Attacks on RSA-2048 and P-256**|Lei Zhang et.al.|[2607.14082](http://arxiv.org/abs/2607.14082)|null|
 |**2026-07-15**|**VisualRepair: Dynamic Tool Calling and Region Focusing for Visual Software Issue Repair**|Jingyu Xiao et.al.|[2607.14075](http://arxiv.org/abs/2607.14075)|null|
 |**2026-07-15**|**Deep Interaction: An Efficient Human-AI Interaction Method for Large Reasoning Models**|Hefeng Zhou et.al.|[2607.14049](http://arxiv.org/abs/2607.14049)|null|
@@ -1515,6 +1526,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-20**|**LLMs and Agentic AI Systems for Smart Grids: A Tutorial on Architectures and Applications**|Daniela Rojas et.al.|[2607.18147](http://arxiv.org/abs/2607.18147)|null|
+|**2026-07-20**|**AI Agent Communications in AI-Native 6G Network: Status, Challenges and Opportunities**|Qiang Duan et.al.|[2607.18138](http://arxiv.org/abs/2607.18138)|null|
+|**2026-07-20**|**Autoresearch with Coding Agents: Generalizers and Metric-Maximizers on Quran Recitation Data**|Nursultan Askarbekuly et.al.|[2607.18064](http://arxiv.org/abs/2607.18064)|null|
+|**2026-07-20**|**Self-State Attacks on Self-Hosted AI Agents: How Far Can OS Defenses Go?**|Yimeng Chen et.al.|[2607.17986](http://arxiv.org/abs/2607.17986)|null|
+|**2026-07-20**|**Zero Hallucination, by Construction: Hallucination-Aware Layered Oversight for Trustworthy Enterprise AI**|Bogdan Raduta et.al.|[2607.17883](http://arxiv.org/abs/2607.17883)|null|
+|**2026-07-20**|**Exploratory and Assimilating Reflection: Reflective Recall Cycle for Long-term Memory**|Ganesh Senrayan et.al.|[2607.17879](http://arxiv.org/abs/2607.17879)|null|
+|**2026-07-20**|**Token Communications (TokCom): A Unified AI-Native Communication Framework**|Yaru Fu et.al.|[2607.17628](http://arxiv.org/abs/2607.17628)|null|
+|**2026-07-20**|**Reinforcement Learning: From Algorithms To Foundation Models**|Zihan Ding et.al.|[2607.17560](http://arxiv.org/abs/2607.17560)|null|
+|**2026-07-20**|**Salience Induction against Multi-Hop RAG Agents: Threat and Defense**|Xingfu Zhou et.al.|[2607.17535](http://arxiv.org/abs/2607.17535)|null|
+|**2026-07-20**|**Can AI Agents Really Complete RTL-to-GDS? Lessons from Benchmarking Tool-Interactive EDA Workflows**|Jinyuan Deng et.al.|[2607.17528](http://arxiv.org/abs/2607.17528)|null|
 |**2026-07-15**|**A Self-Evolving Agent for Longitudinal Personal Health Management**|Haoran Li et.al.|[2607.13940](http://arxiv.org/abs/2607.13940)|null|
 |**2026-07-15**|**NNStar: An end-to-end AI agent for nuclear matter and neutron star physics**|Yao Ma et.al.|[2607.13930](http://arxiv.org/abs/2607.13930)|null|
 |**2026-07-15**|**How Agents Ask for Permission: User Permissions for AI Agents, from Interfaces to Enforcement**|Alexandra E. Michael et.al.|[2607.13718](http://arxiv.org/abs/2607.13718)|null|
@@ -1610,6 +1631,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-19**|**DeeperRadar: End-to-End MIMO Radar Design and Multi-Modal Fusion for Autonomous Vehicle Perception**|Eli Goldenshluger et.al.|[2607.17351](http://arxiv.org/abs/2607.17351)|null|
+|**2026-07-16**|**Blurring Modal Boundaries: A Unified Survey from Single- to Multi-Modal Person Re-ldentification**|Xiao Wang et.al.|[2607.14821](http://arxiv.org/abs/2607.14821)|null|
 |**2026-07-13**|**Event-RGB Adaptive Tracking for Nighttime Highway Perception**|Haidong Wang et.al.|[2607.11646](http://arxiv.org/abs/2607.11646)|null|
 |**2026-07-12**|**On the modality gap and the contrastive loss in multi-modal representation learning**|Fabian Mager et.al.|[2607.10698](http://arxiv.org/abs/2607.10698)|null|
 |**2026-07-08**|**Two-Stage Multi-Modal Fusion with Adaptive Alignment for Action Quality Assessment**|Kanglei Zhou et.al.|[2607.07438](http://arxiv.org/abs/2607.07438)|null|
