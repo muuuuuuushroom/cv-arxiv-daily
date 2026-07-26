@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.21
+## Updated on 2026.07.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -1350,6 +1350,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-22**|**WearWow: Native 2K Multi-Garment Virtual Try-On via Adaptive Token Packing and Preference Alignment**|Xujie Zhang et.al.|[2607.19923](http://arxiv.org/abs/2607.19923)|null|
 |**2026-07-16**|**TAMF-VTON: Texture-Aware Mask-Free Virtual Try-On via High-Fidelity Image Synthesis**|Jie Wang et.al.|[2607.14807](http://arxiv.org/abs/2607.14807)|null|
 |**2026-07-13**|**Structure-Detail Decoupled Autoregressive Generation for Fast and High-Fidelity Virtual Try-On**|Lu Yang et.al.|[2607.11233](http://arxiv.org/abs/2607.11233)|null|
 |**2026-07-10**|**CtrlVTON: Controllable Virtual Try-On via Visual-Instance-Prompt Segmentation**|Seungyong Lee et.al.|[2607.09362](http://arxiv.org/abs/2607.09362)|null|
@@ -1416,6 +1417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-23**|**3D-Aware VLMs with Implicit and Explicit Geometries**|Wenhao Li et.al.|[2607.21595](http://arxiv.org/abs/2607.21595)|**[link](https://github.com/Vegetebird/VLM-IE3D)**|
+|**2026-07-23**|**Inference-Time Scaling of Diffusion Models via Progressive Seed Pruning**|Rogerio Guimaraes et.al.|[2607.21591](http://arxiv.org/abs/2607.21591)|**[link](https://github.com/rogerioagjr/PSP)**|
+|**2026-07-23**|**Surprisal Theory is Tautological (without Rational Grounding)**|Ryan Cotterell et.al.|[2607.21574](http://arxiv.org/abs/2607.21574)|null|
+|**2026-07-23**|**MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education**|Qian Wu et.al.|[2607.21570](http://arxiv.org/abs/2607.21570)|null|
+|**2026-07-23**|**Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning**|Baihui Wang et.al.|[2607.21558](http://arxiv.org/abs/2607.21558)|null|
+|**2026-07-23**|**MIRROR: Learning from the Other View for Multi-Modal Reasoning**|Wen Ye et.al.|[2607.21552](http://arxiv.org/abs/2607.21552)|null|
+|**2026-07-23**|**X $^3$ -OPD: Distilling Reasoning into Large Audio-Language Models via On-Policy Alignment**|Dongjie Fu et.al.|[2607.21550](http://arxiv.org/abs/2607.21550)|null|
+|**2026-07-23**|**From Resource Flow to Executable Tests: Petri-Net-Guided LLM Test Generation for Concurrent Stateful Rust APIs**|Kaiwen Zhang et.al.|[2607.21530](http://arxiv.org/abs/2607.21530)|null|
+|**2026-07-23**|**Diffusion Language Model for Recommendation**|Chengyi Liu et.al.|[2607.21519](http://arxiv.org/abs/2607.21519)|null|
+|**2026-07-23**|**Improved lower bounds for the Shannon capacity of odd cycles**|Nathaniel Itty et.al.|[2607.21517](http://arxiv.org/abs/2607.21517)|null|
 |**2026-07-20**|**The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric**|Sheng-Yu Wang et.al.|[2607.18237](http://arxiv.org/abs/2607.18237)|null|
 |**2026-07-20**|**Patch Policy: Efficient Embodied Control via Dense Visual Representations**|Gaoyue Zhou et.al.|[2607.18236](http://arxiv.org/abs/2607.18236)|null|
 |**2026-07-20**|**It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief**|Kevin Du et.al.|[2607.18232](http://arxiv.org/abs/2607.18232)|**[link](https://github.com/clarakuempel/EoB)**|
@@ -1526,6 +1537,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-23**|**OpenForgeRL: Train Harness-native Agents in Any Environment**|Xiao Yu et.al.|[2607.21557](http://arxiv.org/abs/2607.21557)|null|
+|**2026-07-23**|**Benchmarking Agents for Proving Theorems in Quantum Algorithms and Quantum Information**|Lei Zhang et.al.|[2607.21533](http://arxiv.org/abs/2607.21533)|null|
+|**2026-07-23**|**Agentic Context Management: Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems**|Gaurav Dadhich et.al.|[2607.21503](http://arxiv.org/abs/2607.21503)|null|
+|**2026-07-23**|**Toward Continuous Assurance for the Democratization of AI Agent Creation in Industry**|Natan Levy et.al.|[2607.21495](http://arxiv.org/abs/2607.21495)|null|
+|**2026-07-23**|**Agentic coding without the cloud: evaluating open-weight large language models on longitudinal data preparation tasks**|Mack Nixon et.al.|[2607.21482](http://arxiv.org/abs/2607.21482)|null|
+|**2026-07-23**|**MemTools: A Unified Research Framework for Interoperable Agent Memory**|Chengfeng Zhao et.al.|[2607.21404](http://arxiv.org/abs/2607.21404)|null|
+|**2026-07-23**|**Toward cryptographically verifiable authorization for autonomous AI agents: A security hypothesis, preliminary formal model, and proof-of-concept implementation**|M. Llambí-Morillas et.al.|[2607.21325](http://arxiv.org/abs/2607.21325)|null|
+|**2026-07-23**|**pAI-Econ-claude: A Gated Human-in-the-Loop Multi-Agent Architecture for AI-Assisted Economic Theory Development**|Chen Zhu et.al.|[2607.21268](http://arxiv.org/abs/2607.21268)|null|
+|**2026-07-23**|**Explainability Framework for Policy-Aware Autonomous Agents**|Heather Merhout et.al.|[2607.21209](http://arxiv.org/abs/2607.21209)|null|
+|**2026-07-23**|**SciExplore: Evaluating Autonomous Agents from Scientific Navigation to Information Integration**|Yinhao Tang et.al.|[2607.20926](http://arxiv.org/abs/2607.20926)|null|
 |**2026-07-20**|**LLMs and Agentic AI Systems for Smart Grids: A Tutorial on Architectures and Applications**|Daniela Rojas et.al.|[2607.18147](http://arxiv.org/abs/2607.18147)|null|
 |**2026-07-20**|**AI Agent Communications in AI-Native 6G Network: Status, Challenges and Opportunities**|Qiang Duan et.al.|[2607.18138](http://arxiv.org/abs/2607.18138)|null|
 |**2026-07-20**|**Autoresearch with Coding Agents: Generalizers and Metric-Maximizers on Quran Recitation Data**|Nursultan Askarbekuly et.al.|[2607.18064](http://arxiv.org/abs/2607.18064)|null|
@@ -1631,6 +1652,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-22**|**G-MAD: A Game-Based Data Generation Framework for Multi-View RGB-T Aerial Object Detection**|Yechan Kim et.al.|[2607.19942](http://arxiv.org/abs/2607.19942)|null|
 |**2026-07-19**|**DeeperRadar: End-to-End MIMO Radar Design and Multi-Modal Fusion for Autonomous Vehicle Perception**|Eli Goldenshluger et.al.|[2607.17351](http://arxiv.org/abs/2607.17351)|null|
 |**2026-07-16**|**Blurring Modal Boundaries: A Unified Survey from Single- to Multi-Modal Person Re-ldentification**|Xiao Wang et.al.|[2607.14821](http://arxiv.org/abs/2607.14821)|null|
 |**2026-07-13**|**Event-RGB Adaptive Tracking for Nighttime Highway Perception**|Haidong Wang et.al.|[2607.11646](http://arxiv.org/abs/2607.11646)|null|
