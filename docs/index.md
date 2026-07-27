@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.26
+## Updated on 2026.07.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -609,7 +609,7 @@ layout: default
 |**2026-01-29**|**CORDS: Continuous Representations of Discrete Structures**|Tin Hadži Veljković et.al.|[2601.21583](http://arxiv.org/abs/2601.21583)|null|
 |**2026-01-29**|**Don't double it: Efficient Agent Prediction in Occlusions**|Anna Rothenhäusler et.al.|[2601.21504](http://arxiv.org/abs/2601.21504)|null|
 |**2026-01-29**|**ViTMAlis: Towards Latency-Critical Mobile Video Analytics with Vision Transformers**|Miao Zhang et.al.|[2601.21362](http://arxiv.org/abs/2601.21362)|null|
-|**2026-01-29**|**Depth-Aware Machine Learning Framework for Bubble Characterization in Two-Phase Flows**|Chaitanya S Nayak et.al.|[2601.21175](http://arxiv.org/abs/2601.21175)|null|
+|**2026-01-29**|**Depth-Aware Machine Learning Framework for Bubble Characterization in Two-Phase Flows**|Chaitanya S Nayak et.al.|[2601.21175](http://arxiv.org/abs/2601.21175)|**[link](https://github.com/Faizaan-Mohammed/ML-Particle-Tracking)**|
 |**2026-01-29**|**Bidirectional Cross-Perception for Open-Vocabulary Semantic Segmentation in Remote Sensing Imagery**|Jianzheng Wang et.al.|[2601.21159](http://arxiv.org/abs/2601.21159)|null|
 |**2026-01-28**|**BadDet+: Robust Backdoor Attacks for Object Detection**|Kealan Dunnett et.al.|[2601.21066](http://arxiv.org/abs/2601.21066)|null|
 |**2026-01-23**|**Domain-invariant Mixed-domain Semi-supervised Medical Image Segmentation with Clustered Maximum Mean Discrepancy Alignment**|Ba-Thinh Lam et.al.|[2601.16954](http://arxiv.org/abs/2601.16954)|null|
@@ -1016,8 +1016,8 @@ layout: default
 |**2025-12-04**|**HiPPO: Exploring A Novel Hierarchical Pronunciation Assessment Approach for Spoken Languages**|Bi-Cheng Yan et.al.|[2512.04964](http://arxiv.org/abs/2512.04964)|null|
 |**2025-12-04**|**Chameleon: Adaptive Adversarial Agents for Scaling-Based Visual Prompt Injection in Multimodal AI Systems**|M Zeeshan et.al.|[2512.04895](http://arxiv.org/abs/2512.04895)|null|
 |**2025-12-04**|**SEAL: Self-Evolving Agentic Learning for Conversational Question Answering over Knowledge Graphs**|Hao Wang et.al.|[2512.04868](http://arxiv.org/abs/2512.04868)|null|
-|**2025-12-04**|**Are Your Agents Upward Deceivers?**|Dadi Guo et.al.|[2512.04864](http://arxiv.org/abs/2512.04864)|null|
-|**2025-12-04**|**Tokenizing Buildings: A Transformer for Layout Synthesis**|Manuel Ladron de Guevara et.al.|[2512.04832](http://arxiv.org/abs/2512.04832)|null|
+|**2025-12-04**|**Are Your Agents Upward Deceivers?**|Dadi Guo et.al.|[2512.04864](http://arxiv.org/abs/2512.04864)|**[link](https://github.com/QingyuLiu/Agentic-Upward-Deception)**|
+|**2025-12-04**|**Tokenizing Buildings: A Transformer for Layout Synthesis**|Manuel Ladron de Guevara et.al.|[2512.04832](http://arxiv.org/abs/2512.04832)|**[link](https://github.com/manuelladron/sbm)**|
 |**2025-12-03**|**Look Around and Pay Attention: Multi-camera Point Tracking Reimagined with Transformers**|Bishoy Galoaa et.al.|[2512.04213](http://arxiv.org/abs/2512.04213)|null|
 |**2025-12-03**|**Learning Group Actions In Disentangled Latent Image Representations**|Farhana Hossain Swarnali et.al.|[2512.04015](http://arxiv.org/abs/2512.04015)|null|
 |**2025-12-03**|**Approximate Optimal Active Learning of Decision Trees**|Zunchen Huang et.al.|[2512.03971](http://arxiv.org/abs/2512.03971)|null|
@@ -1131,8 +1131,8 @@ layout: default
 |**2026-04-16**|**Robustness of Vision Foundation Models to Common Perturbations**|Hongbin Liu et.al.|[2604.14973](http://arxiv.org/abs/2604.14973)|null|
 |**2026-04-16**|**MapSR: Prompt-Driven Land Cover Map Super-Resolution via Vision Foundation Models**|Ruiqi Wang et.al.|[2604.14582](http://arxiv.org/abs/2604.14582)|null|
 |**2026-04-15**|**Context Sensitivity Improves Human-Machine Visual Alignment**|Frieda Born et.al.|[2604.13883](http://arxiv.org/abs/2604.13883)|null|
-|**2026-04-14**|**Chain-of-Models Pre-Training: Rethinking Training Acceleration of Vision Foundation Models**|Jiawei Fan et.al.|[2604.12391](http://arxiv.org/abs/2604.12391)|null|
-|**2026-04-13**|**Representations Before Pixels: Semantics-Guided Hierarchical Video Prediction**|Efstathios Karypidis et.al.|[2604.11707](http://arxiv.org/abs/2604.11707)|null|
+|**2026-04-14**|**Chain-of-Models Pre-Training: Rethinking Training Acceleration of Vision Foundation Models**|Jiawei Fan et.al.|[2604.12391](http://arxiv.org/abs/2604.12391)|**[link](https://github.com/deep-optimization/CoM-PT)**|
+|**2026-04-13**|**Representations Before Pixels: Semantics-Guided Hierarchical Video Prediction**|Efstathios Karypidis et.al.|[2604.11707](http://arxiv.org/abs/2604.11707)|**[link](https://github.com/Sta8is/Re2Pix)**|
 |**2026-04-13**|**Delving Aleatoric Uncertainty in Medical Image Segmentation via Vision Foundation Models**|Ruiyang Li et.al.|[2604.10963](http://arxiv.org/abs/2604.10963)|null|
 |**2026-04-12**|**WARPED: Wrist-Aligned Rendering for Robot Policy Learning from Egocentric Human Demonstrations**|Harry Freeman et.al.|[2604.10809](http://arxiv.org/abs/2604.10809)|null|
 |**2026-04-12**|**ReplicateAnyScene: Zero-Shot Video-to-3D Composition via Textual-Visual-Spatial Alignment**|Mingyu Dong et.al.|[2604.10789](http://arxiv.org/abs/2604.10789)|null|
