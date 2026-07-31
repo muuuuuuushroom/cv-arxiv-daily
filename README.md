@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.27
+## Updated on 2026.07.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -23,6 +23,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-30**|**ReToken: One Token to Improve Vision-Language Models for Visual Retrieval**|Yao Xiao et.al.|[2607.28627](http://arxiv.org/abs/2607.28627)|**[link](https://github.com/avaxiao/ReToken)**|
+|**2026-07-30**|**AISPA: User-Centric System Prompt Auditing for Large Language Model Applications**|Xiangning Lin et.al.|[2607.28617](http://arxiv.org/abs/2607.28617)|null|
+|**2026-07-30**|**OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models**|Qiushi Sun et.al.|[2607.28609](http://arxiv.org/abs/2607.28609)|null|
+|**2026-07-30**|**Inducing language models to assert their own consciousness restores human beliefs and values**|Junsol Kim et.al.|[2607.28607](http://arxiv.org/abs/2607.28607)|null|
+|**2026-07-30**|**Beacon: Knowing When and How to Perform Agentic Visual Reasoning**|Qixun Wang et.al.|[2607.28595](http://arxiv.org/abs/2607.28595)|null|
+|**2026-07-30**|**$β$ -OPSD: Deriving with Policy Optimization, Training with Self-Distillation**|Jiawei Xu et.al.|[2607.28582](http://arxiv.org/abs/2607.28582)|null|
+|**2026-07-30**|**Sample More, Reflect Less: Self-Refine and Reflexion Lose to Repeated Sampling at Equal Token Cost, from 1.5B to 7B**|Iliya Mirzaei et.al.|[2607.28576](http://arxiv.org/abs/2607.28576)|null|
+|**2026-07-30**|**Correcting Mode Collapse in Silicon Sampling with Semantic Similarity Rating**|Oscar Heath et.al.|[2607.28550](http://arxiv.org/abs/2607.28550)|null|
+|**2026-07-30**|**ORCA-bench: How Ready Are Language Model Agents for Oncall?**|Albert Gong et.al.|[2607.28545](http://arxiv.org/abs/2607.28545)|null|
+|**2026-07-30**|**ScaFE: Data-Efficient Scar Classification with LLM-Generated Clinical Feature Programs**|Ruman Wang et.al.|[2607.28538](http://arxiv.org/abs/2607.28538)|null|
 |**2026-07-23**|**3D-Aware VLMs with Implicit and Explicit Geometries**|Wenhao Li et.al.|[2607.21595](http://arxiv.org/abs/2607.21595)|**[link](https://github.com/Vegetebird/VLM-IE3D)**|
 |**2026-07-23**|**Inference-Time Scaling of Diffusion Models via Progressive Seed Pruning**|Rogerio Guimaraes et.al.|[2607.21591](http://arxiv.org/abs/2607.21591)|**[link](https://github.com/rogerioagjr/PSP)**|
 |**2026-07-23**|**Surprisal Theory is Tautological (without Rational Grounding)**|Ryan Cotterell et.al.|[2607.21574](http://arxiv.org/abs/2607.21574)|null|
@@ -139,12 +149,22 @@
 |**2026-06-12**|**Abstracting Cross-Domain Action Sequences into Interpretable Workflows**|Gaurav Verma et.al.|[2606.14654](http://arxiv.org/abs/2606.14654)|null|
 |**2026-06-12**|**When Good Verifiers Go Bad: Self-Improving VLMs Can Regress on New Tasks**|Jianzhe Lin et.al.|[2606.14629](http://arxiv.org/abs/2606.14629)|null|
 
-<p align=right>(<a href=#updated-on-20260727>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260731>back to top</a>)</p>
 
 ## Agent
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-30**|**AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis**|Bing Yan et.al.|[2607.28618](http://arxiv.org/abs/2607.28618)|null|
+|**2026-07-30**|**EMBL AI Librarian: Life-Sciences Knowledge Layer for AI Agents**|Luigi Sigillo et.al.|[2607.28229](http://arxiv.org/abs/2607.28229)|null|
+|**2026-07-30**|**Voice AI in Firms: A Natural Field Experiment on Automated Job Interviews**|Brian Jabarian et.al.|[2607.28222](http://arxiv.org/abs/2607.28222)|null|
+|**2026-07-30**|**VIG-RL: Learning to Search and Insert for Verified Image Grounding**|Qinhan Yu et.al.|[2607.28055](http://arxiv.org/abs/2607.28055)|null|
+|**2026-07-30**|**ClawTrack: Towards Trace-Level Evaluation and Improvement of Real-World Autonomous Agents**|Xingjian Wu et.al.|[2607.28037](http://arxiv.org/abs/2607.28037)|null|
+|**2026-07-30**|**DataClawEval: A Benchmark for Data Engineering Agents in Real Industrial Harness**|Debin Meng et.al.|[2607.28033](http://arxiv.org/abs/2607.28033)|null|
+|**2026-07-30**|**SKIMIX: Multi-Agent Harness-Time Scaling with Skill Mixture for Dynamic Harness Engineering**|Jia Luo et.al.|[2607.27994](http://arxiv.org/abs/2607.27994)|null|
+|**2026-07-30**|**TAPO: Transition-Aware Policy Optimization for LLM Agents**|Cong Li et.al.|[2607.27973](http://arxiv.org/abs/2607.27973)|null|
+|**2026-07-30**|**FinanceHarness: Autonomous Financial Deep Research Framework**|Yijia Xiao et.al.|[2607.27853](http://arxiv.org/abs/2607.27853)|null|
+|**2026-07-30**|**SpatialCLI: Learning to Reason With Spatial Tools, Then Without Them**|Yang Zhou et.al.|[2607.27703](http://arxiv.org/abs/2607.27703)|null|
 |**2026-07-23**|**OpenForgeRL: Train Harness-native Agents in Any Environment**|Xiao Yu et.al.|[2607.21557](http://arxiv.org/abs/2607.21557)|null|
 |**2026-07-23**|**Benchmarking Agents for Proving Theorems in Quantum Algorithms and Quantum Information**|Lei Zhang et.al.|[2607.21533](http://arxiv.org/abs/2607.21533)|null|
 |**2026-07-23**|**Agentic Context Management: Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems**|Gaurav Dadhich et.al.|[2607.21503](http://arxiv.org/abs/2607.21503)|null|
@@ -256,7 +276,7 @@
 |**2026-06-12**|**Same-Origin Policy for Agentic Browsers**|Xilong Wang et.al.|[2606.14027](http://arxiv.org/abs/2606.14027)|null|
 |**2026-06-11**|**Minim: Privacy-Aware Minimal View for Agents via Trusted Local Sanitization**|Hexuan Yu et.al.|[2606.13949](http://arxiv.org/abs/2606.13949)|null|
 
-<p align=right>(<a href=#updated-on-20260727>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260731>back to top</a>)</p>
 
 ## Counting
 
@@ -276,12 +296,15 @@
 |**2026-03-25**|**Generative Adversarial Perturbations with Cross-paradigm Transferability on Localized Crowd Counting**|Alabi Mehzabin Anisha et.al.|[2603.24821](http://arxiv.org/abs/2603.24821)|null|
 |**2026-03-31**|**Granular Ball Guided Stable Latent Domain Discovery for Domain-General Crowd Counting**|Fan Chen et.al.|[2603.24106](http://arxiv.org/abs/2603.24106)|null|
 
-<p align=right>(<a href=#updated-on-20260727>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260731>back to top</a>)</p>
 
 ## VTON
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-25**|**Fashion-3DLR: A Controllable 3D Garment Generation Using Pairwise Fashion Elements for Intelligent Design**|Shenghao Yang et.al.|[2607.23189](http://arxiv.org/abs/2607.23189)|null|
+|**2026-07-24**|**Layering Virtual Try-On**|Chun Feng et.al.|[2607.22924](http://arxiv.org/abs/2607.22924)|null|
+|**2026-07-23**|**Oxygen-TryOn: Fashion-Native Foundation Model for Any-item Virtual Try-On**|Yong Liu et.al.|[2607.21694](http://arxiv.org/abs/2607.21694)|null|
 |**2026-07-22**|**WearWow: Native 2K Multi-Garment Virtual Try-On via Adaptive Token Packing and Preference Alignment**|Xujie Zhang et.al.|[2607.19923](http://arxiv.org/abs/2607.19923)|null|
 |**2026-07-16**|**TAMF-VTON: Texture-Aware Mask-Free Virtual Try-On via High-Fidelity Image Synthesis**|Jie Wang et.al.|[2607.14807](http://arxiv.org/abs/2607.14807)|null|
 |**2026-07-13**|**Structure-Detail Decoupled Autoregressive Generation for Fast and High-Fidelity Virtual Try-On**|Lu Yang et.al.|[2607.11233](http://arxiv.org/abs/2607.11233)|null|
@@ -305,13 +328,19 @@
 |**2026-05-02**|**SIFT-VTON: Geometric Correspondence Supervision on Cross-Attention for Virtual Try-On**|Kosuke Takemoto et.al.|[2605.01296](http://arxiv.org/abs/2605.01296)|null|
 |**2026-04-30**|**TripVVT: A Large-Scale Triplet Dataset and a Coarse-Mask Baseline for In-the-Wild Video Virtual Try-On**|Dingbao Shao et.al.|[2604.27958](http://arxiv.org/abs/2604.27958)|null|
 
-<p align=right>(<a href=#updated-on-20260727>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260731>back to top</a>)</p>
 
 ## Multi-modal
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-07-22**|**G-MAD: A Game-Based Data Generation Framework for Multi-View RGB-T Aerial Object Detection**|Yechan Kim et.al.|[2607.19942](http://arxiv.org/abs/2607.19942)|null|
+|**2026-07-28**|**Balanced Soft mixture-of-expert model for Glaucoma Detection**|Sai Venkatesh Chilukoti et.al.|[2607.25324](http://arxiv.org/abs/2607.25324)|null|
+|**2026-07-27**|**Co-Learning for Missing Arbitrary Modalities in Multi-modal Classification**|Francisco Mena et.al.|[2607.24683](http://arxiv.org/abs/2607.24683)|null|
+|**2026-07-27**|**Strategy-Aware Parameter-Efficient Adaptation for LLM-based Auto-Bidding**|Songyue Cai et.al.|[2607.24232](http://arxiv.org/abs/2607.24232)|null|
+|**2026-07-26**|**Multi-Modal Object Re-Identification with Prompt-S6 and Semantic-Aware Knowledge Guidance**|Weixiang Zhou et.al.|[2607.23451](http://arxiv.org/abs/2607.23451)|null|
+|**2026-07-25**|**Bitcoin Price Direction Prediction via Regime-Aware Multi-Modal Fusion of Social Sentiment and Technical Features**|Muhammad Abdullah Haroon et.al.|[2607.23370](http://arxiv.org/abs/2607.23370)|null|
+|**2026-07-18**|**FogDrive: A Multi-Modal Synthetic Driving Dataset for Perception under Graded Fog**|Vansh Panwar et.al.|[2607.22698](http://arxiv.org/abs/2607.22698)|null|
+|**2026-07-27**|**G-MAD: A Game-Based Data Generation Framework for Multi-View RGB-T Aerial Object Detection**|Yechan Kim et.al.|[2607.19942](http://arxiv.org/abs/2607.19942)|null|
 |**2026-07-19**|**DeeperRadar: End-to-End MIMO Radar Design and Multi-Modal Fusion for Autonomous Vehicle Perception**|Eli Goldenshluger et.al.|[2607.17351](http://arxiv.org/abs/2607.17351)|null|
 |**2026-07-16**|**Blurring Modal Boundaries: A Unified Survey from Single- to Multi-Modal Person Re-ldentification**|Xiao Wang et.al.|[2607.14821](http://arxiv.org/abs/2607.14821)|null|
 |**2026-07-13**|**Event-RGB Adaptive Tracking for Nighttime Highway Perception**|Haidong Wang et.al.|[2607.11646](http://arxiv.org/abs/2607.11646)|null|
@@ -342,7 +371,7 @@
 |**2026-05-27**|**EigeNet: Geometry-Informed Multi-Modal Learning for Few-shot Novel View RIR Prediction**|Chong Jing et.al.|[2605.28101](http://arxiv.org/abs/2605.28101)|null|
 |**2026-05-26**|**NF-TrackLLM: Joint Prediction of UAV Trajectory and Near-Field Beam for LAE XL-MIMO Systems**|Qianfan Lu et.al.|[2605.26928](http://arxiv.org/abs/2605.26928)|null|
 
-<p align=right>(<a href=#updated-on-20260727>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260731>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
