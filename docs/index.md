@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.03
+## Updated on 2026.08.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -1350,6 +1350,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-31**|**Forwardrobe: Garment-Aware Gaussian Avatars from a Single Image**|Daisheng Jin et.al.|[2607.29106](http://arxiv.org/abs/2607.29106)|null|
 |**2026-07-25**|**Fashion-3DLR: A Controllable 3D Garment Generation Using Pairwise Fashion Elements for Intelligent Design**|Shenghao Yang et.al.|[2607.23189](http://arxiv.org/abs/2607.23189)|null|
 |**2026-07-24**|**Layering Virtual Try-On**|Chun Feng et.al.|[2607.22924](http://arxiv.org/abs/2607.22924)|null|
 |**2026-07-23**|**Oxygen-TryOn: Fashion-Native Foundation Model for Any-item Virtual Try-On**|Yong Liu et.al.|[2607.21694](http://arxiv.org/abs/2607.21694)|null|
@@ -1420,6 +1421,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-05**|**Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning**|Boxiu Li et.al.|[2608.05144](http://arxiv.org/abs/2608.05144)|null|
+|**2026-08-05**|**OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling**|Indraneil Paul et.al.|[2608.05141](http://arxiv.org/abs/2608.05141)|null|
+|**2026-08-05**|**SmartMage: Dynamic Modality Orchestration for 3D Scene Understanding**|Yue Zhang et.al.|[2608.05137](http://arxiv.org/abs/2608.05137)|**[link](https://github.com/YueCheong/SmartMage)**|
+|**2026-08-05**|**OPD-V: Visual On-Policy Self-Distillation with Modality Balance**| Aniri et.al.|[2608.05131](http://arxiv.org/abs/2608.05131)|null|
+|**2026-08-05**|**Spoken Function Calling: A New Perspective on Spoken Language Understanding for Large Audio Language Models**|Yuezhang Peng et.al.|[2608.05126](http://arxiv.org/abs/2608.05126)|null|
+|**2026-08-05**|**Chained Recursive Language Models for Multi-Iteration Reasoning**|Purbesh Mitra et.al.|[2608.05124](http://arxiv.org/abs/2608.05124)|null|
+|**2026-08-05**|**DASyR-LLM: Domain-Aware Symbolic Regression with LLMs for Kinetic Model Discovery**|Roberto Aliaga Medina et.al.|[2608.05120](http://arxiv.org/abs/2608.05120)|null|
+|**2026-08-05**|**BnBERT-iPET: Sparse Few-Shot Language Modeling for Bengali via Lottery Ticket Pruning**|Sajib Hossain et.al.|[2608.05104](http://arxiv.org/abs/2608.05104)|null|
+|**2026-08-05**|**Same Formulas, Different Semantics: Do Language Models Follow Modal Logic Specifications?**|Réemi Andrieu et.al.|[2608.05097](http://arxiv.org/abs/2608.05097)|null|
+|**2026-08-05**|**MALT: Lightweight Curvature-Aware Muon via Diagonal Preconditioning**|Tongle Wu et.al.|[2608.05088](http://arxiv.org/abs/2608.05088)|null|
 |**2026-07-30**|**ReToken: One Token to Improve Vision-Language Models for Visual Retrieval**|Yao Xiao et.al.|[2607.28627](http://arxiv.org/abs/2607.28627)|**[link](https://github.com/avaxiao/ReToken)**|
 |**2026-07-30**|**AISPA: User-Centric System Prompt Auditing for Large Language Model Applications**|Xiangning Lin et.al.|[2607.28617](http://arxiv.org/abs/2607.28617)|null|
 |**2026-07-30**|**OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models**|Qiushi Sun et.al.|[2607.28609](http://arxiv.org/abs/2607.28609)|null|
@@ -1550,6 +1561,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-05**|**CoPlan: A Trustworthy Co-Intelligence Interface for Care Planning through Role-Based Contestable Argument Graphs**|Hung Truong Thanh Nguyen et.al.|[2608.05107](http://arxiv.org/abs/2608.05107)|null|
+|**2026-08-05**|**ArtAnno: Annotating Implicit Semantics in Artworks through LLM Agent-Driven Bidirectional Human-AI Augmentation**|Xiaoyan Gu et.al.|[2608.05026](http://arxiv.org/abs/2608.05026)|null|
+|**2026-08-05**|**Embedding Large Language Models into Flow Controls: An Agentic Framework for Adaptive and Trustworthy Automated Cooking**|Zihan Song et.al.|[2608.04768](http://arxiv.org/abs/2608.04768)|null|
+|**2026-08-05**|**LoginTrap: Uncovering Task-Agnostic Phishing-Style Indirect Prompt Injection Attacks against LLM-based Web Agents**|Longtao Guo et.al.|[2608.04741](http://arxiv.org/abs/2608.04741)|null|
+|**2026-08-05**|**EmpaAva: An Open-source Agentic 3D-Avatar Empathetic Live Chatbot**|Jie Yang et.al.|[2608.04709](http://arxiv.org/abs/2608.04709)|null|
+|**2026-08-05**|**Blockchain Empowered Trustworthy Agent Networks: Foundations, Taxonomy, and Future Directions**|Liehuang Zhu et.al.|[2608.04626](http://arxiv.org/abs/2608.04626)|null|
+|**2026-08-05**|**DAC-Pose: Dual-Agent Collaborative Framework for Pose-Guided Human Generation**|Haotian Yang et.al.|[2608.04622](http://arxiv.org/abs/2608.04622)|null|
+|**2026-08-05**|**ToolArtist: Tool-Using Unified Multimodal Models for Agentic Image Generation**|Jiahao Zhao et.al.|[2608.04436](http://arxiv.org/abs/2608.04436)|null|
+|**2026-08-05**|**Continuous Improvement and Parallel Autonomous Exploration: An LLM-Agent Framework for Searching Large Solution Spaces**|Dulmini Hettiarachchi et.al.|[2608.04341](http://arxiv.org/abs/2608.04341)|null|
+|**2026-08-05**|**Trident : How to Break Deep Reinforcement Learning Cyber Defenses (Agentic)**|Ryozo Masukawa et.al.|[2608.04317](http://arxiv.org/abs/2608.04317)|null|
 |**2026-07-30**|**AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis**|Bing Yan et.al.|[2607.28618](http://arxiv.org/abs/2607.28618)|null|
 |**2026-07-30**|**EMBL AI Librarian: Life-Sciences Knowledge Layer for AI Agents**|Luigi Sigillo et.al.|[2607.28229](http://arxiv.org/abs/2607.28229)|null|
 |**2026-07-30**|**Voice AI in Firms: A Natural Field Experiment on Automated Job Interviews**|Brian Jabarian et.al.|[2607.28222](http://arxiv.org/abs/2607.28222)|null|
@@ -1675,6 +1696,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-30**|**Logographic Character Visual Pretraining via Semantic-based Contrastive Learning**|Daqian Shi et.al.|[2608.00096](http://arxiv.org/abs/2608.00096)|null|
 |**2026-07-28**|**Balanced Soft mixture-of-expert model for Glaucoma Detection**|Sai Venkatesh Chilukoti et.al.|[2607.25324](http://arxiv.org/abs/2607.25324)|null|
 |**2026-07-27**|**Co-Learning for Missing Arbitrary Modalities in Multi-modal Classification**|Francisco Mena et.al.|[2607.24683](http://arxiv.org/abs/2607.24683)|null|
 |**2026-07-27**|**Strategy-Aware Parameter-Efficient Adaptation for LLM-based Auto-Bidding**|Songyue Cai et.al.|[2607.24232](http://arxiv.org/abs/2607.24232)|null|
