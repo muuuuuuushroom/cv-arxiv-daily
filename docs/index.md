@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.06
+## Updated on 2026.08.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -276,8 +276,8 @@ layout: default
 |**2025-11-25**|**ScenarioCLIP: Pretrained Transferable Visual Language Models and Action-Genome Dataset for Natural Scene Analysis**|Advik Sinha et.al.|[2511.20274](http://arxiv.org/abs/2511.20274)|null|
 |**2025-11-25**|**VKnowU: Evaluating Visual Knowledge Understanding in Multimodal LLMs**|Tianxiang Jiang et.al.|[2511.20272](http://arxiv.org/abs/2511.20272)|null|
 |**2025-11-25**|**Rectified Flow for Vision-Aided mmWave V2I Beam Prediction**|Can Zheng et.al.|[2511.20265](http://arxiv.org/abs/2511.20265)|null|
-|**2025-11-25**|**V-Attack: Targeting Disentangled Value Features for Controllable Adversarial Attacks on LVLMs**|Sen Nie et.al.|[2511.20223](http://arxiv.org/abs/2511.20223)|null|
-|**2025-11-25**|**Text-guided Controllable Diffusion for Realistic Camouflage Images Generation**|Yuhang Qian et.al.|[2511.20218](http://arxiv.org/abs/2511.20218)|null|
+|**2025-11-25**|**V-Attack: Targeting Disentangled Value Features for Controllable Adversarial Attacks on LVLMs**|Sen Nie et.al.|[2511.20223](http://arxiv.org/abs/2511.20223)|**[link](https://github.com/Summu77/V-Attack)**|
+|**2025-11-25**|**Text-guided Controllable Diffusion for Realistic Camouflage Images Generation**|Yuhang Qian et.al.|[2511.20218](http://arxiv.org/abs/2511.20218)|**[link](https://github.com/NikoNairre/CT-CIG)**|
 |**2025-11-25**|**In-Context Compositional Learning via Sparse Coding Transformer**|Wei Chen et.al.|[2511.20194](http://arxiv.org/abs/2511.20194)|null|
 |**2025-11-21**|**RynnVLA-002: A Unified Vision-Language-Action and World Model**|Jun Cen et.al.|[2511.17502](http://arxiv.org/abs/2511.17502)|null|
 |**2025-11-21**|**HALO: High-Altitude Language-Conditioned Monocular Aerial Exploration and Navigation**|Yuezhan Tao et.al.|[2511.17497](http://arxiv.org/abs/2511.17497)|null|
@@ -433,7 +433,7 @@ layout: default
 |**2026-05-05**|**MILE: Mixture of Incremental LoRA Experts for Continual Semantic Segmentation across Domains and Modalities**|Shishir Muralidhara et.al.|[2605.03555](http://arxiv.org/abs/2605.03555)|null|
 |**2026-05-05**|**VL-SAM-v3: Memory-Guided Visual Priors for Open-World Object Detection**|Chih-Chung Liu et.al.|[2605.03456](http://arxiv.org/abs/2605.03456)|null|
 |**2026-04-30**|**Generalizable Sparse-View 3D Reconstruction from Unconstrained Images**|Vinayak Gupta et.al.|[2604.28193](http://arxiv.org/abs/2604.28193)|null|
-|**2026-04-30**|**Action Motifs: Self-Supervised Hierarchical Representation of Human Body Movements**|Genki Kinoshita et.al.|[2604.28173](http://arxiv.org/abs/2604.28173)|null|
+|**2026-04-30**|**Action Motifs: Self-Supervised Hierarchical Representation of Human Body Movements**|Genki Kinoshita et.al.|[2604.28173](http://arxiv.org/abs/2604.28173)|**[link](https://github.com/kyotovision-public/action-motifs)**|
 |**2026-04-30**|**Beyond Gaussian Bottlenecks: Topologically Aligned Encoding of Vision-Transformer Feature Spaces**|Andrew Bond et.al.|[2604.28122](http://arxiv.org/abs/2604.28122)|null|
 |**2026-04-30**|**From Unstructured Recall to Schema-Grounded Memory: Reliable AI Memory via Iterative, Schema-Aware Extraction**|Alex Petrov et.al.|[2604.27906](http://arxiv.org/abs/2604.27906)|null|
 |**2026-04-30**|**Noise2Map: End-to-End Diffusion Model for Semantic Segmentation and Change Detection**|Ali Shibli et.al.|[2604.27889](http://arxiv.org/abs/2604.27889)|null|
@@ -1424,7 +1424,7 @@ layout: default
 |**2026-08-05**|**Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning**|Boxiu Li et.al.|[2608.05144](http://arxiv.org/abs/2608.05144)|null|
 |**2026-08-05**|**OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling**|Indraneil Paul et.al.|[2608.05141](http://arxiv.org/abs/2608.05141)|null|
 |**2026-08-05**|**SmartMage: Dynamic Modality Orchestration for 3D Scene Understanding**|Yue Zhang et.al.|[2608.05137](http://arxiv.org/abs/2608.05137)|**[link](https://github.com/YueCheong/SmartMage)**|
-|**2026-08-05**|**OPD-V: Visual On-Policy Self-Distillation with Modality Balance**| Aniri et.al.|[2608.05131](http://arxiv.org/abs/2608.05131)|null|
+|**2026-08-05**|**OPD-V: Visual On-Policy Self-Distillation with Modality Balance**|Aniri et.al.|[2608.05131](http://arxiv.org/abs/2608.05131)|null|
 |**2026-08-05**|**Spoken Function Calling: A New Perspective on Spoken Language Understanding for Large Audio Language Models**|Yuezhang Peng et.al.|[2608.05126](http://arxiv.org/abs/2608.05126)|null|
 |**2026-08-05**|**Chained Recursive Language Models for Multi-Iteration Reasoning**|Purbesh Mitra et.al.|[2608.05124](http://arxiv.org/abs/2608.05124)|null|
 |**2026-08-05**|**DASyR-LLM: Domain-Aware Symbolic Regression with LLMs for Kinetic Model Discovery**|Roberto Aliaga Medina et.al.|[2608.05120](http://arxiv.org/abs/2608.05120)|null|
