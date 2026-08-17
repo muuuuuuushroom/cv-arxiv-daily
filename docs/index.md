@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.10
+## Updated on 2026.08.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -1451,10 +1451,10 @@ layout: default
 |**2026-07-23**|**From Resource Flow to Executable Tests: Petri-Net-Guided LLM Test Generation for Concurrent Stateful Rust APIs**|Kaiwen Zhang et.al.|[2607.21530](http://arxiv.org/abs/2607.21530)|null|
 |**2026-07-23**|**Diffusion Language Model for Recommendation**|Chengyi Liu et.al.|[2607.21519](http://arxiv.org/abs/2607.21519)|null|
 |**2026-07-23**|**Improved lower bounds for the Shannon capacity of odd cycles**|Nathaniel Itty et.al.|[2607.21517](http://arxiv.org/abs/2607.21517)|null|
-|**2026-07-20**|**The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric**|Sheng-Yu Wang et.al.|[2607.18237](http://arxiv.org/abs/2607.18237)|null|
+|**2026-07-20**|**The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric**|Sheng-Yu Wang et.al.|[2607.18237](http://arxiv.org/abs/2607.18237)|**[link](https://github.com/adobe-research/TPIPS)**|
 |**2026-07-20**|**Patch Policy: Efficient Embodied Control via Dense Visual Representations**|Gaoyue Zhou et.al.|[2607.18236](http://arxiv.org/abs/2607.18236)|null|
 |**2026-07-20**|**It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief**|Kevin Du et.al.|[2607.18232](http://arxiv.org/abs/2607.18232)|**[link](https://github.com/clarakuempel/EoB)**|
-|**2026-07-20**|**Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs**|Yi Tang et.al.|[2607.18230](http://arxiv.org/abs/2607.18230)|null|
+|**2026-07-20**|**Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs**|Yi Tang et.al.|[2607.18230](http://arxiv.org/abs/2607.18230)|**[link](https://github.com/VILA-Lab/PIXAR-DG)**|
 |**2026-07-20**|**PPL-Factory: Task-Aware and Budget-Aware Data Selection from Language Modeling to Reasoning**|Hang Zhang et.al.|[2607.18199](http://arxiv.org/abs/2607.18199)|null|
 |**2026-07-20**|**OR Else: A Differentiable Trust Region for Policy Optimization**|Chinmay Rane et.al.|[2607.18163](http://arxiv.org/abs/2607.18163)|null|
 |**2026-07-20**|**Testing Retrieval-Augmented Generation Systems with Chunk Coverage**|Jinhan Kim et.al.|[2607.18155](http://arxiv.org/abs/2607.18155)|null|
