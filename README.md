@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.17
+## Updated on 2026.08.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -23,6 +23,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-21**|**OmniAssistBench: Assistant-style Interaction Benchmark for Omni-LLMs**|Xianyun Sun et.al.|[2608.21360](http://arxiv.org/abs/2608.21360)|null|
+|**2026-08-21**|**VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences**|Elaine Lau et.al.|[2608.21357](http://arxiv.org/abs/2608.21357)|null|
+|**2026-08-21**|**ViTacPhys: Physical Property-Aware Grasping from Human Visual-Tactile Demonstrations**|Yiwen Liu et.al.|[2608.21355](http://arxiv.org/abs/2608.21355)|null|
+|**2026-08-21**|**Asymmetric Capacity Allocation in Self-Refinement Pipelines**|Zhuoyi Yang et.al.|[2608.21345](http://arxiv.org/abs/2608.21345)|null|
+|**2026-08-21**|**Move by Move: Measuring and Steering How LLMs Conduct Psychotherapy**|Afonso Baldo et.al.|[2608.21325](http://arxiv.org/abs/2608.21325)|null|
+|**2026-08-21**|**Rethinking Expressivity and Efficiency in Test-Time Training**|Zeyun Zhong et.al.|[2608.21308](http://arxiv.org/abs/2608.21308)|null|
+|**2026-08-21**|**Re $^3$ Cap: Retrieval-Guided Refinement for Image Captioning Enhancement via Reinforcement Learning**|Haonan Jia et.al.|[2608.21305](http://arxiv.org/abs/2608.21305)|null|
+|**2026-08-21**|**Human-AI Collaboration in Requirements Engineering: Evidence of the Negative Effect of LLMs on Requirements Inspection**|Giovanna Broccia et.al.|[2608.21298](http://arxiv.org/abs/2608.21298)|null|
+|**2026-08-21**|**Level-k Distinguishable Mechanisms for Evaluating Bounded Rationality in LLMs**|Binchi Zhang et.al.|[2608.21296](http://arxiv.org/abs/2608.21296)|null|
+|**2026-08-21**|**CLEAR: Continuous Latent Adapter Routing for Utility-Preserving LLM Safety Alignment**|Chengxiao Wang et.al.|[2608.21278](http://arxiv.org/abs/2608.21278)|null|
 |**2026-08-05**|**Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning**|Boxiu Li et.al.|[2608.05144](http://arxiv.org/abs/2608.05144)|null|
 |**2026-08-05**|**OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling**|Indraneil Paul et.al.|[2608.05141](http://arxiv.org/abs/2608.05141)|null|
 |**2026-08-05**|**SmartMage: Dynamic Modality Orchestration for 3D Scene Understanding**|Yue Zhang et.al.|[2608.05137](http://arxiv.org/abs/2608.05137)|**[link](https://github.com/YueCheong/SmartMage)**|
@@ -159,12 +169,22 @@
 |**2026-06-12**|**Abstracting Cross-Domain Action Sequences into Interpretable Workflows**|Gaurav Verma et.al.|[2606.14654](http://arxiv.org/abs/2606.14654)|null|
 |**2026-06-12**|**When Good Verifiers Go Bad: Self-Improving VLMs Can Regress on New Tasks**|Jianzhe Lin et.al.|[2606.14629](http://arxiv.org/abs/2606.14629)|null|
 
-<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260824>back to top</a>)</p>
 
 ## Agent
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-21**|**AI with Authority, from Application to Silicon**|Jason Hickey et.al.|[2608.21356](http://arxiv.org/abs/2608.21356)|null|
+|**2026-08-21**|**Invisible Agents, Uninformed Patients: Towards Responsible Deployment Of Autonomous AI Diagnostic Agents In Sub-Saharan Africa**|Percy Brown et.al.|[2608.21326](http://arxiv.org/abs/2608.21326)|null|
+|**2026-08-21**|**AID-Guard: Stateful Authorization for Delegated Agent Effects**|Yingzhe Tong et.al.|[2608.21159](http://arxiv.org/abs/2608.21159)|null|
+|**2026-08-21**|**Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence**|Yuyuan Feng et.al.|[2608.21156](http://arxiv.org/abs/2608.21156)|null|
+|**2026-08-20**|**AgentDecarbonizer: Carbon-Aware Execution for AI Agents**|Leyi Yan et.al.|[2608.20566](http://arxiv.org/abs/2608.20566)|null|
+|**2026-08-20**|**Bolo: Verified Model Hub for Next-Generation AI Databases**|Yunqi Li et.al.|[2608.20525](http://arxiv.org/abs/2608.20525)|null|
+|**2026-08-20**|**Terminal Agents: A Survey of AI Agents in Command-Line Environments**|Yi Bin et.al.|[2608.20485](http://arxiv.org/abs/2608.20485)|null|
+|**2026-08-20**|**Bringing analytic rigor to agentic AI for science: The Brain Researcher platform for neuroimaging data analysis**|Zijiao Chen et.al.|[2608.19902](http://arxiv.org/abs/2608.19902)|null|
+|**2026-08-20**|**Inadvertent Context Leakage in Language Models**|Jaiden Fairoze et.al.|[2608.19857](http://arxiv.org/abs/2608.19857)|null|
+|**2026-08-20**|**Towards general embodied intelligence: integrating large language models, knowledge bases, and reasoning capabilities to build the next generation of AI agents**|Fujiang Yuan et.al.|[2608.19794](http://arxiv.org/abs/2608.19794)|null|
 |**2026-08-05**|**CoPlan: A Trustworthy Co-Intelligence Interface for Care Planning through Role-Based Contestable Argument Graphs**|Hung Truong Thanh Nguyen et.al.|[2608.05107](http://arxiv.org/abs/2608.05107)|null|
 |**2026-08-05**|**ArtAnno: Annotating Implicit Semantics in Artworks through LLM Agent-Driven Bidirectional Human-AI Augmentation**|Xiaoyan Gu et.al.|[2608.05026](http://arxiv.org/abs/2608.05026)|null|
 |**2026-08-05**|**Embedding Large Language Models into Flow Controls: An Agentic Framework for Adaptive and Trustworthy Automated Cooking**|Zihan Song et.al.|[2608.04768](http://arxiv.org/abs/2608.04768)|null|
@@ -296,12 +316,14 @@
 |**2026-06-12**|**Same-Origin Policy for Agentic Browsers**|Xilong Wang et.al.|[2606.14027](http://arxiv.org/abs/2606.14027)|null|
 |**2026-06-11**|**Minim: Privacy-Aware Minimal View for Agents via Trusted Local Sanitization**|Hexuan Yu et.al.|[2606.13949](http://arxiv.org/abs/2606.13949)|null|
 
-<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260824>back to top</a>)</p>
 
 ## Counting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-18**|**Validated Adaptation for Aerial Crowd Monitoring at Mass Gathering Scale: A Deployment Protocol, a Severity Law, and a Diagnostic for Label-Free Drone Crowd Counting, Toward the FIFA World Cup 2034 (Saudi Arabia)**|AlAnoud AllGhayth et.al.|[2608.17625](http://arxiv.org/abs/2608.17625)|null|
+|**2026-08-15**|**DCA-MoE: Spatially Adaptive Cross-Layer Fusion and Density-Routed Experts for Crowd Counting**|Hao Wang et.al.|[2608.15213](http://arxiv.org/abs/2608.15213)|null|
 |**2026-07-08**|**HAJJv2-CrowdCount: Zero-Shot Benchmark for Dense Crowd Counting**|Reem AlYabis et.al.|[2607.07322](http://arxiv.org/abs/2607.07322)|null|
 |**2026-06-22**|**ABACUS: Adapting Unified Foundation Model for Bridging Image Count Understanding and Generation**|Anindya Mondal et.al.|[2606.23835](http://arxiv.org/abs/2606.23835)|null|
 |**2026-06-17**|**Multi-Modal Hyper-Graph Fusion for Low-Light Crowd Counting**|Hao-Yuan Ma et.al.|[2606.18566](http://arxiv.org/abs/2606.18566)|null|
@@ -316,15 +338,18 @@
 |**2026-03-25**|**Generative Adversarial Perturbations with Cross-paradigm Transferability on Localized Crowd Counting**|Alabi Mehzabin Anisha et.al.|[2603.24821](http://arxiv.org/abs/2603.24821)|null|
 |**2026-03-31**|**Granular Ball Guided Stable Latent Domain Discovery for Domain-General Crowd Counting**|Fan Chen et.al.|[2603.24106](http://arxiv.org/abs/2603.24106)|null|
 
-<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260824>back to top</a>)</p>
 
 ## VTON
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-14**|**InstructVVT: Instruction-Driven Video Virtual Try-On without Auxiliary Spatial Priors**|Dingbao Shao et.al.|[2608.14070](http://arxiv.org/abs/2608.14070)|null|
+|**2026-08-06**|**Controllable Clothing: Precise Labels and Generation for Virtual Try-On with Latent Diffusion Models**|Max Rehman Linder et.al.|[2608.05834](http://arxiv.org/abs/2608.05834)|null|
+|**2026-08-06**|**UniVVT: A Unified End-to-End Framework for High-Fidelity Video Virtual Try-on**|Yushe Cao et.al.|[2608.05745](http://arxiv.org/abs/2608.05745)|null|
 |**2026-07-31**|**Forwardrobe: Garment-Aware Gaussian Avatars from a Single Image**|Daisheng Jin et.al.|[2607.29106](http://arxiv.org/abs/2607.29106)|null|
 |**2026-07-25**|**Fashion-3DLR: A Controllable 3D Garment Generation Using Pairwise Fashion Elements for Intelligent Design**|Shenghao Yang et.al.|[2607.23189](http://arxiv.org/abs/2607.23189)|null|
-|**2026-07-24**|**Layering Virtual Try-On**|Chun Feng et.al.|[2607.22924](http://arxiv.org/abs/2607.22924)|null|
+|**2026-08-18**|**Layering Virtual Try-On**|Chun Feng et.al.|[2607.22924](http://arxiv.org/abs/2607.22924)|null|
 |**2026-07-23**|**Oxygen-TryOn: Fashion-Native Foundation Model for Any-item Virtual Try-On**|Yong Liu et.al.|[2607.21694](http://arxiv.org/abs/2607.21694)|null|
 |**2026-07-22**|**WearWow: Native 2K Multi-Garment Virtual Try-On via Adaptive Token Packing and Preference Alignment**|Xujie Zhang et.al.|[2607.19923](http://arxiv.org/abs/2607.19923)|null|
 |**2026-07-16**|**TAMF-VTON: Texture-Aware Mask-Free Virtual Try-On via High-Fidelity Image Synthesis**|Jie Wang et.al.|[2607.14807](http://arxiv.org/abs/2607.14807)|null|
@@ -349,12 +374,20 @@
 |**2026-05-02**|**SIFT-VTON: Geometric Correspondence Supervision on Cross-Attention for Virtual Try-On**|Kosuke Takemoto et.al.|[2605.01296](http://arxiv.org/abs/2605.01296)|null|
 |**2026-04-30**|**TripVVT: A Large-Scale Triplet Dataset and a Coarse-Mask Baseline for In-the-Wild Video Virtual Try-On**|Dingbao Shao et.al.|[2604.27958](http://arxiv.org/abs/2604.27958)|null|
 
-<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260824>back to top</a>)</p>
 
 ## Multi-modal
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-21**|**A2DINOv3: Rethinking Multi-Modal Object Detection via Socialized Collaboration**|Jiekang Feng et.al.|[2608.21099](http://arxiv.org/abs/2608.21099)|null|
+|**2026-08-19**|**Pedagogical AI in Mental Health: A Tri-Stream Fine-Tuned LLM Framework for Automated Clinical Supervision and Risk Triage**|Shreeya Sharma et.al.|[2608.18438](http://arxiv.org/abs/2608.18438)|null|
+|**2026-08-15**|**PersonaDrive: Controllable Trajectory Prediction with Multi-Dimensional Driving Personas**|Chan Lee et.al.|[2608.15230](http://arxiv.org/abs/2608.15230)|null|
+|**2026-08-13**|**RbFT-Net: Rectify-Before-Fuse Temporal Radar Anchors for 4D Radar-Camera Depth Completion**|Wentao Zhao et.al.|[2608.13102](http://arxiv.org/abs/2608.13102)|null|
+|**2026-08-13**|**Paths: Prompt-aware Spatio-temporal Transformer with Hierarchical Multi-modal Fusion for RGB-Event Video Person Re-Identification**|Yakun Huo et.al.|[2608.13092](http://arxiv.org/abs/2608.13092)|null|
+|**2026-08-11**|**FiGuRO: Intrinsic Dimension Estimation for Multi-Modal Data**|Viktoria Schuster et.al.|[2608.10857](http://arxiv.org/abs/2608.10857)|null|
+|**2026-08-10**|**UniMod: Enhancing Multi-Modal Medical Diagnosis through Cross-Modality and Within-Modality Alignment**|Zijian Gu et.al.|[2608.10316](http://arxiv.org/abs/2608.10316)|null|
+|**2026-08-05**|**Predictive Failure Detection in Network Hardware Using Thermal Imaging and Deep Learning with Sensor Fusion**|Ashly Joseph et.al.|[2608.07582](http://arxiv.org/abs/2608.07582)|null|
 |**2026-07-30**|**Logographic Character Visual Pretraining via Semantic-based Contrastive Learning**|Daqian Shi et.al.|[2608.00096](http://arxiv.org/abs/2608.00096)|null|
 |**2026-07-28**|**Balanced Soft mixture-of-expert model for Glaucoma Detection**|Sai Venkatesh Chilukoti et.al.|[2607.25324](http://arxiv.org/abs/2607.25324)|null|
 |**2026-07-27**|**Co-Learning for Missing Arbitrary Modalities in Multi-modal Classification**|Francisco Mena et.al.|[2607.24683](http://arxiv.org/abs/2607.24683)|null|
@@ -393,7 +426,7 @@
 |**2026-05-27**|**EigeNet: Geometry-Informed Multi-Modal Learning for Few-shot Novel View RIR Prediction**|Chong Jing et.al.|[2605.28101](http://arxiv.org/abs/2605.28101)|null|
 |**2026-05-26**|**NF-TrackLLM: Joint Prediction of UAV Trajectory and Near-Field Beam for LAE XL-MIMO Systems**|Qianfan Lu et.al.|[2605.26928](http://arxiv.org/abs/2605.26928)|null|
 
-<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260824>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
