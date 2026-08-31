@@ -292,7 +292,7 @@
 |**2026-06-30**|**FormIDEAble: Safe and Socially-aware Autonomous Systems**|Livia Lestingi et.al.|[2606.31572](http://arxiv.org/abs/2606.31572)|null|
 |**2026-06-30**|**Design and Implementation of Agentic Orchestrations and Orchestration of Agents**|Stefanie Rinderle-Ma et.al.|[2606.31518](http://arxiv.org/abs/2606.31518)|null|
 |**2026-06-30**|**Governance Gaps in Agent Interoperability Protocols: What MCP, A2A, and ACP Cannot Express**|Richard Kang et.al.|[2606.31498](http://arxiv.org/abs/2606.31498)|null|
-|**2026-06-30**|**Smart charging of large fleets of Electric Vehicles: Independent Multi-Agent Reinforcement Learning approaches**|Xavier Rate et.al.|[2606.31347](http://arxiv.org/abs/2606.31347)|null|
+|**2026-06-30**|**Smart charging of large fleets of Electric Vehicles: Independent Multi-Agent Reinforcement Learning approaches**|Xavier Rate et.al.|[2606.31347](http://arxiv.org/abs/2606.31347)|**[link](https://github.com/Ramya2606/Ramya2606_F723AECEE07301BB313471)**|
 |**2026-06-30**|**The Decomposition Is the Fingerprint: Per-Component Identity for Agent Skills**|Hongliang Liu et.al.|[2606.31272](http://arxiv.org/abs/2606.31272)|null|
 |**2026-06-30**|**Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming**|Yong Yang et.al.|[2606.31227](http://arxiv.org/abs/2606.31227)|null|
 |**2026-06-25**|**Designing Reward Signals for Portable Query Generation: A Case Study in Industrial Semantic Job Search**|Ping Liu et.al.|[2606.27291](http://arxiv.org/abs/2606.27291)|null|
@@ -369,7 +369,7 @@
 |**2026-08-24**|**Beyond the Mirror: Balancing Interaction Modality and Avatar Fidelity in Public 3D Virtual Try-On Systems**|Yueqian Guo et.al.|[2608.23345](http://arxiv.org/abs/2608.23345)|null|
 |**2026-08-14**|**InstructVVT: Instruction-Driven Video Virtual Try-On without Auxiliary Spatial Priors**|Dingbao Shao et.al.|[2608.14070](http://arxiv.org/abs/2608.14070)|null|
 |**2026-08-06**|**Controllable Clothing: Precise Labels and Generation for Virtual Try-On with Latent Diffusion Models**|Max Rehman Linder et.al.|[2608.05834](http://arxiv.org/abs/2608.05834)|null|
-|**2026-08-27**|**UniVVT: A Unified End-to-End Framework for High-Fidelity Video Virtual Try-on**|Yushe Cao et.al.|[2608.05745](http://arxiv.org/abs/2608.05745)|null|
+|**2026-08-27**|**UniVVT: A Unified End-to-End Framework for High-Fidelity Video Virtual Try-on**|Yushe Cao et.al.|[2608.05745](http://arxiv.org/abs/2608.05745)|**[link](https://github.com/caoyushe/UniVVT)**|
 |**2026-07-31**|**Forwardrobe: Garment-Aware Gaussian Avatars from a Single Image**|Daisheng Jin et.al.|[2607.29106](http://arxiv.org/abs/2607.29106)|null|
 |**2026-07-25**|**Fashion-3DLR: A Controllable 3D Garment Generation Using Pairwise Fashion Elements for Intelligent Design**|Shenghao Yang et.al.|[2607.23189](http://arxiv.org/abs/2607.23189)|null|
 |**2026-08-18**|**Layering Virtual Try-On**|Chun Feng et.al.|[2607.22924](http://arxiv.org/abs/2607.22924)|null|

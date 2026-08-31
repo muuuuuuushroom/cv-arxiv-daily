@@ -992,7 +992,7 @@ layout: default
 |**2026-02-18**|**Automated Histopathology Report Generation via Pyramidal Feature Extraction and the UNI Foundation Model**|Ahmet Halici et.al.|[2602.16422](http://arxiv.org/abs/2602.16422)|null|
 |**2026-02-24**|**DriveMamba: Task-Centric Scalable State Space Model for Efficient End-to-End Autonomous Driving**|Haisheng Su et.al.|[2602.13301](http://arxiv.org/abs/2602.13301)|null|
 |**2026-02-11**|**Integrating Unsupervised and Supervised Learning for the Prediction of Defensive Schemes in American football**|Rouven Michels et.al.|[2602.10784](http://arxiv.org/abs/2602.10784)|null|
-|**2026-02-09**|**GaussianCaR: Gaussian Splatting for Efficient Camera-Radar Fusion**|Santiago Montiel-Marín et.al.|[2602.08784](http://arxiv.org/abs/2602.08784)|null|
+|**2026-02-09**|**GaussianCaR: Gaussian Splatting for Efficient Camera-Radar Fusion**|Santiago Montiel-Marín et.al.|[2602.08784](http://arxiv.org/abs/2602.08784)|**[link](https://github.com/santimontiel/gaussiancar)**|
 |**2026-02-08**|**LOCA-bench: Benchmarking Language Agents Under Controllable and Extreme Context Growth**|Weihao Zeng et.al.|[2602.07962](http://arxiv.org/abs/2602.07962)|null|
 |**2026-02-07**|**How does longer temporal context enhance multimodal narrative video processing in the brain?**|Prachi Jindal et.al.|[2602.07570](http://arxiv.org/abs/2602.07570)|null|
 |**2026-02-06**|**THOR: Inductive Link Prediction over Hyper-Relational Knowledge Graphs**|Weijian Yu et.al.|[2602.05424](http://arxiv.org/abs/2602.05424)|null|
@@ -1477,7 +1477,7 @@ layout: default
 |**2026-07-23**|**MIRROR: Learning from the Other View for Multi-Modal Reasoning**|Wen Ye et.al.|[2607.21552](http://arxiv.org/abs/2607.21552)|null|
 |**2026-07-23**|**X $^3$ -OPD: Distilling Reasoning into Large Audio-Language Models via On-Policy Alignment**|Dongjie Fu et.al.|[2607.21550](http://arxiv.org/abs/2607.21550)|null|
 |**2026-07-23**|**From Resource Flow to Executable Tests: Petri-Net-Guided LLM Test Generation for Concurrent Stateful Rust APIs**|Kaiwen Zhang et.al.|[2607.21530](http://arxiv.org/abs/2607.21530)|null|
-|**2026-07-23**|**Diffusion Language Model for Recommendation**|Chengyi Liu et.al.|[2607.21519](http://arxiv.org/abs/2607.21519)|null|
+|**2026-07-23**|**Diffusion Language Model for Recommendation**|Chengyi Liu et.al.|[2607.21519](http://arxiv.org/abs/2607.21519)|**[link](https://github.com/ChengyiLIU-cs/DLMRec)**|
 |**2026-07-23**|**Improved lower bounds for the Shannon capacity of odd cycles**|Nathaniel Itty et.al.|[2607.21517](http://arxiv.org/abs/2607.21517)|null|
 |**2026-07-20**|**The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric**|Sheng-Yu Wang et.al.|[2607.18237](http://arxiv.org/abs/2607.18237)|**[link](https://github.com/adobe-research/TPIPS)**|
 |**2026-07-20**|**Patch Policy: Efficient Embodied Control via Dense Visual Representations**|Gaoyue Zhou et.al.|[2607.18236](http://arxiv.org/abs/2607.18236)|null|
