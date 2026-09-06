@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.01
+## Updated on 2026.09.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -316,7 +316,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-08-24**|**Object Counting Across Modalities: Taxonomies, Benchmarks, Applications, and Open Challenges**|Joana Konadu Owusu et.al.|[2608.23845](http://arxiv.org/abs/2608.23845)|null|
 |**2026-08-18**|**Validated Adaptation for Aerial Crowd Monitoring at Mass Gathering Scale: A Deployment Protocol, a Severity Law, and a Diagnostic for Label-Free Drone Crowd Counting, Toward the FIFA World Cup 2034 (Saudi Arabia)**|AlAnoud AllGhayth et.al.|[2608.17625](http://arxiv.org/abs/2608.17625)|null|
-|**2026-08-15**|**DCA-MoE: Spatially Adaptive Cross-Layer Fusion and Density-Routed Experts for Crowd Counting**|Hao Wang et.al.|[2608.15213](http://arxiv.org/abs/2608.15213)|null|
+|**2026-09-01**|**DCA-MoE: Spatially Adaptive Cross-Layer Fusion and Density-Routed Experts for Crowd Counting**|Hao Wang et.al.|[2608.15213](http://arxiv.org/abs/2608.15213)|null|
 |**2026-07-08**|**HAJJv2-CrowdCount: Zero-Shot Benchmark for Dense Crowd Counting**|Reem AlYabis et.al.|[2607.07322](http://arxiv.org/abs/2607.07322)|null|
 |**2026-06-22**|**ABACUS: Adapting Unified Foundation Model for Bridging Image Count Understanding and Generation**|Anindya Mondal et.al.|[2606.23835](http://arxiv.org/abs/2606.23835)|null|
 |**2026-06-17**|**Multi-Modal Hyper-Graph Fusion for Low-Light Crowd Counting**|Hao-Yuan Ma et.al.|[2606.18566](http://arxiv.org/abs/2606.18566)|null|
@@ -1353,9 +1353,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-03**|**BooM-VVT: Boosting Mask-Free Video Virtual Try-On with Image-Level Pseudo Data**|Wei Zhang et.al.|[2609.04120](http://arxiv.org/abs/2609.04120)|null|
 |**2026-08-31**|**FlowVVTON: Flow-Guided Mask-Free Video Virtual Try-On**|Shengyao Chen et.al.|[2608.30450](http://arxiv.org/abs/2608.30450)|null|
 |**2026-08-30**|**Beyond Global Realism: Virtual Try-On Evaluation and Optimization with Dimension-wise Garment Fidelity Assessment**|Kaidong Zhang et.al.|[2608.29804](http://arxiv.org/abs/2608.29804)|null|
-|**2026-08-28**|**LiveVVT: High-Fidelity Video Virtual Try-On in Real Time**|Yushe Cao et.al.|[2608.26714](http://arxiv.org/abs/2608.26714)|null|
+|**2026-08-28**|**LiveVVT: High-Fidelity Video Virtual Try-On in Real Time**|Yushe Cao et.al.|[2608.26714](http://arxiv.org/abs/2608.26714)|**[link](https://github.com/caoyushe/LiveVVT)**|
 |**2026-08-24**|**Beyond the Mirror: Balancing Interaction Modality and Avatar Fidelity in Public 3D Virtual Try-On Systems**|Yueqian Guo et.al.|[2608.23345](http://arxiv.org/abs/2608.23345)|null|
 |**2026-08-14**|**InstructVVT: Instruction-Driven Video Virtual Try-On without Auxiliary Spatial Priors**|Dingbao Shao et.al.|[2608.14070](http://arxiv.org/abs/2608.14070)|null|
 |**2026-08-06**|**Controllable Clothing: Precise Labels and Generation for Virtual Try-On with Latent Diffusion Models**|Max Rehman Linder et.al.|[2608.05834](http://arxiv.org/abs/2608.05834)|null|
@@ -1431,6 +1432,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-03**|**Principia: Relational Physics Tests for Video Models**|Varun Varma Thozhiyoor et.al.|[2609.04200](http://arxiv.org/abs/2609.04200)|null|
+|**2026-09-03**|**Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints**|Haoyaun Zhu et.al.|[2609.04198](http://arxiv.org/abs/2609.04198)|null|
+|**2026-09-03**|**Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views**|Joseph Lee et.al.|[2609.04180](http://arxiv.org/abs/2609.04180)|null|
+|**2026-09-03**|**Rethinking On-Policy Distillation of Large Language Models II: One Training Example**|Zixuan Fu et.al.|[2609.04172](http://arxiv.org/abs/2609.04172)|**[link](https://github.com/Thinking-Space/One-Shot-OPD)**|
+|**2026-09-03**|**From Deceptive Outputs to Deceptive Mechanisms: A Causal Framework for Language-Model Deception Research**|Yakov Pyotr Shkolnikov et.al.|[2609.04166](http://arxiv.org/abs/2609.04166)|**[link](https://github.com/yshk-mxim/deceptive-mechanism)**|
+|**2026-09-03**|**SENTINEL-RL: Offloading Topological Reasoning from LLM Agents in the Security Operations Center**|Uday Vallabhaneni et.al.|[2609.04159](http://arxiv.org/abs/2609.04159)|null|
+|**2026-09-03**|**Beyond Retrieval: Progressive Latent Memory Evolution for Streaming Video Understanding**|Hongyu Qu et.al.|[2609.04131](http://arxiv.org/abs/2609.04131)|null|
+|**2026-09-03**|**Epistemic Warrant for LLM Recommendations: Characterizing the Basis for Reliance When Ground Truth Is Unavailable**|Shai Vardi et.al.|[2609.04127](http://arxiv.org/abs/2609.04127)|null|
+|**2026-09-03**|**Compressing Streaming Neural Audio Encoders via Latent-Space Distillation**|Prasanth Yadla et.al.|[2609.04102](http://arxiv.org/abs/2609.04102)|null|
+|**2026-09-03**|**Continuous Actions from Discrete Minds: Latent-Aligned Planning for End-to-End Autonomous Driving**|Ruoyu Yao et.al.|[2609.04070](http://arxiv.org/abs/2609.04070)|null|
 |**2026-08-31**|**Agentic research is oxymoronic**|Natalie B. Hogg et.al.|[2608.31161](http://arxiv.org/abs/2608.31161)|null|
 |**2026-08-31**|**OntoAligner-Ensemble: Voting-Based Fusion across Heterogeneous Ontology Alignment Techniques**|Hamed Babaei Giglou et.al.|[2608.31137](http://arxiv.org/abs/2608.31137)|null|
 |**2026-08-31**|**DIASENTINEL: An Auditable Multi-Agent System for Guideline-Grounded Diabetes Risk Screening**|Yung Wei Shueh et.al.|[2608.31128](http://arxiv.org/abs/2608.31128)|null|
@@ -1601,6 +1612,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-03**|**Efficient Test-Time Adaptation through Human-AI Interaction**|Zora Zhiruo Wang et.al.|[2609.04141](http://arxiv.org/abs/2609.04141)|**[link](https://github.com/zorazrw/tahi-agent-adaptation)**|
+|**2026-09-03**|**The Natural Language Interaction Protocol and Standard for AI Agents**|Luyi Xing et.al.|[2609.04135](http://arxiv.org/abs/2609.04135)|**[link](https://github.com/leonleiwang/DevMind-AI-Sentinel)**|
+|**2026-09-03**|**PatchBench: Evaluating AI Agents for Vulnerability Patching**|Chihao Shen et.al.|[2609.04075](http://arxiv.org/abs/2609.04075)|null|
+|**2026-09-03**|**Extending concurrent separation logic to the hardware level to verify the xv6 OS kernel on RISC-V with AI agents**|M. Frans Kaashoek et.al.|[2609.04043](http://arxiv.org/abs/2609.04043)|null|
+|**2026-09-03**|**A Black Box for Agentic Processes: Blockchain-Anchored Evidence for AI Agent Communication, Human Oversight, and GRC Audits**|Arslan Brömme et.al.|[2609.04017](http://arxiv.org/abs/2609.04017)|null|
+|**2026-09-03**|**Shifting from Injection to Interaction: Rethinking Web Security in the Age of LLMs and Beyond**|Nivedita Singh et.al.|[2609.03999](http://arxiv.org/abs/2609.03999)|null|
+|**2026-09-03**|**Value-Preserving Architectures for Agentic AI Systems**|Alessandro Pesare et.al.|[2609.03920](http://arxiv.org/abs/2609.03920)|null|
+|**2026-09-03**|**A Blind Trust, the Bloody Thrust: When Attacker-Controlled Hook Updates Steer AI Agent Harnesses towards Malicious Behaviors**|Pengxun Li et.al.|[2609.03884](http://arxiv.org/abs/2609.03884)|null|
+|**2026-09-03**|**Semantic Bayesian World Models**|Tommaso Soru et.al.|[2609.03834](http://arxiv.org/abs/2609.03834)|null|
+|**2026-09-03**|**DNative-Twin: Decision Graphs and Digital Twins for Reconstructable Agentic Decisions**|Junjie Pang et.al.|[2609.03787](http://arxiv.org/abs/2609.03787)|null|
 |**2026-08-31**|**MNIST-PRO: MNIST is Back as a Partially Observable World for AI Agents**|Vernon Toh et.al.|[2608.31022](http://arxiv.org/abs/2608.31022)|null|
 |**2026-08-31**|**A Human-in-the-Loop Autonomous Agent for Industry Time Series Forecasting**|Xiaoyu Tao et.al.|[2608.30976](http://arxiv.org/abs/2608.30976)|null|
 |**2026-08-31**|**The Hermon Moment: AI Self-Transcendence and Its Human Narration**|Alexei Grinbaum et.al.|[2608.30971](http://arxiv.org/abs/2608.30971)|null|
