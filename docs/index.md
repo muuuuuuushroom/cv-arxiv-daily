@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.11
+## Updated on 2026.09.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -386,9 +386,9 @@ layout: default
 |**2026-05-29**|**Redefining Instance Matching: A Unified Framework for Part-Aware Matching in Panoptic Segmentation Evaluation**|Erik Großkopf et.al.|[2605.31094](http://arxiv.org/abs/2605.31094)|null|
 |**2026-05-29**|**Rethinking Efficient Crack Segmentation with Task-Aligned Structural-Directional Modeling**|Shipeng Liu et.al.|[2605.31048](http://arxiv.org/abs/2605.31048)|null|
 |**2026-05-28**|**Supercharging Thermal Gaussian Splatting with Depth Estimation**|Manoj Biswanath et.al.|[2605.30328](http://arxiv.org/abs/2605.30328)|null|
-|**2026-05-28**|**Cycle Consistency in Video Object-Centric Learning**|Rongzhen Zhao et.al.|[2605.30211](http://arxiv.org/abs/2605.30211)|null|
+|**2026-05-28**|**Cycle Consistency in Video Object-Centric Learning**|Rongzhen Zhao et.al.|[2605.30211](http://arxiv.org/abs/2605.30211)|**[link](https://github.com/Genera1Z/ICC)**|
 |**2026-05-28**|**REACT: A Conditioning Framework for User-Adaptive sEMG Hand Pose Estimation**|Eric Xie et.al.|[2605.30127](http://arxiv.org/abs/2605.30127)|null|
-|**2026-05-28**|**Large Depth Completion Model from Sparse Observations**|Zhu Yu et.al.|[2605.30115](http://arxiv.org/abs/2605.30115)|null|
+|**2026-05-28**|**Large Depth Completion Model from Sparse Observations**|Zhu Yu et.al.|[2605.30115](http://arxiv.org/abs/2605.30115)|**[link](https://github.com/aigc3d/LDCM)**|
 |**2026-05-28**|**xModel-KD: Cross-modal Knowledge Distillation for 3D Scene Perception using LiDAR**|Thenukan Pathmanathan et.al.|[2605.30111](http://arxiv.org/abs/2605.30111)|null|
 |**2026-05-28**|**Towards Consistent Video Geometry Estimation**|Zhu Yu et.al.|[2605.30060](http://arxiv.org/abs/2605.30060)|null|
 |**2026-05-28**|**Mesh-Aware Epipolar Matching for Multi-View Multi-Person 3D Pose Estimation in Basketball**|Li Yin et.al.|[2605.29953](http://arxiv.org/abs/2605.29953)|null|
@@ -790,7 +790,7 @@ layout: default
 |**2025-11-26**|**MoGAN: Improving Motion Quality in Video Diffusion via Few-Step Motion Adversarial Post-Training**|Haotian Xue et.al.|[2511.21592](http://arxiv.org/abs/2511.21592)|null|
 |**2025-11-26**|**Enhanced Landmark Detection Model in Pelvic Fluoroscopy using 2D/3D Registration Loss**|Chou Mo et.al.|[2511.21575](http://arxiv.org/abs/2511.21575)|null|
 |**2025-11-26**|**Video Generation Models Are Good Latent Reward Models**|Xiaoyue Mi et.al.|[2511.21541](http://arxiv.org/abs/2511.21541)|null|
-|**2025-11-26**|**CanKD: Cross-Attention-based Non-local operation for Feature-based Knowledge Distillation**|Shizhe Sun et.al.|[2511.21503](http://arxiv.org/abs/2511.21503)|null|
+|**2025-11-26**|**CanKD: Cross-Attention-based Non-local operation for Feature-based Knowledge Distillation**|Shizhe Sun et.al.|[2511.21503](http://arxiv.org/abs/2511.21503)|**[link](https://github.com/tori-hotaru/CanKD)**|
 
 ## Model Components
 
@@ -1172,8 +1172,8 @@ layout: default
 |**2026-03-26**|**MuRF: Unlocking the Multi-Scale Potential of Vision Foundation Models**|Bocheng Zou et.al.|[2603.25744](http://arxiv.org/abs/2603.25744)|null|
 |**2026-03-26**|**PMT: Plain Mask Transformer for Image and Video Segmentation with Frozen Vision Encoders**|Niccolò Cavagnero et.al.|[2603.25398](http://arxiv.org/abs/2603.25398)|null|
 |**2026-03-26**|**Vision Hopfield Memory Networks**|Jianfeng Wang et.al.|[2603.25157](http://arxiv.org/abs/2603.25157)|null|
-|**2026-03-24**|**Sparse Autoencoders for Interpretable Medical Image Representation Learning**|Philipp Wesp et.al.|[2603.23794](http://arxiv.org/abs/2603.23794)|null|
-|**2026-03-24**|**Estimating Individual Tree Height and Species from UAV Imagery**|Jannik Endres et.al.|[2603.23669](http://arxiv.org/abs/2603.23669)|null|
+|**2026-03-24**|**Sparse Autoencoders for Interpretable Medical Image Representation Learning**|Philipp Wesp et.al.|[2603.23794](http://arxiv.org/abs/2603.23794)|**[link](https://github.com/pwesp/sail)**|
+|**2026-03-24**|**Estimating Individual Tree Height and Species from UAV Imagery**|Jannik Endres et.al.|[2603.23669](http://arxiv.org/abs/2603.23669)|**[link](https://github.com/RolnickLab/DINOvTree)**|
 |**2026-03-25**|**The NCS-Model: A seismic foundation model trained on the Norwegian repository of public data**|Alba Ordonez et.al.|[2603.23211](http://arxiv.org/abs/2603.23211)|null|
 |**2026-03-23**|**CanViT: Toward Active-Vision Foundation Models**|Yohaï-Eliel Berreby et.al.|[2603.22570](http://arxiv.org/abs/2603.22570)|null|
 |**2026-03-20**|**Evaluating Vision Foundation Models for Pixel and Object Classification in Microscopy**|Carolin Teuber et.al.|[2603.19802](http://arxiv.org/abs/2603.19802)|null|
@@ -1187,7 +1187,7 @@ layout: default
 |**2026-03-18**|**EI: Early Intervention for Multimodal Imaging based Disease Recognition**|Qijie Wei et.al.|[2603.17514](http://arxiv.org/abs/2603.17514)|null|
 |**2026-03-18**|**Harnessing the Power of Foundation Models for Accurate Material Classification**|Qingran Lin et.al.|[2603.17390](http://arxiv.org/abs/2603.17390)|null|
 |**2026-03-17**|**Rewarding DINO: Predicting Dense Rewards with Vision Foundation Models**|Pierre Krack et.al.|[2603.16978](http://arxiv.org/abs/2603.16978)|null|
-|**2026-03-18**|**S-VAM: Shortcut Video-Action Model by Self-Distilling Geometric and Semantic Foresight**|Haodong Yan et.al.|[2603.16195](http://arxiv.org/abs/2603.16195)|null|
+|**2026-03-18**|**S-VAM: Shortcut Video-Action Model by Self-Distilling Geometric and Semantic Foresight**|Haodong Yan et.al.|[2603.16195](http://arxiv.org/abs/2603.16195)|**[link](https://github.com/Haodong-Yan/S-VAM)**|
 |**2026-03-13**|**SGMatch: Semantic-Guided Non-Rigid Shape Matching with Flow Regularization**|Tianwei Ye et.al.|[2603.12937](http://arxiv.org/abs/2603.12937)|null|
 |**2026-03-13**|**VFM-Recon: Unlocking Cross-Domain Scene-Level Neural Reconstruction with Scale-Aligned Foundation Priors**|Yuhang Ming et.al.|[2603.12657](http://arxiv.org/abs/2603.12657)|null|
 |**2026-03-12**|**Revisiting Model Stitching In the Foundation Model Era**|Zheda Mai et.al.|[2603.12433](http://arxiv.org/abs/2603.12433)|null|
@@ -1228,10 +1228,10 @@ layout: default
 |**2026-02-22**|**WildOS: Open-Vocabulary Object Search in the Wild**|Hardik Shah et.al.|[2602.19308](http://arxiv.org/abs/2602.19308)|null|
 |**2026-02-21**|**Frame2Freq: Spectral Adapters for Fine-Grained Video Understanding**|Thinesh Thiyakesan Ponbagavathi et.al.|[2602.18977](http://arxiv.org/abs/2602.18977)|null|
 |**2026-02-11**|**1%>100%: High-Efficiency Visual Adapter with Complex Linear Projection Optimization**|Dongshuo Yin et.al.|[2602.10513](http://arxiv.org/abs/2602.10513)|null|
-|**2026-02-09**|**Improving Reconstruction of Representation Autoencoder**|Siyu Liu et.al.|[2602.08620](http://arxiv.org/abs/2602.08620)|null|
+|**2026-02-09**|**Improving Reconstruction of Representation Autoencoder**|Siyu Liu et.al.|[2602.08620](http://arxiv.org/abs/2602.08620)|**[link](https://github.com/modyu-liu/LVRAE)**|
 |**2026-02-09**|**Are Vision Foundation Models Foundational for Electron Microscopy Image Segmentation?**|Caterina Fuster-Barceló et.al.|[2602.08505](http://arxiv.org/abs/2602.08505)|null|
 |**2026-02-10**|**Bi-Adapt: Few-shot Bimanual Adaptation for Novel Categories of 3D Objects via Semantic Correspondence**|Jinxian Zhou et.al.|[2602.08425](http://arxiv.org/abs/2602.08425)|null|
-|**2026-02-11**|**Splat and Distill: Augmenting Teachers with Feed-Forward 3D Reconstruction For 3D-Aware Distillation**|David Shavin et.al.|[2602.06032](http://arxiv.org/abs/2602.06032)|null|
+|**2026-02-11**|**Splat and Distill: Augmenting Teachers with Feed-Forward 3D Reconstruction For 3D-Aware Distillation**|David Shavin et.al.|[2602.06032](http://arxiv.org/abs/2602.06032)|**[link](https://github.com/davidshavin4/Splat-and-Distill)**|
 |**2026-02-05**|**VGGT-Motion: Motion-Aware Calibration-Free Monocular SLAM for Long-Range Consistency**|Zhuang Xiong et.al.|[2602.05508](http://arxiv.org/abs/2602.05508)|null|
 |**2026-02-03**|**Morphe: High-Fidelity Generative Video Streaming with Vision Foundation Model**|Tianyi Gong et.al.|[2602.03529](http://arxiv.org/abs/2602.03529)|null|
 |**2026-02-03**|**Full end-to-end diagnostic workflow automation of 3D OCT via foundation model-driven AI for retinal diseases**|Jinze Zhang et.al.|[2602.03302](http://arxiv.org/abs/2602.03302)|null|
