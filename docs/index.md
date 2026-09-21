@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.16
+## Updated on 2026.09.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -1354,6 +1354,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-16**|**EasyFashion: A Human-AI Co-Creation System for Personalized Fashion Design and Sewing Pattern Generation**|Hong Qu et.al.|[2609.18483](http://arxiv.org/abs/2609.18483)|null|
 |**2026-09-15**|**JewelTry: Mask-Free Scale Aware Jewelry Virtual Try-On**|Xinlei Niu et.al.|[2609.16626](http://arxiv.org/abs/2609.16626)|null|
 |**2026-09-06**|**TryOnReward: Learning Foveated Consistency for Reinforcement Fine-Tuning of Virtual Try-On**|Xueheng Li et.al.|[2609.13259](http://arxiv.org/abs/2609.13259)|null|
 |**2026-09-03**|**BooM-VVT: Boosting Mask-Free Video Virtual Try-On with Image-Level Pseudo Data**|Wei Zhang et.al.|[2609.04120](http://arxiv.org/abs/2609.04120)|null|
@@ -1435,6 +1436,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-18**|**MintAct: A Unified Visual Agent for Digital Environments**|Mingfei Gao et.al.|[2609.22083](http://arxiv.org/abs/2609.22083)|null|
+|**2026-09-18**|**An Interpretable Memory Decision Controller for LLM Agents Based on Three-Signal Complementarity: Decoupling Confidence and Consistency**|Yiming Zhang et.al.|[2609.22043](http://arxiv.org/abs/2609.22043)|null|
+|**2026-09-18**|**Beyond Reactive Assistance: PV-Care Using Low-Density EEG and AI to Provide Proactive, Context-Aware Help for MCI**|Simon L Liu et.al.|[2609.22024](http://arxiv.org/abs/2609.22024)|null|
+|**2026-09-18**|**DiaVLo: Diagnosing Behaviours of Vision-Language Models**|Lorenzo Corti et.al.|[2609.22008](http://arxiv.org/abs/2609.22008)|null|
+|**2026-09-18**|**Abstention and Noise Filtering: Two Missing Primitives of Softmax Attention**|Richard Zhe Wang et.al.|[2609.22005](http://arxiv.org/abs/2609.22005)|null|
+|**2026-09-18**|**A Lie Detector Test for Language Models: Reading Knowledge a Model Won't Reveal**|Hiskias Dingeto et.al.|[2609.21996](http://arxiv.org/abs/2609.21996)|null|
+|**2026-09-18**|**NemotronLabs VoiceChat: An Open Full-duplex Speech-to-Speech Model with Tool Calling Capabilities**|Jagadeesh Balam et.al.|[2609.21967](http://arxiv.org/abs/2609.21967)|null|
+|**2026-09-18**|**When Should a Failing Robot Ask? Initiating Corrective Human-Robot Dialogue from Audited Sensor Evidence**|Eshika Pathak et.al.|[2609.21942](http://arxiv.org/abs/2609.21942)|null|
+|**2026-09-18**|**AutoViewMem: Self-Configuring Orthogonal Views for Conversational Long-Term Memory**|Zijie Cao et.al.|[2609.21940](http://arxiv.org/abs/2609.21940)|null|
+|**2026-09-18**|**Can I Trust My Body? A Three-Year Autoethnography of ChatGPT's Place in My Support System for Panic Attacks**|Dongyijie Primo Pan et.al.|[2609.21925](http://arxiv.org/abs/2609.21925)|null|
 |**2026-09-15**|**When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control**|Ali Şenol et.al.|[2609.17516](http://arxiv.org/abs/2609.17516)|null|
 |**2026-09-15**|**What Breaks Under Pruning in Smart Homes, and When? Evaluating LLM Degradation Across Architectures and Task Complexity**|Congjing Zhang et.al.|[2609.17515](http://arxiv.org/abs/2609.17515)|null|
 |**2026-09-15**|**LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs**|Thanapat Trachu et.al.|[2609.17509](http://arxiv.org/abs/2609.17509)|null|
@@ -1635,6 +1646,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-18**|**APort Vault: Benchmarking AI Agent Payment Authorization with the Open Agent Passport**|Uchi Uchibeke et.al.|[2609.22076](http://arxiv.org/abs/2609.22076)|null|
+|**2026-09-18**|**Value-Sensitive Delegation in Everyday AI Agent Use: Evidence from OpenClaw**|Renkai Ma et.al.|[2609.22067](http://arxiv.org/abs/2609.22067)|null|
+|**2026-09-18**|**Supporting Industrial Test-Failure Analysis with LLM-Based Systems: An Experience Report**|Eric Jansson et.al.|[2609.21843](http://arxiv.org/abs/2609.21843)|null|
+|**2026-09-18**|**An Agentic Just-in-Time Adaptive Intervention System for Personalized Sleep Support: Proof-of-Concept Study with N of 1 Data**|Nick Rezaee et.al.|[2609.21805](http://arxiv.org/abs/2609.21805)|null|
+|**2026-09-18**|**kgsteward: a tool for building, reproducing and maintaining distributed knowledge graphs**|Marco Pagni et.al.|[2609.21564](http://arxiv.org/abs/2609.21564)|null|
+|**2026-09-18**|**People escalate against a competitor labelled human and hold back against one labelled an optimising machine**|Vinicius Ferraz et.al.|[2609.21439](http://arxiv.org/abs/2609.21439)|null|
+|**2026-09-18**|**ArenaFlow: From Trajectory Ranking to Hierarchical Credit Propagation for Open-Ended Agent RL**|Qiang Zhang et.al.|[2609.21378](http://arxiv.org/abs/2609.21378)|null|
+|**2026-09-18**|**LEGIT: Credentialing Protocol for Trustworthy AI Agent Marketplaces**|Steve Drew et.al.|[2609.21325](http://arxiv.org/abs/2609.21325)|null|
+|**2026-09-18**|**ASTRA: Toward Agentic AI for Intelligent Device-Network-Cloud Synergy in Next-Generation Mobile Communication**|Yalong Guo et.al.|[2609.21298](http://arxiv.org/abs/2609.21298)|null|
+|**2026-09-18**|**Authorization Revocation for Long-Running AI Agents: Root-Scoped Quiescence under Delegation and Asynchronous Execution**|Genliang Zhu et.al.|[2609.21284](http://arxiv.org/abs/2609.21284)|null|
 |**2026-09-15**|**Agentic Societies Need a Social Harness**|Tapan Chugh et.al.|[2609.17527](http://arxiv.org/abs/2609.17527)|null|
 |**2026-09-15**|**FlashVector: Agent for Hierarchical Model Serving Stack Optimization**|Qi Wu et.al.|[2609.17391](http://arxiv.org/abs/2609.17391)|null|
 |**2026-09-15**|**Self-Emergence Agent Architecture:Behavior-Inertia HMM, Reflexive Metacognition,and Social-Contrastive Self-Modeling**|Xiaoyang Liu et.al.|[2609.17331](http://arxiv.org/abs/2609.17331)|null|
@@ -1830,6 +1851,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-18**|**Refine Then Fusion: Training-Free 3D Point Cloud Adaptation with Priority Refinement and Multi-Modal Knowledge Fusion**|Hang Cheng et.al.|[2609.21522](http://arxiv.org/abs/2609.21522)|null|
 |**2026-09-14**|**MM-LMPC: Multi-Modal Learning Model Predictive Control via Mode-Specific Terminal Design and Bandit-Based Exploration**|Wataru Hashimoto et.al.|[2609.15623](http://arxiv.org/abs/2609.15623)|null|
 |**2026-08-21**|**Topogram-Gated Multi-Modal Pseudo-CT Synthesis for PET/MR Attenuation Correction**|Joris Wuts et.al.|[2609.11966](http://arxiv.org/abs/2609.11966)|null|
 |**2026-09-10**|**Learning JWST. I. A Foundation Model for New Population Discoveries and Morphology-Aware Photometric Redshift Measurements in the JADES Survey**|Jiani Ding et.al.|[2609.11879](http://arxiv.org/abs/2609.11879)|null|
