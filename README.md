@@ -479,8 +479,8 @@
 |**2026-08-27**|**UniVVT: A Unified End-to-End Framework for High-Fidelity Video Virtual Try-on**|Yushe Cao et.al.|[2608.05745](http://arxiv.org/abs/2608.05745)|null|
 |**2026-07-31**|**Forwardrobe: Garment-Aware Gaussian Avatars from a Single Image**|Daisheng Jin et.al.|[2607.29106](http://arxiv.org/abs/2607.29106)|null|
 |**2026-07-25**|**Fashion-3DLR: A Controllable 3D Garment Generation Using Pairwise Fashion Elements for Intelligent Design**|Shenghao Yang et.al.|[2607.23189](http://arxiv.org/abs/2607.23189)|null|
-|**2026-08-18**|**Layering Virtual Try-On**|Chun Feng et.al.|[2607.22924](http://arxiv.org/abs/2607.22924)|null|
-|**2026-07-23**|**Oxygen-TryOn: Fashion-Native Foundation Model for Any-item Virtual Try-On**|Yong Liu et.al.|[2607.21694](http://arxiv.org/abs/2607.21694)|null|
+|**2026-08-18**|**Layering Virtual Try-On**|Chun Feng et.al.|[2607.22924](http://arxiv.org/abs/2607.22924)|**[link](https://github.com/separk-1/multi-layer-vton)**|
+|**2026-07-23**|**Oxygen-TryOn: Fashion-Native Foundation Model for Any-item Virtual Try-On**|Yong Liu et.al.|[2607.21694](http://arxiv.org/abs/2607.21694)|**[link](https://github.com/OxygenVision/Oxygen-TryOn)**|
 |**2026-07-22**|**WearWow: Native 2K Multi-Garment Virtual Try-On via Adaptive Token Packing and Preference Alignment**|Xujie Zhang et.al.|[2607.19923](http://arxiv.org/abs/2607.19923)|null|
 |**2026-07-16**|**TAMF-VTON: Texture-Aware Mask-Free Virtual Try-On via High-Fidelity Image Synthesis**|Jie Wang et.al.|[2607.14807](http://arxiv.org/abs/2607.14807)|null|
 |**2026-07-13**|**Structure-Detail Decoupled Autoregressive Generation for Fast and High-Fidelity Virtual Try-On**|Lu Yang et.al.|[2607.11233](http://arxiv.org/abs/2607.11233)|null|
