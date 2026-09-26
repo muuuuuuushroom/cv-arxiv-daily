@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.21
+## Updated on 2026.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -23,6 +23,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-24**|**OmniFabric: Coherent UV Space Texture Synthesis for 3D Garment Reconstruction**|Ding-Jiun Huang et.al.|[2609.30234](http://arxiv.org/abs/2609.30234)|**[link](https://github.com/humansensinglab/OmniFabric)**|
+|**2026-09-24**|**To Trust or Not to Trust: Retrieval-Augmented Fact Checking in Speech**|Debajyoti Mazumder et.al.|[2609.30227](http://arxiv.org/abs/2609.30227)|null|
+|**2026-09-24**|**Requirement-Bound Verified Commissioning: A Frozen Four-Billion-Parameter Local Model as a Candidate Generator under an External Acceptance Layer with Verification and Release Authority**|Mehmet Iscan et.al.|[2609.30219](http://arxiv.org/abs/2609.30219)|null|
+|**2026-09-24**|**Minimally Invasive Steering of Language Models**|Taha Entesari et.al.|[2609.30218](http://arxiv.org/abs/2609.30218)|null|
+|**2026-09-24**|**The Alignment Illusion in Multimodal Large Language Models**|Hong-Han Wang et.al.|[2609.30210](http://arxiv.org/abs/2609.30210)|**[link](https://github.com/Malik-Wang/Alignment_Illusion)**|
+|**2026-09-24**|**A Living Benchmark for Information Retrieval from Electronic Health Records**|Jordan L. Cahoon et.al.|[2609.30205](http://arxiv.org/abs/2609.30205)|null|
+|**2026-09-24**|**SAGE: Mitigating Long-Horizon Reasoning Biases via Topological Guidance**|Xinyue Zeng et.al.|[2609.30192](http://arxiv.org/abs/2609.30192)|null|
+|**2026-09-24**|**Jev-Mobile: Jev as an Executor for Mobile GUI Agents**|Linghua Zhang et.al.|[2609.30186](http://arxiv.org/abs/2609.30186)|null|
+|**2026-09-24**|**NEUROTESTGEN: Neuro-Symbolic Guided Test Generation with Large Language Models**|Ruixin Zhang et.al.|[2609.30178](http://arxiv.org/abs/2609.30178)|null|
+|**2026-09-24**|**Search-Aware Reinforcement Learning for Multi-Component Query Understanding in Roblox Game Search**|Nayoung Choi et.al.|[2609.30177](http://arxiv.org/abs/2609.30177)|null|
 |**2026-09-18**|**MintAct: A Unified Visual Agent for Digital Environments**|Mingfei Gao et.al.|[2609.22083](http://arxiv.org/abs/2609.22083)|null|
 |**2026-09-18**|**An Interpretable Memory Decision Controller for LLM Agents Based on Three-Signal Complementarity: Decoupling Confidence and Consistency**|Yiming Zhang et.al.|[2609.22043](http://arxiv.org/abs/2609.22043)|null|
 |**2026-09-18**|**Beyond Reactive Assistance: PV-Care Using Low-Density EEG and AI to Provide Proactive, Context-Aware Help for MCI**|Simon L Liu et.al.|[2609.22024](http://arxiv.org/abs/2609.22024)|null|
@@ -229,12 +239,22 @@
 |**2026-06-12**|**Abstracting Cross-Domain Action Sequences into Interpretable Workflows**|Gaurav Verma et.al.|[2606.14654](http://arxiv.org/abs/2606.14654)|null|
 |**2026-06-12**|**When Good Verifiers Go Bad: Self-Improving VLMs Can Regress on New Tasks**|Jianzhe Lin et.al.|[2606.14629](http://arxiv.org/abs/2606.14629)|null|
 
-<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260926>back to top</a>)</p>
 
 ## Agent
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-24**|**Screen Before You Serve: Simulation for Production Customer Experience AI Agents at 140M Scale**|Edesio Alcoba et.al.|[2609.30137](http://arxiv.org/abs/2609.30137)|null|
+|**2026-09-24**|**Advancing Model Research in AgentX: Long-Horizon Autonomy for Industrial Recommender Systems**|Shuang Yang et.al.|[2609.30001](http://arxiv.org/abs/2609.30001)|null|
+|**2026-09-24**|**Working with Agentic `Teammates': When a New Organizational Actor Collides with the Human Ecosystem of Work**|Rida Qadri et.al.|[2609.29901](http://arxiv.org/abs/2609.29901)|null|
+|**2026-09-24**|**Hard Stop: Kernel-Level Preemption and Containment for Rogue Agentic Execution**|José Luis Pino et.al.|[2609.29808](http://arxiv.org/abs/2609.29808)|**[link](https://github.com/joseluispino/hardstop)**|
+|**2026-09-24**|**Breaking the Environment Wall: Evolving LLM Agent Environments for Recursive Self-Improvement**|Yukai Wu et.al.|[2609.29773](http://arxiv.org/abs/2609.29773)|null|
+|**2026-09-24**|**DocuTeam: Mixed-Initiative Multi-Agent Discussions around Evolving Documents**|Heechan Lee et.al.|[2609.29309](http://arxiv.org/abs/2609.29309)|null|
+|**2026-09-24**|**Beneath the Scores: Rethinking Hallucination Evaluation for Video Understanding Models**|Shuzhi Gong et.al.|[2609.28991](http://arxiv.org/abs/2609.28991)|null|
+|**2026-09-24**|**Back to the Definition: Estimating Step-Level Advantages via Trajectory Graphs for Agentic Reinforcement Learning**|Xincheng Yao et.al.|[2609.28963](http://arxiv.org/abs/2609.28963)|null|
+|**2026-09-23**|**RECLAIM: Can Agents Reproduce the Claims of Machine Learning Papers?**|Mithil Salunkhe et.al.|[2609.28850](http://arxiv.org/abs/2609.28850)|null|
+|**2026-09-23**|**Blockchain-Enabled Artificial Intelligence and AI Agents for Secure Data Sharing and Cybersecurity Applications**|Harsh Verma et.al.|[2609.28843](http://arxiv.org/abs/2609.28843)|null|
 |**2026-09-18**|**APort Vault: Benchmarking AI Agent Payment Authorization with the Open Agent Passport**|Uchi Uchibeke et.al.|[2609.22076](http://arxiv.org/abs/2609.22076)|null|
 |**2026-09-18**|**Value-Sensitive Delegation in Everyday AI Agent Use: Evidence from OpenClaw**|Renkai Ma et.al.|[2609.22067](http://arxiv.org/abs/2609.22067)|null|
 |**2026-09-18**|**Supporting Industrial Test-Failure Analysis with LLM-Based Systems: An Experience Report**|Eric Jansson et.al.|[2609.21843](http://arxiv.org/abs/2609.21843)|null|
@@ -436,12 +456,13 @@
 |**2026-06-12**|**Same-Origin Policy for Agentic Browsers**|Xilong Wang et.al.|[2606.14027](http://arxiv.org/abs/2606.14027)|null|
 |**2026-06-11**|**Minim: Privacy-Aware Minimal View for Agents via Trusted Local Sanitization**|Hexuan Yu et.al.|[2606.13949](http://arxiv.org/abs/2606.13949)|null|
 
-<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260926>back to top</a>)</p>
 
 ## Counting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-19**|**CrowdCue: Specialist-Cue Conditioning for Vision-Language Crowd Counting**|Moshiur Farazi et.al.|[2609.23012](http://arxiv.org/abs/2609.23012)|null|
 |**2026-09-14**|**How Good Are Time-Series Foundation Models for Pedestrian Crowd Count Forecasting? A Cross-Dataset Comparative Study**|Theivaprakasham Hari et.al.|[2609.16415](http://arxiv.org/abs/2609.16415)|null|
 |**2026-08-24**|**Object Counting Across Modalities: Taxonomies, Benchmarks, Applications, and Open Challenges**|Joana Konadu Owusu et.al.|[2608.23845](http://arxiv.org/abs/2608.23845)|null|
 |**2026-08-18**|**Validated Adaptation for Aerial Crowd Monitoring at Mass Gathering Scale: A Deployment Protocol, a Severity Law, and a Diagnostic for Label-Free Drone Crowd Counting, Toward the FIFA World Cup 2034 (Saudi Arabia)**|AlAnoud AllGhayth et.al.|[2608.17625](http://arxiv.org/abs/2608.17625)|null|
@@ -460,13 +481,14 @@
 |**2026-03-25**|**Generative Adversarial Perturbations with Cross-paradigm Transferability on Localized Crowd Counting**|Alabi Mehzabin Anisha et.al.|[2603.24821](http://arxiv.org/abs/2603.24821)|null|
 |**2026-03-31**|**Granular Ball Guided Stable Latent Domain Discovery for Domain-General Crowd Counting**|Fan Chen et.al.|[2603.24106](http://arxiv.org/abs/2603.24106)|null|
 
-<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260926>back to top</a>)</p>
 
 ## VTON
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-09-16**|**EasyFashion: A Human-AI Co-Creation System for Personalized Fashion Design and Sewing Pattern Generation**|Hong Qu et.al.|[2609.18483](http://arxiv.org/abs/2609.18483)|null|
+|**2026-09-22**|**Delving into Asymmetric Information Dynamics for High-Fidelity Virtual Try-On**|Zishu Qin et.al.|[2609.25881](http://arxiv.org/abs/2609.25881)|null|
+|**2026-09-21**|**EasyFashion: A Human-AI Co-Creation System for Personalized Fashion Design and Sewing Pattern Generation**|Hong Qu et.al.|[2609.18483](http://arxiv.org/abs/2609.18483)|null|
 |**2026-09-15**|**JewelTry: Mask-Free Scale Aware Jewelry Virtual Try-On**|Xinlei Niu et.al.|[2609.16626](http://arxiv.org/abs/2609.16626)|null|
 |**2026-09-06**|**TryOnReward: Learning Foveated Consistency for Reinforcement Fine-Tuning of Virtual Try-On**|Xueheng Li et.al.|[2609.13259](http://arxiv.org/abs/2609.13259)|null|
 |**2026-09-03**|**BooM-VVT: Boosting Mask-Free Video Virtual Try-On with Image-Level Pseudo Data**|Wei Zhang et.al.|[2609.04120](http://arxiv.org/abs/2609.04120)|null|
@@ -504,12 +526,14 @@
 |**2026-05-02**|**SIFT-VTON: Geometric Correspondence Supervision on Cross-Attention for Virtual Try-On**|Kosuke Takemoto et.al.|[2605.01296](http://arxiv.org/abs/2605.01296)|null|
 |**2026-04-30**|**TripVVT: A Large-Scale Triplet Dataset and a Coarse-Mask Baseline for In-the-Wild Video Virtual Try-On**|Dingbao Shao et.al.|[2604.27958](http://arxiv.org/abs/2604.27958)|null|
 
-<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260926>back to top</a>)</p>
 
 ## Multi-modal
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-20**|**Knowing When to Trust Images: Reliability-Aware Multi-modal Entity Alignment**|Chenxiao Li et.al.|[2609.23267](http://arxiv.org/abs/2609.23267)|null|
+|**2026-09-19**|**M3GA-Wild: A Large-Scale Dataset and Benchmark for Multi-Modal Multi-session Ground-to-Aerial Place Recognition in Forests**|Ethan Griffiths et.al.|[2609.23003](http://arxiv.org/abs/2609.23003)|null|
 |**2026-09-18**|**Refine Then Fusion: Training-Free 3D Point Cloud Adaptation with Priority Refinement and Multi-Modal Knowledge Fusion**|Hang Cheng et.al.|[2609.21522](http://arxiv.org/abs/2609.21522)|null|
 |**2026-09-14**|**MM-LMPC: Multi-Modal Learning Model Predictive Control via Mode-Specific Terminal Design and Bandit-Based Exploration**|Wataru Hashimoto et.al.|[2609.15623](http://arxiv.org/abs/2609.15623)|null|
 |**2026-08-21**|**Topogram-Gated Multi-Modal Pseudo-CT Synthesis for PET/MR Attenuation Correction**|Joris Wuts et.al.|[2609.11966](http://arxiv.org/abs/2609.11966)|null|
@@ -564,7 +588,7 @@
 |**2026-05-27**|**EigeNet: Geometry-Informed Multi-Modal Learning for Few-shot Novel View RIR Prediction**|Chong Jing et.al.|[2605.28101](http://arxiv.org/abs/2605.28101)|null|
 |**2026-05-26**|**NF-TrackLLM: Joint Prediction of UAV Trajectory and Near-Field Beam for LAE XL-MIMO Systems**|Qianfan Lu et.al.|[2605.26928](http://arxiv.org/abs/2605.26928)|null|
 
-<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260926>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
