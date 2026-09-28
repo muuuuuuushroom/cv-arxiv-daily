@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.26
+## Updated on 2026.09.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -1237,7 +1237,7 @@ layout: default
 |**2026-02-05**|**VGGT-Motion: Motion-Aware Calibration-Free Monocular SLAM for Long-Range Consistency**|Zhuang Xiong et.al.|[2602.05508](http://arxiv.org/abs/2602.05508)|null|
 |**2026-02-03**|**Morphe: High-Fidelity Generative Video Streaming with Vision Foundation Model**|Tianyi Gong et.al.|[2602.03529](http://arxiv.org/abs/2602.03529)|null|
 |**2026-02-03**|**Full end-to-end diagnostic workflow automation of 3D OCT via foundation model-driven AI for retinal diseases**|Jinze Zhang et.al.|[2602.03302](http://arxiv.org/abs/2602.03302)|null|
-|**2026-02-03**|**FSOD-VFM: Few-Shot Object Detection with Vision Foundation Models and Graph Diffusion**|Chen-Bin Feng et.al.|[2602.03137](http://arxiv.org/abs/2602.03137)|null|
+|**2026-02-03**|**FSOD-VFM: Few-Shot Object Detection with Vision Foundation Models and Graph Diffusion**|Chen-Bin Feng et.al.|[2602.03137](http://arxiv.org/abs/2602.03137)|**[link](https://github.com/Intellindust-AI-Lab/FSOD-VFM)**|
 |**2026-02-02**|**CryoLVM: Self-supervised Learning from Cryo-EM Density Maps with Large Vision Models**|Weining Fu et.al.|[2602.02620](http://arxiv.org/abs/2602.02620)|null|
 |**2026-02-02**|**SelvaMask: Segmenting Trees in Tropical Forests and Beyond**|Simon-Olivier Duguay et.al.|[2602.02426](http://arxiv.org/abs/2602.02426)|null|
 |**2026-02-02**|**SPIRIT: Adapting Vision Foundation Models for Unified Single- and Multi-Frame Infrared Small Target Detection**|Qian Xu et.al.|[2602.01843](http://arxiv.org/abs/2602.01843)|null|
@@ -1415,7 +1415,7 @@ layout: default
 |**2026-02-27**|**Spatio-Temporal Garment Reconstruction Using Diffusion Mapping via Pattern Coordinates**|Yingxuan You et.al.|[2602.24043](http://arxiv.org/abs/2602.24043)|**[link](https://github.com/kasvii/DMap)**|
 |**2026-02-19**|**CORAL: Correspondence Alignment for Improved Virtual Try-On**|Jiyoung Kim et.al.|[2602.17636](http://arxiv.org/abs/2602.17636)|null|
 |**2026-02-18**|**DressWild: Feed-Forward Pose-Agnostic Garment Sewing Pattern Generation from In-the-Wild Images**|Zeng Tao et.al.|[2602.16502](http://arxiv.org/abs/2602.16502)|null|
-|**2026-02-16**|**OmniVTON++: Training-Free Universal Virtual Try-On with Principal Pose Guidance**|Zhaotong Yang et.al.|[2602.14552](http://arxiv.org/abs/2602.14552)|null|
+|**2026-02-16**|**OmniVTON++: Training-Free Universal Virtual Try-On with Principal Pose Guidance**|Zhaotong Yang et.al.|[2602.14552](http://arxiv.org/abs/2602.14552)|**[link](https://github.com/Jerome-Young/OmniVTON-PlusPlus)**|
 |**2026-01-30**|**Neural Clothing Tryer: Customized Virtual Try-On via Semantic Enhancement and Controlling Diffusion Model**|Zhijing Yang et.al.|[2601.22838](http://arxiv.org/abs/2601.22838)|null|
 |**2026-01-30**|**OpenVTON-Bench: A Large-Scale High-Resolution Benchmark for Controllable Virtual Try-On Evaluation**|Jin Li et.al.|[2601.22725](http://arxiv.org/abs/2601.22725)|null|
 |**2026-01-23**|**GlassesGB: Controllable 2D GAN-Based Eyewear Personalization for 3D Gaussian Blendshapes Head Avatars**|Rui-Yang Ju et.al.|[2601.17088](http://arxiv.org/abs/2601.17088)|null|
