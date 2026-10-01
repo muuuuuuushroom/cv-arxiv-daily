@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.28
+## Updated on 2026.10.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -314,6 +314,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-27**|**A Free Knob: Decoupling Calibration and Predictive Skill in Threshold-Based Evaluation**|Md Tanveer Hossain Munim et.al.|[2609.33457](http://arxiv.org/abs/2609.33457)|null|
 |**2026-09-19**|**CrowdCue: Specialist-Cue Conditioning for Vision-Language Crowd Counting**|Moshiur Farazi et.al.|[2609.23012](http://arxiv.org/abs/2609.23012)|null|
 |**2026-09-14**|**How Good Are Time-Series Foundation Models for Pedestrian Crowd Count Forecasting? A Cross-Dataset Comparative Study**|Theivaprakasham Hari et.al.|[2609.16415](http://arxiv.org/abs/2609.16415)|null|
 |**2026-08-24**|**Object Counting Across Modalities: Taxonomies, Benchmarks, Applications, and Open Challenges**|Joana Konadu Owusu et.al.|[2608.23845](http://arxiv.org/abs/2608.23845)|null|
@@ -1355,6 +1356,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-30**|**TexTailor: Texture-Preserving Video Virtual Try-On via Adaptive Garment Conditioning**|Zijing Qin et.al.|[2609.39335](http://arxiv.org/abs/2609.39335)|null|
+|**2026-09-28**|**Mind the RefGAP: Correcting Reference Attention in Diffusion-Based Visual Editing**|Yanan Wang et.al.|[2609.35708](http://arxiv.org/abs/2609.35708)|null|
 |**2026-09-22**|**Delving into Asymmetric Information Dynamics for High-Fidelity Virtual Try-On**|Zishu Qin et.al.|[2609.25881](http://arxiv.org/abs/2609.25881)|null|
 |**2026-09-21**|**EasyFashion: A Human-AI Co-Creation System for Personalized Fashion Design and Sewing Pattern Generation**|Hong Qu et.al.|[2609.18483](http://arxiv.org/abs/2609.18483)|null|
 |**2026-09-15**|**JewelTry: Mask-Free Scale Aware Jewelry Virtual Try-On**|Xinlei Niu et.al.|[2609.16626](http://arxiv.org/abs/2609.16626)|null|
@@ -1438,6 +1441,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-30**|**Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis**|Tian Xia et.al.|[2609.40361](http://arxiv.org/abs/2609.40361)|**[link](https://github.com/ranking-pe/ranking-pe.github.io)**|
+|**2026-09-30**|**Semifactual Credit-Augmented Policy Optimization**|Junshu Pan et.al.|[2609.40360](http://arxiv.org/abs/2609.40360)|null|
+|**2026-09-30**|**EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery**|Young-Jun Lee et.al.|[2609.40340](http://arxiv.org/abs/2609.40340)|**[link](https://github.com/Open-Galapagos/evoduet_project_page)**|
+|**2026-09-30**|**Is Weight Tying Still Beneficial for Decoder-Only LLMs in Private Settings Under DP-SGD?**|Razan El Mais et.al.|[2609.40335](http://arxiv.org/abs/2609.40335)|null|
+|**2026-09-30**|**WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents**|Ziyan Jiang et.al.|[2609.40325](http://arxiv.org/abs/2609.40325)|null|
+|**2026-09-30**|**Cogentic: Multi-Agent Orchestration for Automated Proof Discovery**|Yang Cai et.al.|[2609.40324](http://arxiv.org/abs/2609.40324)|null|
+|**2026-09-30**|**MatLoom: Layered Text-to-Material Generation in a Compact Program Space**|Anson Y. Lam et.al.|[2609.40322](http://arxiv.org/abs/2609.40322)|null|
+|**2026-09-30**|**How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?**|Kirill Brilliantov et.al.|[2609.40303](http://arxiv.org/abs/2609.40303)|null|
+|**2026-09-30**|**Open Capacity Pooling in Agentic Supply Chains: Coordination-Directed LLM Discovery and Distributed Re-optimization**|Yujia Xu et.al.|[2609.40296](http://arxiv.org/abs/2609.40296)|null|
+|**2026-09-30**|**How Much Is an AI Token Worth? Scaling Laws for Wild AI-Generated Web Text**|Jenna Russell et.al.|[2609.40295](http://arxiv.org/abs/2609.40295)|null|
 |**2026-09-24**|**OmniFabric: Coherent UV Space Texture Synthesis for 3D Garment Reconstruction**|Ding-Jiun Huang et.al.|[2609.30234](http://arxiv.org/abs/2609.30234)|**[link](https://github.com/humansensinglab/OmniFabric)**|
 |**2026-09-24**|**To Trust or Not to Trust: Retrieval-Augmented Fact Checking in Speech**|Debajyoti Mazumder et.al.|[2609.30227](http://arxiv.org/abs/2609.30227)|null|
 |**2026-09-24**|**Requirement-Bound Verified Commissioning: A Frozen Four-Billion-Parameter Local Model as a Candidate Generator under an External Acceptance Layer with Verification and Release Authority**|Mehmet Iscan et.al.|[2609.30219](http://arxiv.org/abs/2609.30219)|null|
@@ -1658,6 +1671,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-30**|**Skill-Based AI Agents for Power-System Studies**|Pavel Etingov et.al.|[2609.40272](http://arxiv.org/abs/2609.40272)|null|
+|**2026-09-30**|**Herschel: Continuous Optimization of Production LLM Inference through On-Demand Profiling**|Luping Wang et.al.|[2609.40247](http://arxiv.org/abs/2609.40247)|null|
+|**2026-09-30**|**Who Asked for This? Inline Annotations as Authoring Transactions for Provenance in Agentic Authoring**|Chang Xiao et.al.|[2609.40126](http://arxiv.org/abs/2609.40126)|null|
+|**2026-09-30**|**AIMS: An Agentic AI Framework for Sim-to-Real Multi-Modal ISAC**|Yijie Bian et.al.|[2609.39964](http://arxiv.org/abs/2609.39964)|null|
+|**2026-09-30**|**Privacy Foundations for Multi-Institutional Scientific Artificial Intelligence**|Olivera Kotevska et.al.|[2609.39787](http://arxiv.org/abs/2609.39787)|null|
+|**2026-09-30**|**Trust Is Not a Score: Runtime Assurance Contracts for High-Risk AI Agents**|Serhii Zabolotnii et.al.|[2609.39717](http://arxiv.org/abs/2609.39717)|null|
+|**2026-09-30**|**Pretext: Defeating Malicious Skill Detection Frameworks for AI Agents**|Tobias Kaisar et.al.|[2609.39607](http://arxiv.org/abs/2609.39607)|null|
+|**2026-09-30**|**Resource-Efficient Semantic Communication for Heterogeneous Agentic Teams**|Farhad Rezazadeh et.al.|[2609.39477](http://arxiv.org/abs/2609.39477)|null|
+|**2026-09-30**|**Beyond the Shadows of Plato's Cave: Evaluating False Memory in Autonomous Agents via Counterfactual Reasoning**|Quan M. Tran et.al.|[2609.39473](http://arxiv.org/abs/2609.39473)|null|
+|**2026-09-30**|**From Imitation to Reward Discovery: On-Policy Warmup for Agentic RL**|Yitong Qiao et.al.|[2609.39436](http://arxiv.org/abs/2609.39436)|null|
 |**2026-09-24**|**Screen Before You Serve: Simulation for Production Customer Experience AI Agents at 140M Scale**|Edesio Alcoba et.al.|[2609.30137](http://arxiv.org/abs/2609.30137)|null|
 |**2026-09-24**|**Advancing Model Research in AgentX: Long-Horizon Autonomy for Industrial Recommender Systems**|Shuang Yang et.al.|[2609.30001](http://arxiv.org/abs/2609.30001)|null|
 |**2026-09-24**|**Working with Agentic `Teammates': When a New Organizational Actor Collides with the Human Ecosystem of Work**|Rida Qadri et.al.|[2609.29901](http://arxiv.org/abs/2609.29901)|null|
@@ -1873,6 +1896,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-29**|**What to Attend, What to Keep: Skill-Conditioned Visuotactile Representation with Progress-Guided Event Memory**|Amir-Hossein Shahidzadeh et.al.|[2609.38494](http://arxiv.org/abs/2609.38494)|null|
 |**2026-09-20**|**Knowing When to Trust Images: Reliability-Aware Multi-modal Entity Alignment**|Chenxiao Li et.al.|[2609.23267](http://arxiv.org/abs/2609.23267)|null|
 |**2026-09-19**|**M3GA-Wild: A Large-Scale Dataset and Benchmark for Multi-Modal Multi-session Ground-to-Aerial Place Recognition in Forests**|Ethan Griffiths et.al.|[2609.23003](http://arxiv.org/abs/2609.23003)|null|
 |**2026-09-18**|**Refine Then Fusion: Training-Free 3D Point Cloud Adaptation with Priority Refinement and Multi-Modal Knowledge Fusion**|Hang Cheng et.al.|[2609.21522](http://arxiv.org/abs/2609.21522)|null|
