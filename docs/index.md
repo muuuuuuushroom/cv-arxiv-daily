@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.05
+## Updated on 2026.10.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -1441,6 +1441,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-05**|**Base Models Can Reason By Taking a Cue From Training Data**|Sophie L. Wang et.al.|[2610.06851](http://arxiv.org/abs/2610.06851)|**[link](https://github.com/sophicle/cues)**|
+|**2026-10-05**|**TranScope: What the Software Hides About LLM Training Data, the Hardware Reveals at Scale, and Accelerators Magnify**|Joshua Kalyanapu et.al.|[2610.06848](http://arxiv.org/abs/2610.06848)|null|
+|**2026-10-05**|**Learning to Read the Contextual Tokens in Diffusion Transformers**|Omer Dahary et.al.|[2610.06844](http://arxiv.org/abs/2610.06844)|null|
+|**2026-10-05**|**Towards Looped Models Done Right, Part II: Rethinking at Fixed Points**|Benhao Huang et.al.|[2610.06833](http://arxiv.org/abs/2610.06833)|null|
+|**2026-10-05**|**CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling**|Yifan Zhang et.al.|[2610.06829](http://arxiv.org/abs/2610.06829)|null|
+|**2026-10-05**|**Sharpen Without Search: On-Policy Distillation of Sequence-Level Power Distribution**|Erfan Baghaei Potraghloo et.al.|[2610.06804](http://arxiv.org/abs/2610.06804)|null|
+|**2026-10-05**|**Back to the Future: Rethinking EDA Infrastructure for Agentic Systems in Chip Design Verification**|Je Yang et.al.|[2610.06790](http://arxiv.org/abs/2610.06790)|null|
+|**2026-10-05**|**How to scale your HEP ML models: A recipe for robust architecture comparisons at scale**|Matthias Vigl et.al.|[2610.06784](http://arxiv.org/abs/2610.06784)|null|
+|**2026-10-05**|**Conditional Rank Allocation for Taxonomy-Aware Medical Language Model Adaptation**|Guangyuan Dong et.al.|[2610.06765](http://arxiv.org/abs/2610.06765)|null|
+|**2026-10-05**|**MatrixFormer: A Foundation Model for Matrix Completion**|Dwaipayan Saha et.al.|[2610.06751](http://arxiv.org/abs/2610.06751)|null|
 |**2026-09-30**|**Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis**|Tian Xia et.al.|[2609.40361](http://arxiv.org/abs/2609.40361)|**[link](https://github.com/ranking-pe/ranking-pe.github.io)**|
 |**2026-09-30**|**Semifactual Credit-Augmented Policy Optimization**|Junshu Pan et.al.|[2609.40360](http://arxiv.org/abs/2609.40360)|null|
 |**2026-09-30**|**EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery**|Young-Jun Lee et.al.|[2609.40340](http://arxiv.org/abs/2609.40340)|**[link](https://github.com/Open-Galapagos/evoduet_project_page)**|
@@ -1671,6 +1681,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-05**|**Discovering New Problems for Decoded Quantum Interferometry**|Rhik Mazumder et.al.|[2610.06753](http://arxiv.org/abs/2610.06753)|null|
+|**2026-10-05**|**FREA: A Multi-Source Expert Benchmark for Reaction Feasibility Verification**|Botao Yu et.al.|[2610.06614](http://arxiv.org/abs/2610.06614)|null|
+|**2026-10-05**|**AECP: Artifact-Exclusive Communication Protocol for Multi-Agent Code Generation**|Jiaqi Xue et.al.|[2610.06481](http://arxiv.org/abs/2610.06481)|null|
+|**2026-10-05**|**AgentPrivArena: Evaluating and Auditing Real-world AI Agent Privacy**|Shouju Wang et.al.|[2610.06454](http://arxiv.org/abs/2610.06454)|null|
+|**2026-10-05**|**Artificial Intelligence and the New Science of Culture**|Douglas R. Guilbeault et.al.|[2610.06240](http://arxiv.org/abs/2610.06240)|null|
+|**2026-10-05**|**AI-Decision Checkpoints for AI-Augmented Business Process Management: Framework and Educational Instantiation**|Amin Jalali et.al.|[2610.06207](http://arxiv.org/abs/2610.06207)|null|
+|**2026-10-05**|**Let the Agent Do It? How Software Practitioners Understand and Make Permission Decisions in Agentic AI Assistants**|Larissa Salerno et.al.|[2610.06047](http://arxiv.org/abs/2610.06047)|null|
+|**2026-10-05**|**Grounded Joint-Attention Other-Play for Zero-Shot Coordination**|Giulia Benintendi et.al.|[2610.06025](http://arxiv.org/abs/2610.06025)|null|
+|**2026-10-05**|**AgentSpy: Making AI Agent Behavior Observable**|Christoph Bühler et.al.|[2610.06001](http://arxiv.org/abs/2610.06001)|null|
+|**2026-10-05**|**Strategic Multi-Agent Learning for Interpretable Action Valuation of All Players in Football**|Kenjiro Ide et.al.|[2610.05961](http://arxiv.org/abs/2610.05961)|null|
 |**2026-09-30**|**Skill-Based AI Agents for Power-System Studies**|Pavel Etingov et.al.|[2609.40272](http://arxiv.org/abs/2609.40272)|null|
 |**2026-09-30**|**Herschel: Continuous Optimization of Production LLM Inference through On-Demand Profiling**|Luping Wang et.al.|[2609.40247](http://arxiv.org/abs/2609.40247)|null|
 |**2026-09-30**|**Who Asked for This? Inline Annotations as Authoring Transactions for Provenance in Agentic Authoring**|Chang Xiao et.al.|[2609.40126](http://arxiv.org/abs/2609.40126)|null|
