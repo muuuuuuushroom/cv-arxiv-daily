@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.06
+## Updated on 2026.10.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -23,6 +23,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-08**|**OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs**|You-Zhe Xie et.al.|[2610.12461](http://arxiv.org/abs/2610.12461)|**[link](https://github.com/youzhe0305/OuroWorld)**|
+|**2026-10-08**|**OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning**|Zhongyu Yang et.al.|[2610.12458](http://arxiv.org/abs/2610.12458)|null|
+|**2026-10-08**|**FastBench: Can Streaming VLMs Perceive High-Dynamic Real-World Streams?**|Yuxuan Hu et.al.|[2610.12427](http://arxiv.org/abs/2610.12427)|**[link](https://github.com/Ashone3/FastBench)**|
+|**2026-10-08**|**WOVEN: Weaving Visual World Modeling into Multimodal LLMs**|Zheyu Fan et.al.|[2610.12417](http://arxiv.org/abs/2610.12417)|null|
+|**2026-10-08**|**OctoSense: Building a Unified Ecosystem for Open-Source Wireless Sensing**|Weiying Hou et.al.|[2610.12405](http://arxiv.org/abs/2610.12405)|null|
+|**2026-10-08**|**SpaceCast-Bench: Evaluating Predictive Spatial Reasoning in Vision-Language Models**|Hongxing Li et.al.|[2610.12402](http://arxiv.org/abs/2610.12402)|null|
+|**2026-10-08**|**GeoReform: Reflective Formalization Evolution for Multimodal Geometry Problem Solving**|Jialu Wang et.al.|[2610.12391](http://arxiv.org/abs/2610.12391)|null|
+|**2026-10-08**|**Long Text to Predictive Features: LLM-Guided Blockwise Feature Engineering via Executable Program Search**|Ziming Dai et.al.|[2610.12390](http://arxiv.org/abs/2610.12390)|null|
+|**2026-10-08**|**WorldAlign: Decoupled 4D Reward for World-Consistent Video Generation**|Jing He et.al.|[2610.12382](http://arxiv.org/abs/2610.12382)|null|
+|**2026-10-08**|**Cited but Not Consulted: A Counterfactual Audit of Legal Chain-of-Thought Faithfulness**|Saisab Sadhu et.al.|[2610.12361](http://arxiv.org/abs/2610.12361)|null|
 |**2026-10-05**|**Base Models Can Reason By Taking a Cue From Training Data**|Sophie L. Wang et.al.|[2610.06851](http://arxiv.org/abs/2610.06851)|**[link](https://github.com/sophicle/cues)**|
 |**2026-10-05**|**TranScope: What the Software Hides About LLM Training Data, the Hardware Reveals at Scale, and Accelerators Magnify**|Joshua Kalyanapu et.al.|[2610.06848](http://arxiv.org/abs/2610.06848)|null|
 |**2026-10-05**|**Learning to Read the Contextual Tokens in Diffusion Transformers**|Omer Dahary et.al.|[2610.06844](http://arxiv.org/abs/2610.06844)|null|
@@ -259,12 +269,22 @@
 |**2026-06-12**|**Abstracting Cross-Domain Action Sequences into Interpretable Workflows**|Gaurav Verma et.al.|[2606.14654](http://arxiv.org/abs/2606.14654)|null|
 |**2026-06-12**|**When Good Verifiers Go Bad: Self-Improving VLMs Can Regress on New Tasks**|Jianzhe Lin et.al.|[2606.14629](http://arxiv.org/abs/2606.14629)|null|
 
-<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261011>back to top</a>)</p>
 
 ## Agent
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-08**|**Ecology of AI Agents: Collaboration Creates a Population Threshold for Takeoff**|Erin Crawley et.al.|[2610.12436](http://arxiv.org/abs/2610.12436)|null|
+|**2026-10-08**|**Can AI Agents Learn Their Way to the Top? Evaluating Heuristic Learning in a Long-Running Game Agent Competition**|Kaisen Yang et.al.|[2610.12341](http://arxiv.org/abs/2610.12341)|null|
+|**2026-10-08**|**DataSense-Bench: The First Step Toward an AI Scientist**|Yudi Zhang et.al.|[2610.12190](http://arxiv.org/abs/2610.12190)|null|
+|**2026-10-08**|**MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement**|Xiaomi LLM-Core Team et.al.|[2610.11959](http://arxiv.org/abs/2610.11959)|**[link](https://github.com/ankit-pn/mimo-v2.6-reading-guide)**|
+|**2026-10-08**|**Forms of LLM-Integrated Applications from LLM-Chats to Autonomous AI Agent System**|Irene Weber et.al.|[2610.11899](http://arxiv.org/abs/2610.11899)|null|
+|**2026-10-08**|**legoESM: a modular, differentiable, multiscale, AI-ready Earth system model built with AI agents**|Pierre Gentine et.al.|[2610.11883](http://arxiv.org/abs/2610.11883)|null|
+|**2026-10-08**|**GROB: A Multi-Agent Architecture for Public-Trace Investigation of Candidate Agentic Activity**|Chiara Bonfanti et.al.|[2610.11467](http://arxiv.org/abs/2610.11467)|null|
+|**2026-10-08**|**Dynamic Mechanism and Information Design in AI-Agent Environments: A General Analytical Framework**|Guoqiang Tian et.al.|[2610.11177](http://arxiv.org/abs/2610.11177)|null|
+|**2026-10-07**|**RFChipAgent: Multi-Agentic AI Flow for Analog/RF Chip Design**|Awani Khodkumbhe et.al.|[2610.10858](http://arxiv.org/abs/2610.10858)|null|
+|**2026-10-07**|**On the Clock: Towards Punctual and Productive Time-Budgeted AI Agents**|Aaron Wang et.al.|[2610.10833](http://arxiv.org/abs/2610.10833)|null|
 |**2026-10-05**|**Discovering New Problems for Decoded Quantum Interferometry**|Rhik Mazumder et.al.|[2610.06753](http://arxiv.org/abs/2610.06753)|null|
 |**2026-10-05**|**FREA: A Multi-Source Expert Benchmark for Reaction Feasibility Verification**|Botao Yu et.al.|[2610.06614](http://arxiv.org/abs/2610.06614)|null|
 |**2026-10-05**|**AECP: Artifact-Exclusive Communication Protocol for Multi-Agent Code Generation**|Jiaqi Xue et.al.|[2610.06481](http://arxiv.org/abs/2610.06481)|null|
@@ -496,12 +516,13 @@
 |**2026-06-12**|**Same-Origin Policy for Agentic Browsers**|Xilong Wang et.al.|[2606.14027](http://arxiv.org/abs/2606.14027)|null|
 |**2026-06-11**|**Minim: Privacy-Aware Minimal View for Agents via Trusted Local Sanitization**|Hexuan Yu et.al.|[2606.13949](http://arxiv.org/abs/2606.13949)|null|
 
-<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261011>back to top</a>)</p>
 
 ## Counting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-08**|**Gaussian Density Splatting Network**|Miao Shang et.al.|[2610.10396](http://arxiv.org/abs/2610.10396)|**[link](https://github.com/infinite0522/GDSNet-Gaussian-Density-Splatting-Network)**|
 |**2026-09-27**|**A Free Knob: Decoupling Calibration and Predictive Skill in Threshold-Based Evaluation**|Md Tanveer Hossain Munim et.al.|[2609.33457](http://arxiv.org/abs/2609.33457)|null|
 |**2026-09-19**|**CrowdCue: Specialist-Cue Conditioning for Vision-Language Crowd Counting**|Moshiur Farazi et.al.|[2609.23012](http://arxiv.org/abs/2609.23012)|null|
 |**2026-09-14**|**How Good Are Time-Series Foundation Models for Pedestrian Crowd Count Forecasting? A Cross-Dataset Comparative Study**|Theivaprakasham Hari et.al.|[2609.16415](http://arxiv.org/abs/2609.16415)|null|
@@ -522,7 +543,7 @@
 |**2026-03-25**|**Generative Adversarial Perturbations with Cross-paradigm Transferability on Localized Crowd Counting**|Alabi Mehzabin Anisha et.al.|[2603.24821](http://arxiv.org/abs/2603.24821)|null|
 |**2026-03-31**|**Granular Ball Guided Stable Latent Domain Discovery for Domain-General Crowd Counting**|Fan Chen et.al.|[2603.24106](http://arxiv.org/abs/2603.24106)|null|
 
-<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261011>back to top</a>)</p>
 
 ## VTON
 
@@ -569,12 +590,15 @@
 |**2026-05-02**|**SIFT-VTON: Geometric Correspondence Supervision on Cross-Attention for Virtual Try-On**|Kosuke Takemoto et.al.|[2605.01296](http://arxiv.org/abs/2605.01296)|null|
 |**2026-04-30**|**TripVVT: A Large-Scale Triplet Dataset and a Coarse-Mask Baseline for In-the-Wild Video Virtual Try-On**|Dingbao Shao et.al.|[2604.27958](http://arxiv.org/abs/2604.27958)|null|
 
-<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261011>back to top</a>)</p>
 
 ## Multi-modal
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-07**|**A Strength-Monotonic Law for Domain Alignment in Frozen-Embedding Bioacoustic Classification**|Yucheng Gong et.al.|[2610.09737](http://arxiv.org/abs/2610.09737)|null|
+|**2026-10-06**|**EC-RAG: Event Chain Retrieval-Augmented Generation for Long Video Understanding**|Yuhao Qin et.al.|[2610.08674](http://arxiv.org/abs/2610.08674)|null|
+|**2026-10-06**|**Anchor-driven Multi-modal Multi-scale Expert Selection for Survival Prediction**|Tao Zhou et.al.|[2610.07694](http://arxiv.org/abs/2610.07694)|null|
 |**2026-09-29**|**What to Attend, What to Keep: Skill-Conditioned Visuotactile Representation with Progress-Guided Event Memory**|Amir-Hossein Shahidzadeh et.al.|[2609.38494](http://arxiv.org/abs/2609.38494)|null|
 |**2026-09-20**|**Knowing When to Trust Images: Reliability-Aware Multi-modal Entity Alignment**|Chenxiao Li et.al.|[2609.23267](http://arxiv.org/abs/2609.23267)|null|
 |**2026-09-19**|**M3GA-Wild: A Large-Scale Dataset and Benchmark for Multi-Modal Multi-session Ground-to-Aerial Place Recognition in Forests**|Ethan Griffiths et.al.|[2609.23003](http://arxiv.org/abs/2609.23003)|null|
@@ -632,7 +656,7 @@
 |**2026-05-27**|**EigeNet: Geometry-Informed Multi-Modal Learning for Few-shot Novel View RIR Prediction**|Chong Jing et.al.|[2605.28101](http://arxiv.org/abs/2605.28101)|null|
 |**2026-05-26**|**NF-TrackLLM: Joint Prediction of UAV Trajectory and Near-Field Beam for LAE XL-MIMO Systems**|Qianfan Lu et.al.|[2605.26928](http://arxiv.org/abs/2605.26928)|null|
 
-<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261011>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
