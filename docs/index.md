@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.11
+## Updated on 2026.10.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -639,8 +639,8 @@ layout: default
 |**2026-01-17**|**Detecting 3D Line Segments for 6DoF Pose Estimation with Limited Data**|Matej Mok et.al.|[2601.12090](http://arxiv.org/abs/2601.12090)|null|
 |**2026-01-17**|**Toward Real-World High-Precision Image Matting and Segmentation**|Haipeng Zhou et.al.|[2601.12080](http://arxiv.org/abs/2601.12080)|null|
 |**2026-01-17**|**Automating Parameter Selection in Deep Image Prior for Fluorescence Microscopy Image Denoising via Similarity-Based Parameter Transfer**|Lina Meyer et.al.|[2601.12055](http://arxiv.org/abs/2601.12055)|null|
-|**2026-01-15**|**Mesh Denoising**|Constantin Vaillant Tenzer et.al.|[2601.10487](http://arxiv.org/abs/2601.10487)|null|
-|**2026-01-15**|**Urban Socio-Semantic Segmentation with Vision-Language Reasoning**|Yu Wang et.al.|[2601.10477](http://arxiv.org/abs/2601.10477)|null|
+|**2026-01-15**|**Mesh Denoising**|Constantin Vaillant Tenzer et.al.|[2601.10487](http://arxiv.org/abs/2601.10487)|**[link](https://github.com/Jhonve/GCN-Denoiser)**|
+|**2026-01-15**|**Urban Socio-Semantic Segmentation with Vision-Language Reasoning**|Yu Wang et.al.|[2601.10477](http://arxiv.org/abs/2601.10477)|**[link](https://github.com/AMAP-ML/SocioReasoner)**|
 |**2026-01-15**|**Beyond Single Prompts: Synergistic Fusion and Arrangement for VICL**|Wenwen Liao et.al.|[2601.10117](http://arxiv.org/abs/2601.10117)|null|
 |**2026-01-15**|**Enhancing Visual In-Context Learning by Multi-Faceted Fusion**|Wenwen Liao et.al.|[2601.10107](http://arxiv.org/abs/2601.10107)|null|
 |**2026-01-14**|**NanoSD: Edge Efficient Foundation Model for Real Time Image Restoration**|Subhajit Sanyal et.al.|[2601.09823](http://arxiv.org/abs/2601.09823)|null|
@@ -654,7 +654,7 @@ layout: default
 |**2026-01-13**|**Instance camera focus prediction for crystal agglomeration classification**|Xiaoyu Ji et.al.|[2601.09004](http://arxiv.org/abs/2601.09004)|null|
 |**2026-01-13**|**SAM-pose2seg: Pose-Guided Human Instance Segmentation in Crowds**|Constantin Kolomiiets et.al.|[2601.08982](http://arxiv.org/abs/2601.08982)|null|
 |**2026-01-13**|**3AM: Segment Anything with Geometric Consistency in Videos**|Yang-Che Sun et.al.|[2601.08831](http://arxiv.org/abs/2601.08831)|null|
-|**2026-01-13**|**DentalX: Context-Aware Dental Disease Detection with Radiographs**|Zhi Qin Tan et.al.|[2601.08797](http://arxiv.org/abs/2601.08797)|null|
+|**2026-01-13**|**DentalX: Context-Aware Dental Disease Detection with Radiographs**|Zhi Qin Tan et.al.|[2601.08797](http://arxiv.org/abs/2601.08797)|**[link](https://github.com/zhiqin1998/DentalX)**|
 |**2026-01-08**|**Pixel-Perfect Visual Geometry Estimation**|Gangwei Xu et.al.|[2601.05246](http://arxiv.org/abs/2601.05246)|null|
 |**2026-01-08**|**ObjectForesight: Predicting Future 3D Object Trajectories from Human Videos**|Rustin Soraki et.al.|[2601.05237](http://arxiv.org/abs/2601.05237)|null|
 |**2026-01-08**|**UniLiPs: Unified LiDAR Pseudo-Labeling with Geometry-Grounded Dynamic Scene Decomposition**|Filippo Ghilotti et.al.|[2601.05105](http://arxiv.org/abs/2601.05105)|null|
