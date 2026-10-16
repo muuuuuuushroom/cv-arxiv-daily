@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.12
+## Updated on 2026.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -23,6 +23,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-15**|**Discovering state-of-the-art quantum circuits with large language models**|Andi Gu et.al.|[2610.22367](http://arxiv.org/abs/2610.22367)|**[link](https://github.com/andigu/uncompute)**|
+|**2026-10-15**|**Perceive, Predict, and Plan: a Unified World Action Model for Egocentric Dexterous Manipulation**|Zirui Wu et.al.|[2610.22363](http://arxiv.org/abs/2610.22363)|null|
+|**2026-10-15**|**Grounding Generative Verification in 3D Content**|Shuanglin Li et.al.|[2610.22360](http://arxiv.org/abs/2610.22360)|**[link](https://github.com/AI-YESLab/3DVerifier-page)**|
+|**2026-10-15**|**DK-VLM: Geometry as Position for Spatial Reasoning in Vision-Language Models**|Han Su et.al.|[2610.22356](http://arxiv.org/abs/2610.22356)|**[link](https://github.com/sumuru789/DK-VLM)**|
+|**2026-10-15**|**MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering**|Shangheng Du et.al.|[2610.22344](http://arxiv.org/abs/2610.22344)|**[link](https://github.com/InternScience/MLExpert)**|
+|**2026-10-15**|**Evaluation Awareness Beyond English: Do LLMs Act Differently When Tested in Indic Languages?**|Trizal Garg et.al.|[2610.22333](http://arxiv.org/abs/2610.22333)|null|
+|**2026-10-15**|**Designing Transformers for Continuous Diffusion Language Models**|Weijian Luo et.al.|[2610.22330](http://arxiv.org/abs/2610.22330)|null|
+|**2026-10-15**|**Twice Upon a Time: Complementary Representations for Time-Series Reasoning**|Hedi Zisling et.al.|[2610.22327](http://arxiv.org/abs/2610.22327)|null|
+|**2026-10-15**|**Training Reasoning Models to Generate Diverse Scientific Ideas**|Manya Wadhwa et.al.|[2610.22324](http://arxiv.org/abs/2610.22324)|null|
+|**2026-10-15**|**Learning to Steer LLM Agents and Multi-Agent Systems**|Leyang Shen et.al.|[2610.22316](http://arxiv.org/abs/2610.22316)|null|
 |**2026-10-08**|**OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs**|You-Zhe Xie et.al.|[2610.12461](http://arxiv.org/abs/2610.12461)|**[link](https://github.com/youzhe0305/OuroWorld)**|
 |**2026-10-08**|**OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning**|Zhongyu Yang et.al.|[2610.12458](http://arxiv.org/abs/2610.12458)|null|
 |**2026-10-08**|**FastBench: Can Streaming VLMs Perceive High-Dynamic Real-World Streams?**|Yuxuan Hu et.al.|[2610.12427](http://arxiv.org/abs/2610.12427)|**[link](https://github.com/Ashone3/FastBench)**|
@@ -269,12 +279,22 @@
 |**2026-06-12**|**Abstracting Cross-Domain Action Sequences into Interpretable Workflows**|Gaurav Verma et.al.|[2606.14654](http://arxiv.org/abs/2606.14654)|null|
 |**2026-06-12**|**When Good Verifiers Go Bad: Self-Improving VLMs Can Regress on New Tasks**|Jianzhe Lin et.al.|[2606.14629](http://arxiv.org/abs/2606.14629)|null|
 
-<p align=right>(<a href=#updated-on-20261012>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
 
 ## Agent
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-15**|**A team of Gemini 4 Argon agents beats Minecraft**|Maxence Faldor et.al.|[2610.22319](http://arxiv.org/abs/2610.22319)|null|
+|**2026-10-15**|**My Credentials, Please: Detecting Filesystem Capability Laundering in MCP Servers at Scale**|Zeqian Huang et.al.|[2610.22301](http://arxiv.org/abs/2610.22301)|null|
+|**2026-10-15**|**Shortcut Sensitivity in Agent-Safety Evaluations**|Hasan Demirkiran et.al.|[2610.22243](http://arxiv.org/abs/2610.22243)|null|
+|**2026-10-15**|**Mosaic: Multi-Session Agentic Reinforcement Learning**|Yilong Xu et.al.|[2610.22174](http://arxiv.org/abs/2610.22174)|null|
+|**2026-10-15**|**FAOPs: Normal Forms and an Algebra for AI Agent Workflows**|Ali Mohammadi Shanghooshabad et.al.|[2610.22061](http://arxiv.org/abs/2610.22061)|null|
+|**2026-10-15**|**Jianmu-Q: Bridging Quantum Field Theory and Quantum Hardware with AI Agents**|Xiaolin Wang et.al.|[2610.21942](http://arxiv.org/abs/2610.21942)|null|
+|**2026-10-15**|**From Research Goals to Scientific Closure: Evaluating Agents Through Evidence-Supported Physics Research**|Yijia Mao et.al.|[2610.21767](http://arxiv.org/abs/2610.21767)|null|
+|**2026-10-15**|**ReFlow: Replay-Driven Decoupling for Efficient RL Post-Training**|Yukun Tian et.al.|[2610.21640](http://arxiv.org/abs/2610.21640)|null|
+|**2026-10-15**|**Agent Status Protocol (ASP): A Lightweight Specification for State Reporting in Multi-Agent Systems**|Diego Gosmar et.al.|[2610.21538](http://arxiv.org/abs/2610.21538)|null|
+|**2026-10-15**|**Context Matters! Social, Spatial, and Semantic Coordination with an Embodied Agent in Immersive Analytics**|Andrew Cunningham et.al.|[2610.21484](http://arxiv.org/abs/2610.21484)|null|
 |**2026-10-08**|**Ecology of AI Agents: Collaboration Creates a Population Threshold for Takeoff**|Erin Crawley et.al.|[2610.12436](http://arxiv.org/abs/2610.12436)|null|
 |**2026-10-08**|**Can AI Agents Learn Their Way to the Top? Evaluating Heuristic Learning in a Long-Running Game Agent Competition**|Kaisen Yang et.al.|[2610.12341](http://arxiv.org/abs/2610.12341)|null|
 |**2026-10-08**|**DataSense-Bench: The First Step Toward an AI Scientist**|Yudi Zhang et.al.|[2610.12190](http://arxiv.org/abs/2610.12190)|null|
@@ -516,7 +536,7 @@
 |**2026-06-12**|**Same-Origin Policy for Agentic Browsers**|Xilong Wang et.al.|[2606.14027](http://arxiv.org/abs/2606.14027)|null|
 |**2026-06-11**|**Minim: Privacy-Aware Minimal View for Agents via Trusted Local Sanitization**|Hexuan Yu et.al.|[2606.13949](http://arxiv.org/abs/2606.13949)|null|
 
-<p align=right>(<a href=#updated-on-20261012>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
 
 ## Counting
 
@@ -543,16 +563,18 @@
 |**2026-03-25**|**Generative Adversarial Perturbations with Cross-paradigm Transferability on Localized Crowd Counting**|Alabi Mehzabin Anisha et.al.|[2603.24821](http://arxiv.org/abs/2603.24821)|null|
 |**2026-03-31**|**Granular Ball Guided Stable Latent Domain Discovery for Domain-General Crowd Counting**|Fan Chen et.al.|[2603.24106](http://arxiv.org/abs/2603.24106)|null|
 
-<p align=right>(<a href=#updated-on-20261012>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
 
 ## VTON
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-14**|**No Way To Steal My Face: Proactive Defense Against Identity-Preserving Personalized Generation**|Lizhi Xiong et.al.|[2610.19717](http://arxiv.org/abs/2610.19717)|null|
+|**2026-10-13**|**ShoeFit: A New Dataset and Dual-image-stream DiT Framework for Virtual Footwear Try-On**|Yuhan Li et.al.|[2610.18325](http://arxiv.org/abs/2610.18325)|null|
 |**2026-09-30**|**TexTailor: Texture-Preserving Video Virtual Try-On via Adaptive Garment Conditioning**|Zijing Qin et.al.|[2609.39335](http://arxiv.org/abs/2609.39335)|null|
 |**2026-09-28**|**Mind the RefGAP: Correcting Reference Attention in Diffusion-Based Visual Editing**|Yanan Wang et.al.|[2609.35708](http://arxiv.org/abs/2609.35708)|null|
 |**2026-09-22**|**Delving into Asymmetric Information Dynamics for High-Fidelity Virtual Try-On**|Zishu Qin et.al.|[2609.25881](http://arxiv.org/abs/2609.25881)|null|
-|**2026-09-21**|**EasyFashion: A Human-AI Co-Creation System for Personalized Fashion Design and Sewing Pattern Generation**|Hong Qu et.al.|[2609.18483](http://arxiv.org/abs/2609.18483)|null|
+|**2026-10-09**|**EasyFashion: A Human-AI Co-Creation System for Personalized Fashion Design and Sewing Pattern Generation**|Hong Qu et.al.|[2609.18483](http://arxiv.org/abs/2609.18483)|null|
 |**2026-09-15**|**JewelTry: Mask-Free Scale Aware Jewelry Virtual Try-On**|Xinlei Niu et.al.|[2609.16626](http://arxiv.org/abs/2609.16626)|null|
 |**2026-09-06**|**TryOnReward: Learning Foveated Consistency for Reinforcement Fine-Tuning of Virtual Try-On**|Xueheng Li et.al.|[2609.13259](http://arxiv.org/abs/2609.13259)|null|
 |**2026-09-03**|**BooM-VVT: Boosting Mask-Free Video Virtual Try-On with Image-Level Pseudo Data**|Wei Zhang et.al.|[2609.04120](http://arxiv.org/abs/2609.04120)|null|
@@ -590,12 +612,17 @@
 |**2026-05-02**|**SIFT-VTON: Geometric Correspondence Supervision on Cross-Attention for Virtual Try-On**|Kosuke Takemoto et.al.|[2605.01296](http://arxiv.org/abs/2605.01296)|null|
 |**2026-04-30**|**TripVVT: A Large-Scale Triplet Dataset and a Coarse-Mask Baseline for In-the-Wild Video Virtual Try-On**|Dingbao Shao et.al.|[2604.27958](http://arxiv.org/abs/2604.27958)|null|
 
-<p align=right>(<a href=#updated-on-20261012>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
 
 ## Multi-modal
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-15**|**VesperMUSE: Multi-Modal Fusion Vision Transformer for Image Semantic Segmentation Under Diverse Light Conditions**|Raul Balmez et.al.|[2610.21990](http://arxiv.org/abs/2610.21990)|null|
+|**2026-10-13**|**Perception Beyond the Visible: Incompleteness-Aware Scene Understanding for Robot Autonomy**|Rohit Mohan et.al.|[2610.18670](http://arxiv.org/abs/2610.18670)|null|
+|**2026-10-12**|**Mining Cross-Modal Perception Gaps in Autonomous Driving: When Camera and LiDAR Disagree**|Hongsen Cao et.al.|[2610.16906](http://arxiv.org/abs/2610.16906)|null|
+|**2026-10-10**|**Multi-modal Representation Fusion for Long-term Microsurgical Anastomosis Trajectory Anticipation**|Yuxuan Liu et.al.|[2610.14492](http://arxiv.org/abs/2610.14492)|null|
+|**2026-10-08**|**Two-Stage Multi-modal Learning for Dynamic Audio-Visual Navigation: From Physical Alignment to Scene Aggregation**|Jia Li et.al.|[2610.14077](http://arxiv.org/abs/2610.14077)|null|
 |**2026-10-07**|**A Strength-Monotonic Law for Domain Alignment in Frozen-Embedding Bioacoustic Classification**|Yucheng Gong et.al.|[2610.09737](http://arxiv.org/abs/2610.09737)|null|
 |**2026-10-06**|**EC-RAG: Event Chain Retrieval-Augmented Generation for Long Video Understanding**|Yuhao Qin et.al.|[2610.08674](http://arxiv.org/abs/2610.08674)|null|
 |**2026-10-06**|**Anchor-driven Multi-modal Multi-scale Expert Selection for Survival Prediction**|Tao Zhou et.al.|[2610.07694](http://arxiv.org/abs/2610.07694)|null|
@@ -656,7 +683,7 @@
 |**2026-05-27**|**EigeNet: Geometry-Informed Multi-Modal Learning for Few-shot Novel View RIR Prediction**|Chong Jing et.al.|[2605.28101](http://arxiv.org/abs/2605.28101)|null|
 |**2026-05-26**|**NF-TrackLLM: Joint Prediction of UAV Trajectory and Near-Field Beam for LAE XL-MIMO Systems**|Qianfan Lu et.al.|[2605.26928](http://arxiv.org/abs/2605.26928)|null|
 
-<p align=right>(<a href=#updated-on-20261012>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
