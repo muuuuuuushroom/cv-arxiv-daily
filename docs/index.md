@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.19
+## Updated on 2026.10.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -314,7 +314,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-10-08**|**Gaussian Density Splatting Network**|Miao Shang et.al.|[2610.10396](http://arxiv.org/abs/2610.10396)|**[link](https://github.com/infinite0522/GDSNet-Gaussian-Density-Splatting-Network)**|
+|**2026-10-08**|**CrowdH-Edit: Reference-Guided Instruction-Based Synthetic Hajj Crowd Image Generation for Crowd Counting**|Amirah F. Alshammari et.al.|[2610.23945](http://arxiv.org/abs/2610.23945)|null|
+|**2026-10-08**|**Gaussian Density Splatting Network**|Miao Shang et.al.|[2610.10396](http://arxiv.org/abs/2610.10396)|null|
 |**2026-09-27**|**A Free Knob: Decoupling Calibration and Predictive Skill in Threshold-Based Evaluation**|Md Tanveer Hossain Munim et.al.|[2609.33457](http://arxiv.org/abs/2609.33457)|null|
 |**2026-09-19**|**CrowdCue: Specialist-Cue Conditioning for Vision-Language Crowd Counting**|Moshiur Farazi et.al.|[2609.23012](http://arxiv.org/abs/2609.23012)|null|
 |**2026-09-14**|**How Good Are Time-Series Foundation Models for Pedestrian Crowd Count Forecasting? A Cross-Dataset Comparative Study**|Theivaprakasham Hari et.al.|[2609.16415](http://arxiv.org/abs/2609.16415)|null|
@@ -1444,6 +1445,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-20**|**GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery**|Yazhuo Liu et.al.|[2610.28629](http://arxiv.org/abs/2610.28629)|null|
+|**2026-10-20**|**UniWALM: Unified World Action Language Model for Embodied Robot Control**|Rahul Sajnani et.al.|[2610.28626](http://arxiv.org/abs/2610.28626)|null|
+|**2026-10-20**|**Adaptive Multi-Token Prediction: How far should we go?**|Emile Anand et.al.|[2610.28619](http://arxiv.org/abs/2610.28619)|null|
+|**2026-10-20**|**NarraSpace: Multimodal Scene-Grounded Evidence for Picture-Description Dementia Classification**|Qingming Li et.al.|[2610.28616](http://arxiv.org/abs/2610.28616)|null|
+|**2026-10-20**|**Semantic Observability for Autonomous Systems Diagnostics**|Jitendra Solanki et.al.|[2610.28611](http://arxiv.org/abs/2610.28611)|null|
+|**2026-10-20**|**InterWebCoder: Learning Interactive Webpage Generation from Executable Tests via Reinforcement Learning**|Jingyu Xiao et.al.|[2610.28610](http://arxiv.org/abs/2610.28610)|null|
+|**2026-10-20**|**Benchmarking Arabic Dialects for Math Problems**|Noor Abo Mokh et.al.|[2610.28607](http://arxiv.org/abs/2610.28607)|null|
+|**2026-10-20**|**Beyond the Sequentiality Bottleneck: A Hybrid Diffusion-Autoregressive Framework for Efficient Multimodal Reasoning**|Wei Cai et.al.|[2610.28584](http://arxiv.org/abs/2610.28584)|null|
+|**2026-10-20**|**Cache Engineering for Agents**|Tianyu Fu et.al.|[2610.28577](http://arxiv.org/abs/2610.28577)|null|
+|**2026-10-20**|**The Token-Energy Law of LLM Decode: Active Bytes and Realized Time Account for Joules per Token**|Chenxu Niu et.al.|[2610.28576](http://arxiv.org/abs/2610.28576)|null|
 |**2026-10-15**|**Discovering state-of-the-art quantum circuits with large language models**|Andi Gu et.al.|[2610.22367](http://arxiv.org/abs/2610.22367)|**[link](https://github.com/andigu/uncompute)**|
 |**2026-10-15**|**Perceive, Predict, and Plan: a Unified World Action Model for Egocentric Dexterous Manipulation**|Zirui Wu et.al.|[2610.22363](http://arxiv.org/abs/2610.22363)|null|
 |**2026-10-15**|**Grounding Generative Verification in 3D Content**|Shuanglin Li et.al.|[2610.22360](http://arxiv.org/abs/2610.22360)|**[link](https://github.com/AI-YESLab/3DVerifier-page)**|
@@ -1704,6 +1715,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-20**|**Evolving Agent Interfaces**|Saaket Agashe et.al.|[2610.28601](http://arxiv.org/abs/2610.28601)|null|
+|**2026-10-20**|**Proof-Carrying Contracts: Commitments AI Agents Cannot Break**|Carlo Ciliberto et.al.|[2610.28484](http://arxiv.org/abs/2610.28484)|null|
+|**2026-10-20**|**Claims of emergence in AI should be grounded in information decomposition**|Christoph Riedl et.al.|[2610.28479](http://arxiv.org/abs/2610.28479)|null|
+|**2026-10-20**|**Self-Credit: Credit Assignment for Long-Horizon Agentic RL via Intra-group Rescaling**|Fangcong Yin et.al.|[2610.28388](http://arxiv.org/abs/2610.28388)|null|
+|**2026-10-20**|**FALCA: Falsification-Aware Reinforcement Learning with Hierarchical Credit Assignment for Long-Horizon Deep Search Agents**|Zijun Dou et.al.|[2610.28361](http://arxiv.org/abs/2610.28361)|null|
+|**2026-10-20**|**Local Work, Global Progress: A Convergence Theory of AI Agent Collaboration**|Ivan Ilin et.al.|[2610.28286](http://arxiv.org/abs/2610.28286)|null|
+|**2026-10-20**|**Agentic Communication Networks: When Agents Become Network Entities**|Renwei Li et.al.|[2610.28244](http://arxiv.org/abs/2610.28244)|null|
+|**2026-10-20**|**ClawMMU: Protection-Coherent Virtual Memory for Stateful LLM Agents**|Jinhao Hu et.al.|[2610.28093](http://arxiv.org/abs/2610.28093)|null|
+|**2026-10-20**|**Looks Fine to Me: Understanding Oversight in Agentic Interactions**|Dinithi Dissanayake et.al.|[2610.27801](http://arxiv.org/abs/2610.27801)|null|
+|**2026-10-20**|**Securing Agentic Commerce Through Behavior-Aware Fraud Detection and Cybersecurity for Trusted AI-Agent Payment Authorization**|Kayode L. Ogunsusi et.al.|[2610.27483](http://arxiv.org/abs/2610.27483)|null|
 |**2026-10-15**|**A team of Gemini 4 Argon agents beats Minecraft**|Maxence Faldor et.al.|[2610.22319](http://arxiv.org/abs/2610.22319)|null|
 |**2026-10-15**|**My Credentials, Please: Detecting Filesystem Capability Laundering in MCP Servers at Scale**|Zeqian Huang et.al.|[2610.22301](http://arxiv.org/abs/2610.22301)|null|
 |**2026-10-15**|**Shortcut Sensitivity in Agent-Safety Evaluations**|Hasan Demirkiran et.al.|[2610.22243](http://arxiv.org/abs/2610.22243)|null|
