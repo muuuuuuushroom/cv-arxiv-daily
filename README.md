@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.26
+## Updated on 2026.10.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -23,6 +23,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-29**|**Elucidating the Design Space of LM Data Attribution**|Steven Yu et.al.|[2610.40655](http://arxiv.org/abs/2610.40655)|**[link](https://github.com/Lamsheeper/catt)**|
+|**2026-10-29**|**Rethinking Neural Thickets Without Weight Perturbations**|Nicolas Dufour et.al.|[2610.40649](http://arxiv.org/abs/2610.40649)|**[link](https://github.com/kyutai-labs/logit-psv)**|
+|**2026-10-29**|**ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender**|Qiyao Ma et.al.|[2610.40627](http://arxiv.org/abs/2610.40627)|null|
+|**2026-10-29**|**Testimony from Timelines: Evidence-Grounded Significance Testing of Temporal Clinical Hypotheses**|Chengyang He et.al.|[2610.40619](http://arxiv.org/abs/2610.40619)|null|
+|**2026-10-29**|**TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races**|Tom Sander et.al.|[2610.40613](http://arxiv.org/abs/2610.40613)|null|
+|**2026-10-29**|**Collaborative AI agents for autonomous experimental research with solid-state quantum spins**|El Mustapha Mansouri et.al.|[2610.40589](http://arxiv.org/abs/2610.40589)|null|
+|**2026-10-29**|**RADIOlogy: A Single-Pass Approach to Training-Free Zero-Shot Anomaly Detection**|Joaquín Figueira et.al.|[2610.40580](http://arxiv.org/abs/2610.40580)|null|
+|**2026-10-29**|**VeriCUA: Verification as Agentic Exploration for Computer-Using Agents**|Qiushi Sun et.al.|[2610.40578](http://arxiv.org/abs/2610.40578)|null|
+|**2026-10-29**|**Every Token Needs Its Own Teacher: Multi-teacher Adaptive On-policy Self-distillation**|Yifu Luo et.al.|[2610.40574](http://arxiv.org/abs/2610.40574)|null|
+|**2026-10-29**|**Comparing Human Role-Players and LLM-Simulated Clients in Online Counselling Training: An Analysis of Counselling Patterns**|Eric Rudolph et.al.|[2610.40563](http://arxiv.org/abs/2610.40563)|null|
 |**2026-10-23**|**The Language of Instruction: Genre and Generative AI**|James E. Dobson et.al.|[2610.32982](http://arxiv.org/abs/2610.32982)|null|
 |**2026-10-23**|**MiD-VLM: Detecting and Grounding Global Semantic Misinformation in Image-Caption Pairs**|Tarunya Prasad et.al.|[2610.32967](http://arxiv.org/abs/2610.32967)|null|
 |**2026-10-23**|**Where Rounding Happens Matters: Rounding-Location Alignment Stabilizes LLM Reinforcement Learning**|Yijing Ke et.al.|[2610.32951](http://arxiv.org/abs/2610.32951)|null|
@@ -299,12 +309,22 @@
 |**2026-06-12**|**Abstracting Cross-Domain Action Sequences into Interpretable Workflows**|Gaurav Verma et.al.|[2606.14654](http://arxiv.org/abs/2606.14654)|null|
 |**2026-06-12**|**When Good Verifiers Go Bad: Self-Improving VLMs Can Regress on New Tasks**|Jianzhe Lin et.al.|[2606.14629](http://arxiv.org/abs/2606.14629)|null|
 
-<p align=right>(<a href=#updated-on-20261026>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261031>back to top</a>)</p>
 
 ## Agent
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-29**|**Collaborative AI agents for autonomous experimental research with solid-state quantum spins**|El Mustapha Mansouri et.al.|[2610.40589](http://arxiv.org/abs/2610.40589)|null|
+|**2026-10-29**|**Pre-Crime for Agents, at the Last Second: Probing When a Recruited Agent Gives In**|Leonidas Raghav et.al.|[2610.40588](http://arxiv.org/abs/2610.40588)|null|
+|**2026-10-29**|**Reinforcement learning for control of partial differential equations**|Nicolò Botteghi et.al.|[2610.40449](http://arxiv.org/abs/2610.40449)|null|
+|**2026-10-29**|**The Price of a Chance in Artificial Societies**|Shuqi Zhao et.al.|[2610.40259](http://arxiv.org/abs/2610.40259)|null|
+|**2026-10-29**|**Engineering process plants as code in the age of agentic AI**|Artur M. Schweidtmann et.al.|[2610.40239](http://arxiv.org/abs/2610.40239)|null|
+|**2026-10-29**|**Agentic process evidence**|Yuval Kainan et.al.|[2610.40071](http://arxiv.org/abs/2610.40071)|null|
+|**2026-10-29**|**MoLRSI: A Recursive Self-Improving AI agent for Molecular Discovery**|Yikun Zhang et.al.|[2610.39714](http://arxiv.org/abs/2610.39714)|null|
+|**2026-10-29**|**Sandman: Building and Operating Sandboxes for Agentic Reinforcement Learning on Shared Kubernetes**|Yiming Yan et.al.|[2610.39711](http://arxiv.org/abs/2610.39711)|null|
+|**2026-10-29**|**Can AI Agents Interface Clinicians and Complex Models?**|Giulio Colombini et.al.|[2610.39681](http://arxiv.org/abs/2610.39681)|null|
+|**2026-10-29**|**Federated Agentic AI for Interference-Aware Adaptive Spectrum Coordination**|Tomer Baziza Paz et.al.|[2610.39680](http://arxiv.org/abs/2610.39680)|null|
 |**2026-10-23**|**Semantic Representation for Agentic Self-Play in Automated Laboratories**|Yves Delley et.al.|[2610.32755](http://arxiv.org/abs/2610.32755)|null|
 |**2026-10-23**|**Agentic Hazard Mapper: Emulating Expert Map-Making with AI Agents for Risk Communication**|Sidi Wu et.al.|[2610.32738](http://arxiv.org/abs/2610.32738)|null|
 |**2026-10-23**|**OpenDraco: A Platform for Engineering and Experimenting with Configurable Multi-Agent Architectures for Software Engineering**|Xiang Feng Ye Pan et.al.|[2610.32686](http://arxiv.org/abs/2610.32686)|null|
@@ -576,13 +596,14 @@
 |**2026-06-12**|**Same-Origin Policy for Agentic Browsers**|Xilong Wang et.al.|[2606.14027](http://arxiv.org/abs/2606.14027)|**[link](https://github.com/wxl-lxw/BrowserOS-SOPGuard)**|
 |**2026-06-11**|**Minim: Privacy-Aware Minimal View for Agents via Trusted Local Sanitization**|Hexuan Yu et.al.|[2606.13949](http://arxiv.org/abs/2606.13949)|null|
 
-<p align=right>(<a href=#updated-on-20261026>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261031>back to top</a>)</p>
 
 ## Counting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-10-22**|**AnyGameRenderer: Entity-Consistent Generative Rendering Across Games and an Entity-Level Benchmark**|Ruicong Liu et.al.|[2610.31466](http://arxiv.org/abs/2610.31466)|null|
+|**2026-10-28**|**CrowdCC: Jointly Benchmarking Corruption Robustness and Deployment Quantization in Crowd Counting**|S Mahmudul Hasan et.al.|[2610.36340](http://arxiv.org/abs/2610.36340)|null|
+|**2026-10-28**|**AnyGameRenderer: Entity-Consistent Generative Rendering Across Games and an Entity-Level Benchmark**|Ruicong Liu et.al.|[2610.31466](http://arxiv.org/abs/2610.31466)|null|
 |**2026-10-08**|**CrowdH-Edit: Reference-Guided Instruction-Based Synthetic Hajj Crowd Image Generation for Crowd Counting**|Amirah F. Alshammari et.al.|[2610.23945](http://arxiv.org/abs/2610.23945)|null|
 |**2026-10-08**|**Gaussian Density Splatting Network**|Miao Shang et.al.|[2610.10396](http://arxiv.org/abs/2610.10396)|null|
 |**2026-09-27**|**A Free Knob: Decoupling Calibration and Predictive Skill in Threshold-Based Evaluation**|Md Tanveer Hossain Munim et.al.|[2609.33457](http://arxiv.org/abs/2609.33457)|null|
@@ -605,12 +626,15 @@
 |**2026-03-25**|**Generative Adversarial Perturbations with Cross-paradigm Transferability on Localized Crowd Counting**|Alabi Mehzabin Anisha et.al.|[2603.24821](http://arxiv.org/abs/2603.24821)|null|
 |**2026-03-31**|**Granular Ball Guided Stable Latent Domain Discovery for Domain-General Crowd Counting**|Fan Chen et.al.|[2603.24106](http://arxiv.org/abs/2603.24106)|null|
 
-<p align=right>(<a href=#updated-on-20261026>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261031>back to top</a>)</p>
 
 ## VTON
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-29**|**FlexTry-On: A Time-Efficient Framework for Multi-Scenario Virtual Try-on**|Phuong Dam et.al.|[2610.39646](http://arxiv.org/abs/2610.39646)|null|
+|**2026-10-25**|**CrossPair: Unlocking Generalist Visual Transformation Learning in Image Editors**|Yibo Zhao et.al.|[2610.34333](http://arxiv.org/abs/2610.34333)|null|
+|**2026-10-25**|**Single Camera based Simulation and Try-on Ready Avatar Modeling**|Honghu Chen et.al.|[2610.34223](http://arxiv.org/abs/2610.34223)|null|
 |**2026-10-21**|**SAKURA: Serving Attention Key-Value State Under Rate Adaptation for Private Image Editing on Phones**|Shuncheng Jie et.al.|[2610.29733](http://arxiv.org/abs/2610.29733)|null|
 |**2026-10-14**|**No Way To Steal My Face: Proactive Defense Against Identity-Preserving Personalized Generation**|Lizhi Xiong et.al.|[2610.19717](http://arxiv.org/abs/2610.19717)|null|
 |**2026-10-13**|**ShoeFit: A New Dataset and Dual-image-stream DiT Framework for Virtual Footwear Try-On**|Yuhan Li et.al.|[2610.18325](http://arxiv.org/abs/2610.18325)|null|
@@ -655,12 +679,14 @@
 |**2026-05-02**|**SIFT-VTON: Geometric Correspondence Supervision on Cross-Attention for Virtual Try-On**|Kosuke Takemoto et.al.|[2605.01296](http://arxiv.org/abs/2605.01296)|null|
 |**2026-04-30**|**TripVVT: A Large-Scale Triplet Dataset and a Coarse-Mask Baseline for In-the-Wild Video Virtual Try-On**|Dingbao Shao et.al.|[2604.27958](http://arxiv.org/abs/2604.27958)|null|
 
-<p align=right>(<a href=#updated-on-20261026>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261031>back to top</a>)</p>
 
 ## Multi-modal
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-27**|**FastBEVFusion: Simple Multi-Modal Fusion for 3D Object Detection at 50 FPS**|Tom Sanitz et.al.|[2610.37153](http://arxiv.org/abs/2610.37153)|null|
+|**2026-10-27**|**SVIn+: Multi-Modal Framework for Robust Underwater State Estimation using 3D Sonar, Visual-Inertial, Water-Pressure, and DVL**|Chinmay Burgul et.al.|[2610.36454](http://arxiv.org/abs/2610.36454)|null|
 |**2026-10-15**|**VesperMUSE: Multi-Modal Fusion Vision Transformer for Image Semantic Segmentation Under Diverse Light Conditions**|Raul Balmez et.al.|[2610.21990](http://arxiv.org/abs/2610.21990)|null|
 |**2026-10-13**|**Perception Beyond the Visible: Incompleteness-Aware Scene Understanding for Robot Autonomy**|Rohit Mohan et.al.|[2610.18670](http://arxiv.org/abs/2610.18670)|null|
 |**2026-10-12**|**Mining Cross-Modal Perception Gaps in Autonomous Driving: When Camera and LiDAR Disagree**|Hongsen Cao et.al.|[2610.16906](http://arxiv.org/abs/2610.16906)|null|
@@ -726,7 +752,7 @@
 |**2026-05-27**|**EigeNet: Geometry-Informed Multi-Modal Learning for Few-shot Novel View RIR Prediction**|Chong Jing et.al.|[2605.28101](http://arxiv.org/abs/2605.28101)|null|
 |**2026-05-26**|**NF-TrackLLM: Joint Prediction of UAV Trajectory and Near-Field Beam for LAE XL-MIMO Systems**|Qianfan Lu et.al.|[2605.26928](http://arxiv.org/abs/2605.26928)|null|
 
-<p align=right>(<a href=#updated-on-20261026>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261031>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
