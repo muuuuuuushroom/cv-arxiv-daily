@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.11.01
+## Updated on 2026.11.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -1045,7 +1045,7 @@ layout: default
 |**2025-11-27**|**VaMP: Variational Multi-Modal Prompt Learning for Vision-Language Models**|Silin Cheng et.al.|[2511.22664](http://arxiv.org/abs/2511.22664)|null|
 |**2025-11-27**|**Geometrically-Constrained Agent for Spatial Reasoning**|Zeren Chen et.al.|[2511.22659](http://arxiv.org/abs/2511.22659)|null|
 |**2025-11-27**|**Improving LLM-based Ontology Matching with fine-tuning on synthetic data**|Guilherme Sousa et.al.|[2511.22612](http://arxiv.org/abs/2511.22612)|null|
-|**2025-11-27**|**AnoRefiner: Anomaly-Aware Group-Wise Refinement for Zero-Shot Industrial Anomaly Detection**|Dayou Huang et.al.|[2511.22595](http://arxiv.org/abs/2511.22595)|null|
+|**2025-11-27**|**AnoRefiner: Anomaly-Aware Group-Wise Refinement for Zero-Shot Industrial Anomaly Detection**|Dayou Huang et.al.|[2511.22595](http://arxiv.org/abs/2511.22595)|**[link](https://github.com/HUST-SLOW/AnoRefiner)**|
 |**2025-11-27**|**Counting Still Counts: Understanding Neural Complex Query Answering Through Query Relaxation**|Yannick Brunink et.al.|[2511.22565](http://arxiv.org/abs/2511.22565)|null|
 |**2025-11-27**|**TransCoder: A Neural-Enhancement Framework for Channel Codes**|Anastasiia Kurmukova et.al.|[2511.22539](http://arxiv.org/abs/2511.22539)|null|
 |**2025-11-27**|**ABounD: Adversarial Boundary-Driven Few-Shot Learning for Multi-Class Anomaly Detection**|Runzhi Deng et.al.|[2511.22436](http://arxiv.org/abs/2511.22436)|null|
@@ -1681,7 +1681,7 @@ layout: default
 |**2026-07-02**|**Will Scaling Improve Social Simulation with LLMs?**|Caleb Ziems et.al.|[2607.02464](http://arxiv.org/abs/2607.02464)|null|
 |**2026-07-02**|**Neuron-Aware Data Selection for Annotation-Free LLM Self-Distillation**|Zhuowei Chen et.al.|[2607.02460](http://arxiv.org/abs/2607.02460)|null|
 |**2026-07-02**|**Language Models as Measurement Apparatus for Culture**|Kent K. Chang et.al.|[2607.02459](http://arxiv.org/abs/2607.02459)|null|
-|**2026-06-30**|**Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision**|Zifan Carl Guo et.al.|[2606.32038](http://arxiv.org/abs/2606.32038)|null|
+|**2026-06-30**|**Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision**|Zifan Carl Guo et.al.|[2606.32038](http://arxiv.org/abs/2606.32038)|**[link](https://github.com/leonvillamayor/introspective-coupling-self-explanation-training-tracks-behavioral-change-despit)**|
 |**2026-06-30**|**When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors**|Yuqing Yang et.al.|[2606.32029](http://arxiv.org/abs/2606.32029)|null|
 |**2026-06-30**|**SemRF: A Semantic Reference Frame for Residual-Stream Dynamics in Language Models**|Jian Gu et.al.|[2606.32022](http://arxiv.org/abs/2606.32022)|null|
 |**2026-06-30**|**CoMet: Context and Multiplicity Decomposition for Multimodal Uncertainty Estimation**|Sanghyuk Chun et.al.|[2606.32012](http://arxiv.org/abs/2606.32012)|null|
