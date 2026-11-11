@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.11.09
+## Updated on 2026.11.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -1360,6 +1360,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**Synthesizing Dexterous Robot Demonstrations from Human Videos via Virtual Try-On**|Seungyong Lee et.al.|[2611.05163](http://arxiv.org/abs/2611.05163)|null|
 |**2026-10-29**|**FlexTry-On: A Time-Efficient Framework for Multi-Scenario Virtual Try-on**|Phuong Dam et.al.|[2610.39646](http://arxiv.org/abs/2610.39646)|null|
 |**2026-10-25**|**CrossPair: Unlocking Generalist Visual Transformation Learning in Image Editors**|Yibo Zhao et.al.|[2610.34333](http://arxiv.org/abs/2610.34333)|null|
 |**2026-10-25**|**Single Camera based Simulation and Try-on Ready Avatar Modeling**|Honghu Chen et.al.|[2610.34223](http://arxiv.org/abs/2610.34223)|null|
@@ -1451,6 +1452,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models**|Zijian Zhang et.al.|[2611.14515](http://arxiv.org/abs/2611.14515)|null|
+|**2026-11-10**|**ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows**|Kaiyuan Hou et.al.|[2611.14492](http://arxiv.org/abs/2611.14492)|null|
+|**2026-11-10**|**C $^2$ -Routing: Complementary Cropping and Compression for Efficient Vision-Language Inference**|Guorui Lu et.al.|[2611.14469](http://arxiv.org/abs/2611.14469)|null|
+|**2026-11-10**|**A Theory of Policy Optimization in Post-Training: Coverage Collapse and Reference Resets**|Audrey Huang et.al.|[2611.14467](http://arxiv.org/abs/2611.14467)|null|
+|**2026-11-10**|**When does text encoding matter for language modeling?**|Eugene Jang et.al.|[2611.14459](http://arxiv.org/abs/2611.14459)|**[link](https://github.com/Wallace-Best/best)**|
+|**2026-11-10**|**Metric-Aligned Group Relative Policy Optimization for Explainable Deepfake Detection**|Luka Dragar et.al.|[2611.14436](http://arxiv.org/abs/2611.14436)|null|
+|**2026-11-10**|**Bits or permutations? Spending a fixed inference budget on weight precision or on option-order averaging in small local language models**|Mohammed Nayeem Khan et.al.|[2611.14413](http://arxiv.org/abs/2611.14413)|null|
+|**2026-11-10**|**Blurring the Block Boundaries: Overlapping Block Denoising for Efficient Diffusion Language Models**|Amir Mann et.al.|[2611.14387](http://arxiv.org/abs/2611.14387)|null|
+|**2026-11-10**|**Cognitive Mapping of Learning by Thinking Mechanisms in Large Language Models**|Dong Han et.al.|[2611.14382](http://arxiv.org/abs/2611.14382)|null|
+|**2026-11-10**|**CLADE: Category-Level Answering from Deficient Evidence in Retrieval-Augmented Language Models**|S M Rayeed et.al.|[2611.14355](http://arxiv.org/abs/2611.14355)|null|
 |**2026-10-29**|**Elucidating the Design Space of LM Data Attribution**|Steven Yu et.al.|[2610.40655](http://arxiv.org/abs/2610.40655)|**[link](https://github.com/Lamsheeper/catt)**|
 |**2026-10-29**|**Rethinking Neural Thickets Without Weight Perturbations**|Nicolas Dufour et.al.|[2610.40649](http://arxiv.org/abs/2610.40649)|**[link](https://github.com/kyutai-labs/logit-psv)**|
 |**2026-10-29**|**ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender**|Qiyao Ma et.al.|[2610.40627](http://arxiv.org/abs/2610.40627)|null|
@@ -1741,6 +1752,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**PARLEY: Evaluating LLM Collaboration Through Cooperative Asymmetric Puzzles**|Javier Hernandez et.al.|[2611.14242](http://arxiv.org/abs/2611.14242)|null|
+|**2026-11-10**|**LEASH: Stay Safe in Agentic Robotics**|Qinfeng Zhu et.al.|[2611.14115](http://arxiv.org/abs/2611.14115)|null|
+|**2026-11-10**|**Coding Agent Memory Post-Training II: Unlocking the Memory Potential of Pre-trained File Operations for Long-Horizon Tasks via On-Policy Distillation**|Lirui Luo et.al.|[2611.14009](http://arxiv.org/abs/2611.14009)|null|
+|**2026-11-10**|**Toward Autonomous RTL and Synthesis Optimization: Benchmarking and Self-Improving Agents**|Wenji Fang et.al.|[2611.13713](http://arxiv.org/abs/2611.13713)|null|
+|**2026-11-10**|**Agentic AI Meets Formal Verification in the Era of Agentic Hardware Development**|Wenji Fang et.al.|[2611.13705](http://arxiv.org/abs/2611.13705)|null|
+|**2026-11-10**|**BypassGym: A Benchmark for Evaluating AI Agents' Endpoint Defense Evasion Capabilities**|Weifeng Yuan et.al.|[2611.13684](http://arxiv.org/abs/2611.13684)|null|
+|**2026-11-10**|**Deep Personalization: Continuous Context Observation for Local Proactive Agents**|Yijia Shao et.al.|[2611.13457](http://arxiv.org/abs/2611.13457)|null|
+|**2026-11-09**|**No finite rulebook can certify every safe program: an impossibility theorem for gatekeeping AI agents**|Tomas Perez-Acle et.al.|[2611.13367](http://arxiv.org/abs/2611.13367)|null|
+|**2026-11-09**|**Do AI Agents need Preventive Care? An Epidemiologic Cohort Design for Agentic AI**|Shu Jiang et.al.|[2611.13333](http://arxiv.org/abs/2611.13333)|null|
+|**2026-11-09**|**PegasusAI Studio: Legible Cyberinfrastructure and Accountable AI Agents for Scientific Workflows**|Komal Thareja et.al.|[2611.13309](http://arxiv.org/abs/2611.13309)|null|
 |**2026-10-29**|**Collaborative AI agents for autonomous experimental research with solid-state quantum spins**|El Mustapha Mansouri et.al.|[2610.40589](http://arxiv.org/abs/2610.40589)|null|
 |**2026-10-29**|**Pre-Crime for Agents, at the Last Second: Probing When a Recruited Agent Gives In**|Leonidas Raghav et.al.|[2610.40588](http://arxiv.org/abs/2610.40588)|**[link](https://github.com/leonidas1712/precrime-agents)**|
 |**2026-10-29**|**Reinforcement learning for control of partial differential equations**|Nicolò Botteghi et.al.|[2610.40449](http://arxiv.org/abs/2610.40449)|**[link](https://github.com/stweigand97/model-based-pde-control)**|
@@ -2026,6 +2047,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-01**|**NatureFusion: Rethinking Infrared and Visible Image Fusion as Natural Complementary Enhancement**|Jianfeng Ding et.al.|[2611.01607](http://arxiv.org/abs/2611.01607)|null|
+|**2026-11-06**|**Dynamic Merging Mutually-Distilled Multi-View Networks for RGB-Event-based Representation Learning**|Futian Wang et.al.|[2611.00107](http://arxiv.org/abs/2611.00107)|null|
 |**2026-10-27**|**FastBEVFusion: Simple Multi-Modal Fusion for 3D Object Detection at 50 FPS**|Tom Sanitz et.al.|[2610.37153](http://arxiv.org/abs/2610.37153)|null|
 |**2026-10-27**|**SVIn+: Multi-Modal Framework for Robust Underwater State Estimation using 3D Sonar, Visual-Inertial, Water-Pressure, and DVL**|Chinmay Burgul et.al.|[2610.36454](http://arxiv.org/abs/2610.36454)|null|
 |**2026-10-15**|**VesperMUSE: Multi-Modal Fusion Vision Transformer for Image Semantic Segmentation Under Diverse Light Conditions**|Raul Balmez et.al.|[2610.21990](http://arxiv.org/abs/2610.21990)|null|
