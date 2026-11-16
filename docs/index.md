@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.11.11
+## Updated on 2026.11.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -402,7 +402,7 @@ layout: default
 |**2026-05-28**|**Train the Agent, Not the Expert: Learning to Harness Heterogeneous Experts for Multi-Turn Visual Reasoning**|Yaowu Fan et.al.|[2605.29894](http://arxiv.org/abs/2605.29894)|null|
 |**2026-05-28**|**DGSG-Mind: Dynamic 3D Gaussian Scene Graphs for Long-Term Scene Understanding and Grounding**|Luzhou Ge et.al.|[2605.29879](http://arxiv.org/abs/2605.29879)|null|
 |**2026-05-28**|**Energy-Aware NECO for Single-Pass Pixel-wise Out-of-Distribution Detection in Semantic Segmentation**|Boyuan Zhang et.al.|[2605.29773](http://arxiv.org/abs/2605.29773)|null|
-|**2026-05-25**|**InstructSAM: Segment Any Instance with Any Instructions**|Yuqian Yuan et.al.|[2605.26102](http://arxiv.org/abs/2605.26102)|null|
+|**2026-05-25**|**InstructSAM: Segment Any Instance with Any Instructions**|Yuqian Yuan et.al.|[2605.26102](http://arxiv.org/abs/2605.26102)|**[link](https://github.com/ZJU4EmbodiedAI/InstructSAM)**|
 |**2026-05-25**|**Pixel-Level Pavement Distress Assessment Using Instance Segmentation**|Logan Dewick et.al.|[2605.26095](http://arxiv.org/abs/2605.26095)|null|
 |**2026-05-25**|**SAM3-Assisted Training of Lightweight YOLO Models for Precision Pig Farming**|Marcos Vinicius Mendes Faria et.al.|[2605.25860](http://arxiv.org/abs/2605.25860)|null|
 |**2026-05-25**|**ATV-Net: Adaptive Triple-View Network with Dynamic Feature Fusion**|Hsin-Jui Pan et.al.|[2605.25803](http://arxiv.org/abs/2605.25803)|null|
@@ -712,9 +712,9 @@ layout: default
 |**2025-12-18**|**Depth Any Panoramas: A Foundation Model for Panoramic Depth Estimation**|Xin Lin et.al.|[2512.16913](http://arxiv.org/abs/2512.16913)|null|
 |**2025-12-18**|**DenseBEV: Transforming BEV Grid Cells into 3D Objects**|Marius Dähling et.al.|[2512.16818](http://arxiv.org/abs/2512.16818)|null|
 |**2025-12-18**|**FlowDet: Unifying Object Detection and Generative Transport Flows**|Enis Baty et.al.|[2512.16771](http://arxiv.org/abs/2512.16771)|null|
-|**2025-12-18**|**Task-Oriented Data Synthesis and Control-Rectify Sampling for Remote Sensing Semantic Segmentation**|Yunkai Yang et.al.|[2512.16740](http://arxiv.org/abs/2512.16740)|null|
-|**2025-12-18**|**Causal-Tune: Mining Causal Factors from Vision Foundation Models for Domain Generalized Semantic Segmentation**|Yin Zhang et.al.|[2512.16567](http://arxiv.org/abs/2512.16567)|null|
-|**2025-12-18**|**N3D-VLM: Native 3D Grounding Enables Accurate Spatial Reasoning in Vision-Language Models**|Yuxin Wang et.al.|[2512.16561](http://arxiv.org/abs/2512.16561)|null|
+|**2025-12-18**|**Task-Oriented Data Synthesis and Control-Rectify Sampling for Remote Sensing Semantic Segmentation**|Yunkai Yang et.al.|[2512.16740](http://arxiv.org/abs/2512.16740)|**[link](https://github.com/Yunkai-Yang/crfm)**|
+|**2025-12-18**|**Causal-Tune: Mining Causal Factors from Vision Foundation Models for Domain Generalized Semantic Segmentation**|Yin Zhang et.al.|[2512.16567](http://arxiv.org/abs/2512.16567)|**[link](https://github.com/zhangyin1996/Causal-Tune)**|
+|**2025-12-18**|**N3D-VLM: Native 3D Grounding Enables Accurate Spatial Reasoning in Vision-Language Models**|Yuxin Wang et.al.|[2512.16561](http://arxiv.org/abs/2512.16561)|**[link](https://github.com/W-Ted/N3D-VLM)**|
 |**2025-12-18**|**PoseMoE: Mixture-of-Experts Network for Monocular 3D Human Pose Estimation**|Mengyuan Liu et.al.|[2512.16494](http://arxiv.org/abs/2512.16494)|null|
 |**2025-12-18**|**YOLO11-4K: An Efficient Architecture for Real-Time Small Object Detection in 4K Panoramic Images**|Huma Hafeez et.al.|[2512.16493](http://arxiv.org/abs/2512.16493)|null|
 |**2025-12-18**|**PixelArena: A benchmark for Pixel-Precision Visual Intelligence**|Feng Liang et.al.|[2512.16303](http://arxiv.org/abs/2512.16303)|null|
@@ -1341,10 +1341,10 @@ layout: default
 |**2025-11-27**|**Emergent Extreme-View Geometry in 3D Foundation Models**|Yiwen Zhang et.al.|[2511.22686](http://arxiv.org/abs/2511.22686)|null|
 |**2025-11-27**|**GeoZero: Incentivizing Reasoning from Scratch on Geospatial Scenes**|Di Wang et.al.|[2511.22645](http://arxiv.org/abs/2511.22645)|null|
 |**2025-11-27**|**REASONEDIT: Towards Reasoning-Enhanced Image Editing Models**|Fukun Yin et.al.|[2511.22625](http://arxiv.org/abs/2511.22625)|null|
-|**2025-11-27**|**AnoRefiner: Anomaly-Aware Group-Wise Refinement for Zero-Shot Industrial Anomaly Detection**|Dayou Huang et.al.|[2511.22595](http://arxiv.org/abs/2511.22595)|null|
+|**2025-11-27**|**AnoRefiner: Anomaly-Aware Group-Wise Refinement for Zero-Shot Industrial Anomaly Detection**|Dayou Huang et.al.|[2511.22595](http://arxiv.org/abs/2511.22595)|**[link](https://github.com/HUST-SLOW/AnoRefiner)**|
 |**2025-11-27**|**DocVAL: Validated Chain-of-Thought Distillation for Grounded Document VQA**|Ahmad Mohammadshirazi et.al.|[2511.22521](http://arxiv.org/abs/2511.22521)|null|
 |**2025-11-27**|**What Shape Is Optimal for Masks in Text Removal?**|Hyakka Nakada et.al.|[2511.22499](http://arxiv.org/abs/2511.22499)|null|
-|**2025-11-27**|**Rethinking Cross-Generator Image Forgery Detection through DINOv3**|Zhenglin Huang et.al.|[2511.22471](http://arxiv.org/abs/2511.22471)|null|
+|**2025-11-27**|**Rethinking Cross-Generator Image Forgery Detection through DINOv3**|Zhenglin Huang et.al.|[2511.22471](http://arxiv.org/abs/2511.22471)|**[link](https://github.com/hzlsaber/FGTS)**|
 |**2025-11-26**|**Multi-Crit: Benchmarking Multimodal Judges on Pluralistic Criteria-Following**|Tianyi Xiong et.al.|[2511.21662](http://arxiv.org/abs/2511.21662)|**[link](https://github.com/multi-crit/multi-crit.github.io)**|
 |**2025-11-26**|**Continual Error Correction on Low-Resource Devices**|Kirill Paramonov et.al.|[2511.21652](http://arxiv.org/abs/2511.21652)|null|
 |**2025-11-26**|**Mechanisms of Non-Monotonic Scaling in Vision Transformers**|Anantha Padmanaban Krishna Kumar et.al.|[2511.21635](http://arxiv.org/abs/2511.21635)|null|
@@ -1409,10 +1409,10 @@ layout: default
 |**2026-04-30**|**TripVVT: A Large-Scale Triplet Dataset and a Coarse-Mask Baseline for In-the-Wild Video Virtual Try-On**|Dingbao Shao et.al.|[2604.27958](http://arxiv.org/abs/2604.27958)|null|
 |**2026-05-10**|**Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items**|Mengting Chen et.al.|[2604.19748](http://arxiv.org/abs/2604.19748)|null|
 |**2026-04-09**|**What Matters in Virtual Try-Off? Dual-UNet Diffusion Model For Garment Reconstruction**|Loc-Phat Truong et.al.|[2604.08716](http://arxiv.org/abs/2604.08716)|null|
-|**2026-04-09**|**FIT: A Large-Scale Dataset for Fit-Aware Virtual Try-On**|Johanna Karras et.al.|[2604.08526](http://arxiv.org/abs/2604.08526)|null|
-|**2026-05-04**|**Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision**|Hyunsoo Cha et.al.|[2604.04934](http://arxiv.org/abs/2604.04934)|null|
+|**2026-04-09**|**FIT: A Large-Scale Dataset for Fit-Aware Virtual Try-On**|Johanna Karras et.al.|[2604.08526](http://arxiv.org/abs/2604.08526)|**[link](https://github.com/HarryWang355/FIT-VTO)**|
+|**2026-05-04**|**Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision**|Hyunsoo Cha et.al.|[2604.04934](http://arxiv.org/abs/2604.04934)|**[link](https://github.com/snuvclab/vanast)**|
 |**2026-03-30**|**Designing AI for Real Users -- Accessibility Gaps in Retail AI Front-End**|Neha Puri et.al.|[2603.28196](http://arxiv.org/abs/2603.28196)|null|
-|**2026-03-26**|**RefAlign: Representation Alignment for Reference-to-Video Generation**|Lei Wang et.al.|[2603.25743](http://arxiv.org/abs/2603.25743)|null|
+|**2026-03-26**|**RefAlign: Representation Alignment for Reference-to-Video Generation**|Lei Wang et.al.|[2603.25743](http://arxiv.org/abs/2603.25743)|**[link](https://github.com/gudaochangsheng/RefAlign)**|
 |**2026-04-14**|**Dress-ED: Instruction-Guided Editing for Virtual Try-On and Try-Off**|Fulvio Sanguigni et.al.|[2603.22607](http://arxiv.org/abs/2603.22607)|null|
 |**2026-03-24**|**OmniDiT: Extending Diffusion Transformer to Omni-VTON Framework**|Weixuan Zeng et.al.|[2603.19643](http://arxiv.org/abs/2603.19643)|null|
 |**2026-03-14**|**Garments2Look: A Multi-Reference Dataset for High-Fidelity Outfit-Level Virtual Try-On with Clothing and Accessories**|Junyao Hu et.al.|[2603.14153](http://arxiv.org/abs/2603.14153)|null|
