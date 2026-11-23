@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.11.21
+## Updated on 2026.11.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -1515,7 +1515,7 @@ layout: default
 |**2026-10-15**|**Training Reasoning Models to Generate Diverse Scientific Ideas**|Manya Wadhwa et.al.|[2610.22324](http://arxiv.org/abs/2610.22324)|null|
 |**2026-10-15**|**Learning to Steer LLM Agents and Multi-Agent Systems**|Leyang Shen et.al.|[2610.22316](http://arxiv.org/abs/2610.22316)|null|
 |**2026-10-08**|**OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs**|You-Zhe Xie et.al.|[2610.12461](http://arxiv.org/abs/2610.12461)|**[link](https://github.com/youzhe0305/OuroWorld)**|
-|**2026-10-08**|**OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning**|Zhongyu Yang et.al.|[2610.12458](http://arxiv.org/abs/2610.12458)|null|
+|**2026-10-08**|**OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning**|Zhongyu Yang et.al.|[2610.12458](http://arxiv.org/abs/2610.12458)|**[link](https://github.com/Tencent-Hunyuan/OmniCapBench)**|
 |**2026-10-08**|**FastBench: Can Streaming VLMs Perceive High-Dynamic Real-World Streams?**|Yuxuan Hu et.al.|[2610.12427](http://arxiv.org/abs/2610.12427)|**[link](https://github.com/Ashone3/FastBench)**|
 |**2026-10-08**|**WOVEN: Weaving Visual World Modeling into Multimodal LLMs**|Zheyu Fan et.al.|[2610.12417](http://arxiv.org/abs/2610.12417)|null|
 |**2026-10-08**|**OctoSense: Building a Unified Ecosystem for Open-Source Wireless Sensing**|Weiying Hou et.al.|[2610.12405](http://arxiv.org/abs/2610.12405)|null|
@@ -1530,7 +1530,7 @@ layout: default
 |**2026-10-05**|**Towards Looped Models Done Right, Part II: Rethinking at Fixed Points**|Benhao Huang et.al.|[2610.06833](http://arxiv.org/abs/2610.06833)|null|
 |**2026-10-05**|**CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling**|Yifan Zhang et.al.|[2610.06829](http://arxiv.org/abs/2610.06829)|null|
 |**2026-10-05**|**Sharpen Without Search: On-Policy Distillation of Sequence-Level Power Distribution**|Erfan Baghaei Potraghloo et.al.|[2610.06804](http://arxiv.org/abs/2610.06804)|null|
-|**2026-10-05**|**Back to the Future: Rethinking EDA Infrastructure for Agentic Systems in Chip Design Verification**|Je Yang et.al.|[2610.06790](http://arxiv.org/abs/2610.06790)|null|
+|**2026-10-05**|**Back to the Future: Rethinking EDA Infrastructure for Agentic Systems in Chip Design Verification**|Je Yang et.al.|[2610.06790](http://arxiv.org/abs/2610.06790)|**[link](https://github.com/amansahani/edgex-soc)**|
 |**2026-10-05**|**How to scale your HEP ML models: A recipe for robust architecture comparisons at scale**|Matthias Vigl et.al.|[2610.06784](http://arxiv.org/abs/2610.06784)|null|
 |**2026-10-05**|**Conditional Rank Allocation for Taxonomy-Aware Medical Language Model Adaptation**|Guangyuan Dong et.al.|[2610.06765](http://arxiv.org/abs/2610.06765)|null|
 |**2026-10-05**|**MatrixFormer: A Foundation Model for Matrix Completion**|Dwaipayan Saha et.al.|[2610.06751](http://arxiv.org/abs/2610.06751)|null|
