@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.11.23
+## Updated on 2026.11.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -23,6 +23,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-25**|**Tracking Any Point with Agentic Visual Reasoning**|Xuweiyi Chen et.al.|[2611.34943](http://arxiv.org/abs/2611.34943)|**[link](https://github.com/UVA-Computer-Vision-Lab/agentap)**|
+|**2026-11-25**|**Can image generation help visual reasoning? An empirical study**|Xueyang Yu et.al.|[2611.34935](http://arxiv.org/abs/2611.34935)|null|
+|**2026-11-25**|**Diverse Alternative Reasoning Traces for Hard Math Problems**|Lukas Aichberger et.al.|[2611.34928](http://arxiv.org/abs/2611.34928)|null|
+|**2026-11-25**|**One Ocean, Many Tasks: A Data-Grounded Simulation Suite and Benchmark for Marine Robotics**|Shuaijun Liu et.al.|[2611.34925](http://arxiv.org/abs/2611.34925)|**[link](https://github.com/anonymous-2026/OneOcean)**|
+|**2026-11-25**|**Memory Is Not Ground Truth: Revising Navigation Authority under Unreliable VLM Evidence for Persistent Semantic Navigation**|Sumukh Shrote et.al.|[2611.34915](http://arxiv.org/abs/2611.34915)|null|
+|**2026-11-25**|**Agentic LongLive: Asynchronous Agentic Memory for Long Video Generation**|Shaoteng Liu et.al.|[2611.34907](http://arxiv.org/abs/2611.34907)|null|
+|**2026-11-25**|**ProbFaS: Probabilistic Video Frame Selection for MLLMs via Multi-Fidelity Calibration**|Tianru Zhang et.al.|[2611.34903](http://arxiv.org/abs/2611.34903)|null|
+|**2026-11-25**|**Stranger Things: When Objects Appear Without Their Typical Neighbors**|Siddhartha Gairola et.al.|[2611.34881](http://arxiv.org/abs/2611.34881)|null|
+|**2026-11-25**|**Towards Closing the Performance Gap in Cross-Modal Place Recognition**|Ofer Idan et.al.|[2611.34877](http://arxiv.org/abs/2611.34877)|null|
+|**2026-11-25**|**A Survey of Security, Privacy, and Ethics of Large Language Models in Telecom**|Joy Bose et.al.|[2611.34868](http://arxiv.org/abs/2611.34868)|null|
 |**2026-11-19**|**TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming**|Jinbin Luo et.al.|[2611.26619](http://arxiv.org/abs/2611.26619)|null|
 |**2026-11-19**|**Realized versus Population Reliability: Anytime-Valid Self-Consistency Certification under Correlated Reasoning**|Terence D. Agbeyegbe et.al.|[2611.26592](http://arxiv.org/abs/2611.26592)|null|
 |**2026-11-19**|**Probing the "Conscious" Mind: Selective Access and Global Workspace in Vision-Language Models**|Jiahao Huang et.al.|[2611.26590](http://arxiv.org/abs/2611.26590)|null|
@@ -329,12 +339,22 @@
 |**2026-06-12**|**Abstracting Cross-Domain Action Sequences into Interpretable Workflows**|Gaurav Verma et.al.|[2606.14654](http://arxiv.org/abs/2606.14654)|null|
 |**2026-06-12**|**When Good Verifiers Go Bad: Self-Improving VLMs Can Regress on New Tasks**|Jianzhe Lin et.al.|[2606.14629](http://arxiv.org/abs/2606.14629)|null|
 
-<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
 
 ## Agent
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-25**|**Attack Policy Selection can Mislead Monitor Evaluators**|Charlie Griffin et.al.|[2611.34934](http://arxiv.org/abs/2611.34934)|null|
+|**2026-11-25**|**When Every Rollout Fails: Splicing Learner-Conditioned Options into Long-Horizon Agent RL**|Haowen Hou et.al.|[2611.34777](http://arxiv.org/abs/2611.34777)|null|
+|**2026-11-25**|**AutoRSP: An AI Agent for Radar Sensing Pipeline Design**|Zhi Zheng et.al.|[2611.34754](http://arxiv.org/abs/2611.34754)|null|
+|**2026-11-25**|**REE: A Scientific Research Entrance Exam for AI Agents**|Zeqi Zhou et.al.|[2611.34646](http://arxiv.org/abs/2611.34646)|null|
+|**2026-11-25**|**Evaluating More with Less: Black-Box Test Selection for AI Agents**|Ali Asgari et.al.|[2611.34617](http://arxiv.org/abs/2611.34617)|null|
+|**2026-11-25**|**Routing and Cache Retention for Multi-Turn LLM Inference: Theory and Implementation**|Sentao Miao et.al.|[2611.34584](http://arxiv.org/abs/2611.34584)|null|
+|**2026-11-25**|**Kant-Q: A Q-Learning Algorithm for Kantian Equilibrium in Symmetric Markov Games**|Rishi Bharadwaj et.al.|[2611.34536](http://arxiv.org/abs/2611.34536)|null|
+|**2026-11-25**|**SmartLens: Turning AI Agent Changes into Learning, Review, and Risk Signals in the IDE**|Vahid Etemadi et.al.|[2611.34377](http://arxiv.org/abs/2611.34377)|null|
+|**2026-11-25**|**AI Misalignment and the Limits of Market Discipline**|Gabor Pinter et.al.|[2611.34271](http://arxiv.org/abs/2611.34271)|null|
+|**2026-11-25**|**Connecting AI Agents to Live Discrete Element Simulations via the Model Context Protocol**|Yusong Han et.al.|[2611.33926](http://arxiv.org/abs/2611.33926)|null|
 |**2026-11-19**|**PlayCraft: Designing Engaging Games from Agent Play Experience**|Weihao Cheng et.al.|[2611.26624](http://arxiv.org/abs/2611.26624)|null|
 |**2026-11-19**|**JARVIS: An Agent That Designs, Builds, and Tests Circuit Boards on Its Own**|Shibo Zhou et.al.|[2611.26503](http://arxiv.org/abs/2611.26503)|null|
 |**2026-11-19**|**ZeroVLN: Learning to Navigate without Supervised Fine-Tuning of the VLM Brain**|Zixuan Huang et.al.|[2611.26414](http://arxiv.org/abs/2611.26414)|null|
@@ -636,12 +656,13 @@
 |**2026-06-12**|**Same-Origin Policy for Agentic Browsers**|Xilong Wang et.al.|[2606.14027](http://arxiv.org/abs/2606.14027)|**[link](https://github.com/wxl-lxw/BrowserOS-SOPGuard)**|
 |**2026-06-11**|**Minim: Privacy-Aware Minimal View for Agents via Trusted Local Sanitization**|Hexuan Yu et.al.|[2606.13949](http://arxiv.org/abs/2606.13949)|null|
 
-<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
 
 ## Counting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-24**|**LGCount: Layout-Guided Diffusion for Zero-Shot Object Counting**|Adriano D'Alessandro et.al.|[2611.33344](http://arxiv.org/abs/2611.33344)|null|
 |**2026-10-28**|**CrowdCC: Jointly Benchmarking Corruption Robustness and Deployment Quantization in Crowd Counting**|S Mahmudul Hasan et.al.|[2610.36340](http://arxiv.org/abs/2610.36340)|null|
 |**2026-10-28**|**AnyGameRenderer: Entity-Consistent Generative Rendering Across Games and an Entity-Level Benchmark**|Ruicong Liu et.al.|[2610.31466](http://arxiv.org/abs/2610.31466)|null|
 |**2026-10-08**|**CrowdH-Edit: Reference-Guided Instruction-Based Synthetic Hajj Crowd Image Generation for Crowd Counting**|Amirah F. Alshammari et.al.|[2610.23945](http://arxiv.org/abs/2610.23945)|null|
@@ -666,12 +687,15 @@
 |**2026-03-25**|**Generative Adversarial Perturbations with Cross-paradigm Transferability on Localized Crowd Counting**|Alabi Mehzabin Anisha et.al.|[2603.24821](http://arxiv.org/abs/2603.24821)|null|
 |**2026-03-31**|**Granular Ball Guided Stable Latent Domain Discovery for Domain-General Crowd Counting**|Fan Chen et.al.|[2603.24106](http://arxiv.org/abs/2603.24106)|null|
 
-<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
 
 ## VTON
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-23**|**AvatarAnyone: Agentic Reconstruction of Mesh-Based Layered Avatars from YouTube Video**|Aymen Mir et.al.|[2611.30777](http://arxiv.org/abs/2611.30777)|null|
+|**2026-11-23**|**LiveMirror: Real-Time Diffusion Virtual Try-On on a Consumer GPU and Its Self-Supervised Adaptation to Indian Ethnic Wear**|Jigyansha Jeevan Rout et.al.|[2611.30461](http://arxiv.org/abs/2611.30461)|null|
+|**2026-11-23**|**ToWo-VTON: Take-Off Wear-On Virtual Try-On via Topology-aware Decoupling**|Zhenchen Wan et.al.|[2611.30203](http://arxiv.org/abs/2611.30203)|null|
 |**2026-11-19**|**Multi-View Transformer with Geometry-Guided Multi-Modal ControlNet for 3D Virtual Try-On**|Sarthak Batra et.al.|[2611.25979](http://arxiv.org/abs/2611.25979)|null|
 |**2026-11-18**|**CURVTON-205K: A Mask-Free Difficulty-Stratified Synthetic Dataset for Robust and Scalable Virtual Try-On**|Dipan Bartaula et.al.|[2611.24042](http://arxiv.org/abs/2611.24042)|null|
 |**2026-11-05**|**Synthesizing Dexterous Robot Demonstrations from Human Videos via Virtual Try-On**|Seungyong Lee et.al.|[2611.05163](http://arxiv.org/abs/2611.05163)|null|
@@ -722,12 +746,13 @@
 |**2026-05-02**|**SIFT-VTON: Geometric Correspondence Supervision on Cross-Attention for Virtual Try-On**|Kosuke Takemoto et.al.|[2605.01296](http://arxiv.org/abs/2605.01296)|null|
 |**2026-04-30**|**TripVVT: A Large-Scale Triplet Dataset and a Coarse-Mask Baseline for In-the-Wild Video Virtual Try-On**|Dingbao Shao et.al.|[2604.27958](http://arxiv.org/abs/2604.27958)|null|
 
-<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
 
 ## Multi-modal
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-23**|**Predictive Safety Filter for Multi-Modal Learned Policies**|Myeonggeun Jun et.al.|[2611.30239](http://arxiv.org/abs/2611.30239)|null|
 |**2026-11-16**|**Quantifying the added value of human forecaster discussions for tropical cyclone intensity prediction**|Ilia Azizi et.al.|[2611.21602](http://arxiv.org/abs/2611.21602)|null|
 |**2026-11-12**|**RADIANT: Redundancy-Aware Information Allocation for Universal Multi-Modal Fusion**|Shenghai Wu et.al.|[2611.16382](http://arxiv.org/abs/2611.16382)|null|
 |**2026-11-11**|**COMBS: Concealed Object Multi-modal Bayesian Search**|Taylor Bergeron et.al.|[2611.15964](http://arxiv.org/abs/2611.15964)|null|
@@ -800,7 +825,7 @@
 |**2026-05-27**|**EigeNet: Geometry-Informed Multi-Modal Learning for Few-shot Novel View RIR Prediction**|Chong Jing et.al.|[2605.28101](http://arxiv.org/abs/2605.28101)|null|
 |**2026-05-26**|**NF-TrackLLM: Joint Prediction of UAV Trajectory and Near-Field Beam for LAE XL-MIMO Systems**|Qianfan Lu et.al.|[2605.26928](http://arxiv.org/abs/2605.26928)|null|
 
-<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
